@@ -1,0 +1,21 @@
+{
+  "pluginName": "cpu显卡天梯查询",
+  "description": "可以高效查询cpu多核性能、单核性能、GPU性能，并进行对比的工具",
+  "main": "index.html",
+  "version": "0.0.1",
+  "author": "Lainbo",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "cpu",
+      "explain": "可以高效查询cpu多核性能、单核性能、GPU性能，并进行对比的工具",
+      "cmds": [
+        "cpu",
+        "gpu",
+        "处理器",
+        "显卡"
+      ]
+    }
+  ],
+  "name": "ze483dwj"
+}

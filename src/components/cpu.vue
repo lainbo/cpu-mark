@@ -1,16 +1,16 @@
 <template>
   <div
-    class="contain w-screen h-[calc(100vh-40px)] flex flex-col items-center py-32px bg-[#f2f2f2] space-y-32px overflow-x-hidden dark:bg-dark-300"
+    class="contain w-screen h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-32px overflow-x-hidden dark:bg-dark-300"
   >
-    <div class="card_wrapper" v-if="selectArr.length">
+    <div class="card_wrapper !pb-0" v-if="selectArr.length">
       <div class="flex justify-between items-center">
-        <h2 class="font-bold text-22px text_decorate">对比</h2>
+        <h2 class="font-bold text-20px text_decorate">对比</h2>
         <a-button @click="resetCompare" status="danger">清空对比</a-button>
       </div>
       <div v-for="(item, index) in selectArr" :key="index">
         <div class="">
           <div class="font-bold text-16px">{{ item.nameDetail }}</div>
-          <div class="flex items-center space-x-8px">
+          <div class="flex items-center space-x-6px">
             <a-progress
               :percent="item.percentage"
               :show-text="false"
@@ -24,33 +24,35 @@
       </div>
     </div>
 
-    <div class="card_wrapper !pb-32px">
-      <div class="flex space-x-8px items-center">
-        <h2 class="font-bold text-22px text_decorate">
-          {{ pageConfig.title }}
-        </h2>
-        <span class="inline-block" v-if="pageConfig.question">
-          <a-popover position="bottom">
-            <a-link>{{ pageConfig.question }}</a-link>
-            <template #content>
-              <p>{{ pageConfig.answer }}</p>
-            </template>
-          </a-popover>
-        </span>
+    <div class="card_wrapper !pb-16px">
+      <div class="flex items-center justify-between">
+        <div class="flex space-x-6px">
+          <h2 class="font-bold text-20px text_decorate">
+            {{ pageConfig.title }}
+          </h2>
+          <span class="inline-block" v-if="pageConfig.question">
+            <a-popover position="bottom">
+              <a-link>{{ pageConfig.question }}</a-link>
+              <template #content>
+                <p>{{ pageConfig.answer }}</p>
+              </template>
+            </a-popover>
+          </span>
+        </div>
+        <a-input
+          v-model.trim="searchText"
+          :placeholder="pageConfig.placeholder"
+          :style="{ width: '200px' }"
+          allow-clear
+        />
       </div>
-      <a-input
-        v-model.trim="searchText"
-        :placeholder="pageConfig.placeholder"
-        allow-clear
-        size="large"
-      />
 
       <div class="table_main">
         <vxe-table
           stripe
           ref="tableRef"
           show-overflow
-          :height="windowHeight - 300"
+          :height="400"
           :data="tableData"
           :row-config="{ isHover: true }"
           @checkbox-change="selectChangeEvent"
@@ -61,7 +63,7 @@
           <vxe-column field="nameDetail" title="CPU型号" />
           <vxe-column field="mark" title="性能" width="250" sortable>
             <template #default="{ row }">
-              <div class="space-x-8px">
+              <div class="space-x-6px">
                 <a-progress
                   :percent="row.percentage"
                   :style="{ width: '70%' }"
@@ -83,7 +85,6 @@ import '@/utils/setTheme.js'
 import { defineProps } from 'vue'
 
 import { cloneDeep, throttle } from 'lodash'
-const windowHeight = window.innerHeight // 视口高度
 
 const props = defineProps({
   tableData: {
@@ -140,7 +141,7 @@ watch(
 
 <style lang="scss" scoped>
 .card_wrapper {
-  @apply pb-16px pt-32px px-32px rounded-8px shadow-xl w-11/12 min-w-500px space-y-16px bg-white dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
+  @apply pb-16px pt-16px px-16px rounded-8px shadow-xl w-screen min-w-500px space-y-16px bg-white dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
 }
 .table_main {
   @media (prefers-color-scheme: dark) {
