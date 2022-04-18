@@ -39,12 +39,15 @@
             </a-popover>
           </span>
         </div>
-        <a-input
-          v-model.trim="searchText"
-          :placeholder="pageConfig.placeholder"
-          :style="{ width: '200px' }"
-          allow-clear
-        />
+        <div class="flex items-center space-x-4px">
+          <span class="text-16px select-none">搜索：</span>
+          <a-input
+            v-model.trim="searchText"
+            :placeholder="pageConfig.placeholder"
+            :style="{ width: '200px' }"
+            allow-clear
+          />
+        </div>
       </div>
 
       <div class="table_main">
