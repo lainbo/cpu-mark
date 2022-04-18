@@ -10,7 +10,9 @@
   "dependencies": {
     "@vueuse/core": "^8.2.4",
     "lodash": "^4.17.21",
-    "vue": "^3.2.31"
+    "vue": "^3.2.31",
+    "vxe-table": "^4.2.3-beta.0",
+    "xe-utils": "^3.5.4"
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.23.0",

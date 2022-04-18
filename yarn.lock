@@ -1754,6 +1754,11 @@ vue@^3.2.31:
     "@vue/server-renderer" "3.2.33"
     "@vue/shared" "3.2.33"
 
+vxe-table@^4.2.3-beta.0:
+  version "4.2.3-beta.0"
+  resolved "https://registry.npmmirror.com/vxe-table/-/vxe-table-4.2.3-beta.0.tgz#a0f856451534fda196982ba54070b8d928336ca7"
+  integrity sha512-cuW8y/yqhX2BsnVWzEz9pfx4FeYD2c7w6x+dgW+FXwak4HeARyBvmCRrxbqGxeDaX3PuJGXi7KqfXWTgSpqEEA==
+
 webpack-virtual-modules@^0.4.3:
   version "0.4.3"
   resolved "https://registry.npmmirror.com/webpack-virtual-modules/-/webpack-virtual-modules-0.4.3.tgz#cd597c6d51d5a5ecb473eea1983a58fa8a17ded9"
@@ -1787,3 +1792,8 @@ write@1.0.3:
   integrity sha512-/lg70HAjtkUgWPVZhZcm+T4hkL8Zbtp1nFNOn3lRrxnlv50SRBv7cR7RqR+GMsd3hUXy9hWBo4CHTbFTcOYwig==
   dependencies:
     mkdirp "^0.5.1"
+
+xe-utils@^3.5.4:
+  version "3.5.4"
+  resolved "https://registry.npmmirror.com/xe-utils/-/xe-utils-3.5.4.tgz#d4335633fede280c68c1c0c9a4c8f3a533cfd831"
+  integrity sha512-oH7VOgvHv34pn198dhKPVKnuEHV22Q06YpCTVnAS3JuutylmZj/rtJGvn0BxxWQ37w2LgCknoebLA4uIGXwFtw==
