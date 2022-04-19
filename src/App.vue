@@ -41,7 +41,7 @@ const pageConfig = {
     title: '显卡天梯',
     question: '',
     answer: '',
-    placeholder: '请输入显卡型号，如GTX1050',
+    placeholder: '请输入显卡型号，如1050',
   },
 }
 </script>
