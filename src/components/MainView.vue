@@ -2,6 +2,7 @@
   <div
     class="contain w-screen h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-32px overflow-x-hidden dark:bg-dark-300"
   >
+    <!-- 对比部分 -->
     <div class="card_wrapper !pb-0" v-if="selectArr.length">
       <div class="flex justify-between items-center">
         <h2 class="text_decorate">
@@ -10,25 +11,24 @@
         <a-button @click="resetCompare" status="danger">清空对比</a-button>
       </div>
       <div v-for="(item, index) in selectArr" :key="index">
-        <div class="">
-          <div class="font-bold text-16px space-x-8px">
-            <span> {{ item.nameDetail }}</span>
-            <span>{{ `(排名：${item.key})` }}</span>
-          </div>
-          <div class="flex items-center space-x-6px">
-            <a-progress
-              :percent="item.percentage"
-              :show-text="false"
-              size="large"
-              color="#165dff"
-            />
-            <span>{{ item.mark }}</span>
-          </div>
-          <a-divider style="border-bottom-style: dashed" />
+        <div class="font-bold text-16px space-x-8px text-[#333]">
+          <span> {{ item.nameDetail }}</span>
+          <span>{{ `(排名：${item.key})` }}</span>
         </div>
+        <div class="flex items-center space-x-6px">
+          <a-progress
+            :percent="item.percentage"
+            :show-text="false"
+            size="large"
+            color="#165dff"
+          />
+          <span>{{ formatNum(item.mark) }}</span>
+        </div>
+        <a-divider style="border-bottom-style: dashed" />
       </div>
     </div>
 
+    <!-- 表格部分 -->
     <div class="card_wrapper !pb-16px mt-8px">
       <div class="flex items-center justify-between">
         <div class="flex space-x-6px">
@@ -60,7 +60,7 @@
           stripe
           ref="tableRef"
           show-overflow
-          :height="400"
+          :height="420"
           :data="tableData"
           :row-config="{ isHover: true }"
           @checkbox-change="selectChangeEvent"
@@ -78,7 +78,7 @@
                   :show-text="false"
                   color="#165dff"
                 />
-                <span>{{ row.mark }}</span>
+                <span>{{ formatNum(row.mark) }}</span>
               </div>
             </template>
           </vxe-column>
@@ -90,6 +90,7 @@
 
 <script setup>
 import '@/utils/setTheme.js'
+import { formatNum } from '@/utils/formatNum.js'
 import { cloneDeep, throttle } from 'lodash'
 
 const props = defineProps({
@@ -102,7 +103,6 @@ const props = defineProps({
     default: () => {},
   },
 })
-
 const originalData = Object.freeze(cloneDeep(props.tableData)) // 原始数据
 const MaxRank = Math.max(...originalData.map(i => i.mark)) // 数据中性能最大值
 
@@ -113,7 +113,7 @@ originalData.forEach(i => {
 
 const tableData = ref(originalData) // 表格数据
 const selectArr = ref([]) // 选中的数据
-const tableRef = ref({}) // 表格ref
+const tableRef = ref() // 表格ref
 
 // 表格checkbox选中事件
 const selectChangeEvent = ({ row }) => {
@@ -131,13 +131,15 @@ const resetCompare = () => {
 
 const searchText = ref('') // 搜索文本
 
+// 文字转小写并去除所有空格
+const handleText = (str = '') => {
+  return str.toLowerCase().replaceAll(' ', '')
+}
 watch(
   searchText,
   throttle(() => {
     tableData.value = originalData.filter(item => {
-      return item.nameDetail
-        .toLowerCase()
-        .includes(searchText.value.toLowerCase())
+      return handleText(item.nameDetail).includes(handleText(searchText.value))
     })
     // 设置表格选中
     tableRef.value.setCheckboxRow(cloneDeep(selectArr.value), true)
