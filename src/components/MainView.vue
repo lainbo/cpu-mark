@@ -11,7 +11,10 @@
       </div>
       <div v-for="(item, index) in selectArr" :key="index">
         <div class="">
-          <div class="font-bold text-16px">{{ item.nameDetail }}</div>
+          <div class="font-bold text-16px space-x-8px">
+            <span> {{ item.nameDetail }}</span>
+            <span>{{ `(排名：${item.key})` }}</span>
+          </div>
           <div class="flex items-center space-x-6px">
             <a-progress
               :percent="item.percentage"
@@ -44,7 +47,7 @@
         <div class="flex items-center space-x-4px">
           <span class="text-16px select-none">搜索：</span>
           <a-input
-            v-model.trim="searchText"
+            v-model="searchText"
             :placeholder="pageConfig.placeholder"
             :style="{ width: '230px' }"
             allow-clear
@@ -63,7 +66,7 @@
           @checkbox-change="selectChangeEvent"
           :checkbox-config="{ checkStrictly: true }"
         >
-          <vxe-column type="checkbox" width="60" />
+          <vxe-column type="checkbox" title="比较" width="65" />
           <vxe-column field="key" title="排名" width="80" sortable />
           <vxe-column field="nameDetail" title="CPU型号" />
           <vxe-column field="mark" title="性能" width="250" sortable>
@@ -87,8 +90,6 @@
 
 <script setup>
 import '@/utils/setTheme.js'
-import { defineProps } from 'vue'
-
 import { cloneDeep, throttle } from 'lodash'
 
 const props = defineProps({
@@ -160,13 +161,14 @@ watch(
   &::before {
     content: '';
     display: block;
-    width: 3px;
+    width: 4px;
     height: 80%;
     position: absolute;
     left: 0;
     top: 50%;
     transform: translateY(-50%);
     background-color: #165dff;
+    border-radius: 3px;
   }
 }
 </style>
