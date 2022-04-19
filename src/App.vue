@@ -1,20 +1,23 @@
 <template>
   <div class="main_app">
     <a-tabs default-active-key="1" lazy-load>
-      <a-tab-pane key="1" title="CPU多核天梯">
-        <cpu :tableData="cpuData" :pageConfig="pageConfig.cpuM" />
+      <a-tab-pane key="1" :title="pageConfig.cpuM.title">
+        <MainView :tableData="cpuData" :pageConfig="pageConfig.cpuM" />
       </a-tab-pane>
-      <a-tab-pane key="2" title="CPU单核天梯">
-        <cpu :tableData="cpuSingleCoreData" :pageConfig="pageConfig.cpuS" />
+      <a-tab-pane key="2" :title="pageConfig.cpuS.title">
+        <MainView
+          :tableData="cpuSingleCoreData"
+          :pageConfig="pageConfig.cpuS"
+        />
       </a-tab-pane>
-      <a-tab-pane key="3" title="显卡天梯">
-        <cpu :tableData="gpuData" :pageConfig="pageConfig.gpu" />
+      <a-tab-pane key="3" :title="pageConfig.gpu.title">
+        <MainView :tableData="gpuData" :pageConfig="pageConfig.gpu" />
       </a-tab-pane>
     </a-tabs>
   </div>
 </template>
 <script setup>
-import cpu from './components/cpu.vue'
+import MainView from './components/MainView.vue'
 import { cpuData } from '@/assets/staticData/cpuData.js'
 import { cpuSingleCoreData } from '@/assets/staticData/cpuSingleCoreData.js'
 import { gpuData } from '@/assets/staticData/gpuData.js'

@@ -4,7 +4,9 @@
   >
     <div class="card_wrapper !pb-0" v-if="selectArr.length">
       <div class="flex justify-between items-center">
-        <h2 class="font-bold text-20px text_decorate">对比</h2>
+        <h2 class="text_decorate">
+          对比
+        </h2>
         <a-button @click="resetCompare" status="danger">清空对比</a-button>
       </div>
       <div v-for="(item, index) in selectArr" :key="index">
@@ -24,10 +26,10 @@
       </div>
     </div>
 
-    <div class="card_wrapper !pb-16px">
+    <div class="card_wrapper !pb-16px mt-8px">
       <div class="flex items-center justify-between">
         <div class="flex space-x-6px">
-          <h2 class="font-bold text-20px text_decorate">
+          <h2 class="text_decorate">
             {{ pageConfig.title }}
           </h2>
           <span class="inline-block" v-if="pageConfig.question">
@@ -44,7 +46,7 @@
           <a-input
             v-model.trim="searchText"
             :placeholder="pageConfig.placeholder"
-            :style="{ width: '200px' }"
+            :style="{ width: '230px' }"
             allow-clear
           />
         </div>
@@ -144,7 +146,7 @@ watch(
 
 <style lang="scss" scoped>
 .card_wrapper {
-  @apply pb-16px pt-16px px-16px rounded-8px shadow-xl w-screen min-w-500px space-y-16px bg-white dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
+  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-screen min-w-500px space-y-10px bg-white dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
 }
 .table_main {
   @media (prefers-color-scheme: dark) {
@@ -153,7 +155,7 @@ watch(
 }
 .text_decorate {
   text-indent: 0.8em;
-  position: relative;
+  @apply font-bold text-20px flex items-center leading-24px relative;
 
   &::before {
     content: '';
