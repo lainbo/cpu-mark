@@ -64,7 +64,7 @@
         >
           <vxe-column type="checkbox" title="比较" width="65" />
           <vxe-column field="key" title="排名" width="80" sortable />
-          <vxe-column field="nameDetail" title="CPU型号" />
+          <vxe-column field="nameDetail" title="型号" />
           <vxe-column field="mark" title="性能" width="250" sortable>
             <template #default="{ row }">
               <div class="space-x-6px">
