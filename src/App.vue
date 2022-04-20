@@ -19,6 +19,7 @@
 <script setup>
 import MainView from './components/MainView.vue'
 import { cpuData } from '@/assets/staticData/cpuData.js'
+// import { cpuData2 } from '@/assets/staticData/cpuData.js'
 import { cpuSingleCoreData } from '@/assets/staticData/cpuSingleCoreData.js'
 import { gpuData } from '@/assets/staticData/gpuData.js'
 

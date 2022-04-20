@@ -1,6 +1,7 @@
 <template>
   <div
-    class="contain w-screen h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-32px overflow-x-hidden dark:bg-dark-300"
+    ref="mainRef"
+    class="contain pt-0 px-0 pb-16px lg:pt-16px lg:px-32px w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all dark:bg-dark-300"
   >
     <!-- 对比部分 -->
     <div class="card_wrapper !pb-0" v-if="selectArr.length">
@@ -49,7 +50,7 @@
           <a-input
             v-model="searchText"
             :placeholder="pageConfig.placeholder"
-            :style="{ width: '230px' }"
+            :style="{ width: '220px' }"
             allow-clear
           />
         </div>
@@ -60,7 +61,7 @@
           stripe
           ref="tableRef"
           show-overflow
-          :height="420"
+          :height="innerHeight - 100"
           :data="tableData"
           :row-config="{ isHover: true }"
           @checkbox-change="selectChangeEvent"
@@ -103,6 +104,10 @@ const props = defineProps({
     default: () => {},
   },
 })
+
+const mainRef = ref() // 主体部分的 ref
+const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
+
 const originalData = Object.freeze(cloneDeep(props.tableData)) // 原始数据
 const MaxRank = Math.max(...originalData.map(i => i.mark)) // 数据中性能最大值
 
@@ -149,7 +154,7 @@ watch(
 
 <style lang="scss" scoped>
 .card_wrapper {
-  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-screen min-w-500px space-y-10px bg-white dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
+  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white lg:rounded-8px dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
 }
 .table_main {
   @media (prefers-color-scheme: dark) {

@@ -18990,3 +18990,21 @@ export const cpuData = [
     key: 3798,
   },
 ]
+
+export const cpuData2 = [
+  {
+    nameDetail: 'AMD Ryzen Threadripper PRO 5995WX',
+    mark: 108822,
+    key: 1,
+  },
+  {
+    nameDetail: 'AMD EPYC 7763',
+    mark: 88338,
+    key: 2,
+  },
+  {
+    nameDetail: 'AMD EPYC 7J13',
+    mark: 86006,
+    key: 3,
+  },
+]
