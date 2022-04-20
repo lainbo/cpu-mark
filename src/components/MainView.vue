@@ -5,10 +5,8 @@
   >
     <!-- 对比部分 -->
     <div v-if="selectArr.length" class="card_wrapper !pb-0">
-      <div class="flex  justify-between items-center">
-        <h2 class="text_decorate">
-          对比
-        </h2>
+      <div class="flex justify-between items-center">
+        <h2 class="text_decorate">对比</h2>
         <a-button status="danger" @click="resetCompare">清空对比</a-button>
       </div>
       <div v-for="(item, index) in selectArr" :key="index">
@@ -109,10 +107,10 @@ const mainRef = ref() // 主体部分的 ref
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
 const originalData = Object.freeze(cloneDeep(props.tableData)) // 原始数据
-const MaxRank = Math.max(...originalData.map(i => i.mark)) // 数据中性能最大值
+const MaxRank = Math.max(...originalData.map((i) => i.mark)) // 数据中性能最大值
 
 // 数据处理：给每一条数据添加一个百分比属性
-originalData.forEach(i => {
+originalData.forEach((i) => {
   i.percentage = parseFloat((i.mark / MaxRank).toFixed(3))
 })
 
@@ -123,7 +121,7 @@ const tableRef = ref() // 表格ref
 // 表格checkbox选中事件
 const selectChangeEvent = ({ row }) => {
   const arr = cloneDeep(selectArr.value)
-  const index = arr.findIndex(i => i.key === row.key)
+  const index = arr.findIndex((i) => i.key === row.key)
   index >= 0 ? arr.splice(index, 1) : arr.push(row)
   selectArr.value = arr.sort((a, b) => b.mark - a.mark)
 }
@@ -143,7 +141,7 @@ const handleText = (str = '') => {
 watch(
   searchText,
   throttle(() => {
-    tableData.value = originalData.filter(item => {
+    tableData.value = originalData.filter((item) => {
       return handleText(item.nameDetail).includes(handleText(searchText.value))
     })
     // 设置表格选中
