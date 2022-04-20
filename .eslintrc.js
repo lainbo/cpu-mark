@@ -7,13 +7,13 @@ module.exports = {
   extends: [
     'plugin:vue/base',
     'plugin:vue/vue3-essential',
-    "plugin:vue/vue3-recommended",
+    'plugin:vue/vue3-recommended',
     'eslint:recommended',
     '@vue/prettier',
     './.eslintrc-auto-import.json'
   ],
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: 'babel-eslint'
   },
   rules: {
     'vue/script-setup-uses-vars': 'error',
@@ -24,8 +24,9 @@ module.exports = {
       {
         singleQuote: true,
         semi: false,
-        trailingComma: 'es5',
-      },
-    ],
-  },
+        trailingComma: 'none',
+        arrowParens: 'avoid'
+      }
+    ]
+  }
 }

@@ -1,8 +1,5 @@
 <template>
-  <div
-    ref="mainRef"
-    class="contain pt-0 px-0 pb-16px lg:pt-16px lg:px-32px w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all dark:bg-dark-300"
-  >
+  <div ref="mainRef" class="content_wrapper">
     <!-- 对比部分 -->
     <div v-if="selectArr.length" class="card_wrapper !pb-0">
       <div class="flex justify-between items-center">
@@ -95,22 +92,22 @@ import { cloneDeep, throttle } from 'lodash'
 const props = defineProps({
   tableData: {
     type: Array,
-    default: () => [],
+    default: () => []
   },
   pageConfig: {
     type: Object,
-    default: () => {},
-  },
+    default: () => {}
+  }
 })
 
 const mainRef = ref() // 主体部分的 ref
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
 const originalData = Object.freeze(cloneDeep(props.tableData)) // 原始数据
-const MaxRank = Math.max(...originalData.map((i) => i.mark)) // 数据中性能最大值
+const MaxRank = Math.max(...originalData.map(i => i.mark)) // 数据中性能最大值
 
 // 数据处理：给每一条数据添加一个百分比属性
-originalData.forEach((i) => {
+originalData.forEach(i => {
   i.percentage = parseFloat((i.mark / MaxRank).toFixed(3))
 })
 
@@ -121,7 +118,7 @@ const tableRef = ref() // 表格ref
 // 表格checkbox选中事件
 const selectChangeEvent = ({ row }) => {
   const arr = cloneDeep(selectArr.value)
-  const index = arr.findIndex((i) => i.key === row.key)
+  const index = arr.findIndex(i => i.key === row.key)
   index >= 0 ? arr.splice(index, 1) : arr.push(row)
   selectArr.value = arr.sort((a, b) => b.mark - a.mark)
 }
@@ -141,7 +138,7 @@ const handleText = (str = '') => {
 watch(
   searchText,
   throttle(() => {
-    tableData.value = originalData.filter((item) => {
+    tableData.value = originalData.filter(item => {
       return handleText(item.nameDetail).includes(handleText(searchText.value))
     })
     // 设置表格选中
@@ -151,6 +148,9 @@ watch(
 </script>
 
 <style lang="scss" scoped>
+.content_wrapper {
+  @apply pt-0 px-0 pb-16px lg:pt-16px lg:px-32px w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all dark:bg-dark-300;
+}
 .card_wrapper {
   @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white lg: rounded-8px dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
 }

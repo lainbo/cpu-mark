@@ -30,20 +30,20 @@ const pageConfig = {
     title: 'CPU多核天梯',
     question: '单核性能和多核性能的区别？',
     answer: cpuAnswer,
-    placeholder: '请输入CPU型号，如5800X',
+    placeholder: '请输入CPU型号，如5800X'
   },
   cpuS: {
     title: 'CPU单核天梯',
     question: '单核性能和多核性能的区别？',
     answer: cpuAnswer,
-    placeholder: '请输入CPU型号，如5800X',
+    placeholder: '请输入CPU型号，如5800X'
   },
   gpu: {
     title: '显卡天梯',
     question: '',
     answer: '',
-    placeholder: '请输入显卡型号，如1050',
-  },
+    placeholder: '请输入显卡型号，如1050'
+  }
 }
 </script>
 
