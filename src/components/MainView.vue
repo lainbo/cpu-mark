@@ -4,12 +4,12 @@
     class="contain pt-0 px-0 pb-16px lg:pt-16px lg:px-32px w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all dark:bg-dark-300"
   >
     <!-- 对比部分 -->
-    <div class="card_wrapper !pb-0" v-if="selectArr.length">
-      <div class="flex justify-between items-center">
+    <div v-if="selectArr.length" class="card_wrapper !pb-0">
+      <div class="flex  justify-between items-center">
         <h2 class="text_decorate">
           对比
         </h2>
-        <a-button @click="resetCompare" status="danger">清空对比</a-button>
+        <a-button status="danger" @click="resetCompare">清空对比</a-button>
       </div>
       <div v-for="(item, index) in selectArr" :key="index">
         <div class="font-bold text-16px space-x-8px text-[#333]">
@@ -36,7 +36,7 @@
           <h2 class="text_decorate">
             {{ pageConfig.title }}
           </h2>
-          <span class="inline-block" v-if="pageConfig.question">
+          <span v-if="pageConfig.question" class="inline-block">
             <a-popover position="bottom">
               <a-link>{{ pageConfig.question }}</a-link>
               <template #content>
@@ -58,14 +58,14 @@
 
       <div class="table_main">
         <vxe-table
-          stripe
           ref="tableRef"
+          stripe
           show-overflow
           :height="innerHeight - 100"
           :data="tableData"
           :row-config="{ isHover: true }"
-          @checkbox-change="selectChangeEvent"
           :checkbox-config="{ checkStrictly: true }"
+          @checkbox-change="selectChangeEvent"
         >
           <vxe-column type="checkbox" title="比较" width="65" />
           <vxe-column field="key" title="排名" width="80" sortable />
@@ -154,13 +154,15 @@ watch(
 
 <style lang="scss" scoped>
 .card_wrapper {
-  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white lg:rounded-8px dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
+  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white lg: rounded-8px dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
 }
+
 .table_main {
   @media (prefers-color-scheme: dark) {
     filter: invert(1) hue-rotate(0.5turn) !important;
   }
 }
+
 .text_decorate {
   text-indent: 0.8em;
   @apply font-bold text-20px flex items-center leading-24px relative;

@@ -7,6 +7,7 @@ module.exports = {
   extends: [
     'plugin:vue/base',
     'plugin:vue/vue3-essential',
+    "plugin:vue/vue3-recommended",
     'eslint:recommended',
     '@vue/prettier',
     './.eslintrc-auto-import.json'

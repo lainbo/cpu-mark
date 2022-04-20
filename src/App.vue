@@ -2,16 +2,16 @@
   <div class="main_app">
     <a-tabs default-active-key="1" lazy-load>
       <a-tab-pane key="1" :title="pageConfig.cpuM.title">
-        <MainView :tableData="cpuData" :pageConfig="pageConfig.cpuM" />
+        <MainView :table-data="cpuData" :page-config="pageConfig.cpuM" />
       </a-tab-pane>
       <a-tab-pane key="2" :title="pageConfig.cpuS.title">
         <MainView
-          :tableData="cpuSingleCoreData"
-          :pageConfig="pageConfig.cpuS"
+          :table-data="cpuSingleCoreData"
+          :page-config="pageConfig.cpuS"
         />
       </a-tab-pane>
       <a-tab-pane key="3" :title="pageConfig.gpu.title">
-        <MainView :tableData="gpuData" :pageConfig="pageConfig.gpu" />
+        <MainView :table-data="gpuData" :page-config="pageConfig.gpu" />
       </a-tab-pane>
     </a-tabs>
   </div>
