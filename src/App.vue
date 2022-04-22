@@ -28,13 +28,13 @@ const cpuAnswer =
 const pageConfig = {
   cpuM: {
     title: 'CPU多核天梯',
-    question: '单核性能和多核性能的区别？',
+    question: '单核、多核性能的区别？',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如5800X'
   },
   cpuS: {
     title: 'CPU单核天梯',
-    question: '单核性能和多核性能的区别？',
+    question: '单核、多核性能的区别？',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如5800X'
   },

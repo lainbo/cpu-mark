@@ -1,31 +1,36 @@
 <template>
   <div ref="mainRef" class="content_wrapper">
     <!-- 对比部分 -->
-    <div v-if="selectArr.length" class="card_wrapper !pb-0">
+    <div
+      v-if="selectArr.length"
+      class="card_wrapper lg:(flex flex-col pb-16px)"
+    >
       <div class="flex justify-between items-center">
         <h2 class="text_decorate">对比</h2>
         <a-button status="danger" @click="resetCompare">清空对比</a-button>
       </div>
-      <div v-for="(item, index) in selectArr" :key="index">
-        <div class="font-bold text-16px space-x-8px text-[#333]">
-          <span> {{ item.nameDetail }}</span>
-          <span>{{ `(排名：${item.key})` }}</span>
+      <div class="lg:(overflow-y-auto flex-1)">
+        <div v-for="(item, index) in selectArr" :key="index">
+          <div class="font-bold text-16px space-x-8px text-[#333]">
+            <span> {{ item.nameDetail }}</span>
+            <span>{{ `(排名：${item.key})` }}</span>
+          </div>
+          <div class="flex items-center space-x-6px">
+            <a-progress
+              :percent="item.percentage"
+              :show-text="false"
+              size="large"
+              color="#165dff"
+            />
+            <span>{{ formatNum(item.mark) }}</span>
+          </div>
+          <a-divider style="border-bottom-style: dashed" />
         </div>
-        <div class="flex items-center space-x-6px">
-          <a-progress
-            :percent="item.percentage"
-            :show-text="false"
-            size="large"
-            color="#165dff"
-          />
-          <span>{{ formatNum(item.mark) }}</span>
-        </div>
-        <a-divider style="border-bottom-style: dashed" />
       </div>
     </div>
 
     <!-- 表格部分 -->
-    <div class="card_wrapper !pb-16px mt-8px">
+    <div class="card_wrapper !pb-16px">
       <div class="flex items-center justify-between">
         <div class="flex space-x-6px">
           <h2 class="text_decorate">
@@ -41,7 +46,7 @@
           </span>
         </div>
         <div class="flex items-center space-x-4px">
-          <span class="text-16px select-none">搜索：</span>
+          <span class="text-16px select-none lg:hidden">搜索：</span>
           <a-input
             v-model="searchText"
             :placeholder="pageConfig.placeholder"
@@ -149,10 +154,11 @@ watch(
 
 <style lang="scss" scoped>
 .content_wrapper {
-  @apply pt-0 px-0 pb-16px lg:pt-16px lg:px-32px w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all dark:bg-dark-300;
+  @apply pt-0 px-0 pb-16px  w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all lg:(pt-16px px-32px flex-row items-stretch space-y-0 space-x-16px) dark:bg-dark-300;
 }
 .card_wrapper {
-  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white lg: rounded-8px dark:shadow-black dark:shadow-lg dark:bg-dark-300 dark:text-white;
+  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white  dark:(shadow-black shadow-lg bg-dark-300 text-white) lg: (rounded-8px);
+  transition: all 0.3s ease;
 }
 
 .table_main {
