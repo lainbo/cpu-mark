@@ -10,7 +10,7 @@
         <a-button status="danger" @click="resetCompare">清空对比</a-button>
       </div>
       <div class="lg:(overflow-y-auto flex-1)">
-        <div v-for="(item, index) in selectArr" :key="index">
+        <div v-for="item in selectArr" :key="item.key">
           <div
             class="font-bold text-16px space-x-8px text-[#333] dark:text-light-900"
           >
@@ -94,7 +94,8 @@
 <script setup>
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
-import { cloneDeep, throttle } from 'lodash'
+import { sort } from '@/utils/timSort.js'
+import { cloneDeep, throttle } from 'lodash-es'
 
 const props = defineProps({
   tableData: {
@@ -110,13 +111,19 @@ const props = defineProps({
 const mainRef = ref() // 主体部分的 ref
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
-const originalData = Object.freeze(cloneDeep(props.tableData)) // 原始数据
-const MaxRank = Math.max(...originalData.map(i => i.mark)) // 数据中性能最大值
-
-// 数据处理：给每一条数据添加一个百分比属性
-originalData.forEach(i => {
+// 数据处理
+const tempArr = cloneDeep(props.tableData)
+const MaxRank = Math.max(...tempArr.map(i => i.mark)) // 数据中性能最大值
+sort(tempArr, (a, b) => b.mark - a.mark) // 根据性能降序排序
+// 添加排名、百分比字段
+tempArr.forEach((i, idx) => {
+  i.key = idx + 1
   i.percentage = parseFloat((i.mark / MaxRank).toFixed(3))
 })
+
+const originalData = Object.freeze(cloneDeep(tempArr)) // 原始数据
+
+// 数据处理：给每一条数据添加一个百分比属性
 
 const tableData = ref(originalData) // 表格数据
 const selectArr = ref([]) // 选中的数据
@@ -127,7 +134,8 @@ const selectChangeEvent = ({ row }) => {
   const arr = cloneDeep(selectArr.value)
   const index = arr.findIndex(i => i.key === row.key)
   index >= 0 ? arr.splice(index, 1) : arr.push(row)
-  selectArr.value = arr.sort((a, b) => b.mark - a.mark)
+  sort(arr, (a, b) => b.mark - a.mark)
+  selectArr.value = arr
 }
 
 // 清空比较
