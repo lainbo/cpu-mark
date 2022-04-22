@@ -11,7 +11,9 @@
       </div>
       <div class="lg:(overflow-y-auto flex-1)">
         <div v-for="(item, index) in selectArr" :key="index">
-          <div class="font-bold text-16px space-x-8px text-[#333]">
+          <div
+            class="font-bold text-16px space-x-8px text-[#333] dark:text-light-900"
+          >
             <span> {{ item.nameDetail }}</span>
             <span>{{ `(排名：${item.key})` }}</span>
           </div>
@@ -154,15 +156,15 @@ watch(
 
 <style lang="scss" scoped>
 .content_wrapper {
-  @apply pt-0 px-0 pb-16px  w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all lg:(pt-16px px-32px flex-row items-stretch space-y-0 space-x-16px) dark:bg-dark-300;
+  @apply pt-0 px-0 pb-16px  w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all lg:(pt-16px px-32px flex-row items-stretch space-y-0 gap-16px flex-row-reverse) dark:bg-dark-300;
 }
 .card_wrapper {
   @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white  dark:(shadow-black shadow-lg bg-dark-300 text-white) lg: (rounded-8px);
   transition: all 0.3s ease;
 }
 
-.table_main {
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  .table_main {
     filter: invert(1) hue-rotate(0.5turn) !important;
   }
 }

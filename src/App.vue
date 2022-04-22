@@ -49,6 +49,7 @@ const pageConfig = {
 
 <style lang="scss" scoped>
 .main_app {
+  background-color: var(--color-bg-1);
   ::v-deep(.arco-tabs-content) {
     padding-top: 0;
   }
