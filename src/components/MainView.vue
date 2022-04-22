@@ -66,7 +66,12 @@
           :height="innerHeight - 100"
           :data="tableData"
           :row-config="{ isHover: true }"
-          :checkbox-config="{ checkStrictly: true }"
+          :checkbox-config="{ showHeader: false }"
+          :tooltip-config="{
+            theme: isDark ? 'light' : 'dark',
+            enterDelay: 0,
+            enterable: true
+          }"
           @checkbox-change="selectChangeEvent"
         >
           <vxe-column type="checkbox" title="比较" width="65" />
@@ -107,7 +112,7 @@ const props = defineProps({
     default: () => {}
   }
 })
-
+const isDark = useDark() // 响应式：是否为暗色
 const mainRef = ref() // 主体部分的 ref
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
