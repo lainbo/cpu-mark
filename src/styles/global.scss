@@ -10,3 +10,12 @@
 .arco-divider-horizontal {
   margin: 16px 0;
 }
+
+.vxe-cell--checkbox:not(.is-disabled):hover .vxe-checkbox--icon::before {
+  border-color: #165dff !important;
+}
+
+.vxe-table--render-default .is--checked.vxe-cell--checkbox .vxe-checkbox--icon:before {
+  border-color: #165dff !important;
+  background-color: #165dff !important;
+}

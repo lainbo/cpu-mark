@@ -6,6 +6,10 @@ import WindiCSS from 'vite-plugin-windicss'
 import vue from '@vitejs/plugin-vue'
 import Components from 'unplugin-vue-components/vite'
 import AutoImport from 'unplugin-auto-import/vite'
+import {
+  createStyleImportPlugin,
+  VxeTableResolve
+} from 'vite-plugin-style-import'
 
 export default defineConfig({
   base: './',
@@ -22,6 +26,9 @@ export default defineConfig({
     }),
     Components({
       resolvers: [ArcoResolver()]
+    }),
+    createStyleImportPlugin({
+      resolves: [VxeTableResolve()]
     }),
     chunkSplitPlugin({
       strategy: 'default',

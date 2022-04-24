@@ -46,14 +46,14 @@
           <h2 class="text_decorate">
             {{ pageConfig.title }}
           </h2>
-          <span v-if="pageConfig.question" class="inline-block">
-            <a-popover position="bottom">
-              <a-link>{{ pageConfig.question }}</a-link>
+          <div v-if="pageConfig.question" class="truncate flex items-center">
+            <a-popover position="bottom" :title="pageConfig.question">
+              <a-link class="truncate">{{ pageConfig.question }}</a-link>
               <template #content>
                 <p>{{ pageConfig.answer }}</p>
               </template>
             </a-popover>
-          </span>
+          </div>
         </div>
         <div class="flex items-center space-x-4px">
           <span class="text-16px select-none lg:hidden">搜索：</span>
@@ -72,7 +72,7 @@
           round
           stripe
           show-overflow
-          :height="innerHeight - 100"
+          :height="innerHeight - 80"
           :data="tableData"
           :row-config="{ isHover: true }"
           :checkbox-config="{ showHeader: false }"
@@ -204,13 +204,13 @@ watch(
 
 .text_decorate {
   text-indent: 0.8em;
-  @apply font-bold text-20px flex items-center leading-24px relative;
+  @apply font-bold text-20px flex items-center leading-24px relative flex-shrink-0;
 
   &::before {
     content: '';
     display: block;
     width: 4px;
-    height: 80%;
+    height: 20px;
     position: absolute;
     left: 0;
     top: 50%;
