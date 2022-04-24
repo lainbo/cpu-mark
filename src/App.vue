@@ -1,6 +1,28 @@
 <template>
   <div class="main_app">
     <a-tabs default-active-key="1" lazy-load>
+      <template #extra>
+        <a-popover title="数据更新时间：2022年4月24日">
+          <div class="pr-16px flex items-center cursor-pointer">
+            <icon-clock-circle :size="18" />
+          </div>
+          <template #content>
+            <h2 class="text-blue-700">CPU多核新增：</h2>
+            <p>Intel Core i9-12900KS</p>
+            <p>Intel Core i5-12500T</p>
+            <p>Intel Core i3-12100T</p>
+            <p>AMD Ryzen 7 5800X3D</p>
+            <p>AMD Ryzen 7 5700X</p>
+            <p>等20余个型号</p>
+            <br />
+            <h2 class="text-blue-700">CPU单核新增：</h2>
+            <h2>575条数据</h2>
+            <br />
+            <p class="text-blue-700">显卡新增：</p>
+            <p>837条数据</p>
+          </template>
+        </a-popover>
+      </template>
       <a-tab-pane key="1" :title="pageConfig.cpuM.title">
         <MainView :table-data="cpuData" :page-config="pageConfig.cpuM" />
       </a-tab-pane>
@@ -18,8 +40,8 @@
 </template>
 <script setup>
 import MainView from './components/MainView.vue'
+import { IconClockCircle } from '@arco-design/web-vue/es/icon'
 import { cpuData } from '@/assets/staticData/cpuData.js'
-// import { cpuData2 } from '@/assets/staticData/cpuData.js'
 import { cpuSingleCoreData } from '@/assets/staticData/cpuSingleCoreData.js'
 import { gpuData } from '@/assets/staticData/gpuData.js'
 
