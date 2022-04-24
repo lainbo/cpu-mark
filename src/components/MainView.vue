@@ -2,7 +2,7 @@
   <div ref="mainRef" class="content_wrapper">
     <!-- 对比部分 -->
     <div
-      v-if="selectArr.length"
+      v-if="calcComparedArr.length"
       class="card_wrapper lg:(flex flex-col pb-16px)"
     >
       <div class="flex justify-between items-center">
@@ -10,12 +10,20 @@
         <a-button status="danger" @click="resetCompare">清空对比</a-button>
       </div>
       <div class="lg:(overflow-y-auto flex-1)">
-        <div v-for="item in selectArr" :key="item.key">
+        <div v-for="item in calcComparedArr" :key="item.key">
           <div
-            class="font-bold text-16px space-x-8px text-[#333] dark:text-light-900"
+            class="font-bold flex justify-between text-16px space-x-8px text-[#333] dark:text-light-900"
           >
-            <span> {{ item.nameDetail }}</span>
-            <span>{{ `(排名：${item.key})` }}</span>
+            <div class="space-x-8px flex">
+              <div>{{ item.nameDetail }}</div>
+              <div>{{ `(排名：${item.key})` }}</div>
+            </div>
+            <div
+              class="cursor-pointer w-16px h-16px flex items-center justify-center rounded-full transition-all hover:(text-[#f00] bg-red-100)"
+              @click="removeCompareItem(item.key)"
+            >
+              <icon-close size="12" />
+            </div>
           </div>
           <div class="flex items-center space-x-6px">
             <a-progress
@@ -61,6 +69,7 @@
       <div class="table_main">
         <vxe-table
           ref="tableRef"
+          round
           stripe
           show-overflow
           :height="innerHeight - 100"
@@ -100,6 +109,7 @@
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
 import { sort } from '@/utils/timSort.js'
+import { IconClose } from '@arco-design/web-vue/es/icon'
 import { cloneDeep, throttle } from 'lodash-es'
 
 const props = defineProps({
@@ -128,20 +138,30 @@ tempArr.forEach((i, idx) => {
 
 const originalData = Object.freeze(cloneDeep(tempArr)) // 原始数据
 
-// 数据处理：给每一条数据添加一个百分比属性
-
 const tableData = ref(originalData) // 表格数据
 const selectArr = ref([]) // 选中的数据
 const tableRef = ref() // 表格ref
 
 // 表格checkbox选中事件
 const selectChangeEvent = ({ row }) => {
-  const arr = cloneDeep(selectArr.value)
-  const index = arr.findIndex(i => i.key === row.key)
-  index >= 0 ? arr.splice(index, 1) : arr.push(row)
-  sort(arr, (a, b) => b.mark - a.mark)
-  selectArr.value = arr
+  const index = selectArr.value.findIndex(i => i.key === row.key)
+  index >= 0 ? selectArr.value.splice(index, 1) : selectArr.value.push(row)
 }
+
+// 删除右侧比较项
+const removeCompareItem = key => {
+  const index = selectArr.value.findIndex(i => i.key === key)
+  selectArr.value.splice(index, 1)
+  tableRef.value.clearCheckboxRow()
+  tableRef.value.setCheckboxRow(selectArr.value, true)
+}
+
+// 返回排序后的对比数据
+const calcComparedArr = computed(() => {
+  const arr = cloneDeep(selectArr.value)
+  sort(arr, (a, b) => b.mark - a.mark)
+  return arr
+})
 
 // 清空比较
 const resetCompare = () => {
