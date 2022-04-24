@@ -5,7 +5,10 @@
   padding: 8px 0 !important;
 }
 .vxe-table--render-default {
-  font-family: 'HarmonyOS Sans SC', -apple-system, 'Microsoft YaHei', BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol' !important;
+  font-family: 'HarmonyOS Sans SC', -apple-system, 'Microsoft YaHei',
+    BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
+    'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol' !important;
 }
 .arco-divider-horizontal {
   margin: 16px 0;
@@ -15,7 +18,9 @@
   border-color: #165dff !important;
 }
 
-.vxe-table--render-default .is--checked.vxe-cell--checkbox .vxe-checkbox--icon:before {
+.vxe-table--render-default
+  .is--checked.vxe-cell--checkbox
+  .vxe-checkbox--icon:before {
   border-color: #165dff !important;
   background-color: #165dff !important;
 }

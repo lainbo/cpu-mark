@@ -12,9 +12,6 @@ module.exports = {
     '@vue/prettier',
     './.eslintrc-auto-import.json'
   ],
-  parserOptions: {
-    parser: 'babel-eslint'
-  },
   rules: {
     'vue/script-setup-uses-vars': 'error',
     'vue/multi-word-component-names': 'off',
