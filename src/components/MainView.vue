@@ -108,7 +108,7 @@
 <script setup>
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
-import { sort } from '@/utils/timSort.js'
+import { timSort } from '@/utils/timSort.js'
 import { IconClose } from '@arco-design/web-vue/es/icon'
 import { cloneDeep, throttle } from 'lodash-es'
 
@@ -129,7 +129,7 @@ const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分
 // 数据处理
 const tempArr = cloneDeep(props.tableData)
 const MaxRank = Math.max(...tempArr.map(i => i.mark)) // 数据中性能最大值
-sort(tempArr, (a, b) => b.mark - a.mark) // 根据性能降序排序
+timSort(tempArr, (a, b) => b.mark - a.mark) // 根据性能降序排序
 // 添加排名、百分比字段
 tempArr.forEach((i, idx) => {
   i.key = idx + 1
@@ -159,7 +159,7 @@ const removeCompareItem = key => {
 // 返回排序后的对比数据
 const calcComparedArr = computed(() => {
   const arr = cloneDeep(selectArr.value)
-  sort(arr, (a, b) => b.mark - a.mark)
+  timSort(arr, (a, b) => b.mark - a.mark)
   return arr
 })
 
