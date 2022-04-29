@@ -2,33 +2,31 @@
   <div class="main_app">
     <a-tabs default-active-key="1" lazy-load>
       <template #extra>
-        <a-popover
-          :title="`数据更新时间：${dayjs()
-            .startOf('week')
-            .format('YYYY年MM月DD日')}`"
-          position="br"
-        >
+        <a-popover :title="`数据更新时间：2022年4月29日`" position="br">
           <div class="pr-16px flex items-center cursor-pointer">
             <icon-clock-circle :size="18" />
           </div>
           <template #content>
-            <a-divider orientation="center">近期新增数据</a-divider>
+            <a-divider orientation="center">较上次新增数据</a-divider>
             <section class="space-y-10px">
               <div>
-                <h2 class="text-blue-700">CPU多核：</h2>
-                <h2>新增4个型号</h2>
+                <h2 class="text-blue-700">CPU多核:</h2>
+                <h2>新增4个型号 (共计:{{ cpuData.length }})</h2>
               </div>
               <div>
-                <h2 class="text-blue-700">CPU单核：</h2>
-                <h2>新增4个型号</h2>
+                <h2 class="text-blue-700">CPU单核:</h2>
+                <h2>新增4个型号 (共计:{{ cpuSingleCoreData.length }})</h2>
               </div>
               <div>
-                <p class="text-blue-700">显卡：</p>
-                <p>新增1个型号</p>
+                <p class="text-blue-700">显卡:</p>
+                <p>新增1个型号 (共计:{{ cpuSingleCoreData.length }})</p>
               </div>
               <div>
-                <p class="text-blue-700">硬盘：</p>
-                <p>新增8个型号</p>
+                <p class="text-blue-700">硬盘:</p>
+                <p>新增8个型号 (共计:{{ hardDriveData.length }})</p>
+              </div>
+              <div class="text-12px text-gray-400">
+                如果型号有缺失，请通过评论及时反馈哦~
               </div>
             </section>
           </template>
@@ -53,7 +51,6 @@
   </div>
 </template>
 <script setup>
-import dayjs from 'dayjs'
 import MainView from './components/MainView.vue'
 import { IconClockCircle } from '@arco-design/web-vue/es/icon'
 import { cpuData } from '@/assets/staticData/cpuData.js'
@@ -85,7 +82,7 @@ const pageConfig = {
     title: '硬盘天梯',
     question: '如何知道硬盘具体型号？',
     answer:
-      '硬盘的性能和容量也是相关的，固态硬盘中，一般1T、2T的性能大于500G，大于250G，所以需要知道具体容量对应的型号才能得到准确的信息。机械硬盘容量与性能关系更加明显，某些情况下可能是完全两个不同硬盘的感觉，如：查询“希捷酷鱼 1TB”的性能数据，建议到京东的对应商品对应规格的页面，商品图文详情的上方，“规格与包装”里面会有这款硬盘的具体型号，得到具体型号“ST1000DM010”，同型号的2TB版本“ST2000DM005”，是一个“叠瓦式”硬盘，两者性能差距较大',
+      '硬盘的性能和容量也是相关的，固态硬盘中，一般1T、2T的性能大于500G，大于250G，所以需要知道具体容量对应的型号才能得到准确的信息。机械硬盘容量与性能关系更加明显，某些情况下可能是完全两个不同硬盘的感觉，如：查询“希捷酷鱼 1TB”的性能数据，建议到京东的对应商品的页面，商品图文详情的上方，“规格与包装”里面会有这款硬盘的具体型号，得到具体型号“ST1000DM010”，同型号的2TB版本“ST2000DM005”，是一个“叠瓦式”硬盘，两者性能差距较大',
     placeholder: '请输入硬盘型号，如980Pro'
   }
 }
