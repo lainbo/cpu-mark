@@ -143,13 +143,13 @@ const selectArr = ref([]) // 选中的数据
 const tableRef = ref() // 表格ref
 
 // 表格checkbox选中事件
-const selectChangeEvent = ({ row }) => {
+function selectChangeEvent({ row }) {
   const index = selectArr.value.findIndex(i => i.key === row.key)
   index >= 0 ? selectArr.value.splice(index, 1) : selectArr.value.push(row)
 }
 
 // 删除右侧比较项
-const removeCompareItem = key => {
+function removeCompareItem(key) {
   const index = selectArr.value.findIndex(i => i.key === key)
   selectArr.value.splice(index, 1)
   tableRef.value.clearCheckboxRow()
@@ -164,7 +164,7 @@ const calcComparedArr = computed(() => {
 })
 
 // 清空比较
-const resetCompare = () => {
+function resetCompare() {
   tableRef.value.clearCheckboxRow()
   selectArr.value = []
 }
@@ -172,7 +172,7 @@ const resetCompare = () => {
 const searchText = ref('') // 搜索文本
 
 // 文字转小写并去除所有空格
-const handleText = (str = '') => {
+function handleText(str = '') {
   return str.toLowerCase().replaceAll(' ', '')
 }
 watch(

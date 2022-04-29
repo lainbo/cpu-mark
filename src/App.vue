@@ -16,24 +16,19 @@
             <section class="space-y-10px">
               <div>
                 <h2 class="text-blue-700">CPU多核：</h2>
-                <p>Intel Core i9-12900KS</p>
-                <p>Intel Core i5-12500T</p>
-                <p>Intel Core i3-12100T</p>
-                <p>AMD Ryzen 7 5800X3D</p>
-                <p>AMD Ryzen 7 5700X</p>
-                <p>等20余个型号</p>
+                <h2>新增4个型号</h2>
               </div>
               <div>
                 <h2 class="text-blue-700">CPU单核：</h2>
-                <h2>新增575个型号</h2>
+                <h2>新增4个型号</h2>
               </div>
               <div>
                 <p class="text-blue-700">显卡：</p>
-                <p>新增837个型号</p>
+                <p>新增1个型号</p>
               </div>
               <div>
                 <p class="text-blue-700">硬盘：</p>
-                <p>新增8903个型号</p>
+                <p>新增8个型号</p>
               </div>
             </section>
           </template>
