@@ -12,17 +12,17 @@
       <div class="lg:(overflow-y-auto flex-1)">
         <div v-for="item in calcComparedArr" :key="item.key">
           <div
-            class="font-bold flex justify-between text-16px space-x-8px text-[#333] dark:text-light-900"
+            class="font-bold flex justify-between text-16px space-x-12px text-[#333] dark:text-light-900"
           >
-            <div class="space-x-8px flex">
-              <div>{{ item.nameDetail }}</div>
-              <div>{{ `(排名：${item.key})` }}</div>
+            <div class="truncate flex-1">
+              {{ item.nameDetail }}
+              {{ `(排名：${item.key})` }}
             </div>
             <div
               class="cursor-pointer w-16px h-16px flex items-center justify-center rounded-full transition-all hover:(text-[#f00] bg-red-100)"
               @click="removeCompareItem(item.key)"
             >
-              <icon-close size="12" />
+              <icon-close size="12" :stroke-width="6" stroke-linecap="square" />
             </div>
           </div>
           <div class="flex items-center space-x-6px">
@@ -177,7 +177,7 @@ function handleText(str = '') {
 }
 watch(
   searchText,
-  throttle(() => {
+  throttle(function () {
     tableData.value = originalData.filter(item => {
       return handleText(item.nameDetail).includes(handleText(searchText.value))
     })
