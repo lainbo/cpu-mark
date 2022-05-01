@@ -13,6 +13,9 @@ import {
 
 export default defineConfig({
   base: './',
+  define: {
+    __VUE_OPTIONS_API__: false
+  },
   plugins: [
     vue(),
     WindiCSS(),
