@@ -56,6 +56,10 @@ export const cpuData = [
     mark: 68405
   },
   {
+    nameDetail: 'AMD EPYC 7642',
+    mark: 67748
+  },
+  {
     nameDetail: 'AMD EPYC 7543P',
     mark: 67144
   },
@@ -65,11 +69,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen Threadripper 3970X',
-    mark: 63836
+    mark: 63835
   },
   {
     nameDetail: 'AMD Ryzen Threadripper PRO 3975WX',
-    mark: 63358
+    mark: 63495
   },
   {
     nameDetail: 'Intel Xeon Platinum 8380 @ 2.30GHz',
@@ -105,7 +109,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen Threadripper 3960X',
-    mark: 54758
+    mark: 54757
   },
   {
     nameDetail: 'Intel Xeon Platinum 8358 @ 2.60GHz',
@@ -153,7 +157,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 9 5950X',
-    mark: 46209
+    mark: 46195
   },
   {
     nameDetail: 'AMD EPYC 73F3',
@@ -173,7 +177,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-12900KS',
-    mark: 44217
+    mark: 44243
   },
   {
     nameDetail: 'Intel Xeon Gold 6312U @ 2.40GHz',
@@ -209,11 +213,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-12900KF',
-    mark: 41129
+    mark: 41163
   },
   {
     nameDetail: 'Intel Core i9-12900K',
-    mark: 41064
+    mark: 41077
   },
   {
     nameDetail: 'AMD EPYC 7F52',
@@ -241,7 +245,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen Threadripper PRO 3955WX',
-    mark: 40217
+    mark: 40225
   },
   {
     nameDetail: 'Intel Xeon W-3265M @ 2.70GHz',
@@ -249,11 +253,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 9 5900X',
-    mark: 39458
+    mark: 39457
   },
   {
     nameDetail: 'AMD Ryzen 9 3950X',
-    mark: 39159
+    mark: 39157
   },
   {
     nameDetail: 'Intel Xeon W-3335 @ 3.40GHz',
@@ -265,7 +269,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-12900',
-    mark: 38359
+    mark: 38281
   },
   {
     nameDetail: 'ARM Neoverse-N1 80 Core 3000 MHz',
@@ -297,7 +301,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-12900F',
-    mark: 36613
+    mark: 35726
   },
   {
     nameDetail: 'Intel Xeon Gold 6242R @ 3.10GHz',
@@ -317,11 +321,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-12700K',
-    mark: 34105
+    mark: 34125
   },
   {
     nameDetail: 'Intel Core i7-12700KF',
-    mark: 34092
+    mark: 34110
   },
   {
     nameDetail: 'Intel Xeon Platinum 8260M @ 2.30GHz',
@@ -332,12 +336,12 @@ export const cpuData = [
     mark: 33792
   },
   {
-    nameDetail: 'Intel Core i9-10980XE @ 3.00GHz',
-    mark: 33458
-  },
-  {
     nameDetail: 'AMD Ryzen Threadripper PRO 3945WX',
     mark: 33417
+  },
+  {
+    nameDetail: 'Intel Core i9-10980XE @ 3.00GHz',
+    mark: 33408
   },
   {
     nameDetail: 'Intel Xeon Gold 5220R @ 2.20GHz',
@@ -349,11 +353,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 9 3900XT',
-    mark: 32868
+    mark: 32869
   },
   {
     nameDetail: 'AMD Ryzen 9 3900X',
-    mark: 32752
+    mark: 32751
   },
   {
     nameDetail: 'Intel Xeon Platinum 8168 @ 2.70GHz',
@@ -373,7 +377,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-12700F',
-    mark: 32284
+    mark: 32268
   },
   {
     nameDetail: 'Intel Xeon Gold 6230R @ 2.10GHz',
@@ -381,7 +385,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-9980XE @ 3.00GHz',
-    mark: 31985
+    mark: 31905
   },
   {
     nameDetail: 'Intel Xeon W-2295 @ 3.00GHz',
@@ -389,7 +393,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-12700',
-    mark: 31632
+    mark: 31659
   },
   {
     nameDetail: 'AMD EPYC 7282',
@@ -424,10 +428,6 @@ export const cpuData = [
     mark: 30549
   },
   {
-    nameDetail: 'Intel Xeon Silver 4314 @ 2.40GHz',
-    mark: 30525
-  },
-  {
     nameDetail: 'AMD Ryzen Threadripper 2970WX',
     mark: 30433
   },
@@ -438,6 +438,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon Gold 6246R @ 3.40GHz',
     mark: 30220
+  },
+  {
+    nameDetail: 'Intel Core i9-12900HK',
+    mark: 30213
   },
   {
     nameDetail: 'Intel Core i9-9990XE @ 4.00GHz',
@@ -452,20 +456,20 @@ export const cpuData = [
     mark: 30103
   },
   {
+    nameDetail: 'Intel Xeon Silver 4314 @ 2.40GHz',
+    mark: 30043
+  },
+  {
     nameDetail: 'AMD Ryzen Threadripper 2950X',
     mark: 29981
   },
   {
-    nameDetail: 'Intel Core i9-12900HK',
-    mark: 29935
-  },
-  {
     nameDetail: 'Intel Core i9-7980XE @ 2.60GHz',
-    mark: 29647
+    mark: 29842
   },
   {
     nameDetail: 'Intel Core i9-12900H',
-    mark: 29584
+    mark: 29714
   },
   {
     nameDetail: 'Intel Xeon Gold 6254 @ 3.10GHz',
@@ -501,7 +505,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 5800X',
-    mark: 28371
+    mark: 28368
   },
   {
     nameDetail: 'AMD EPYC 7401P',
@@ -513,7 +517,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen Threadripper 1950X',
-    mark: 28041
+    mark: 28037
   },
   {
     nameDetail: 'Intel Xeon W-2275 @ 3.30GHz',
@@ -533,11 +537,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-12600K',
-    mark: 27419
+    mark: 27429
   },
   {
     nameDetail: 'Intel Core i7-12700H',
-    mark: 27411
+    mark: 27391
   },
   {
     nameDetail: 'Intel Xeon Platinum 8173M @ 2.00GHz',
@@ -553,11 +557,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-12600KF',
-    mark: 27180
+    mark: 27186
   },
   {
     nameDetail: 'AMD Ryzen 7 5700X',
-    mark: 27145
+    mark: 27065
   },
   {
     nameDetail: 'Intel Xeon Gold 6208U @ 2.90GHz',
@@ -625,19 +629,27 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 5800',
-    mark: 25619
+    mark: 25644
   },
   {
     nameDetail: 'Intel Core i9-11900K @ 3.50GHz',
-    mark: 25540
+    mark: 25539
   },
   {
     nameDetail: 'Intel Xeon E5-2698R v4 @ 2.20GHz',
     mark: 25532
   },
   {
+    nameDetail: 'AMD Ryzen 7 5800X3D',
+    mark: 25508
+  },
+  {
     nameDetail: 'AMD EPYC 7351P',
     mark: 25484
+  },
+  {
+    nameDetail: 'AMD Ryzen 7 6800HS',
+    mark: 25460
   },
   {
     nameDetail: 'Intel Xeon Platinum 8167M @ 2.00GHz',
@@ -646,10 +658,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i9-11900KF @ 3.50GHz',
     mark: 25390
-  },
-  {
-    nameDetail: 'AMD Ryzen 7 5800X3D',
-    mark: 25367
   },
   {
     nameDetail: 'Intel Core i9-9920X @ 3.50GHz',
@@ -685,7 +693,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-11700K @ 3.60GHz',
-    mark: 24755
+    mark: 24749
   },
   {
     nameDetail: 'Intel Xeon W-2170B @ 2.50GHz',
@@ -697,7 +705,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 5700G',
-    mark: 24536
+    mark: 24545
   },
   {
     nameDetail: 'Intel Xeon Gold 6150 @ 2.70GHz',
@@ -721,7 +729,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-11700KF @ 3.60GHz',
-    mark: 24169
+    mark: 24147
   },
   {
     nameDetail: 'Intel Xeon W-1370 @ 2.90GHz',
@@ -729,39 +737,39 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon W-11955M @ 2.60GHz',
-    mark: 23874
-  },
-  {
-    nameDetail: 'Intel Core i9-11900F @ 2.50GHz',
-    mark: 23867
+    mark: 23859
   },
   {
     nameDetail: 'AMD Ryzen 7 3800XT',
-    mark: 23805
+    mark: 23815
+  },
+  {
+    nameDetail: 'Intel Core i9-11900F @ 2.50GHz',
+    mark: 23814
   },
   {
     nameDetail: 'Intel Core i9-10900K @ 3.70GHz',
-    mark: 23773
+    mark: 23768
   },
   {
     nameDetail: 'Intel Core i9-11980HK @ 2.60GHz',
-    mark: 23663
+    mark: 23629
   },
   {
     nameDetail: 'Intel Xeon Silver 4310 @ 2.10GHz',
     mark: 23589
   },
   {
-    nameDetail: 'Intel Xeon E5-2696 v3 @ 2.30GHz',
-    mark: 23585
-  },
-  {
     nameDetail: 'AMD EPYC 7351',
     mark: 23566
   },
   {
-    nameDetail: 'Intel Core i9-10900KF @ 3.70GHz',
-    mark: 23518
+    nameDetail: 'Intel Xeon E5-2696 v3 @ 2.30GHz',
+    mark: 23556
+  },
+  {
+    nameDetail: 'Intel Core i5-12500H',
+    mark: 23530
   },
   {
     nameDetail: 'Intel Xeon W-1390 @ 2.80GHz',
@@ -772,16 +780,24 @@ export const cpuData = [
     mark: 23512
   },
   {
+    nameDetail: 'Intel Core i9-10900KF @ 3.70GHz',
+    mark: 23508
+  },
+  {
     nameDetail: 'Intel Xeon E-2388G @ 3.20GHz',
     mark: 23501
+  },
+  {
+    nameDetail: 'AMD Ryzen 7 6800H',
+    mark: 23447
   },
   {
     nameDetail: 'Intel Xeon Gold 6146 @ 3.20GHz',
     mark: 23432
   },
   {
-    nameDetail: 'Intel Core i5-12500H',
-    mark: 23309
+    nameDetail: 'AMD Ryzen 9 5980HX',
+    mark: 23425
   },
   {
     nameDetail: 'Intel Core i9-7920X @ 2.90GHz',
@@ -789,11 +805,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 3800X',
-    mark: 23278
-  },
-  {
-    nameDetail: 'AMD Ryzen 9 5980HX',
-    mark: 23252
+    mark: 23275
   },
   {
     nameDetail: 'Intel Xeon W-2175 @ 2.50GHz',
@@ -808,24 +820,20 @@ export const cpuData = [
     mark: 23179
   },
   {
-    nameDetail: 'AMD Ryzen 7 6800H',
-    mark: 23172
-  },
-  {
     nameDetail: 'AMD Ryzen 9 5900HX',
-    mark: 23166
-  },
-  {
-    nameDetail: 'Intel Core i9-11900 @ 2.50GHz',
-    mark: 23125
+    mark: 23160
   },
   {
     nameDetail: 'Intel Core i5-1250P',
     mark: 23120
   },
   {
+    nameDetail: 'Intel Core i9-11900 @ 2.50GHz',
+    mark: 23117
+  },
+  {
     nameDetail: 'Intel Core i9-10850K @ 3.60GHz',
-    mark: 23059
+    mark: 23055
   },
   {
     nameDetail: 'AMD EPYC 7F32',
@@ -849,7 +857,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-11900KB @ 3.30GHz',
-    mark: 22751
+    mark: 22769
   },
   {
     nameDetail: 'Intel Xeon Gold 6140 @ 2.30GHz',
@@ -857,7 +865,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 3700X',
-    mark: 22717
+    mark: 22716
   },
   {
     nameDetail: 'Intel Core i7-12700T',
@@ -868,10 +876,6 @@ export const cpuData = [
     mark: 22683
   },
   {
-    nameDetail: 'Apple M1 Max 10 Core 3200 MHz',
-    mark: 22584
-  },
-  {
     nameDetail: 'Intel Core i9-11950H @ 2.60GHz',
     mark: 22570
   },
@@ -880,16 +884,20 @@ export const cpuData = [
     mark: 22566
   },
   {
+    nameDetail: 'Apple M1 Max 10 Core 3200 MHz',
+    mark: 22566
+  },
+  {
     nameDetail: 'Intel Core i7-11700B @ 3.20GHz',
     mark: 22539
   },
   {
-    nameDetail: 'Apple M1 Pro 10 Core 3200 MHz',
-    mark: 22324
+    nameDetail: 'AMD Ryzen 7 PRO 5750GE',
+    mark: 22315
   },
   {
-    nameDetail: 'AMD Ryzen 7 PRO 5750GE',
-    mark: 22317
+    nameDetail: 'Apple M1 Pro 10 Core 3200 MHz',
+    mark: 22314
   },
   {
     nameDetail: 'Intel Xeon Platinum 8124M @ 3.00GHz',
@@ -905,7 +913,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 9 5900HS',
-    mark: 22239
+    mark: 22215
   },
   {
     nameDetail: 'Intel Xeon Gold 6334 @ 3.60GHz',
@@ -917,7 +925,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 5600X',
-    mark: 22090
+    mark: 22088
   },
   {
     nameDetail: 'AMD Ryzen Threadripper 1920',
@@ -945,7 +953,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-10910 @ 3.60GHz',
-    mark: 21781
+    mark: 21799
   },
   {
     nameDetail: 'Intel Xeon E5-2698 v4 @ 2.20GHz',
@@ -961,7 +969,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 5800H',
-    mark: 21470
+    mark: 21469
   },
   {
     nameDetail: 'Intel Core i7-11700F @ 2.50GHz',
@@ -973,23 +981,23 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-11900H @ 2.50GHz',
-    mark: 21389
-  },
-  {
-    nameDetail: 'Intel Core i7-11800H @ 2.30GHz',
-    mark: 21380
+    mark: 21385
   },
   {
     nameDetail: 'Intel Core i5-12600',
     mark: 21368
   },
   {
-    nameDetail: 'Intel Core i9-7900X @ 3.30GHz',
-    mark: 21329
+    nameDetail: 'Intel Core i7-11800H @ 2.30GHz',
+    mark: 21363
   },
   {
     nameDetail: 'AMD Ryzen 5 5600',
-    mark: 21317
+    mark: 21350
+  },
+  {
+    nameDetail: 'Intel Core i9-7900X @ 3.30GHz',
+    mark: 21310
   },
   {
     nameDetail: 'AMD EPYC 7281',
@@ -1000,12 +1008,12 @@ export const cpuData = [
     mark: 21225
   },
   {
-    nameDetail: 'Intel Xeon W-2155 @ 3.30GHz',
-    mark: 21198
+    nameDetail: 'Intel Core i7-11850H @ 2.50GHz',
+    mark: 21212
   },
   {
-    nameDetail: 'Intel Core i7-11850H @ 2.50GHz',
-    mark: 21189
+    nameDetail: 'Intel Xeon W-2155 @ 3.30GHz',
+    mark: 21198
   },
   {
     nameDetail: 'Intel Xeon Gold 6132 @ 2.60GHz',
@@ -1029,7 +1037,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-10900F @ 2.80GHz',
-    mark: 20890
+    mark: 20881
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 4700G',
@@ -1048,20 +1056,20 @@ export const cpuData = [
     mark: 20721
   },
   {
-    nameDetail: 'AMD Ryzen 5 PRO 5650G',
-    mark: 20720
-  },
-  {
     nameDetail: 'AMD Ryzen 7 5800HS',
-    mark: 20665
-  },
-  {
-    nameDetail: 'Intel Core i7-11700 @ 2.50GHz',
-    mark: 20664
+    mark: 20684
   },
   {
     nameDetail: 'Intel Core i9-10900E @ 2.80GHz',
     mark: 20658
+  },
+  {
+    nameDetail: 'AMD Ryzen 5 PRO 5650G',
+    mark: 20633
+  },
+  {
+    nameDetail: 'Intel Core i7-11700 @ 2.50GHz',
+    mark: 20588
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 4750G',
@@ -1076,12 +1084,12 @@ export const cpuData = [
     mark: 20471
   },
   {
-    nameDetail: 'Intel Core i9-10900 @ 2.80GHz',
-    mark: 20463
-  },
-  {
     nameDetail: 'Intel Xeon W-2150B @ 3.00GHz',
     mark: 20457
+  },
+  {
+    nameDetail: 'Intel Core i9-10900 @ 2.80GHz',
+    mark: 20446
   },
   {
     nameDetail: 'Intel Xeon Gold 6244 @ 3.60GHz',
@@ -1101,7 +1109,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-12500',
-    mark: 20315
+    mark: 20309
   },
   {
     nameDetail: 'Intel Core i9-11900T @ 1.50GHz',
@@ -1125,7 +1133,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 5500',
-    mark: 20033
+    mark: 19949
   },
   {
     nameDetail: 'Intel Xeon W-1350P @ 4.00GHz',
@@ -1133,7 +1141,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 5600G',
-    mark: 19824
+    mark: 19830
   },
   {
     nameDetail: 'Intel Core i5-12450H',
@@ -1149,19 +1157,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-11600K @ 3.90GHz',
-    mark: 19783
+    mark: 19781
   },
   {
     nameDetail: 'Intel Core i5-11600KF @ 3.90GHz',
-    mark: 19758
+    mark: 19742
   },
   {
     nameDetail: 'Intel Core i5-12400F',
-    mark: 19634
+    mark: 19659
   },
   {
     nameDetail: 'Intel Core i5-12400',
-    mark: 19569
+    mark: 19571
   },
   {
     nameDetail: 'Intel Xeon E5-2682 v4 @ 2.50GHz',
@@ -1201,7 +1209,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-10700K @ 3.80GHz',
-    mark: 19279
+    mark: 19277
   },
   {
     nameDetail: 'Intel Xeon W-1270P @ 3.80GHz',
@@ -1221,15 +1229,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 4800H',
-    mark: 19053
+    mark: 19056
   },
   {
     nameDetail: 'Intel Core i7-12800H',
     mark: 19052
-  },
-  {
-    nameDetail: 'Intel Core i5-1240P',
-    mark: 19045
   },
   {
     nameDetail: 'Intel Xeon Silver 4309Y @ 2.80GHz',
@@ -1238,6 +1242,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon E5-2676 v4 @ 2.40GHz',
     mark: 18978
+  },
+  {
+    nameDetail: 'Intel Core i5-1240P',
+    mark: 18963
   },
   {
     nameDetail: 'Intel Xeon W-1350 @ 3.30GHz',
@@ -1257,7 +1265,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 5800U',
-    mark: 18848
+    mark: 18852
   },
   {
     nameDetail: 'Intel Xeon Silver 4214R @ 2.40GHz',
@@ -1280,16 +1288,16 @@ export const cpuData = [
     mark: 18757
   },
   {
-    nameDetail: 'Intel Core i9-9900K @ 3.60GHz',
-    mark: 18719
-  },
-  {
     nameDetail: 'AMD Ryzen 5 PRO 5650GE',
     mark: 18716
   },
   {
+    nameDetail: 'Intel Core i9-9900K @ 3.60GHz',
+    mark: 18716
+  },
+  {
     nameDetail: 'Intel Core i9-9900KF @ 3.60GHz',
-    mark: 18695
+    mark: 18691
   },
   {
     nameDetail: 'Intel Xeon Gold 6144 @ 3.50GHz',
@@ -1321,7 +1329,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-11600 @ 2.80GHz',
-    mark: 18322
+    mark: 18318
   },
   {
     nameDetail: 'Intel Core i9-9820X @ 3.30GHz',
@@ -1332,10 +1340,6 @@ export const cpuData = [
     mark: 18285
   },
   {
-    nameDetail: 'Intel Core i7-9800X @ 3.80GHz',
-    mark: 18255
-  },
-  {
     nameDetail: 'Intel Xeon E-2378 @ 2.60GHz',
     mark: 18248
   },
@@ -1344,12 +1348,16 @@ export const cpuData = [
     mark: 18244
   },
   {
+    nameDetail: 'Intel Core i7-9800X @ 3.80GHz',
+    mark: 18240
+  },
+  {
     nameDetail: 'Intel Xeon W-2145 @ 3.70GHz',
     mark: 18225
   },
   {
     nameDetail: 'AMD 4700S',
-    mark: 18212
+    mark: 18224
   },
   {
     nameDetail: 'AMD Ryzen 7 Extreme Edition',
@@ -1364,16 +1372,16 @@ export const cpuData = [
     mark: 18148
   },
   {
+    nameDetail: 'AMD Ryzen 7 5825U',
+    mark: 18122
+  },
+  {
     nameDetail: 'Intel Xeon W-1270 @ 3.40GHz',
     mark: 18093
   },
   {
     nameDetail: 'Intel Xeon D-2187NT @ 2.00GHz',
     mark: 18070
-  },
-  {
-    nameDetail: 'AMD Ryzen 7 5825U',
-    mark: 18051
   },
   {
     nameDetail: 'AMD Ryzen Embedded V2718',
@@ -1389,7 +1397,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 3600',
-    mark: 17821
+    mark: 17822
   },
   {
     nameDetail: 'Intel Xeon E5-2680R v4 @ 2.40GHz',
@@ -1421,11 +1429,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-11500 @ 2.70GHz',
-    mark: 17634
+    mark: 17626
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 5850U',
-    mark: 17631
+    mark: 17581
   },
   {
     nameDetail: 'AMD Ryzen 7 2700X',
@@ -1436,16 +1444,16 @@ export const cpuData = [
     mark: 17576
   },
   {
-    nameDetail: 'Apple M1 Pro 8 Core 3200 MHz',
-    mark: 17543
-  },
-  {
     nameDetail: 'Intel Xeon Gold 5120T @ 2.20GHz',
     mark: 17540
   },
   {
     nameDetail: 'Intel Xeon E5-2673 v4 @ 2.30GHz',
     mark: 17533
+  },
+  {
+    nameDetail: 'Apple M1 Pro 8 Core 3200 MHz',
+    mark: 17521
   },
   {
     nameDetail: 'Intel Xeon W-3223 @ 3.50GHz',
@@ -1473,19 +1481,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-11400F @ 2.60GHz',
-    mark: 17214
+    mark: 17213
   },
   {
     nameDetail: 'AMD Ryzen 5 5600H',
-    mark: 17184
+    mark: 17196
   },
   {
     nameDetail: 'Intel Core i7-6950X @ 3.00GHz',
-    mark: 17132
+    mark: 17142
   },
   {
     nameDetail: 'Intel Core i5-11400 @ 2.60GHz',
-    mark: 17128
+    mark: 17132
   },
   {
     nameDetail: 'AMD Ryzen 7 4800U',
@@ -1501,7 +1509,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-10700F @ 2.90GHz',
-    mark: 16974
+    mark: 16973
   },
   {
     nameDetail: 'AMD Ryzen Threadripper 1900X',
@@ -1509,7 +1517,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-10700 @ 2.90GHz',
-    mark: 16943
+    mark: 16946
   },
   {
     nameDetail: 'Intel Xeon E5-2689 v4 @ 3.10GHz',
@@ -1545,7 +1553,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 PRO 4650G',
-    mark: 16427
+    mark: 16428
   },
   {
     nameDetail: 'Intel Core i7-11600H @ 2.90GHz',
@@ -1572,16 +1580,16 @@ export const cpuData = [
     mark: 16186
   },
   {
-    nameDetail: 'AMD Ryzen 7 5700U',
-    mark: 16131
-  },
-  {
     nameDetail: 'Intel Xeon E5-2669 v3 @ 2.30GHz',
     mark: 16107
   },
   {
+    nameDetail: 'AMD Ryzen 7 5700U',
+    mark: 16104
+  },
+  {
     nameDetail: 'Intel Core i5-11400H @ 2.70GHz',
-    mark: 16064
+    mark: 16073
   },
   {
     nameDetail: 'Intel Core i7-1260P',
@@ -1594,10 +1602,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD Ryzen 7 4850U Mobile',
     mark: 15920
-  },
-  {
-    nameDetail: 'AMD Ryzen 5 PRO 5675U',
-    mark: 15913
   },
   {
     nameDetail: 'Intel Xeon E-2336 @ 2.90GHz',
@@ -1629,7 +1633,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 2700',
-    mark: 15652
+    mark: 15654
   },
   {
     nameDetail: 'AMD Ryzen 5 4600G',
@@ -1645,11 +1649,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 4750U',
-    mark: 15515
+    mark: 15511
   },
   {
     nameDetail: 'AMD Ryzen 7 1700X',
-    mark: 15498
+    mark: 15496
   },
   {
     nameDetail: 'Intel Xeon Gold 5217 @ 3.00GHz',
@@ -1676,10 +1680,6 @@ export const cpuData = [
     mark: 15313
   },
   {
-    nameDetail: 'AMD Ryzen 5 5600U',
-    mark: 15292
-  },
-  {
     nameDetail: 'Intel Core i7-11700T @ 1.40GHz',
     mark: 15271
   },
@@ -1700,6 +1700,10 @@ export const cpuData = [
     mark: 15248
   },
   {
+    nameDetail: 'AMD Ryzen 5 5600U',
+    mark: 15241
+  },
+  {
     nameDetail: 'Intel Xeon Silver 4116T @ 2.10GHz',
     mark: 15187
   },
@@ -1716,12 +1720,12 @@ export const cpuData = [
     mark: 15105
   },
   {
-    nameDetail: 'Intel Core i9-10880H @ 2.30GHz',
-    mark: 15064
+    nameDetail: 'AMD Ryzen 5 5625U',
+    mark: 15099
   },
   {
-    nameDetail: 'AMD Ryzen 5 5625U',
-    mark: 15060
+    nameDetail: 'Intel Core i9-10880H @ 2.30GHz',
+    mark: 15064
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 2700',
@@ -1737,7 +1741,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-10870H @ 2.20GHz',
-    mark: 15023
+    mark: 15027
   },
   {
     nameDetail: 'AMD EPYC 7301',
@@ -1768,6 +1772,10 @@ export const cpuData = [
     mark: 14879
   },
   {
+    nameDetail: 'Intel Xeon E5-2683 v3 @ 2.00GHz',
+    mark: 14829
+  },
+  {
     nameDetail: 'Intel Xeon E5-1681 v3 @ 2.90GHz',
     mark: 14820
   },
@@ -1780,24 +1788,20 @@ export const cpuData = [
     mark: 14795
   },
   {
+    nameDetail: 'AMD Ryzen 5 4600H',
+    mark: 14735
+  },
+  {
     nameDetail: 'AMD Ryzen 5 4600HS',
     mark: 14735
   },
   {
-    nameDetail: 'AMD Ryzen 5 4600H',
-    mark: 14734
-  },
-  {
-    nameDetail: 'Intel Xeon E5-2683 v3 @ 2.00GHz',
-    mark: 14734
-  },
-  {
     nameDetail: 'Intel Core i9-9980HK @ 2.40GHz',
-    mark: 14733
+    mark: 14728
   },
   {
     nameDetail: 'Apple M1 8 Core 3200 MHz',
-    mark: 14703
+    mark: 14694
   },
   {
     nameDetail: 'Intel Xeon E5-2678 v3 @ 2.50GHz',
@@ -1821,11 +1825,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-8086K @ 4.00GHz',
-    mark: 14557
+    mark: 14550
   },
   {
     nameDetail: 'Intel Core i7-9700K @ 3.60GHz',
-    mark: 14551
+    mark: 14550
   },
   {
     nameDetail: 'Intel Xeon E5-2676 v3 @ 2.40GHz',
@@ -1833,19 +1837,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-10600K @ 4.10GHz',
-    mark: 14533
+    mark: 14534
   },
   {
     nameDetail: 'Intel Core i3-12100',
-    mark: 14506
-  },
-  {
-    nameDetail: 'Intel Core i3-12100F',
-    mark: 14501
+    mark: 14503
   },
   {
     nameDetail: 'Intel Core i7-9700KF @ 3.60GHz',
     mark: 14499
+  },
+  {
+    nameDetail: 'Intel Core i3-12100F',
+    mark: 14490
   },
   {
     nameDetail: 'Intel Xeon Silver 4215 @ 2.50GHz',
@@ -1868,12 +1872,12 @@ export const cpuData = [
     mark: 14332
   },
   {
-    nameDetail: 'Intel Core i7-6900K @ 3.20GHz',
-    mark: 14291
+    nameDetail: 'Intel Xeon E-2236 @ 3.40GHz',
+    mark: 14307
   },
   {
-    nameDetail: 'Intel Xeon E-2236 @ 3.40GHz',
-    mark: 14290
+    nameDetail: 'Intel Core i7-6900K @ 3.20GHz',
+    mark: 14291
   },
   {
     nameDetail: 'Intel Xeon Silver 4210 @ 2.20GHz',
@@ -1886,6 +1890,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon E5-4660 v3 @ 2.10GHz',
     mark: 14256
+  },
+  {
+    nameDetail: 'AMD Ryzen 5 PRO 5675U',
+    mark: 14253
   },
   {
     nameDetail: 'Intel Xeon E5-2697 v2 @ 2.70GHz',
@@ -1912,16 +1920,16 @@ export const cpuData = [
     mark: 14086
   },
   {
+    nameDetail: 'AMD Ryzen 5 2600X',
+    mark: 14053
+  },
+  {
     nameDetail: 'Intel Xeon E-2246G @ 3.60GHz',
     mark: 14050
   },
   {
-    nameDetail: 'AMD Ryzen 5 2600X',
-    mark: 14048
-  },
-  {
     nameDetail: 'Intel Core i9-9880H @ 2.30GHz',
-    mark: 13977
+    mark: 13979
   },
   {
     nameDetail: 'AMD Ryzen 3 PRO 5350G',
@@ -1973,7 +1981,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 4700U',
-    mark: 13649
+    mark: 13648
   },
   {
     nameDetail: 'Intel Xeon E-2176G @ 3.70GHz',
@@ -2009,7 +2017,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-9700 @ 3.00GHz',
-    mark: 13387
+    mark: 13385
   },
   {
     nameDetail: 'Intel Xeon E-2276G @ 3.80GHz',
@@ -2029,7 +2037,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 3500X',
-    mark: 13338
+    mark: 13319
   },
   {
     nameDetail: 'AMD Ryzen 5 PRO 2600',
@@ -2044,12 +2052,12 @@ export const cpuData = [
     mark: 13195
   },
   {
-    nameDetail: 'Intel Xeon E-2334 @ 3.40GHz',
-    mark: 13189
+    nameDetail: 'AMD Ryzen 5 5500U',
+    mark: 13190
   },
   {
-    nameDetail: 'AMD Ryzen 5 5500U',
-    mark: 13187
+    nameDetail: 'Intel Xeon E-2334 @ 3.40GHz',
+    mark: 13189
   },
   {
     nameDetail: 'Intel Xeon Silver 4114 @ 2.20GHz',
@@ -2064,24 +2072,24 @@ export const cpuData = [
     mark: 13139
   },
   {
-    nameDetail: 'Intel Xeon D-2143IT @ 2.20GHz',
-    mark: 13107
+    nameDetail: 'Intel Core i7-10700T @ 2.00GHz',
+    mark: 13119
   },
   {
-    nameDetail: 'Intel Core i7-10700T @ 2.00GHz',
-    mark: 13092
+    nameDetail: 'Intel Xeon D-2143IT @ 2.20GHz',
+    mark: 13107
   },
   {
     nameDetail: 'Intel Core i5-11400T @ 1.30GHz',
     mark: 13078
   },
   {
-    nameDetail: 'Intel Core i7-8700 @ 3.20GHz',
-    mark: 13047
+    nameDetail: 'Intel Core i5-10500 @ 3.10GHz',
+    mark: 13056
   },
   {
-    nameDetail: 'Intel Core i5-10500 @ 3.10GHz',
-    mark: 13037
+    nameDetail: 'Intel Core i7-8700 @ 3.20GHz',
+    mark: 13046
   },
   {
     nameDetail: 'Intel Xeon E5-4627 v4 @ 2.60GHz',
@@ -2092,16 +2100,16 @@ export const cpuData = [
     mark: 12955
   },
   {
-    nameDetail: 'AMD Ryzen 5 1600X',
-    mark: 12944
-  },
-  {
     nameDetail: 'Intel Xeon E5-2685 v3 @ 2.60GHz',
     mark: 12944
   },
   {
+    nameDetail: 'AMD Ryzen 5 1600X',
+    mark: 12943
+  },
+  {
     nameDetail: 'AMD Ryzen 5 PRO 4650U',
-    mark: 12890
+    mark: 12889
   },
   {
     nameDetail: 'Intel Core i7-7800X @ 3.50GHz',
@@ -2121,7 +2129,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 3 3300X',
-    mark: 12748
+    mark: 12746
   },
   {
     nameDetail: 'Intel Core i7-5960X @ 3.00GHz',
@@ -2168,20 +2176,28 @@ export const cpuData = [
     mark: 12354
   },
   {
+    nameDetail: 'Intel Core i7-1265U',
+    mark: 12334
+  },
+  {
     nameDetail: 'Intel Core i5-10400 @ 2.90GHz',
-    mark: 12321
+    mark: 12320
   },
   {
     nameDetail: 'AMD Ryzen 5 1600',
     mark: 12314
   },
   {
-    nameDetail: 'Intel Core i7-1265U',
-    mark: 12281
-  },
-  {
     nameDetail: 'Intel Core i7-8700B @ 3.20GHz',
     mark: 12239
+  },
+  {
+    nameDetail: 'Intel Core i7-9700E @ 2.60GHz',
+    mark: 12239
+  },
+  {
+    nameDetail: 'AMD Ryzen 3 PRO 5475U',
+    mark: 12230
   },
   {
     nameDetail: 'Intel Xeon E5-2667 v2 @ 3.30GHz',
@@ -2205,7 +2221,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-11370H @ 3.30GHz',
-    mark: 12108
+    mark: 12098
   },
   {
     nameDetail: 'Intel Xeon E5-2687W v2 @ 3.40GHz',
@@ -2240,10 +2256,6 @@ export const cpuData = [
     mark: 11919
   },
   {
-    nameDetail: 'Intel Core i7-9700E @ 2.60GHz',
-    mark: 11905
-  },
-  {
     nameDetail: 'AMD Ryzen 3 5400U',
     mark: 11839
   },
@@ -2269,7 +2281,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 3 3100',
-    mark: 11659
+    mark: 11660
   },
   {
     nameDetail: 'Intel Xeon D-1577 @ 1.30GHz',
@@ -2333,7 +2345,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-6850K @ 3.60GHz',
-    mark: 11299
+    mark: 11295
   },
   {
     nameDetail: 'ARM Neoverse-N1 16 Core 0 MHz',
@@ -2349,7 +2361,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-2640 v3 @ 2.60GHz',
-    mark: 11194
+    mark: 11205
   },
   {
     nameDetail: 'Intel Xeon E5-2643 v4 @ 3.40GHz',
@@ -2373,7 +2385,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 4500U',
-    mark: 11101
+    mark: 11098
   },
   {
     nameDetail: 'Intel Xeon E5-2628L v4 @ 1.90GHz',
@@ -2381,19 +2393,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-11300H @ 3.10GHz',
-    mark: 11045
+    mark: 11048
   },
   {
     nameDetail: 'Intel Core i7-1195G7 @ 2.90GHz',
-    mark: 11035
-  },
-  {
-    nameDetail: 'Intel Xeon E-2176M @ 2.70GHz',
-    mark: 10995
+    mark: 11019
   },
   {
     nameDetail: 'Intel Core i7-1185G7 @ 3.00GHz',
-    mark: 10945
+    mark: 10948
+  },
+  {
+    nameDetail: 'Intel Xeon E-2176M @ 2.70GHz',
+    mark: 10946
   },
   {
     nameDetail: 'AMD Ryzen 3 PRO 4200GE',
@@ -2441,11 +2453,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i9-8950HK @ 2.90GHz',
-    mark: 10798
+    mark: 10803
   },
   {
     nameDetail: 'Intel Core i5-9600K @ 3.70GHz',
-    mark: 10794
+    mark: 10793
   },
   {
     nameDetail: 'AMD Ryzen 3 4300G',
@@ -2469,7 +2481,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-1165G7 @ 2.80GHz',
-    mark: 10597
+    mark: 10595
   },
   {
     nameDetail: 'Intel Core i5-1155G7 @ 2.50GHz',
@@ -2497,19 +2509,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-1145G7 @ 2.60GHz',
-    mark: 10423
+    mark: 10413
   },
   {
     nameDetail: 'AMD Ryzen 5 PRO 1600',
     mark: 10401
   },
   {
-    nameDetail: 'Intel Xeon E5-2643 v3 @ 3.40GHz',
-    mark: 10391
+    nameDetail: 'Intel Xeon E5-2630 v3 @ 2.40GHz',
+    mark: 10392
   },
   {
-    nameDetail: 'Intel Xeon E5-2630 v3 @ 2.40GHz',
-    mark: 10386
+    nameDetail: 'Intel Xeon E5-2643 v3 @ 3.40GHz',
+    mark: 10391
   },
   {
     nameDetail: 'Intel Xeon E5-2660 v2 @ 2.20GHz',
@@ -2517,7 +2529,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-1650 v3 @ 3.50GHz',
-    mark: 10377
+    mark: 10373
   },
   {
     nameDetail: 'Intel Xeon E5-4640 v3 @ 1.90GHz',
@@ -2536,20 +2548,20 @@ export const cpuData = [
     mark: 10348
   },
   {
-    nameDetail: 'Intel Core i3-10325 @ 3.90GHz',
-    mark: 10347
+    nameDetail: 'Intel Core i7-8850H @ 2.60GHz',
+    mark: 10333
   },
   {
     nameDetail: 'Intel Core i5-9500F @ 3.00GHz',
     mark: 10330
   },
   {
-    nameDetail: 'Intel Core i7-8850H @ 2.60GHz',
-    mark: 10329
-  },
-  {
     nameDetail: 'Intel Core i7-1160G7 @ 1.20GHz',
     mark: 10316
+  },
+  {
+    nameDetail: 'Intel Core i3-10325 @ 3.90GHz',
+    mark: 10308
   },
   {
     nameDetail: 'Intel Core i7-5930K @ 3.50GHz',
@@ -2577,7 +2589,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8600K @ 3.60GHz',
-    mark: 10194
+    mark: 10195
   },
   {
     nameDetail: 'Intel Xeon D-1541 @ 2.10GHz',
@@ -2585,11 +2597,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 3 PRO 4450U',
-    mark: 10132
+    mark: 10129
   },
   {
     nameDetail: 'Intel Core i7-10710U @ 1.10GHz',
-    mark: 10124
+    mark: 10126
   },
   {
     nameDetail: 'Intel Core i3-10320 @ 3.80GHz',
@@ -2597,7 +2609,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-1135G7 @ 2.40GHz',
-    mark: 10108
+    mark: 10100
   },
   {
     nameDetail: 'Intel Core i7-1068NG7 @ 2.30GHz',
@@ -2605,7 +2617,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-8750H @ 2.20GHz',
-    mark: 10087
+    mark: 10085
   },
   {
     nameDetail: 'Intel Core i5-10400T @ 2.00GHz',
@@ -2613,11 +2625,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 3 5300U',
-    mark: 10049
+    mark: 10046
   },
   {
     nameDetail: 'Intel Xeon W-2125 @ 4.00GHz',
-    mark: 10032
+    mark: 10039
   },
   {
     nameDetail: 'Intel Xeon D-1540 @ 2.00GHz',
@@ -2625,7 +2637,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-2650 v2 @ 2.60GHz',
-    mark: 9991
+    mark: 9995
+  },
+  {
+    nameDetail: 'Intel Core i5-10500TE @ 2.30GHz',
+    mark: 9960
   },
   {
     nameDetail: 'Intel Xeon E5-2628L v3 @ 2.00GHz',
@@ -2657,7 +2673,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-2690 @ 2.90GHz',
-    mark: 9842
+    mark: 9832
   },
   {
     nameDetail: 'Intel Xeon E-2244G @ 3.80GHz',
@@ -2677,7 +2693,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-1130G7 @ 1.10GHz',
-    mark: 9745
+    mark: 9756
   },
   {
     nameDetail: 'Intel Core i5-9500 @ 3.00GHz',
@@ -2692,12 +2708,12 @@ export const cpuData = [
     mark: 9684
   },
   {
-    nameDetail: 'Intel Core i7-7700K @ 4.20GHz',
-    mark: 9661
-  },
-  {
     nameDetail: 'Intel Xeon E-2274G @ 4.00GHz',
     mark: 9660
+  },
+  {
+    nameDetail: 'Intel Core i7-7700K @ 4.20GHz',
+    mark: 9658
   },
   {
     nameDetail: 'AMD Ryzen 5 PRO 3350GE',
@@ -2709,7 +2725,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-1038NG7 @ 2.00GHz',
-    mark: 9627
+    mark: 9626
   },
   {
     nameDetail: 'Intel Xeon E-2174G @ 3.80GHz',
@@ -2717,7 +2733,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8500 @ 3.00GHz',
-    mark: 9588
+    mark: 9576
   },
   {
     nameDetail: 'Intel Core i5-9400F @ 2.90GHz',
@@ -2753,7 +2769,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-2680 @ 2.70GHz',
-    mark: 9374
+    mark: 9361
   },
   {
     nameDetail: 'Intel Core i7-4930K @ 3.40GHz',
@@ -2816,6 +2832,10 @@ export const cpuData = [
     mark: 9212
   },
   {
+    nameDetail: 'Intel Xeon E3-1280 v6 @ 3.90GHz',
+    mark: 9166
+  },
+  {
     nameDetail: 'Intel Xeon E5-2620 v4 @ 2.10GHz',
     mark: 9152
   },
@@ -2824,16 +2844,12 @@ export const cpuData = [
     mark: 9142
   },
   {
+    nameDetail: 'Intel Core i3-10105F @ 3.70GHz',
+    mark: 9141
+  },
+  {
     nameDetail: 'Intel Xeon E5-2629 v3 @ 2.40GHz',
     mark: 9139
-  },
-  {
-    nameDetail: 'Intel Core i3-10105F @ 3.70GHz',
-    mark: 9138
-  },
-  {
-    nameDetail: 'Intel Xeon E3-1280 v6 @ 3.90GHz',
-    mark: 9134
   },
   {
     nameDetail: 'Intel Core i7-9850HL @ 1.90GHz',
@@ -2845,7 +2861,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 1500X',
-    mark: 9084
+    mark: 9083
   },
   {
     nameDetail: 'Intel Xeon E5-2643 v2 @ 3.50GHz',
@@ -2873,11 +2889,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-6700K @ 4.00GHz',
-    mark: 8966
+    mark: 8967
   },
   {
     nameDetail: 'Intel Core i3-10105 @ 3.70GHz',
-    mark: 8923
+    mark: 8928
   },
   {
     nameDetail: 'Intel Core i5-10400H @ 2.60GHz',
@@ -2885,7 +2901,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-2670 @ 2.60GHz',
-    mark: 8896
+    mark: 8902
   },
   {
     nameDetail: 'Intel Core i5-3170K @ 3.20GHz',
@@ -2905,7 +2921,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-10100 @ 3.60GHz',
-    mark: 8799
+    mark: 8800
   },
   {
     nameDetail: 'Intel Xeon Gold 5122 @ 3.60GHz',
@@ -2925,11 +2941,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 2400G',
-    mark: 8728
+    mark: 8729
   },
   {
     nameDetail: 'Intel Core i5-10300H @ 2.50GHz',
-    mark: 8691
+    mark: 8692
   },
   {
     nameDetail: 'Intel Xeon W-2223 @ 3.60GHz',
@@ -2944,6 +2960,10 @@ export const cpuData = [
     mark: 8668
   },
   {
+    nameDetail: 'Intel Xeon E3-1245 v6 @ 3.70GHz',
+    mark: 8659
+  },
+  {
     nameDetail: 'Intel Core i7-7700 @ 3.60GHz',
     mark: 8638
   },
@@ -2956,16 +2976,12 @@ export const cpuData = [
     mark: 8611
   },
   {
-    nameDetail: 'Intel Xeon E3-1245 v6 @ 3.70GHz',
-    mark: 8606
-  },
-  {
     nameDetail: 'Intel Core i7-3960X @ 3.30GHz',
     mark: 8596
   },
   {
     nameDetail: 'Apple A14 Bionic',
-    mark: 8540
+    mark: 8541
   },
   {
     nameDetail: 'Intel Core i7-8569U @ 2.80GHz',
@@ -3000,12 +3016,12 @@ export const cpuData = [
     mark: 8417
   },
   {
-    nameDetail: 'Intel Xeon E5-2665 @ 2.40GHz',
-    mark: 8411
+    nameDetail: 'Intel Core i5-10200H @ 2.40GHz',
+    mark: 8414
   },
   {
-    nameDetail: 'Intel Core i5-10200H @ 2.40GHz',
-    mark: 8408
+    nameDetail: 'Intel Xeon E5-2665 @ 2.40GHz',
+    mark: 8411
   },
   {
     nameDetail: 'Intel Xeon E3-1230 v6 @ 3.50GHz',
@@ -3020,20 +3036,20 @@ export const cpuData = [
     mark: 8393
   },
   {
+    nameDetail: 'Intel Core i5-1035G7 @ 1.20GHz',
+    mark: 8388
+  },
+  {
     nameDetail: 'Intel Core i7-8706G @ 3.10GHz',
     mark: 8388
   },
   {
-    nameDetail: 'Intel Core i5-1035G7 @ 1.20GHz',
-    mark: 8384
+    nameDetail: 'AMD Ryzen 5 PRO 2400G',
+    mark: 8378
   },
   {
     nameDetail: 'Intel Core i7-3970X @ 3.50GHz',
     mark: 8373
-  },
-  {
-    nameDetail: 'AMD Ryzen 5 PRO 2400G',
-    mark: 8368
   },
   {
     nameDetail: 'Intel Core i7-10810U @ 1.10GHz',
@@ -3065,7 +3081,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-9500T @ 2.20GHz',
-    mark: 8257
+    mark: 8256
   },
   {
     nameDetail: 'Intel Xeon E3-1240 v5 @ 3.50GHz',
@@ -3073,7 +3089,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-1035G4 @ 1.10GHz',
-    mark: 8245
+    mark: 8251
   },
   {
     nameDetail: 'Intel Core i7-3930K @ 3.20GHz',
@@ -3129,7 +3145,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-6700 @ 3.40GHz',
-    mark: 8077
+    mark: 8078
   },
   {
     nameDetail: 'Intel Xeon E3-1245 v5 @ 3.50GHz',
@@ -3144,20 +3160,20 @@ export const cpuData = [
     mark: 8055
   },
   {
-    nameDetail: 'Intel Core i5-8279U @ 2.40GHz',
-    mark: 8034
+    nameDetail: 'Intel Core i5-8400H @ 2.50GHz',
+    mark: 8037
   },
   {
     nameDetail: 'AMD Opteron 6348',
     mark: 8030
   },
   {
-    nameDetail: 'Intel Xeon E3-1285L v4 @ 3.40GHz',
-    mark: 8022
+    nameDetail: 'Intel Core i5-8279U @ 2.40GHz',
+    mark: 8028
   },
   {
-    nameDetail: 'Intel Core i5-8400H @ 2.50GHz',
-    mark: 8021
+    nameDetail: 'Intel Xeon E3-1285L v4 @ 3.40GHz',
+    mark: 8022
   },
   {
     nameDetail: 'Intel Xeon E3-1585L v5 @ 3.00GHz',
@@ -3169,7 +3185,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 3550H',
-    mark: 7993
+    mark: 7994
   },
   {
     nameDetail: 'Intel Core i7-8709G @ 3.10GHz',
@@ -3189,7 +3205,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-2620 v3 @ 2.40GHz',
-    mark: 7904
+    mark: 7906
   },
   {
     nameDetail: 'Intel Xeon E3-1230 v5 @ 3.40GHz',
@@ -3213,7 +3229,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-9400T @ 1.80GHz',
-    mark: 7818
+    mark: 7819
   },
   {
     nameDetail: 'Intel Core i7-5775C @ 3.30GHz',
@@ -3221,11 +3237,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-9300H @ 2.40GHz',
-    mark: 7800
+    mark: 7793
   },
   {
     nameDetail: 'AMD Ryzen 5 1400',
-    mark: 7791
+    mark: 7783
   },
   {
     nameDetail: 'Intel Xeon E3-1260L v5 @ 2.90GHz',
@@ -3237,7 +3253,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-1035G1 @ 1.00GHz',
-    mark: 7740
+    mark: 7737
   },
   {
     nameDetail: 'Intel Xeon D-2123IT @ 2.20GHz',
@@ -3257,14 +3273,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8500T @ 2.10GHz',
-    mark: 7696
+    mark: 7699
   },
   {
     nameDetail: 'Intel Core i7-5950HQ @ 2.90GHz',
-    mark: 7696
-  },
-  {
-    nameDetail: 'Intel Core i7-7820HK @ 2.90GHz',
     mark: 7696
   },
   {
@@ -3272,12 +3284,16 @@ export const cpuData = [
     mark: 7694
   },
   {
+    nameDetail: 'Intel Core i7-7820HK @ 2.90GHz',
+    mark: 7682
+  },
+  {
     nameDetail: 'AMD Ryzen 5 3550U',
     mark: 7681
   },
   {
     nameDetail: 'Intel Core i5-8257U @ 1.40GHz',
-    mark: 7679
+    mark: 7680
   },
   {
     nameDetail: 'Intel Core i5-9300HF @ 2.40GHz',
@@ -3312,12 +3328,8 @@ export const cpuData = [
     mark: 7582
   },
   {
-    nameDetail: 'Intel Xeon E3-1535M v5 @ 2.90GHz',
-    mark: 7579
-  },
-  {
     nameDetail: 'AMD Ryzen 3 4300U',
-    mark: 7567
+    mark: 7568
   },
   {
     nameDetail: 'AMD Ryzen 3 2300X',
@@ -3325,7 +3337,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-7700T @ 2.90GHz',
-    mark: 7552
+    mark: 7561
   },
   {
     nameDetail: 'Intel Xeon E-2224G @ 3.50GHz',
@@ -3333,11 +3345,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8300H @ 2.30GHz',
-    mark: 7540
+    mark: 7542
   },
   {
     nameDetail: 'AMD Ryzen 5 PRO 2400GE',
     mark: 7530
+  },
+  {
+    nameDetail: 'Intel Xeon E3-1535M v5 @ 2.90GHz',
+    mark: 7523
   },
   {
     nameDetail: 'Intel Xeon E-2124G @ 3.40GHz',
@@ -3372,20 +3388,20 @@ export const cpuData = [
     mark: 7449
   },
   {
+    nameDetail: 'Intel Core i5-8400T @ 1.70GHz',
+    mark: 7447
+  },
+  {
     nameDetail: 'Intel Xeon D-1531 @ 2.20GHz',
     mark: 7447
   },
   {
-    nameDetail: 'Intel Core i5-8400T @ 1.70GHz',
-    mark: 7445
-  },
-  {
     nameDetail: 'Intel Xeon E5-1620 v4 @ 3.50GHz',
-    mark: 7440
+    mark: 7437
   },
   {
     nameDetail: 'Intel Xeon E3-1271 v3 @ 3.60GHz',
-    mark: 7430
+    mark: 7432
   },
   {
     nameDetail: 'Intel Xeon E3-1286 v3 @ 3.70GHz',
@@ -3396,16 +3412,16 @@ export const cpuData = [
     mark: 7410
   },
   {
-    nameDetail: 'Intel Core i3-10100T @ 3.00GHz',
-    mark: 7408
-  },
-  {
     nameDetail: 'Intel Xeon E3-1281 v3 @ 3.70GHz',
     mark: 7406
   },
   {
+    nameDetail: 'Intel Core i3-10100T @ 3.00GHz',
+    mark: 7405
+  },
+  {
     nameDetail: 'Intel Core i7-6920HQ @ 2.90GHz',
-    mark: 7385
+    mark: 7378
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 2700U',
@@ -3441,7 +3457,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 7 3700U',
-    mark: 7313
+    mark: 7317
   },
   {
     nameDetail: 'AMD Ryzen 7 PRO 3700U',
@@ -3484,16 +3500,16 @@ export const cpuData = [
     mark: 7218
   },
   {
-    nameDetail: 'Intel Xeon W3690 @ 3.47GHz',
-    mark: 7213
+    nameDetail: 'Intel Core i7-7820HQ @ 2.90GHz',
+    mark: 7209
   },
   {
-    nameDetail: 'Intel Core i7-7820HQ @ 2.90GHz',
-    mark: 7212
+    nameDetail: 'Intel Xeon W3690 @ 3.47GHz',
+    mark: 7208
   },
   {
     nameDetail: 'AMD Ryzen 3 3200G',
-    mark: 7189
+    mark: 7188
   },
   {
     nameDetail: 'Intel Xeon E5-2628L v2 @ 1.90GHz',
@@ -3508,10 +3524,6 @@ export const cpuData = [
     mark: 7175
   },
   {
-    nameDetail: 'Intel Core i7-990X @ 3.47GHz',
-    mark: 7148
-  },
-  {
     nameDetail: 'AMD Ryzen 7 3700C',
     mark: 7145
   },
@@ -3524,8 +3536,12 @@ export const cpuData = [
     mark: 7143
   },
   {
+    nameDetail: 'Intel Core i7-990X @ 3.47GHz',
+    mark: 7137
+  },
+  {
     nameDetail: 'Intel Core i7-4770K @ 3.50GHz',
-    mark: 7123
+    mark: 7129
   },
   {
     nameDetail: 'Intel Xeon D-1557 @ 1.50GHz',
@@ -3533,7 +3549,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 5 3500U',
-    mark: 7101
+    mark: 7102
   },
   {
     nameDetail: 'Intel Xeon X5679 @ 3.20GHz',
@@ -3544,12 +3560,8 @@ export const cpuData = [
     mark: 7093
   },
   {
-    nameDetail: 'Intel Core i7-4771 @ 3.50GHz',
-    mark: 7089
-  },
-  {
     nameDetail: 'Intel Xeon E3-1505M v5 @ 2.80GHz',
-    mark: 7082
+    mark: 7092
   },
   {
     nameDetail: 'Intel Xeon E3-1505M v6 @ 3.00GHz',
@@ -3558,6 +3570,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i7-995X @ 3.60GHz',
     mark: 7079
+  },
+  {
+    nameDetail: 'Intel Core i7-4771 @ 3.50GHz',
+    mark: 7074
   },
   {
     nameDetail: 'Intel Core i5-8305G @ 2.80GHz',
@@ -3597,7 +3613,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-4770 @ 3.40GHz',
-    mark: 7028
+    mark: 7030
   },
   {
     nameDetail: 'Intel Core i7-980 @ 3.33GHz',
@@ -3621,7 +3637,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E5-1620 v3 @ 3.50GHz',
-    mark: 6989
+    mark: 6991
   },
   {
     nameDetail: 'Intel Xeon E3-1285 v3 @ 3.60GHz',
@@ -3636,20 +3652,20 @@ export const cpuData = [
     mark: 6977
   },
   {
+    nameDetail: 'AMD Ryzen 5 PRO 3500U',
+    mark: 6968
+  },
+  {
     nameDetail: 'Intel Core i7-7700HQ @ 2.80GHz',
     mark: 6957
   },
   {
-    nameDetail: 'AMD Ryzen 5 PRO 3500U',
-    mark: 6956
+    nameDetail: 'Intel Core i7-4790S @ 3.20GHz',
+    mark: 6954
   },
   {
     nameDetail: 'Intel Xeon E3-1265L v4 @ 2.30GHz',
     mark: 6954
-  },
-  {
-    nameDetail: 'Intel Core i7-4790S @ 3.20GHz',
-    mark: 6950
   },
   {
     nameDetail: 'Intel Core i7-6820HQ @ 2.70GHz',
@@ -3672,6 +3688,10 @@ export const cpuData = [
     mark: 6924
   },
   {
+    nameDetail: 'AMD Ryzen 5 PRO 2500U',
+    mark: 6921
+  },
+  {
     nameDetail: 'Intel Xeon W3680 @ 3.33GHz',
     mark: 6917
   },
@@ -3684,20 +3704,16 @@ export const cpuData = [
     mark: 6897
   },
   {
+    nameDetail: 'Intel Pentium Gold G7400',
+    mark: 6896
+  },
+  {
     nameDetail: 'AMD Ryzen 7 2700U',
     mark: 6895
   },
   {
-    nameDetail: 'Intel Pentium Gold G7400',
-    mark: 6890
-  },
-  {
-    nameDetail: 'AMD Ryzen 5 PRO 2500U',
-    mark: 6889
-  },
-  {
     nameDetail: 'Intel Core i5-7600K @ 3.80GHz',
-    mark: 6870
+    mark: 6869
   },
   {
     nameDetail: 'Intel Xeon E5-2623 v3 @ 3.00GHz',
@@ -3725,11 +3741,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-10510U @ 1.80GHz',
-    mark: 6839
+    mark: 6837
   },
   {
     nameDetail: 'Intel Xeon E5-4620 @ 2.20GHz',
     mark: 6830
+  },
+  {
+    nameDetail: 'AMD Ryzen 5 3450U',
+    mark: 6824
+  },
+  {
+    nameDetail: 'AMD Ryzen Embedded V1605B',
+    mark: 6822
   },
   {
     nameDetail: 'Intel Core i7-4770S @ 3.10GHz',
@@ -3744,20 +3768,8 @@ export const cpuData = [
     mark: 6811
   },
   {
-    nameDetail: 'AMD Ryzen 5 3450U',
-    mark: 6808
-  },
-  {
-    nameDetail: 'Intel Core i7-4980HQ @ 2.80GHz',
-    mark: 6801
-  },
-  {
-    nameDetail: 'AMD Ryzen Embedded V1605B',
-    mark: 6795
-  },
-  {
     nameDetail: 'AMD Ryzen 3 2200G',
-    mark: 6782
+    mark: 6781
   },
   {
     nameDetail: 'Intel Core i7-4960HQ @ 2.60GHz',
@@ -3772,20 +3784,24 @@ export const cpuData = [
     mark: 6771
   },
   {
+    nameDetail: 'AMD FX-9590 Eight-Core',
+    mark: 6768
+  },
+  {
     nameDetail: 'Intel Core i3-9100F @ 3.60GHz',
+    mark: 6768
+  },
+  {
+    nameDetail: 'Intel Core i7-4980HQ @ 2.80GHz',
     mark: 6767
   },
   {
-    nameDetail: 'AMD FX-9590 Eight-Core',
-    mark: 6766
+    nameDetail: 'Intel Xeon E3-1230 v3 @ 3.30GHz',
+    mark: 6760
   },
   {
     nameDetail: 'Intel Core i7-4930MX @ 3.00GHz',
     mark: 6753
-  },
-  {
-    nameDetail: 'Intel Xeon E3-1230 v3 @ 3.30GHz',
-    mark: 6750
   },
   {
     nameDetail: 'Intel Core i7-6700TE @ 2.40GHz',
@@ -3813,7 +3829,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-9100 @ 3.60GHz',
-    mark: 6622
+    mark: 6625
   },
   {
     nameDetail: 'Intel Xeon E3-1275 V2 @ 3.50GHz',
@@ -3829,7 +3845,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-7600 @ 3.50GHz',
-    mark: 6603
+    mark: 6598
   },
   {
     nameDetail: 'MT6891Z/CZA',
@@ -3848,8 +3864,12 @@ export const cpuData = [
     mark: 6555
   },
   {
+    nameDetail: 'Qualcomm Technologies, Inc SA8195P',
+    mark: 6554
+  },
+  {
     nameDetail: 'Intel Core i7-6700HQ @ 2.60GHz',
-    mark: 6543
+    mark: 6544
   },
   {
     nameDetail: 'AMD Ryzen 3 2200GE',
@@ -3865,7 +3885,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Odin based on Qualcomm Technologies, Inc SM8350',
-    mark: 6516
+    mark: 6533
   },
   {
     nameDetail: 'Intel Xeon E3-1280 V2 @ 3.60GHz',
@@ -3873,7 +3893,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-4820K @ 3.70GHz',
-    mark: 6510
+    mark: 6501
   },
   {
     nameDetail: 'Intel Core i7-970 @ 3.20GHz',
@@ -3881,7 +3901,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-3770K @ 3.50GHz',
-    mark: 6461
+    mark: 6462
   },
   {
     nameDetail: 'Intel Xeon E3-1290 V2 @ 3.70GHz',
@@ -3917,15 +3937,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-10210U @ 1.60GHz',
-    mark: 6404
+    mark: 6401
   },
   {
     nameDetail: 'Intel Core i7-3770 @ 3.40GHz',
-    mark: 6395
-  },
-  {
-    nameDetail: 'Intel Core i7-8665U @ 1.90GHz',
-    mark: 6391
+    mark: 6397
   },
   {
     nameDetail: 'Intel Core i7-4870HQ @ 2.50GHz',
@@ -3936,20 +3952,28 @@ export const cpuData = [
     mark: 6385
   },
   {
-    nameDetail: 'Intel Xeon X5675 @ 3.07GHz',
-    mark: 6378
+    nameDetail: 'Qualcomm Technologies, Inc SM8350AC',
+    mark: 6385
   },
   {
-    nameDetail: 'Intel Core i7-8565U @ 1.80GHz',
-    mark: 6362
+    nameDetail: 'Intel Core i7-8665U @ 1.90GHz',
+    mark: 6383
+  },
+  {
+    nameDetail: 'Intel Xeon X5675 @ 3.07GHz',
+    mark: 6378
   },
   {
     nameDetail: 'Intel Xeon E5-2420 v2 @ 2.20GHz',
     mark: 6362
   },
   {
+    nameDetail: 'Intel Core i7-8565U @ 1.80GHz',
+    mark: 6358
+  },
+  {
     nameDetail: 'Intel Core i7-8650U @ 1.90GHz',
-    mark: 6356
+    mark: 6358
   },
   {
     nameDetail: 'AMD Ryzen 3 PRO 1200',
@@ -3977,7 +4001,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 3 1200',
-    mark: 6303
+    mark: 6304
   },
   {
     nameDetail: 'Intel Xeon E3-1240 V2 @ 3.40GHz',
@@ -4001,15 +4025,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8350U @ 1.70GHz',
-    mark: 6282
+    mark: 6284
   },
   {
     nameDetail: 'Intel Core i3-1115G4 @ 3.00GHz',
-    mark: 6272
+    mark: 6273
   },
   {
     nameDetail: 'Intel Core i7-4910MQ @ 2.90GHz',
-    mark: 6266
+    mark: 6265
   },
   {
     nameDetail: 'Intel Xeon E5-2620 v2 @ 2.10GHz',
@@ -4025,7 +4049,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8365U @ 1.60GHz',
-    mark: 6240
+    mark: 6239
   },
   {
     nameDetail: 'Intel Xeon D-1622 @ 2.60GHz',
@@ -4044,8 +4068,12 @@ export const cpuData = [
     mark: 6187
   },
   {
+    nameDetail: 'Intel Core i5-1030NG7 @ 1.10GHz',
+    mark: 6180
+  },
+  {
     nameDetail: 'Intel Core i7-3770S @ 3.10GHz',
-    mark: 6176
+    mark: 6178
   },
   {
     nameDetail: 'Intel Xeon E3-1240L v5 @ 2.10GHz',
@@ -4053,23 +4081,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-8100 @ 3.60GHz',
-    mark: 6167
-  },
-  {
-    nameDetail: 'Intel Core i5-1030NG7 @ 1.10GHz',
-    mark: 6164
+    mark: 6163
   },
   {
     nameDetail: 'Intel Core i3-9300T @ 3.20GHz',
     mark: 6162
   },
   {
-    nameDetail: 'AMD Ryzen 3 PRO 3300U',
-    mark: 6144
+    nameDetail: 'SM7325',
+    mark: 6145
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM8350AC',
-    mark: 6139
+    nameDetail: 'AMD Ryzen 3 PRO 3300U',
+    mark: 6144
   },
   {
     nameDetail: 'Intel Core i7-4860HQ @ 2.40GHz',
@@ -4084,12 +4108,12 @@ export const cpuData = [
     mark: 6131
   },
   {
-    nameDetail: 'Intel Core i7-4770HQ @ 2.20GHz',
-    mark: 6129
+    nameDetail: 'AMD FX-8370 Eight-Core',
+    mark: 6128
   },
   {
-    nameDetail: 'AMD FX-8370 Eight-Core',
-    mark: 6126
+    nameDetail: 'Intel Core i7-4770HQ @ 2.20GHz',
+    mark: 6125
   },
   {
     nameDetail: 'Intel Core i5-6600 @ 3.30GHz',
@@ -4101,7 +4125,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8265U @ 1.60GHz',
-    mark: 6104
+    mark: 6103
   },
   {
     nameDetail: 'Intel Xeon X5670 @ 2.93GHz',
@@ -4140,10 +4164,6 @@ export const cpuData = [
     mark: 6064
   },
   {
-    nameDetail: 'SM7325',
-    mark: 6061
-  },
-  {
     nameDetail: 'Intel Xeon E-2104G @ 3.20GHz',
     mark: 6057
   },
@@ -4164,10 +4184,6 @@ export const cpuData = [
     mark: 6034
   },
   {
-    nameDetail: 'AMD FX-9370 Eight-Core',
-    mark: 6024
-  },
-  {
     nameDetail: 'Intel Core i7-5700HQ @ 2.70GHz',
     mark: 6023
   },
@@ -4184,20 +4200,24 @@ export const cpuData = [
     mark: 5987
   },
   {
-    nameDetail: 'AMD Ryzen 3 PRO 2300U',
-    mark: 5982
+    nameDetail: 'AMD FX-9370 Eight-Core',
+    mark: 5985
   },
   {
-    nameDetail: 'Intel Core i7-3840QM @ 2.80GHz',
-    mark: 5977
+    nameDetail: 'AMD Ryzen 3 PRO 2300U',
+    mark: 5982
   },
   {
     nameDetail: 'AMD FX-8350 Eight-Core',
     mark: 5969
   },
   {
-    nameDetail: 'Intel Core i7-8550U @ 1.80GHz',
+    nameDetail: 'Intel Core i7-3840QM @ 2.80GHz',
     mark: 5966
+  },
+  {
+    nameDetail: 'Intel Core i7-8550U @ 1.80GHz',
+    mark: 5964
   },
   {
     nameDetail: 'Intel Xeon E3-1225 v5 @ 3.30GHz',
@@ -4205,15 +4225,23 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-8250U @ 1.60GHz',
-    mark: 5939
+    mark: 5941
   },
   {
     nameDetail: 'Intel Xeon E5-2650L @ 1.80GHz',
     mark: 5929
   },
   {
+    nameDetail: 'AMD Ryzen Embedded V1404I',
+    mark: 5917
+  },
+  {
     nameDetail: 'Intel Xeon D-1528 @ 1.90GHz',
     mark: 5910
+  },
+  {
+    nameDetail: 'MT6893Z/CZA',
+    mark: 5908
   },
   {
     nameDetail: 'Intel Core i7-5700EQ @ 2.60GHz',
@@ -4240,20 +4268,12 @@ export const cpuData = [
     mark: 5889
   },
   {
-    nameDetail: 'MT6893Z/CZA',
-    mark: 5885
-  },
-  {
     nameDetail: 'Intel Xeon D-1521 @ 2.40GHz',
     mark: 5876
   },
   {
     nameDetail: 'Intel Xeon E5-1620 @ 3.60GHz',
-    mark: 5873
-  },
-  {
-    nameDetail: 'AMD Ryzen 3 3300U',
-    mark: 5867
+    mark: 5871
   },
   {
     nameDetail: 'Intel Xeon E5-2430 @ 2.20GHz',
@@ -4268,12 +4288,16 @@ export const cpuData = [
     mark: 5834
   },
   {
+    nameDetail: 'Intel Core i7-4800MQ @ 2.70GHz',
+    mark: 5829
+  },
+  {
     nameDetail: 'Intel Core i3-8300T @ 3.20GHz',
     mark: 5827
   },
   {
-    nameDetail: 'Intel Core i7-4800MQ @ 2.70GHz',
-    mark: 5825
+    nameDetail: 'AMD Ryzen 3 3300U',
+    mark: 5803
   },
   {
     nameDetail: 'Intel Core i7-4710MQ @ 2.50GHz',
@@ -4293,11 +4317,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-4720HQ @ 2.60GHz',
-    mark: 5765
+    mark: 5762
   },
   {
     nameDetail: 'Intel Xeon X5650 @ 2.67GHz',
-    mark: 5765
+    mark: 5761
+  },
+  {
+    nameDetail: 'SM8350',
+    mark: 5761
   },
   {
     nameDetail: 'Intel Core i7-3820QM @ 2.70GHz',
@@ -4320,12 +4348,12 @@ export const cpuData = [
     mark: 5735
   },
   {
-    nameDetail: 'SM8350',
+    nameDetail: 'Snapdragon 8cx Gen 2 @ 3.1',
     mark: 5734
   },
   {
-    nameDetail: 'Snapdragon 8cx Gen 2 @ 3.1',
-    mark: 5734
+    nameDetail: 'Intel Xeon E3-1220 v6 @ 3.00GHz',
+    mark: 5729
   },
   {
     nameDetail: 'Qualcomm Technologies, Inc SM8250_AC',
@@ -4368,10 +4396,6 @@ export const cpuData = [
     mark: 5665
   },
   {
-    nameDetail: 'Intel Xeon E3-1220 v6 @ 3.00GHz',
-    mark: 5657
-  },
-  {
     nameDetail: 'Intel Core i5-6500 @ 3.20GHz',
     mark: 5655
   },
@@ -4381,7 +4405,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-3720QM @ 2.60GHz',
-    mark: 5655
+    mark: 5651
   },
   {
     nameDetail: 'AMD Opteron 6238',
@@ -4389,7 +4413,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4690K @ 3.50GHz',
-    mark: 5620
+    mark: 5623
   },
   {
     nameDetail: 'Intel Core i7-4722HQ @ 2.40GHz',
@@ -4397,19 +4421,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-2700K @ 3.50GHz',
-    mark: 5602
+    mark: 5604
   },
   {
     nameDetail: 'Intel Core i7-4750HQ @ 2.00GHz',
     mark: 5599
   },
   {
-    nameDetail: 'Intel Core i5-5675R @ 3.10GHz',
-    mark: 5581
+    nameDetail: 'Qualcomm Technologies, Inc SM8350',
+    mark: 5596
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM8350',
-    mark: 5578
+    nameDetail: 'Intel Core i5-5675R @ 3.10GHz',
+    mark: 5589
   },
   {
     nameDetail: 'Intel Core i7-3770T @ 2.50GHz',
@@ -4429,7 +4453,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-4700HQ @ 2.40GHz',
-    mark: 5557
+    mark: 5560
   },
   {
     nameDetail: 'Intel Core i5-8365UE @ 1.60GHz',
@@ -4441,7 +4465,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4670K @ 3.40GHz',
-    mark: 5543
+    mark: 5547
   },
   {
     nameDetail: 'Intel Core i5-7440HQ @ 2.80GHz',
@@ -4457,7 +4481,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-4710HQ @ 2.50GHz',
-    mark: 5515
+    mark: 5518
   },
   {
     nameDetail: 'Intel Xeon E3-1280 @ 3.50GHz',
@@ -4468,24 +4492,20 @@ export const cpuData = [
     mark: 5507
   },
   {
-    nameDetail: 'Intel Core i5-7400 @ 3.00GHz',
-    mark: 5503
-  },
-  {
     nameDetail: 'vendor Kirin820',
     mark: 5502
+  },
+  {
+    nameDetail: 'Intel Core i7-2600K @ 3.40GHz',
+    mark: 5500
   },
   {
     nameDetail: 'Intel Core i7-4860EQ @ 1.80GHz',
     mark: 5500
   },
   {
-    nameDetail: 'Intel Core i7-2600K @ 3.40GHz',
+    nameDetail: 'Intel Core i5-7400 @ 3.00GHz',
     mark: 5499
-  },
-  {
-    nameDetail: 'AMD Ryzen Embedded V1404I',
-    mark: 5491
   },
   {
     nameDetail: 'Intel Core i7-3615QE @ 2.30GHz',
@@ -4502,6 +4522,10 @@ export const cpuData = [
   {
     nameDetail: 'ARM Cortex-A72 16 Core 0 MHz',
     mark: 5435
+  },
+  {
+    nameDetail: 'MT6893Z_A/CZA',
+    mark: 5429
   },
   {
     nameDetail: 'Intel Core i7-4785T @ 2.20GHz',
@@ -4524,10 +4548,6 @@ export const cpuData = [
     mark: 5409
   },
   {
-    nameDetail: 'MT6893Z_A/CZA',
-    mark: 5407
-  },
-  {
     nameDetail: 'Intel Xeon E3-1240 @ 3.30GHz',
     mark: 5398
   },
@@ -4548,39 +4568,39 @@ export const cpuData = [
     mark: 5368
   },
   {
-    nameDetail: 'Intel Pentium Gold 7505 @ 2.00GHz',
-    mark: 5368
+    nameDetail: 'Intel Xeon E3-1245 @ 3.30GHz',
+    mark: 5366
   },
   {
-    nameDetail: 'Intel Xeon E3-1245 @ 3.30GHz',
-    mark: 5362
+    nameDetail: 'Qualcomm Technologies, Inc SM8250',
+    mark: 5366
   },
   {
     nameDetail: 'Intel Core i7-4702HQ @ 2.20GHz',
     mark: 5361
   },
   {
+    nameDetail: 'Intel Pentium Gold 7505 @ 2.00GHz',
+    mark: 5360
+  },
+  {
     nameDetail: 'Intel Xeon E5-2609 v4 @ 1.70GHz',
     mark: 5351
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM8250',
-    mark: 5349
+    nameDetail: 'Intel Core i5-4590 @ 3.30GHz',
+    mark: 5344
   },
   {
     nameDetail: 'Intel Core i7-2600 @ 3.40GHz',
     mark: 5344
   },
   {
-    nameDetail: 'Intel Core i5-4590 @ 3.30GHz',
-    mark: 5343
+    nameDetail: 'Intel Core i5-7500T @ 2.70GHz',
+    mark: 5319
   },
   {
     nameDetail: 'Intel Core i7-4700MQ @ 2.40GHz',
-    mark: 5333
-  },
-  {
-    nameDetail: 'Intel Core i5-7500T @ 2.70GHz',
     mark: 5319
   },
   {
@@ -4592,6 +4612,10 @@ export const cpuData = [
     mark: 5304
   },
   {
+    nameDetail: 'Qualcomm Technologies, Inc KONA',
+    mark: 5302
+  },
+  {
     nameDetail: 'Intel Xeon E3-1505L v5 @ 2.00GHz',
     mark: 5301
   },
@@ -4600,12 +4624,12 @@ export const cpuData = [
     mark: 5291
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc KONA',
-    mark: 5290
-  },
-  {
     nameDetail: 'AMD Opteron 6274',
     mark: 5286
+  },
+  {
+    nameDetail: 'Intel Xeon X5687 @ 3.60GHz',
+    mark: 5282
   },
   {
     nameDetail: 'Intel Xeon E5-2620 @ 2.00GHz',
@@ -4622,10 +4646,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon E5-2430L @ 2.00GHz',
     mark: 5273
-  },
-  {
-    nameDetail: 'Intel Xeon X5687 @ 3.60GHz',
-    mark: 5272
   },
   {
     nameDetail: 'Intel Xeon E3-1225 v3 @ 3.20GHz',
@@ -4664,20 +4684,24 @@ export const cpuData = [
     mark: 5228
   },
   {
-    nameDetail: 'AMD FX-8300 Eight-Core',
-    mark: 5222
+    nameDetail: 'lisa based Qualcomm Technologies, Inc. SM7325',
+    mark: 5227
   },
   {
-    nameDetail: 'lisa based Qualcomm Technologies, Inc. SM7325',
-    mark: 5216
+    nameDetail: 'AMD FX-8300 Eight-Core',
+    mark: 5223
   },
   {
     nameDetail: 'AMD Ryzen 5 3500C',
     mark: 5214
   },
   {
+    nameDetail: 'Vili based on Qualcomm Technologies, Inc SM8350',
+    mark: 5213
+  },
+  {
     nameDetail: 'Intel Core i5-4570 @ 3.20GHz',
-    mark: 5200
+    mark: 5199
   },
   {
     nameDetail: 'Microsoft SQ2 @ 3.15 GHz',
@@ -4688,12 +4712,16 @@ export const cpuData = [
     mark: 5186
   },
   {
-    nameDetail: 'Vili based on Qualcomm Technologies, Inc SM8350',
-    mark: 5181
+    nameDetail: 'Intel Core i5-6400 @ 2.70GHz',
+    mark: 5163
   },
   {
-    nameDetail: 'Intel Core i5-6400 @ 2.70GHz',
-    mark: 5165
+    nameDetail: 'Intel Core i7-4712HQ @ 2.30GHz',
+    mark: 5161
+  },
+  {
+    nameDetail: 'Intel Xeon E5649 @ 2.53GHz',
+    mark: 5160
   },
   {
     nameDetail: 'AMD FX-8150 Eight-Core',
@@ -4704,12 +4732,16 @@ export const cpuData = [
     mark: 5154
   },
   {
+    nameDetail: 'vendor Kirin980',
+    mark: 5150
+  },
+  {
     nameDetail: 'Intel Xeon E5-2420 @ 1.90GHz',
     mark: 5149
   },
   {
-    nameDetail: 'Intel Core i7-4712HQ @ 2.30GHz',
-    mark: 5147
+    nameDetail: 'Qualcomm Snapdragon 7325',
+    mark: 5148
   },
   {
     nameDetail: 'AMD FX-8310 Eight-Core',
@@ -4717,11 +4749,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Apple A13 Bionic',
-    mark: 5141
-  },
-  {
-    nameDetail: 'Intel Xeon E5649 @ 2.53GHz',
-    mark: 5133
+    mark: 5145
   },
   {
     nameDetail: 'Intel Core i7-3630QM @ 2.40GHz',
@@ -4729,19 +4757,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-1005G1 @ 1.20GHz',
-    mark: 5129
+    mark: 5128
   },
   {
     nameDetail: 'Intel Core i5-6440HQ @ 2.60GHz',
-    mark: 5126
+    mark: 5128
   },
   {
     nameDetail: 'Intel Xeon X5672 @ 3.20GHz',
     mark: 5117
-  },
-  {
-    nameDetail: 'Qualcomm Snapdragon 7325',
-    mark: 5116
   },
   {
     nameDetail: 'Intel Xeon X5677 @ 3.47GHz',
@@ -4749,7 +4773,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-7300HQ @ 2.50GHz',
-    mark: 5105
+    mark: 5104
+  },
+  {
+    nameDetail: 'Intel Core i7-3610QM @ 2.30GHz',
+    mark: 5100
   },
   {
     nameDetail: 'Intel Core i5-4590S @ 3.00GHz',
@@ -4758,10 +4786,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i7-4702MQ @ 2.20GHz',
     mark: 5095
-  },
-  {
-    nameDetail: 'Intel Core i7-3610QM @ 2.30GHz',
-    mark: 5092
   },
   {
     nameDetail: 'Star based on Qualcomm Technologies, Inc SM8350',
@@ -4776,12 +4800,12 @@ export const cpuData = [
     mark: 5077
   },
   {
-    nameDetail: 'Intel Core i7-10510Y @ 1.20GHz',
-    mark: 5076
-  },
-  {
     nameDetail: 'Intel Core i5-5575R @ 2.80GHz',
     mark: 5070
+  },
+  {
+    nameDetail: 'Venus based on Qualcomm Technologies, Inc SM8350',
+    mark: 5069
   },
   {
     nameDetail: '06/8c',
@@ -4800,24 +4824,20 @@ export const cpuData = [
     mark: 5034
   },
   {
-    nameDetail: 'vendor Kirin980',
-    mark: 5034
-  },
-  {
-    nameDetail: 'Venus based on Qualcomm Technologies, Inc SM8350',
-    mark: 5032
-  },
-  {
     nameDetail: 'Intel Core i7-8665UE @ 1.70GHz',
     mark: 5017
   },
   {
-    nameDetail: 'Intel Xeon E3-1230 @ 3.20GHz',
+    nameDetail: 'Intel Core i7-10510Y @ 1.20GHz',
     mark: 5016
   },
   {
     nameDetail: 'Intel Xeon E3-1235L v5 @ 2.00GHz',
     mark: 5013
+  },
+  {
+    nameDetail: 'Intel Xeon E3-1230 @ 3.20GHz',
+    mark: 5006
   },
   {
     nameDetail: 'Intel Xeon E3-1290 @ 3.60GHz',
@@ -4837,7 +4857,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Samsung Exynos 2100',
-    mark: 4942
+    mark: 4949
   },
   {
     nameDetail: 'Intel Core i7-4700EQ @ 2.40GHz',
@@ -4877,7 +4897,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-7320 @ 4.10GHz',
-    mark: 4852
+    mark: 4856
   },
   {
     nameDetail: 'Samsung Technologies, Inc Exynos E1080',
@@ -4885,19 +4905,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-6500T @ 2.50GHz',
-    mark: 4843
+    mark: 4845
   },
   {
     nameDetail: 'Intel Core i5-10210Y @ 1.00GHz',
     mark: 4836
   },
   {
-    nameDetail: 'Intel Core i5-7442EQ @ 2.10GHz',
+    nameDetail: 'Intel Core i5-4460 @ 3.20GHz',
     mark: 4834
   },
   {
-    nameDetail: 'Intel Core i5-4460 @ 3.20GHz',
-    mark: 4833
+    nameDetail: 'Intel Core i5-7442EQ @ 2.10GHz',
+    mark: 4834
   },
   {
     nameDetail: 'MT6877V/TZA',
@@ -4921,7 +4941,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-3550 @ 3.30GHz',
-    mark: 4778
+    mark: 4783
   },
   {
     nameDetail: 'Intel Core i5-6500TE @ 2.30GHz',
@@ -4932,12 +4952,12 @@ export const cpuData = [
     mark: 4767
   },
   {
-    nameDetail: 'Intel Xeon E3-1230L v3 @ 1.80GHz',
-    mark: 4764
+    nameDetail: 'Intel Xeon E3-1225 V2 @ 3.20GHz',
+    mark: 4766
   },
   {
-    nameDetail: 'Intel Xeon E3-1225 V2 @ 3.20GHz',
-    mark: 4761
+    nameDetail: 'Intel Xeon E3-1230L v3 @ 1.80GHz',
+    mark: 4764
   },
   {
     nameDetail: 'ARM Neoverse-N1 6 Core 0 MHz',
@@ -4969,7 +4989,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4440 @ 3.10GHz',
-    mark: 4715
+    mark: 4718
   },
   {
     nameDetail: 'Intel Xeon E3-1265L V2 @ 2.50GHz',
@@ -4981,7 +5001,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Apple A12 Bionic',
-    mark: 4708
+    mark: 4707
   },
   {
     nameDetail: 'Intel Core i3-7300 @ 4.00GHz',
@@ -4997,7 +5017,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Xeon E3-1220 V2 @ 3.10GHz',
-    mark: 4692
+    mark: 4691
   },
   {
     nameDetail: 'Intel Atom C3758 @ 2.20GHz',
@@ -5021,19 +5041,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4430 @ 3.00GHz',
-    mark: 4641
+    mark: 4646
   },
   {
     nameDetail: 'AMD Athlon Silver PRO 3125GE',
     mark: 4633
   },
   {
-    nameDetail: 'Intel Celeron N5095A @ 2.00GHz',
-    mark: 4627
+    nameDetail: 'Intel Core i7-3632QM @ 2.20GHz',
+    mark: 4628
   },
   {
-    nameDetail: 'Intel Core i7-3632QM @ 2.20GHz',
-    mark: 4625
+    nameDetail: 'Intel Celeron N5095A @ 2.00GHz',
+    mark: 4627
   },
   {
     nameDetail: 'Intel Core i5-3570S @ 3.10GHz',
@@ -5100,6 +5120,10 @@ export const cpuData = [
     mark: 4545
   },
   {
+    nameDetail: 'Microsoft ARM SQ1 @ 3.0 GHz',
+    mark: 4545
+  },
+  {
     nameDetail: 'Renoir based on Qualcomm Technologies, Inc SM7350',
     mark: 4543
   },
@@ -5116,12 +5140,12 @@ export const cpuData = [
     mark: 4524
   },
   {
-    nameDetail: 'Intel Core i5-4460S @ 2.90GHz',
-    mark: 4522
-  },
-  {
     nameDetail: 'AMD Opteron 4280',
     mark: 4504
+  },
+  {
+    nameDetail: 'Intel Core i5-4460S @ 2.90GHz',
+    mark: 4503
   },
   {
     nameDetail: 'Intel Core i3-9100TE @ 2.20GHz',
@@ -5137,7 +5161,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Athlon 3000G',
-    mark: 4483
+    mark: 4480
   },
   {
     nameDetail: 'AMD Athlon PRO 300GE',
@@ -5145,11 +5169,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD FX-6350 Six-Core',
-    mark: 4462
-  },
-  {
-    nameDetail: 'Microsoft ARM SQ1 @ 3.0 GHz',
-    mark: 4459
+    mark: 4463
   },
   {
     nameDetail: 'AMD FX-6330 Six-Core',
@@ -5189,11 +5209,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'vendor Kirin810',
-    mark: 4415
-  },
-  {
-    nameDetail: 'Intel Core i5-4670T @ 2.30GHz',
-    mark: 4413
+    mark: 4409
   },
   {
     nameDetail: 'Intel Pentium Gold G6600 @ 4.20GHz',
@@ -5228,16 +5244,20 @@ export const cpuData = [
     mark: 4366
   },
   {
+    nameDetail: 'Intel Core i5-4670T @ 2.30GHz',
+    mark: 4361
+  },
+  {
     nameDetail: 'AMD FX-6130 Six-Core',
+    mark: 4353
+  },
+  {
+    nameDetail: 'Intel Core i5-3470S @ 2.90GHz',
     mark: 4353
   },
   {
     nameDetail: 'Intel Core i7-2760QM @ 2.40GHz',
     mark: 4353
-  },
-  {
-    nameDetail: 'Intel Core i5-3470S @ 2.90GHz',
-    mark: 4351
   },
   {
     nameDetail: 'Intel Core i7-2820QM @ 2.30GHz',
@@ -5249,7 +5269,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-7100 @ 3.90GHz',
-    mark: 4343
+    mark: 4342
   },
   {
     nameDetail: 'Hisilicon Kirin990',
@@ -5265,6 +5285,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Pentium Gold G6405 @ 4.10GHz',
+    mark: 4285
+  },
+  {
+    nameDetail: 'MT6877V/ZA',
     mark: 4285
   },
   {
@@ -5301,7 +5325,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Qualcomm Technologies, Inc SM8150',
-    mark: 4242
+    mark: 4248
   },
   {
     nameDetail: 'AMD Athlon 320GE',
@@ -5317,23 +5341,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Apple A11 Bionic',
-    mark: 4232
+    mark: 4231
   },
   {
     nameDetail: 'Intel Core i3-8140U @ 2.10GHz',
     mark: 4227
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM8150P',
+    nameDetail: 'Hisilicon Kirin980',
     mark: 4224
   },
   {
-    nameDetail: 'MT6877V/ZA',
-    mark: 4216
-  },
-  {
-    nameDetail: 'Hisilicon Kirin980',
-    mark: 4214
+    nameDetail: 'Qualcomm Technologies, Inc SM8150P',
+    mark: 4224
   },
   {
     nameDetail: 'AMD Ryzen 3 PRO 2100GE',
@@ -5385,7 +5405,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD FX-6300 Six-Core',
-    mark: 4154
+    mark: 4155
   },
   {
     nameDetail: 'Intel Atom x6425E @ 2.00GHz',
@@ -5405,7 +5425,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Athlon 200GE',
-    mark: 4134
+    mark: 4135
   },
   {
     nameDetail: 'AMD Opteron 3380',
@@ -5417,7 +5437,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Pentium Gold G6400 @ 4.00GHz',
-    mark: 4129
+    mark: 4130
   },
   {
     nameDetail: 'Intel Core i5-2550K @ 3.40GHz',
@@ -5425,7 +5445,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-2720QM @ 2.20GHz',
-    mark: 4105
+    mark: 4114
   },
   {
     nameDetail: 'Intel Core i7-7660U @ 2.50GHz',
@@ -5449,7 +5469,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-3330 @ 3.00GHz',
-    mark: 4091
+    mark: 4090
   },
   {
     nameDetail: 'Intel Celeron J6413 @ 1.80GHz',
@@ -5464,12 +5484,16 @@ export const cpuData = [
     mark: 4070
   },
   {
-    nameDetail: 'Intel Core i7-2710QE @ 2.10GHz',
-    mark: 4044
+    nameDetail: 'MT6833P',
+    mark: 4051
   },
   {
     nameDetail: 'Intel Core i5-7360U @ 2.30GHz',
-    mark: 4042
+    mark: 4050
+  },
+  {
+    nameDetail: 'Intel Core i7-2710QE @ 2.10GHz',
+    mark: 4044
   },
   {
     nameDetail: 'Intel Xeon E3-1260L @ 2.40GHz',
@@ -5481,7 +5505,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Athlon Gold 3150U',
-    mark: 4029
+    mark: 4025
   },
   {
     nameDetail: 'Intel Xeon E5640 @ 2.67GHz',
@@ -5556,10 +5580,6 @@ export const cpuData = [
     mark: 3911
   },
   {
-    nameDetail: 'MT6833P',
-    mark: 3907
-  },
-  {
     nameDetail: 'AMD Opteron 4332 HE',
     mark: 3906
   },
@@ -5577,7 +5597,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Ryzen 3 3200U',
-    mark: 3886
+    mark: 3885
   },
   {
     nameDetail: 'AMD A8-7500',
@@ -5621,11 +5641,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-2400 @ 3.10GHz',
-    mark: 3838
+    mark: 3840
   },
   {
     nameDetail: 'Intel Core i3-8145U @ 2.10GHz',
-    mark: 3836
+    mark: 3837
+  },
+  {
+    nameDetail: 'Intel Xeon E3-1225 @ 3.10GHz',
+    mark: 3817
   },
   {
     nameDetail: 'Intel Core i3-1115GRE @ 3.00GHz',
@@ -5640,10 +5664,6 @@ export const cpuData = [
     mark: 3810
   },
   {
-    nameDetail: 'Intel Xeon E3-1225 @ 3.10GHz',
-    mark: 3810
-  },
-  {
     nameDetail: 'Intel Core i3-4370 @ 3.80GHz',
     mark: 3807
   },
@@ -5654,6 +5674,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i7-7560U @ 2.40GHz',
     mark: 3801
+  },
+  {
+    nameDetail: 'MT8789V/CT',
+    mark: 3800
   },
   {
     nameDetail: 'Intel Core i5-2380P @ 3.10GHz',
@@ -5705,7 +5729,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-7300U @ 2.60GHz',
-    mark: 3748
+    mark: 3750
   },
   {
     nameDetail: 'Intel Pentium Gold G6405T @ 3.50GHz',
@@ -5725,7 +5749,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-2670QM @ 2.20GHz',
-    mark: 3729
+    mark: 3726
   },
   {
     nameDetail: 'Intel Xeon E5630 @ 2.53GHz',
@@ -5753,7 +5777,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD FX-6100 Six-Core',
-    mark: 3678
+    mark: 3679
   },
   {
     nameDetail: 'AMD Athlon X4 880K',
@@ -5761,7 +5785,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-7600U @ 2.80GHz',
-    mark: 3666
+    mark: 3667
   },
   {
     nameDetail: 'AMD A9-9820',
@@ -5769,19 +5793,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-7500U @ 2.70GHz',
-    mark: 3656
+    mark: 3658
+  },
+  {
+    nameDetail: 'AMD Phenom II X6 1090T',
+    mark: 3655
   },
   {
     nameDetail: 'Snapdragon 8cx @ 2.84 GHz',
     mark: 3655
   },
   {
-    nameDetail: 'AMD Phenom II X6 1090T',
-    mark: 3652
-  },
-  {
     nameDetail: 'Intel Core i3-8130U @ 2.20GHz',
-    mark: 3647
+    mark: 3648
   },
   {
     nameDetail: 'AMD PRO A10-9700',
@@ -5796,16 +5820,16 @@ export const cpuData = [
     mark: 3632
   },
   {
-    nameDetail: 'Intel Core i3-6100T @ 3.20GHz',
-    mark: 3627
+    nameDetail: 'Intel Xeon E5620 @ 2.40GHz',
+    mark: 3630
   },
   {
     nameDetail: 'DG1301SML87HY',
     mark: 3624
   },
   {
-    nameDetail: 'Intel Xeon E5620 @ 2.40GHz',
-    mark: 3619
+    nameDetail: 'Intel Core i3-6100T @ 3.20GHz',
+    mark: 3617
   },
   {
     nameDetail: 'AMD Athlon X4 950',
@@ -5820,24 +5844,24 @@ export const cpuData = [
     mark: 3605
   },
   {
+    nameDetail: 'Intel Core i5-2310 @ 2.90GHz',
+    mark: 3603
+  },
+  {
     nameDetail: 'Intel Pentium Gold G5600T @ 3.30GHz',
     mark: 3601
   },
   {
-    nameDetail: 'Intel Core i5-2310 @ 2.90GHz',
-    mark: 3600
+    nameDetail: 'Intel Core i5-4460T @ 1.90GHz',
+    mark: 3595
   },
   {
     nameDetail: 'Intel Xeon E3-1265L @ 2.40GHz',
     mark: 3589
   },
   {
-    nameDetail: 'Intel Core i5-4460T @ 1.90GHz',
-    mark: 3588
-  },
-  {
     nameDetail: 'Intel Core i7-6650U @ 2.20GHz',
-    mark: 3579
+    mark: 3585
   },
   {
     nameDetail: 'MT6853V/ZA',
@@ -5849,7 +5873,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-4170 @ 3.70GHz',
-    mark: 3570
+    mark: 3569
   },
   {
     nameDetail: 'AMD Opteron 6176 SE',
@@ -5861,11 +5885,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD A10-9700',
-    mark: 3541
+    mark: 3546
   },
   {
     nameDetail: 'Intel Core i3-4330 @ 3.50GHz',
-    mark: 3538
+    mark: 3539
   },
   {
     nameDetail: 'AMD A10-8850',
@@ -5885,39 +5909,43 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Pentium G4560 @ 3.50GHz',
-    mark: 3511
+    mark: 3513
+  },
+  {
+    nameDetail: 'Intel Core i7-6600U @ 2.60GHz',
+    mark: 3508
   },
   {
     nameDetail: 'Intel Pentium Gold G5420T @ 3.20GHz',
     mark: 3508
   },
   {
-    nameDetail: 'Intel Core i7-6600U @ 2.60GHz',
-    mark: 3507
-  },
-  {
     nameDetail: 'Intel Core i3-4340 @ 3.60GHz',
     mark: 3506
+  },
+  {
+    nameDetail: 'Samsung Exynos 9820',
+    mark: 3505
   },
   {
     nameDetail: 'Intel Xeon E5-2407 v2 @ 2.40GHz',
     mark: 3504
   },
   {
-    nameDetail: 'Samsung Exynos 9820',
-    mark: 3499
+    nameDetail: 'Intel Core i3-4160 @ 3.60GHz',
+    mark: 3495
   },
   {
     nameDetail: 'Intel Xeon W3580 @ 3.33GHz',
     mark: 3495
   },
   {
-    nameDetail: 'Intel Core i3-4160 @ 3.60GHz',
-    mark: 3494
-  },
-  {
     nameDetail: 'Intel Core i5-4340M @ 2.90GHz',
     mark: 3491
+  },
+  {
+    nameDetail: 'AMD A10-7870K',
+    mark: 3485
   },
   {
     nameDetail: 'AMD Opteron 4365 EE',
@@ -5934,10 +5962,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD A10-7890K',
     mark: 3477
-  },
-  {
-    nameDetail: 'AMD A10-7870K',
-    mark: 3474
   },
   {
     nameDetail: 'Intel Core i7-2635QM @ 2.00GHz',
@@ -5960,6 +5984,10 @@ export const cpuData = [
     mark: 3458
   },
   {
+    nameDetail: 'Samsung Exynos 9825',
+    mark: 3452
+  },
+  {
     nameDetail: 'Intel Xeon E5-1603 @ 2.80GHz',
     mark: 3448
   },
@@ -5980,10 +6008,6 @@ export const cpuData = [
     mark: 3446
   },
   {
-    nameDetail: 'Samsung Exynos 9825',
-    mark: 3444
-  },
-  {
     nameDetail: 'AMD Athlon X4 860K',
     mark: 3436
   },
@@ -5994,10 +6018,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i3-7100H @ 3.00GHz',
     mark: 3430
-  },
-  {
-    nameDetail: 'Intel Core i7-6560U @ 2.20GHz',
-    mark: 3428
   },
   {
     nameDetail: 'AMD Embedded R-Series RX-418GD Radeon R6',
@@ -6020,12 +6040,20 @@ export const cpuData = [
     mark: 3404
   },
   {
+    nameDetail: 'MT6833',
+    mark: 3404
+  },
+  {
+    nameDetail: 'Samsung Exynos 9810',
+    mark: 3401
+  },
+  {
     nameDetail: 'AMD Opteron 4226',
     mark: 3400
   },
   {
-    nameDetail: 'Samsung Exynos 9810',
-    mark: 3397
+    nameDetail: 'Intel Core i7-6560U @ 2.20GHz',
+    mark: 3398
   },
   {
     nameDetail: 'MT6833V/ZA',
@@ -6048,12 +6076,8 @@ export const cpuData = [
     mark: 3381
   },
   {
-    nameDetail: 'MT6833',
-    mark: 3381
-  },
-  {
     nameDetail: 'Intel Core i5-2300 @ 2.80GHz',
-    mark: 3378
+    mark: 3380
   },
   {
     nameDetail: 'AMD Opteron X3421 APU',
@@ -6068,16 +6092,16 @@ export const cpuData = [
     mark: 3369
   },
   {
+    nameDetail: 'Intel Core i3-4370T @ 3.30GHz',
+    mark: 3368
+  },
+  {
     nameDetail: 'AMD A10-7850K APU',
     mark: 3363
   },
   {
-    nameDetail: 'Intel Core i3-4370T @ 3.30GHz',
-    mark: 3361
-  },
-  {
     nameDetail: 'Intel Core i3-4150 @ 3.50GHz',
-    mark: 3358
+    mark: 3360
   },
   {
     nameDetail: 'MT6781V/CD',
@@ -6086,6 +6110,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon W3570 @ 3.20GHz',
     mark: 3354
+  },
+  {
+    nameDetail: 'MT6785',
+    mark: 3348
   },
   {
     nameDetail: 'AMD PRO A8-9600',
@@ -6124,10 +6152,6 @@ export const cpuData = [
     mark: 3320
   },
   {
-    nameDetail: 'MT6785',
-    mark: 3317
-  },
-  {
     nameDetail: 'Intel Core i3-6100E @ 2.70GHz',
     mark: 3315
   },
@@ -6160,6 +6184,10 @@ export const cpuData = [
     mark: 3287
   },
   {
+    nameDetail: 'MT6833V/PNZA',
+    mark: 3286
+  },
+  {
     nameDetail: 'AMD Phenom II X6 1075T',
     mark: 3284
   },
@@ -6168,11 +6196,11 @@ export const cpuData = [
     mark: 3280
   },
   {
-    nameDetail: 'Intel Core i7-6500U @ 2.50GHz',
-    mark: 3279
+    nameDetail: 'Intel Core i3-10110Y @ 1.00GHz',
+    mark: 3278
   },
   {
-    nameDetail: 'Intel Core i3-10110Y @ 1.00GHz',
+    nameDetail: 'Intel Core i7-6500U @ 2.50GHz',
     mark: 3278
   },
   {
@@ -6201,7 +6229,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD FX-4350 Quad-Core',
-    mark: 3261
+    mark: 3262
   },
   {
     nameDetail: 'Intel Core i5-6360U @ 2.00GHz',
@@ -6209,7 +6237,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-6300U @ 2.40GHz',
-    mark: 3258
+    mark: 3259
   },
   {
     nameDetail: 'AMD Ryzen Embedded V1202B',
@@ -6293,7 +6321,11 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Phenom II X6 1055T',
-    mark: 3194
+    mark: 3195
+  },
+  {
+    nameDetail: 'Qualcomm Technologies, Inc ATOLL-AB',
+    mark: 3195
   },
   {
     nameDetail: 'Intel Xeon X3470 @ 2.93GHz',
@@ -6304,10 +6336,6 @@ export const cpuData = [
     mark: 3193
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc ATOLL-AB',
-    mark: 3192
-  },
-  {
     nameDetail: '06/9c',
     mark: 3191
   },
@@ -6316,12 +6344,12 @@ export const cpuData = [
     mark: 3184
   },
   {
-    nameDetail: 'Intel Core i7-5557U @ 3.10GHz',
-    mark: 3184
-  },
-  {
     nameDetail: 'AMD PRO A12-9800E',
     mark: 3182
+  },
+  {
+    nameDetail: 'Intel Core i7-5557U @ 3.10GHz',
+    mark: 3181
   },
   {
     nameDetail: 'Intel Core i7-4600M @ 2.90GHz',
@@ -6329,7 +6357,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'ARM Neoverse-N1 4 Core 0 MHz',
-    mark: 3177
+    mark: 3176
   },
   {
     nameDetail: 'AMD A12-9730P',
@@ -6368,16 +6396,12 @@ export const cpuData = [
     mark: 3154
   },
   {
+    nameDetail: 'Intel Core i7-950 @ 3.07GHz',
+    mark: 3154
+  },
+  {
     nameDetail: 'AMD A10-7700K APU',
     mark: 3153
-  },
-  {
-    nameDetail: 'Intel Core i7-950 @ 3.07GHz',
-    mark: 3152
-  },
-  {
-    nameDetail: 'Intel Core i3-10100Y @ 1.30GHz',
-    mark: 3151
   },
   {
     nameDetail: 'Qualcomm Technologies, Inc SDM730G AIE',
@@ -6416,6 +6440,10 @@ export const cpuData = [
     mark: 3124
   },
   {
+    nameDetail: 'Intel Core i3-10100Y @ 1.30GHz',
+    mark: 3120
+  },
+  {
     nameDetail: 'Intel Core i5-4310M @ 2.70GHz',
     mark: 3119
   },
@@ -6436,6 +6464,14 @@ export const cpuData = [
     mark: 3109
   },
   {
+    nameDetail: 'AMD PRO A10-8770E',
+    mark: 3106
+  },
+  {
+    nameDetail: 'Intel Core i5-4570TE @ 2.70GHz',
+    mark: 3106
+  },
+  {
     nameDetail: 'Snapdragon 7c Gen 2 @ 2.55',
     mark: 3103
   },
@@ -6448,11 +6484,11 @@ export const cpuData = [
     mark: 3098
   },
   {
-    nameDetail: 'AMD FX-870K Quad Core',
-    mark: 3094
+    nameDetail: 'Qualcomm Technologies, Inc LITO',
+    mark: 3097
   },
   {
-    nameDetail: 'AMD PRO A10-8770E',
+    nameDetail: 'AMD FX-870K Quad Core',
     mark: 3094
   },
   {
@@ -6460,7 +6496,7 @@ export const cpuData = [
     mark: 3092
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc LITO',
+    nameDetail: 'Qualcomm Technologies, Inc SDM720G',
     mark: 3091
   },
   {
@@ -6472,16 +6508,12 @@ export const cpuData = [
     mark: 3085
   },
   {
-    nameDetail: 'Intel Core i5-4570TE @ 2.70GHz',
-    mark: 3084
-  },
-  {
     nameDetail: 'AMD PRO A12-8870E',
     mark: 3083
   },
   {
     nameDetail: 'Intel Core i7-870 @ 2.93GHz',
-    mark: 3073
+    mark: 3074
   },
   {
     nameDetail: 'MT6853V/NZA',
@@ -6504,8 +6536,8 @@ export const cpuData = [
     mark: 3066
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SDM720G',
-    mark: 3065
+    nameDetail: 'Intel Core i5-4308U @ 2.80GHz',
+    mark: 3064
   },
   {
     nameDetail: 'AMD Opteron 2435',
@@ -6516,20 +6548,16 @@ export const cpuData = [
     mark: 3061
   },
   {
-    nameDetail: 'Intel Core i5-4308U @ 2.80GHz',
-    mark: 3061
-  },
-  {
-    nameDetail: 'MediaTek MT6785V/CC',
-    mark: 3051
-  },
-  {
     nameDetail: 'Intel Xeon W3530 @ 2.80GHz',
     mark: 3045
   },
   {
     nameDetail: 'Intel Core i5-5257U @ 2.70GHz',
-    mark: 3042
+    mark: 3044
+  },
+  {
+    nameDetail: 'MediaTek MT6785V/CC',
+    mark: 3043
   },
   {
     nameDetail: 'Intel Core i3-6100H @ 2.70GHz',
@@ -6553,19 +6581,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4300M @ 2.60GHz',
-    mark: 3024
+    mark: 3025
   },
   {
     nameDetail: 'Intel Pentium GOLD 6500Y @ 1.10GHz',
     mark: 3024
   },
   {
-    nameDetail: 'AMD A8-7650K',
-    mark: 3013
+    nameDetail: 'Qualcomm Technologies, Inc SM7125',
+    mark: 3015
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM7125',
-    mark: 3008
+    nameDetail: 'AMD A8-7650K',
+    mark: 3013
   },
   {
     nameDetail: 'Intel Core i7-5650U @ 2.20GHz',
@@ -6585,7 +6613,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Celeron J4125 @ 2.00GHz',
-    mark: 2993
+    mark: 2994
   },
   {
     nameDetail: 'Intel Core m3-8100Y @ 1.10GHz',
@@ -6608,12 +6636,16 @@ export const cpuData = [
     mark: 2986
   },
   {
-    nameDetail: 'Intel Core i7-5600U @ 2.60GHz',
-    mark: 2986
+    nameDetail: 'Intel Core i3-7130U @ 2.70GHz',
+    mark: 2983
   },
   {
-    nameDetail: 'Intel Core i3-7130U @ 2.70GHz',
-    mark: 2981
+    nameDetail: 'Qualcomm Technologies, Inc SM7150',
+    mark: 2983
+  },
+  {
+    nameDetail: 'Intel Core i7-5600U @ 2.60GHz',
+    mark: 2982
   },
   {
     nameDetail: 'Intel Core i5-2405S @ 2.50GHz',
@@ -6636,10 +6668,6 @@ export const cpuData = [
     mark: 2977
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM7150',
-    mark: 2975
-  },
-  {
     nameDetail: 'Intel Core i5-3470T @ 2.90GHz',
     mark: 2958
   },
@@ -6660,20 +6688,12 @@ export const cpuData = [
     mark: 2947
   },
   {
-    nameDetail: 'Intel Pentium G4520 @ 3.60GHz',
-    mark: 2945
-  },
-  {
     nameDetail: 'Intel Xeon L5630 @ 2.13GHz',
     mark: 2943
   },
   {
     nameDetail: 'Intel Core i5-2500T @ 2.30GHz',
     mark: 2942
-  },
-  {
-    nameDetail: 'AMD A10-5800K APU',
-    mark: 2941
   },
   {
     nameDetail: 'AMD Athlon X4 760K Quad Core',
@@ -6688,6 +6708,10 @@ export const cpuData = [
     mark: 2937
   },
   {
+    nameDetail: 'AMD A10-5800K APU',
+    mark: 2936
+  },
+  {
     nameDetail: 'AMD Opteron 2431',
     mark: 2936
   },
@@ -6698,6 +6722,10 @@ export const cpuData = [
   {
     nameDetail: 'AMD Opteron 6128 HE',
     mark: 2932
+  },
+  {
+    nameDetail: 'Intel Pentium G4520 @ 3.60GHz',
+    mark: 2926
   },
   {
     nameDetail: 'Intel Core i7-880 @ 3.07GHz',
@@ -6716,11 +6744,11 @@ export const cpuData = [
     mark: 2917
   },
   {
-    nameDetail: 'Intel Core i7-3540M @ 3.00GHz',
-    mark: 2915
+    nameDetail: 'Intel Celeron J4105 @ 1.50GHz',
+    mark: 2911
   },
   {
-    nameDetail: 'Intel Celeron J4105 @ 1.50GHz',
+    nameDetail: 'Intel Core i7-3540M @ 3.00GHz',
     mark: 2911
   },
   {
@@ -6734,6 +6762,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i7-5550U @ 2.00GHz',
     mark: 2908
+  },
+  {
+    nameDetail: 'Qualcomm Technologies, Inc SDMMAGPIE',
+    mark: 2906
   },
   {
     nameDetail: 'Intel Atom x6425RE @ 1.90GHz',
@@ -6772,8 +6804,8 @@ export const cpuData = [
     mark: 2893
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SDMMAGPIE',
-    mark: 2891
+    nameDetail: 'Intel Core i7-860 @ 2.80GHz',
+    mark: 2890
   },
   {
     nameDetail: 'Intel Xeon W3540 @ 2.93GHz',
@@ -6784,12 +6816,8 @@ export const cpuData = [
     mark: 2888
   },
   {
-    nameDetail: 'Intel Core i7-860 @ 2.80GHz',
-    mark: 2888
-  },
-  {
     nameDetail: 'Intel Core i7-3520M @ 2.90GHz',
-    mark: 2877
+    mark: 2879
   },
   {
     nameDetail: 'Intel Core i7-930 @ 2.80GHz',
@@ -6812,10 +6840,6 @@ export const cpuData = [
     mark: 2867
   },
   {
-    nameDetail: 'MT6833V/PNZA',
-    mark: 2865
-  },
-  {
     nameDetail: 'AMD FX-7600P APU',
     mark: 2856
   },
@@ -6828,8 +6852,8 @@ export const cpuData = [
     mark: 2829
   },
   {
-    nameDetail: 'Intel Core i5-8210Y @ 1.60GHz',
-    mark: 2827
+    nameDetail: 'AMD A8-6500 APU',
+    mark: 2826
   },
   {
     nameDetail: 'AMD Opteron 6128',
@@ -6840,12 +6864,12 @@ export const cpuData = [
     mark: 2825
   },
   {
-    nameDetail: 'AMD A10-6800B APU',
-    mark: 2824
+    nameDetail: 'Intel Core i5-8210Y @ 1.60GHz',
+    mark: 2825
   },
   {
-    nameDetail: 'AMD A8-6500 APU',
-    mark: 2823
+    nameDetail: 'AMD A10-6800B APU',
+    mark: 2824
   },
   {
     nameDetail: 'Intel Xeon X3450 @ 2.67GHz',
@@ -6856,6 +6880,10 @@ export const cpuData = [
     mark: 2815
   },
   {
+    nameDetail: 'Intel Core i5-4278U @ 2.60GHz',
+    mark: 2814
+  },
+  {
     nameDetail: 'Intel Core i5-7Y57 @ 1.20GHz',
     mark: 2814
   },
@@ -6864,12 +6892,12 @@ export const cpuData = [
     mark: 2814
   },
   {
-    nameDetail: 'Intel Core i5-4278U @ 2.60GHz',
-    mark: 2813
-  },
-  {
     nameDetail: 'Samsung Exynos 8895',
     mark: 2807
+  },
+  {
+    nameDetail: 'AMD A8-5600K APU',
+    mark: 2803
   },
   {
     nameDetail: 'AMD FX-8800P',
@@ -6880,8 +6908,8 @@ export const cpuData = [
     mark: 2800
   },
   {
-    nameDetail: 'AMD A8-5600K APU',
-    mark: 2799
+    nameDetail: 'AMD A8 PRO-7600B APU',
+    mark: 2793
   },
   {
     nameDetail: 'Intel Celeron G5900 @ 3.40GHz',
@@ -6913,10 +6941,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4200M @ 2.50GHz',
-    mark: 2777
-  },
-  {
-    nameDetail: 'AMD A8 PRO-7600B APU',
     mark: 2776
   },
   {
@@ -6945,15 +6969,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-920 @ 2.67GHz',
+    mark: 2741
+  },
+  {
+    nameDetail: 'Intel Core i5-5300U @ 2.30GHz',
     mark: 2740
   },
   {
     nameDetail: 'MediaTek MT6779V/CE',
     mark: 2740
-  },
-  {
-    nameDetail: 'Intel Core i5-5300U @ 2.30GHz',
-    mark: 2739
   },
   {
     nameDetail: 'Intel Xeon E5540 @ 2.53GHz',
@@ -6993,7 +7017,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-5500U @ 2.40GHz',
-    mark: 2718
+    mark: 2719
   },
   {
     nameDetail: 'AMD A6-9400',
@@ -7049,7 +7073,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-7Y75 @ 1.30GHz',
-    mark: 2670
+    mark: 2666
   },
   {
     nameDetail: 'AArch64 rev 0 (aarch64)',
@@ -7072,16 +7096,16 @@ export const cpuData = [
     mark: 2648
   },
   {
+    nameDetail: 'Intel Core i5-3320M @ 2.60GHz',
+    mark: 2646
+  },
+  {
     nameDetail: 'AMD Phenom II X4 970',
     mark: 2644
   },
   {
-    nameDetail: 'Intel Core i5-3320M @ 2.60GHz',
-    mark: 2644
-  },
-  {
     nameDetail: 'Intel Core i3-6100U @ 2.30GHz',
-    mark: 2638
+    mark: 2640
   },
   {
     nameDetail: 'Intel Core i5-3340M @ 2.70GHz',
@@ -7096,16 +7120,16 @@ export const cpuData = [
     mark: 2634
   },
   {
+    nameDetail: 'Qualcomm Technologies, Inc SM6150',
+    mark: 2634
+  },
+  {
     nameDetail: 'ARM D2000/8 8 Core 2300 MHz',
     mark: 2633
   },
   {
     nameDetail: 'Intel Core2 Extreme X9770 @ 3.20GHz',
     mark: 2632
-  },
-  {
-    nameDetail: 'Qualcomm Technologies, Inc SM6150',
-    mark: 2628
   },
   {
     nameDetail: 'Intel Xeon E5-2609 @ 2.40GHz',
@@ -7116,15 +7140,15 @@ export const cpuData = [
     mark: 2622
   },
   {
+    nameDetail: 'Intel Core i5-5350U @ 1.80GHz',
+    mark: 2614
+  },
+  {
     nameDetail: 'Intel Xeon E5530 @ 2.40GHz',
     mark: 2614
   },
   {
     nameDetail: 'Intel Core i5-4288U @ 2.60GHz',
-    mark: 2612
-  },
-  {
-    nameDetail: 'Intel Core i5-5350U @ 1.80GHz',
     mark: 2612
   },
   {
@@ -7144,16 +7168,20 @@ export const cpuData = [
     mark: 2602
   },
   {
-    nameDetail: 'Intel Pentium G4400 @ 3.30GHz',
-    mark: 2598
+    nameDetail: 'Intel Core i5-760 @ 2.80GHz',
+    mark: 2599
   },
   {
-    nameDetail: 'Intel Core i5-760 @ 2.80GHz',
-    mark: 2597
+    nameDetail: 'Intel Pentium G4400 @ 3.30GHz',
+    mark: 2599
   },
   {
     nameDetail: '-1-Unisoc',
     mark: 2596
+  },
+  {
+    nameDetail: 'Intel Core i7-4510U @ 2.00GHz',
+    mark: 2595
   },
   {
     nameDetail: 'Intel Pentium Silver N5000 @ 1.10GHz',
@@ -7169,10 +7197,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-5157U @ 2.50GHz',
-    mark: 2588
-  },
-  {
-    nameDetail: 'Intel Core i7-4510U @ 2.00GHz',
     mark: 2588
   },
   {
@@ -7192,16 +7216,16 @@ export const cpuData = [
     mark: 2577
   },
   {
+    nameDetail: 'Hisilicon Kirin970',
+    mark: 2577
+  },
+  {
     nameDetail: 'AMD Phenom II X4 B65',
     mark: 2576
   },
   {
     nameDetail: 'MT6768G',
     mark: 2572
-  },
-  {
-    nameDetail: 'Hisilicon Kirin970',
-    mark: 2571
   },
   {
     nameDetail: 'Intel Celeron G4930 @ 3.20GHz',
@@ -7225,7 +7249,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Phenom II X4 965',
-    mark: 2547
+    mark: 2546
   },
   {
     nameDetail: 'AMD Phenom II X4 975',
@@ -7236,15 +7260,15 @@ export const cpuData = [
     mark: 2543
   },
   {
-    nameDetail: 'AMD Phenom II X4 B99',
-    mark: 2536
+    nameDetail: 'Qualcomm Technologies, Inc MSM8998',
+    mark: 2540
   },
   {
     nameDetail: 'Apple A9X',
-    mark: 2536
+    mark: 2537
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc MSM8998',
+    nameDetail: 'AMD Phenom II X4 B99',
     mark: 2536
   },
   {
@@ -7264,12 +7288,16 @@ export const cpuData = [
     mark: 2518
   },
   {
+    nameDetail: 'Intel Core i5-4258U @ 2.40GHz',
+    mark: 2518
+  },
+  {
     nameDetail: 'Intel Pentium G4500T @ 3.00GHz',
     mark: 2518
   },
   {
     nameDetail: 'Intel Core i5-3230M @ 2.60GHz',
-    mark: 2516
+    mark: 2513
   },
   {
     nameDetail: 'Intel Core i5-4300U @ 1.90GHz',
@@ -7280,20 +7308,16 @@ export const cpuData = [
     mark: 2511
   },
   {
-    nameDetail: 'Intel Core i5-4258U @ 2.40GHz',
-    mark: 2508
-  },
-  {
     nameDetail: 'Intel Core i5-5250U @ 1.60GHz',
-    mark: 2503
+    mark: 2504
   },
   {
     nameDetail: 'Intel Core i5-5200U @ 2.20GHz',
-    mark: 2501
+    mark: 2502
   },
   {
     nameDetail: 'Intel Celeron N4120 @ 1.10GHz',
-    mark: 2500
+    mark: 2501
   },
   {
     nameDetail: 'AMD Phenom II X4 B97',
@@ -7372,11 +7396,11 @@ export const cpuData = [
     mark: 2451
   },
   {
-    nameDetail: 'Intel Core i5-3210M @ 2.50GHz',
-    mark: 2450
+    nameDetail: 'AMD Phenom II X4 B60',
+    mark: 2449
   },
   {
-    nameDetail: 'AMD Phenom II X4 B60',
+    nameDetail: 'Intel Core i5-3210M @ 2.50GHz',
     mark: 2449
   },
   {
@@ -7401,7 +7425,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-2640M @ 2.80GHz',
-    mark: 2437
+    mark: 2439
   },
   {
     nameDetail: 'Snapdragon 850 @ 2.96 GHz',
@@ -7409,7 +7433,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Phenom II X4 955',
-    mark: 2431
+    mark: 2432
   },
   {
     nameDetail: 'MediaTek MT6779V/CU',
@@ -7452,6 +7476,10 @@ export const cpuData = [
     mark: 2416
   },
   {
+    nameDetail: 'AArch64 rev 1 (aarch64)',
+    mark: 2413
+  },
+  {
     nameDetail: 'Intel Core2 Quad Q9650 @ 3.00GHz',
     mark: 2411
   },
@@ -7461,6 +7489,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Celeron G4920 @ 3.20GHz',
+    mark: 2406
+  },
+  {
+    nameDetail: 'Intel Core i7-3537U @ 2.00GHz',
     mark: 2406
   },
   {
@@ -7476,20 +7508,12 @@ export const cpuData = [
     mark: 2403
   },
   {
-    nameDetail: 'Intel Core i7-3537U @ 2.00GHz',
-    mark: 2403
-  },
-  {
     nameDetail: 'HiSilicon Kirin 960',
     mark: 2401
   },
   {
     nameDetail: 'Intel Core i3-3250 @ 3.50GHz',
     mark: 2401
-  },
-  {
-    nameDetail: 'AArch64 rev 1 (aarch64)',
-    mark: 2400
   },
   {
     nameDetail: 'Intel Xeon X5450 @ 3.00GHz',
@@ -7553,7 +7577,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Apple A8X',
-    mark: 2365
+    mark: 2366
   },
   {
     nameDetail: 'Intel Core i5-2390T @ 2.70GHz',
@@ -7568,12 +7592,12 @@ export const cpuData = [
     mark: 2363
   },
   {
-    nameDetail: 'Intel Xeon E5-2603 @ 1.80GHz',
-    mark: 2362
+    nameDetail: 'MT6769V/CT',
+    mark: 2363
   },
   {
-    nameDetail: 'MT6769V/CT',
-    mark: 2360
+    nameDetail: 'Intel Xeon E5-2603 @ 1.80GHz',
+    mark: 2362
   },
   {
     nameDetail: 'AMD Phenom II X4 840',
@@ -7612,6 +7636,10 @@ export const cpuData = [
     mark: 2338
   },
   {
+    nameDetail: 'MediaTek MT6771V/C',
+    mark: 2337
+  },
+  {
     nameDetail: 'AMD A8-3870K APU',
     mark: 2336
   },
@@ -7636,16 +7664,20 @@ export const cpuData = [
     mark: 2325
   },
   {
-    nameDetail: 'MediaTek MT6771V/C',
-    mark: 2324
+    nameDetail: 'Hisilicon Kirin710',
+    mark: 2323
   },
   {
     nameDetail: 'Qualcomm Technologies, Inc SDA660',
     mark: 2323
   },
   {
-    nameDetail: 'Hisilicon Kirin710',
-    mark: 2319
+    nameDetail: 'Qualcomm Technologies, Inc SDM710',
+    mark: 2323
+  },
+  {
+    nameDetail: 'Samsung Exynos 8890',
+    mark: 2315
   },
   {
     nameDetail: 'Intel Pentium G4400T @ 2.90GHz',
@@ -7668,10 +7700,6 @@ export const cpuData = [
     mark: 2310
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SDM710',
-    mark: 2310
-  },
-  {
     nameDetail: 'Intel Xeon X3380 @ 3.16GHz',
     mark: 2308
   },
@@ -7684,19 +7712,19 @@ export const cpuData = [
     mark: 2305
   },
   {
-    nameDetail: 'Samsung Exynos 8890',
-    mark: 2305
-  },
-  {
     nameDetail: 'AMD Phenom II X4 B70',
     mark: 2303
   },
   {
-    nameDetail: 'AMD Athlon II X4 645',
-    mark: 2298
+    nameDetail: 'AMD FX-9800P',
+    mark: 2302
   },
   {
     nameDetail: 'Intel Core i5-4210U @ 1.70GHz',
+    mark: 2300
+  },
+  {
+    nameDetail: 'AMD Athlon II X4 645',
     mark: 2298
   },
   {
@@ -7712,11 +7740,19 @@ export const cpuData = [
     mark: 2291
   },
   {
+    nameDetail: 'MediaTek MT6769T',
+    mark: 2291
+  },
+  {
+    nameDetail: 'Intel Core i3-3240 @ 3.40GHz',
+    mark: 2287
+  },
+  {
     nameDetail: 'Intel Pentium 5405U @ 2.30GHz',
     mark: 2286
   },
   {
-    nameDetail: 'Intel Core i3-3240 @ 3.40GHz',
+    nameDetail: 'MediaTek MT6769Z',
     mark: 2285
   },
   {
@@ -7732,16 +7768,8 @@ export const cpuData = [
     mark: 2283
   },
   {
-    nameDetail: 'MediaTek MT6769Z',
-    mark: 2280
-  },
-  {
     nameDetail: 'Intel Xeon E3-1220L V2 @ 2.30GHz',
     mark: 2278
-  },
-  {
-    nameDetail: 'MediaTek MT6769T',
-    mark: 2277
   },
   {
     nameDetail: 'MediaTek MT6769V/CB',
@@ -7760,12 +7788,12 @@ export const cpuData = [
     mark: 2275
   },
   {
-    nameDetail: 'Intel Xeon L3360 @ 2.83GHz',
-    mark: 2273
+    nameDetail: 'AArch64 rev 2 (aarch64)',
+    mark: 2274
   },
   {
-    nameDetail: 'AArch64 rev 2 (aarch64)',
-    mark: 2271
+    nameDetail: 'Intel Xeon L3360 @ 2.83GHz',
+    mark: 2273
   },
   {
     nameDetail: 'Intel Celeron G3930 @ 2.90GHz',
@@ -7792,10 +7820,6 @@ export const cpuData = [
     mark: 2266
   },
   {
-    nameDetail: 'AMD FX-9800P',
-    mark: 2262
-  },
-  {
     nameDetail: 'AMD PRO A10-8700B',
     mark: 2262
   },
@@ -7812,12 +7836,12 @@ export const cpuData = [
     mark: 2255
   },
   {
-    nameDetail: 'Intel Core i5-2520M @ 2.50GHz',
+    nameDetail: 'Intel Xeon X3430 @ 2.40GHz',
     mark: 2253
   },
   {
-    nameDetail: 'Intel Xeon X3430 @ 2.40GHz',
-    mark: 2253
+    nameDetail: 'Intel Core i5-2520M @ 2.50GHz',
+    mark: 2252
   },
   {
     nameDetail: 'Intel Core i7-940XM @ 2.13GHz',
@@ -7840,6 +7864,10 @@ export const cpuData = [
     mark: 2240
   },
   {
+    nameDetail: 'Qualcomm Technologies, Inc BENGAL',
+    mark: 2239
+  },
+  {
     nameDetail: 'AMD Phenom II X4 B40',
     mark: 2238
   },
@@ -7852,12 +7880,12 @@ export const cpuData = [
     mark: 2237
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc BENGAL',
-    mark: 2237
-  },
-  {
     nameDetail: 'Qualcomm Technologies, Inc SDM670',
     mark: 2232
+  },
+  {
+    nameDetail: 'Qualcomm Technologies, Inc TRINKET',
+    mark: 2231
   },
   {
     nameDetail: 'Intel Xeon X3353 @ 2.66GHz',
@@ -7870,10 +7898,6 @@ export const cpuData = [
   {
     nameDetail: 'MT6969T',
     mark: 2228
-  },
-  {
-    nameDetail: 'Qualcomm Technologies, Inc TRINKET',
-    mark: 2227
   },
   {
     nameDetail: 'Intel Core i3-5020U @ 2.20GHz',
@@ -7909,7 +7933,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-4200U @ 1.60GHz',
-    mark: 2210
+    mark: 2211
   },
   {
     nameDetail: 'Intel Xeon E5430 @ 2.66GHz',
@@ -7937,7 +7961,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Pentium 4415U @ 2.30GHz',
-    mark: 2199
+    mark: 2202
   },
   {
     nameDetail: 'AMD Phenom II X4 960T',
@@ -8004,6 +8028,10 @@ export const cpuData = [
     mark: 2169
   },
   {
+    nameDetail: 'Intel Core i3-5010U @ 2.10GHz',
+    mark: 2166
+  },
+  {
     nameDetail: 'AMD A8-3820 APU',
     mark: 2165
   },
@@ -8012,15 +8040,23 @@ export const cpuData = [
     mark: 2165
   },
   {
-    nameDetail: 'Intel Core i3-5010U @ 2.10GHz',
-    mark: 2164
-  },
-  {
     nameDetail: 'Intel Xeon L5520 @ 2.27GHz',
     mark: 2163
   },
   {
+    nameDetail: 'Intel Core m5-6Y54 @ 1.10GHz',
+    mark: 2162
+  },
+  {
+    nameDetail: 'Unisoc ums9230',
+    mark: 2161
+  },
+  {
     nameDetail: 'AMD PRO A8-8600B',
+    mark: 2160
+  },
+  {
+    nameDetail: 'MediaTek MT6771V/W',
     mark: 2160
   },
   {
@@ -8032,16 +8068,16 @@ export const cpuData = [
     mark: 2156
   },
   {
+    nameDetail: 'MediaTek MT6768V/CA',
+    mark: 2154
+  },
+  {
     nameDetail: 'AMD Phenom II X4 B45',
     mark: 2152
   },
   {
     nameDetail: 'Qualcomm Technologies, Inc SDM660',
-    mark: 2149
-  },
-  {
-    nameDetail: 'MediaTek MT6768V/CA',
-    mark: 2147
+    mark: 2148
   },
   {
     nameDetail: 'AMD Athlon II X4 641 Quad-Core',
@@ -8052,20 +8088,16 @@ export const cpuData = [
     mark: 2141
   },
   {
-    nameDetail: 'MediaTek MT6771V/W',
-    mark: 2141
+    nameDetail: 'AMD A10-7400P',
+    mark: 2140
   },
   {
-    nameDetail: 'AMD A10-7400P',
+    nameDetail: 'Intel Pentium N4200 @ 1.10GHz',
     mark: 2140
   },
   {
     nameDetail: 'Intel Celeron J3455E @ 1.50GHz',
     mark: 2139
-  },
-  {
-    nameDetail: 'Intel Pentium N4200 @ 1.10GHz',
-    mark: 2138
   },
   {
     nameDetail: 'Virtual',
@@ -8080,10 +8112,6 @@ export const cpuData = [
     mark: 2131
   },
   {
-    nameDetail: 'Intel Core m5-6Y54 @ 1.10GHz',
-    mark: 2131
-  },
-  {
     nameDetail: 'Intel Pentium G3440 @ 3.30GHz',
     mark: 2129
   },
@@ -8094,10 +8122,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Pentium G3430 @ 3.30GHz',
     mark: 2125
-  },
-  {
-    nameDetail: 'Unisoc ums9230',
-    mark: 2122
   },
   {
     nameDetail: 'AMD Athlon X4 640',
@@ -8116,12 +8140,12 @@ export const cpuData = [
     mark: 2109
   },
   {
-    nameDetail: 'Intel Core i7-3517U @ 1.90GHz',
+    nameDetail: 'Intel Core2 Quad Q9450 @ 2.66GHz',
     mark: 2109
   },
   {
-    nameDetail: 'Intel Core2 Quad Q9450 @ 2.66GHz',
-    mark: 2109
+    nameDetail: 'AMD Athlon II X4 635',
+    mark: 2108
   },
   {
     nameDetail: 'AMD Phenom II X4 B25',
@@ -8152,11 +8176,11 @@ export const cpuData = [
     mark: 2101
   },
   {
-    nameDetail: 'AMD Athlon II X4 635',
-    mark: 2100
+    nameDetail: 'Intel Core M-5Y31 @ 0.90GHz',
+    mark: 2095
   },
   {
-    nameDetail: 'Intel Core M-5Y31 @ 0.90GHz',
+    nameDetail: 'Qualcomm Technologies, Inc SM6225',
     mark: 2095
   },
   {
@@ -8188,8 +8212,8 @@ export const cpuData = [
     mark: 2091
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SM6225',
-    mark: 2088
+    nameDetail: 'Intel Core i7-3517U @ 1.90GHz',
+    mark: 2089
   },
   {
     nameDetail: 'T700-Unisoc',
@@ -8228,11 +8252,11 @@ export const cpuData = [
     mark: 2069
   },
   {
-    nameDetail: 'Intel Core i5-3337U @ 1.80GHz',
-    mark: 2067
+    nameDetail: 'Intel Core2 Quad Q9400 @ 2.66GHz',
+    mark: 2068
   },
   {
-    nameDetail: 'Intel Core2 Quad Q9400 @ 2.66GHz',
+    nameDetail: 'Intel Core i5-3337U @ 1.80GHz',
     mark: 2067
   },
   {
@@ -8266,10 +8290,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD A6-3670 APU',
     mark: 2055
-  },
-  {
-    nameDetail: 'Intel Xeon E7-8890 v4 @ 2.20GHz',
-    mark: 2054
   },
   {
     nameDetail: 'Intel Xeon X3230 @ 2.66GHz',
@@ -8332,16 +8352,16 @@ export const cpuData = [
     mark: 2022
   },
   {
-    nameDetail: 'Intel Core i3-5005U @ 2.00GHz',
-    mark: 2021
-  },
-  {
     nameDetail: 'Intel Core i7-920XM @ 2.00GHz',
     mark: 2021
   },
   {
     nameDetail: 'Intel Core2 Quad Q9505 @ 2.83GHz',
     mark: 2020
+  },
+  {
+    nameDetail: 'Intel Core i3-5005U @ 2.00GHz',
+    mark: 2018
   },
   {
     nameDetail: 'Intel Core i5-655K @ 3.20GHz',
@@ -8421,7 +8441,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-3317U @ 1.70GHz',
-    mark: 1970
+    mark: 1972
   },
   {
     nameDetail: 'AMD Athlon II X4 615e',
@@ -8449,7 +8469,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-2410M @ 2.30GHz',
-    mark: 1955
+    mark: 1954
   },
   {
     nameDetail: 'Intel Atom E3900 @ 1.60GHz',
@@ -8464,6 +8484,10 @@ export const cpuData = [
     mark: 1948
   },
   {
+    nameDetail: 'Qualcomm Technologies, Inc SDM636',
+    mark: 1947
+  },
+  {
     nameDetail: 'AMD Phenom 9850B Quad-Core',
     mark: 1946
   },
@@ -8472,7 +8496,7 @@ export const cpuData = [
     mark: 1946
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SDM636',
+    nameDetail: 'Samsung Exynos 9610',
     mark: 1942
   },
   {
@@ -8484,8 +8508,8 @@ export const cpuData = [
     mark: 1939
   },
   {
-    nameDetail: 'Intel Core M-5Y70 @ 1.10GHz',
-    mark: 1937
+    nameDetail: 'Intel Celeron N3450 @ 1.10GHz',
+    mark: 1938
   },
   {
     nameDetail: 'AMD Athlon X4 730',
@@ -8500,15 +8524,15 @@ export const cpuData = [
     mark: 1935
   },
   {
+    nameDetail: 'AMD Athlon II X4 620',
+    mark: 1934
+  },
+  {
     nameDetail: 'AMD A6-7480',
     mark: 1931
   },
   {
-    nameDetail: 'Intel Celeron N3450 @ 1.10GHz',
-    mark: 1931
-  },
-  {
-    nameDetail: 'Samsung Exynos 9610',
+    nameDetail: 'Intel Xeon E5420 @ 2.50GHz',
     mark: 1931
   },
   {
@@ -8532,11 +8556,11 @@ export const cpuData = [
     mark: 1926
   },
   {
-    nameDetail: 'AMD Athlon II X3 460',
-    mark: 1924
+    nameDetail: 'Intel Core i3-2120 @ 3.30GHz',
+    mark: 1926
   },
   {
-    nameDetail: 'Intel Core i3-2120 @ 3.30GHz',
+    nameDetail: 'AMD Athlon II X3 460',
     mark: 1924
   },
   {
@@ -8546,14 +8570,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon E5410 @ 2.33GHz',
     mark: 1923
-  },
-  {
-    nameDetail: 'AMD Athlon II X4 620',
-    mark: 1921
-  },
-  {
-    nameDetail: 'Intel Xeon E5420 @ 2.50GHz',
-    mark: 1921
   },
   {
     nameDetail: 'Intel Xeon L5410 @ 2.33GHz',
@@ -8616,6 +8632,10 @@ export const cpuData = [
     mark: 1905
   },
   {
+    nameDetail: 'Intel Celeron N4500 @ 1.10GHz',
+    mark: 1904
+  },
+  {
     nameDetail: 'AMD A10-5750M APU',
     mark: 1902
   },
@@ -8642,10 +8662,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD Phenom 9950 Quad-Core',
     mark: 1892
-  },
-  {
-    nameDetail: 'Intel Celeron N4500 @ 1.10GHz',
-    mark: 1891
   },
   {
     nameDetail: 'AMD PRO A6-8570',
@@ -8824,16 +8840,16 @@ export const cpuData = [
     mark: 1818
   },
   {
-    nameDetail: 'Intel Core2 Quad Q8300 @ 2.50GHz',
-    mark: 1818
-  },
-  {
     nameDetail: 'Intel Core i5-4302Y @ 1.60GHz',
     mark: 1817
   },
   {
     nameDetail: 'AMD A8-6500T APU',
     mark: 1816
+  },
+  {
+    nameDetail: 'Intel Core2 Quad Q8300 @ 2.50GHz',
+    mark: 1814
   },
   {
     nameDetail: 'Intel Xeon E5345 @ 2.33GHz',
@@ -8856,12 +8872,16 @@ export const cpuData = [
     mark: 1808
   },
   {
+    nameDetail: 'Intel Core M-5Y70 @ 1.10GHz',
+    mark: 1807
+  },
+  {
     nameDetail: 'AMD Phenom 9750 Quad-Core',
     mark: 1804
   },
   {
     nameDetail: 'AMD A8-7410 APU',
-    mark: 1803
+    mark: 1801
   },
   {
     nameDetail: 'AMD A6-7470K',
@@ -8900,11 +8920,15 @@ export const cpuData = [
     mark: 1783
   },
   {
+    nameDetail: 'Intel Core i7-740QM @ 1.73GHz',
+    mark: 1782
+  },
+  {
     nameDetail: 'AMD Athlon X3 435',
     mark: 1781
   },
   {
-    nameDetail: 'Intel Core i7-740QM @ 1.73GHz',
+    nameDetail: 'Qualcomm Technologies, Inc SDM630',
     mark: 1780
   },
   {
@@ -8926,10 +8950,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD R-464L APU',
     mark: 1773
-  },
-  {
-    nameDetail: 'Qualcomm Technologies, Inc SDM630',
-    mark: 1772
   },
   {
     nameDetail: 'AMD Phenom II N830 3+1',
@@ -8977,15 +8997,15 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i5-540M @ 2.53GHz',
-    mark: 1749
+    mark: 1752
+  },
+  {
+    nameDetail: 'MediaTek MT8768WT',
+    mark: 1748
   },
   {
     nameDetail: 'MT6765',
     mark: 1748
-  },
-  {
-    nameDetail: 'MediaTek MT8768WT',
-    mark: 1745
   },
   {
     nameDetail: 'MT6797M',
@@ -9016,6 +9036,10 @@ export const cpuData = [
     mark: 1736
   },
   {
+    nameDetail: 'AArch64 rev 4 (aarch64)',
+    mark: 1735
+  },
+  {
     nameDetail: 'AMD GX-424CC SOC',
     mark: 1735
   },
@@ -9026,10 +9050,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i5-2557M @ 1.70GHz',
     mark: 1732
-  },
-  {
-    nameDetail: 'AArch64 rev 4 (aarch64)',
-    mark: 1729
   },
   {
     nameDetail: 'MT6752',
@@ -9144,6 +9164,10 @@ export const cpuData = [
     mark: 1685
   },
   {
+    nameDetail: 'Intel Pentium G2020 @ 2.90GHz',
+    mark: 1684
+  },
+  {
     nameDetail: 'Intel Core i5-520M @ 2.40GHz',
     mark: 1683
   },
@@ -9158,10 +9182,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon L5335 @ 2.00GHz',
     mark: 1678
-  },
-  {
-    nameDetail: 'Intel Pentium G2020 @ 2.90GHz',
-    mark: 1677
   },
   {
     nameDetail: 'AMD A9-9430',
@@ -9186,10 +9206,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD A6-6310 APU',
     mark: 1666
-  },
-  {
-    nameDetail: 'MediaTek MT6765V/CA',
-    mark: 1665
   },
   {
     nameDetail: 'Intel Xeon E5405 @ 2.00GHz',
@@ -9217,11 +9233,27 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i7-720QM @ 1.60GHz',
-    mark: 1660
+    mark: 1661
+  },
+  {
+    nameDetail: 'MediaTek MT6765V/CA',
+    mark: 1659
+  },
+  {
+    nameDetail: 'Samsung Exynos 7904',
+    mark: 1657
   },
   {
     nameDetail: 'Intel Core i3-4030Y @ 1.60GHz',
     mark: 1654
+  },
+  {
+    nameDetail: 'Qualcomm Technologies, Inc MSM8953',
+    mark: 1654
+  },
+  {
+    nameDetail: 'AMD A6-5200 APU',
+    mark: 1653
   },
   {
     nameDetail: 'HiSilicon Kirin 650',
@@ -9230,14 +9262,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD A4 PRO-3340B',
     mark: 1652
-  },
-  {
-    nameDetail: 'AMD A6-5200 APU',
-    mark: 1651
-  },
-  {
-    nameDetail: 'Qualcomm Technologies, Inc MSM8953',
-    mark: 1651
   },
   {
     nameDetail: 'AMD A6-3600 APU',
@@ -9273,10 +9297,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'Rockchip RK',
-    mark: 1641
-  },
-  {
-    nameDetail: 'Samsung Exynos 7904',
     mark: 1641
   },
   {
@@ -9356,24 +9376,28 @@ export const cpuData = [
     mark: 1612
   },
   {
+    nameDetail: 'AMD A8-5545M APU',
+    mark: 1611
+  },
+  {
     nameDetail: 'Intel Celeron N4000C @ 1.10GHz',
     mark: 1611
   },
   {
     nameDetail: 'Intel Core i3-3110M @ 2.40GHz',
-    mark: 1608
+    mark: 1609
   },
   {
     nameDetail: 'Intel Celeron 2000E @ 2.20GHz',
     mark: 1607
   },
   {
-    nameDetail: 'Unisoc T310',
+    nameDetail: 'MT6765V/WA',
     mark: 1606
   },
   {
-    nameDetail: 'AMD A8-5545M APU',
-    mark: 1605
+    nameDetail: 'Unisoc T310',
+    mark: 1606
   },
   {
     nameDetail: 'AMD A6-8550',
@@ -9440,11 +9464,11 @@ export const cpuData = [
     mark: 1576
   },
   {
-    nameDetail: 'Intel Celeron N4020 @ 1.10GHz',
-    mark: 1573
+    nameDetail: 'AMD A8-3530MX APU',
+    mark: 1570
   },
   {
-    nameDetail: 'AMD A8-3530MX APU',
+    nameDetail: 'Intel Celeron N4020 @ 1.10GHz',
     mark: 1570
   },
   {
@@ -9496,10 +9520,6 @@ export const cpuData = [
     mark: 1557
   },
   {
-    nameDetail: 'MT6765V/WA',
-    mark: 1556
-  },
-  {
     nameDetail: 'AMD Phenom II X3 710',
     mark: 1554
   },
@@ -9533,10 +9553,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD A6-6420K APU',
-    mark: 1538
-  },
-  {
-    nameDetail: 'AMD Phenom II N950 Quad-Core',
     mark: 1538
   },
   {
@@ -9596,11 +9612,11 @@ export const cpuData = [
     mark: 1516
   },
   {
-    nameDetail: 'AMD A9-9420',
-    mark: 1515
+    nameDetail: 'Intel Core i3-540 @ 3.07GHz',
+    mark: 1516
   },
   {
-    nameDetail: 'Intel Core i3-540 @ 3.07GHz',
+    nameDetail: 'AMD A9-9420',
     mark: 1515
   },
   {
@@ -9736,6 +9752,10 @@ export const cpuData = [
     mark: 1464
   },
   {
+    nameDetail: 'AMD Phenom II N950 Quad-Core',
+    mark: 1460
+  },
+  {
     nameDetail: 'AMD A8-3510MX APU',
     mark: 1457
   },
@@ -9752,16 +9772,20 @@ export const cpuData = [
     mark: 1454
   },
   {
+    nameDetail: 'AMD A6-6400K APU',
+    mark: 1453
+  },
+  {
+    nameDetail: 'AMD PRO A6-9500B',
+    mark: 1453
+  },
+  {
     nameDetail: 'Intel Xeon E5320 @ 1.86GHz',
     mark: 1451
   },
   {
     nameDetail: 'Intel Xeon X5272 @ 3.40GHz',
     mark: 1451
-  },
-  {
-    nameDetail: 'AMD A6-6400K APU',
-    mark: 1450
   },
   {
     nameDetail: 'Intel Core i3-530 @ 2.93GHz',
@@ -9797,6 +9821,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Athlon X3 440',
+    mark: 1438
+  },
+  {
+    nameDetail: 'MediaTek MT6762V/WR',
     mark: 1438
   },
   {
@@ -9850,10 +9878,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core i7-620LM @ 2.00GHz',
     mark: 1422
-  },
-  {
-    nameDetail: 'MediaTek MT6762V/WR',
-    mark: 1418
   },
   {
     nameDetail: 'Hisilicon Kirin 930',
@@ -9965,15 +9989,19 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Pentium 2020M @ 2.40GHz',
-    mark: 1368
+    mark: 1367
+  },
+  {
+    nameDetail: 'Intel Pentium N3710 @ 1.60GHz',
+    mark: 1364
   },
   {
     nameDetail: 'Intel Core i3-3217UE @ 1.60GHz',
     mark: 1362
   },
   {
-    nameDetail: 'Intel Pentium N3710 @ 1.60GHz',
-    mark: 1361
+    nameDetail: 'Intel Core2 Duo E8600 @ 3.33GHz',
+    mark: 1362
   },
   {
     nameDetail: 'AMD Phenom II X2 570',
@@ -9984,8 +10012,8 @@ export const cpuData = [
     mark: 1355
   },
   {
-    nameDetail: 'Intel Core2 Duo E8600 @ 3.33GHz',
-    mark: 1354
+    nameDetail: 'MediaTek MT6762V/WA',
+    mark: 1355
   },
   {
     nameDetail: 'Intel Core i3-2332M @ 2.20GHz',
@@ -10012,14 +10040,6 @@ export const cpuData = [
     mark: 1349
   },
   {
-    nameDetail: 'Intel Core i3-2370M @ 2.40GHz',
-    mark: 1349
-  },
-  {
-    nameDetail: 'MediaTek MT6762V/WA',
-    mark: 1347
-  },
-  {
     nameDetail: 'AMD A4-5100 APU',
     mark: 1346
   },
@@ -10038,10 +10058,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Celeron 4205U @ 1.80GHz',
     mark: 1341
-  },
-  {
-    nameDetail: 'AMD PRO A6-9500B',
-    mark: 1340
   },
   {
     nameDetail: 'Intel Pentium 3825U @ 1.90GHz',
@@ -10065,6 +10081,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD A6-9225',
+    mark: 1336
+  },
+  {
+    nameDetail: 'Intel Core i3-2370M @ 2.40GHz',
     mark: 1336
   },
   {
@@ -10176,6 +10196,10 @@ export const cpuData = [
     mark: 1306
   },
   {
+    nameDetail: 'Unisoc SC9863a',
+    mark: 1306
+  },
+  {
     nameDetail: 'MediaTek MT6762V/WB',
     mark: 1303
   },
@@ -10186,10 +10210,6 @@ export const cpuData = [
   {
     nameDetail: 'Qualcomm Technologies, Inc SDM439',
     mark: 1302
-  },
-  {
-    nameDetail: 'Unisoc SC9863a',
-    mark: 1300
   },
   {
     nameDetail: 'AMD Phenom X4 Quad-Core GP-9500',
@@ -10360,6 +10380,10 @@ export const cpuData = [
     mark: 1237
   },
   {
+    nameDetail: 'Intel Core i3-2330M @ 2.20GHz',
+    mark: 1235
+  },
+  {
     nameDetail: 'AMD Athlon II X2 270',
     mark: 1234
   },
@@ -10370,10 +10394,6 @@ export const cpuData = [
   {
     nameDetail: 'AMD Athlon II X2 265',
     mark: 1233
-  },
-  {
-    nameDetail: 'Intel Core i3-2330M @ 2.20GHz',
-    mark: 1232
   },
   {
     nameDetail: 'Intel Core2 Duo T9900 @ 3.06GHz',
@@ -10440,6 +10460,10 @@ export const cpuData = [
     mark: 1215
   },
   {
+    nameDetail: 'Qualcomm MSM8992',
+    mark: 1215
+  },
+  {
     nameDetail: 'AMD Phenom 8450 Triple-Core',
     mark: 1214
   },
@@ -10452,7 +10476,7 @@ export const cpuData = [
     mark: 1212
   },
   {
-    nameDetail: 'Intel Pentium G620 @ 2.60GHz',
+    nameDetail: 'Intel Core i5-430M @ 2.27GHz',
     mark: 1211
   },
   {
@@ -10460,12 +10484,12 @@ export const cpuData = [
     mark: 1210
   },
   {
-    nameDetail: 'Intel Core i5-430M @ 2.27GHz',
-    mark: 1210
+    nameDetail: 'Intel Core i5-450M @ 2.40GHz',
+    mark: 1208
   },
   {
-    nameDetail: 'Intel Core i5-450M @ 2.40GHz',
-    mark: 1206
+    nameDetail: 'Intel Pentium G620 @ 2.60GHz',
+    mark: 1207
   },
   {
     nameDetail: 'AMD Phenom 8650 Triple-Core',
@@ -10474,6 +10498,10 @@ export const cpuData = [
   {
     nameDetail: 'Qualcomm Technologies, Inc SDM450',
     mark: 1204
+  },
+  {
+    nameDetail: 'Intel Atom x5-Z8550 @ 1.44GHz',
+    mark: 1200
   },
   {
     nameDetail: 'Intel Celeron G550 @ 2.60GHz',
@@ -10496,10 +10524,6 @@ export const cpuData = [
     mark: 1197
   },
   {
-    nameDetail: 'Qualcomm MSM8992',
-    mark: 1197
-  },
-  {
     nameDetail: 'ROC-RK3568-PC HDMI (Android)',
     mark: 1197
   },
@@ -10508,19 +10532,15 @@ export const cpuData = [
     mark: 1195
   },
   {
+    nameDetail: 'Intel Core i3-2310M @ 2.10GHz',
+    mark: 1193
+  },
+  {
     nameDetail: 'ARM Cortex-A72 6 Core 1512 MHz',
     mark: 1192
   },
   {
-    nameDetail: 'Intel Core i3-2310M @ 2.10GHz',
-    mark: 1192
-  },
-  {
     nameDetail: 'AMD A4-4000 APU',
-    mark: 1190
-  },
-  {
-    nameDetail: 'Intel Atom x5-Z8550 @ 1.44GHz',
     mark: 1190
   },
   {
@@ -10533,7 +10553,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core i3-3217U @ 1.80GHz',
-    mark: 1187
+    mark: 1188
   },
   {
     nameDetail: 'Intel Core2 Duo E8335 @ 2.93GHz',
@@ -10589,7 +10609,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core2 Duo E8400 @ 3.00GHz',
-    mark: 1168
+    mark: 1169
   },
   {
     nameDetail: 'Intel Atom Z3795 @ 1.60GHz',
@@ -10680,6 +10700,10 @@ export const cpuData = [
     mark: 1151
   },
   {
+    nameDetail: 'Intel Core i5-2537M @ 1.40GHz',
+    mark: 1150
+  },
+  {
     nameDetail: 'MediaTek MT6753T',
     mark: 1149
   },
@@ -10756,11 +10780,11 @@ export const cpuData = [
     mark: 1129
   },
   {
-    nameDetail: 'Intel Celeron N3350 @ 1.10GHz',
-    mark: 1128
+    nameDetail: 'AMD Phenom II X2 B53',
+    mark: 1126
   },
   {
-    nameDetail: 'AMD Phenom II X2 B53',
+    nameDetail: 'Intel Celeron N3350 @ 1.10GHz',
     mark: 1126
   },
   {
@@ -10804,6 +10828,10 @@ export const cpuData = [
     mark: 1116
   },
   {
+    nameDetail: 'MediaTek MT6762G',
+    mark: 1116
+  },
+  {
     nameDetail: 'Intel Celeron G1820TE @ 2.20GHz',
     mark: 1115
   },
@@ -10816,10 +10844,6 @@ export const cpuData = [
     mark: 1113
   },
   {
-    nameDetail: 'MediaTek MT6762G',
-    mark: 1111
-  },
-  {
     nameDetail: 'Intel Celeron G540 @ 2.50GHz',
     mark: 1110
   },
@@ -10829,10 +10853,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Phenom II X2 545',
-    mark: 1107
-  },
-  {
-    nameDetail: 'Intel Core i5-2537M @ 1.40GHz',
     mark: 1107
   },
   {
@@ -10888,12 +10908,12 @@ export const cpuData = [
     mark: 1090
   },
   {
-    nameDetail: 'AMD Opteron 1222',
-    mark: 1089
+    nameDetail: 'Intel Core2 Duo E7500 @ 2.93GHz',
+    mark: 1090
   },
   {
-    nameDetail: 'Intel Core2 Duo E7500 @ 2.93GHz',
-    mark: 1088
+    nameDetail: 'AMD Opteron 1222',
+    mark: 1089
   },
   {
     nameDetail: 'MT6795',
@@ -10984,10 +11004,6 @@ export const cpuData = [
     mark: 1065
   },
   {
-    nameDetail: 'AMD Phenom II N660 Dual-Core',
-    mark: 1065
-  },
-  {
     nameDetail: 'Qualcomm MSM 8939 HUAWEI KIW-L24',
     mark: 1065
   },
@@ -11004,11 +11020,11 @@ export const cpuData = [
     mark: 1063
   },
   {
-    nameDetail: 'Intel Core i3-350M @ 2.27GHz',
-    mark: 1063
+    nameDetail: 'AMD A6-9200',
+    mark: 1062
   },
   {
-    nameDetail: 'AMD A6-9200',
+    nameDetail: 'Intel Core i3-350M @ 2.27GHz',
     mark: 1062
   },
   {
@@ -11124,6 +11140,10 @@ export const cpuData = [
     mark: 1024
   },
   {
+    nameDetail: 'AMD Phenom II N660 Dual-Core',
+    mark: 1024
+  },
+  {
     nameDetail: 'AMD Athlon II X2 245',
     mark: 1022
   },
@@ -11208,10 +11228,6 @@ export const cpuData = [
     mark: 1008
   },
   {
-    nameDetail: 'Intel Core i3-330M @ 2.13GHz',
-    mark: 1006
-  },
-  {
     nameDetail: 'MediaTek MT6762V/CA',
     mark: 1006
   },
@@ -11242,6 +11258,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Pentium 2117U @ 1.80GHz',
     mark: 998
+  },
+  {
+    nameDetail: 'Intel Core i3-330M @ 2.13GHz',
+    mark: 997
   },
   {
     nameDetail: 'AMD Athlon X2 215',
@@ -11288,6 +11308,10 @@ export const cpuData = [
     mark: 984
   },
   {
+    nameDetail: 'Intel Pentium B950 @ 2.10GHz',
+    mark: 984
+  },
+  {
     nameDetail: 'MT6755V/WM',
     mark: 981
   },
@@ -11296,7 +11320,7 @@ export const cpuData = [
     mark: 980
   },
   {
-    nameDetail: 'Intel Pentium B950 @ 2.10GHz',
+    nameDetail: 'Intel Core2 Duo E7400 @ 2.80GHz',
     mark: 980
   },
   {
@@ -11310,10 +11334,6 @@ export const cpuData = [
   {
     nameDetail: 'tn8',
     mark: 979
-  },
-  {
-    nameDetail: 'Intel Core2 Duo E7400 @ 2.80GHz',
-    mark: 978
   },
   {
     nameDetail: 'MediaTek MT6750',
@@ -11368,10 +11388,6 @@ export const cpuData = [
     mark: 965
   },
   {
-    nameDetail: 'Intel Core2 Duo E7200 @ 2.53GHz',
-    mark: 965
-  },
-  {
     nameDetail: 'Intel Core i7-620UM @ 1.07GHz',
     mark: 964
   },
@@ -11386,6 +11402,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Atom C2538 @ 2.40GHz',
     mark: 960
+  },
+  {
+    nameDetail: 'AMD Athlon II X2 215',
+    mark: 959
   },
   {
     nameDetail: 'Intel Core2 Duo P9500 @ 2.53GHz',
@@ -11424,10 +11444,6 @@ export const cpuData = [
     mark: 953
   },
   {
-    nameDetail: 'AMD Athlon II X2 215',
-    mark: 952
-  },
-  {
     nameDetail: 'AMD Opteron 290',
     mark: 952
   },
@@ -11445,6 +11461,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'ARM Cortex-A57 4 Core 1479 MHz',
+    mark: 947
+  },
+  {
+    nameDetail: 'Intel Core2 Duo E7200 @ 2.53GHz',
     mark: 947
   },
   {
@@ -11556,11 +11576,11 @@ export const cpuData = [
     mark: 912
   },
   {
-    nameDetail: 'AMD Opteron 1218',
+    nameDetail: 'AMD Athlon 64 X2 Dual Core 5400+',
     mark: 910
   },
   {
-    nameDetail: 'Intel Atom x5-Z8350 @ 1.44GHz',
+    nameDetail: 'AMD Opteron 1218',
     mark: 910
   },
   {
@@ -11568,7 +11588,15 @@ export const cpuData = [
     mark: 910
   },
   {
+    nameDetail: 'Qualcomm Technologies, Inc SDM429',
+    mark: 910
+  },
+  {
     nameDetail: 'AMD Opteron 2220 SE',
+    mark: 909
+  },
+  {
+    nameDetail: 'Intel Atom x5-Z8350 @ 1.44GHz',
     mark: 909
   },
   {
@@ -11578,6 +11606,10 @@ export const cpuData = [
   {
     nameDetail: 'Rockchip RK3566 RK817 TABLET LP4X Board',
     mark: 909
+  },
+  {
+    nameDetail: 'MediaTek MT8166B',
+    mark: 907
   },
   {
     nameDetail: 'Intel Core2 Duo T8300 @ 2.40GHz',
@@ -11604,10 +11636,6 @@ export const cpuData = [
     mark: 901
   },
   {
-    nameDetail: 'Qualcomm Technologies, Inc SDM429',
-    mark: 901
-  },
-  {
     nameDetail: 'AMD A4-9120e',
     mark: 899
   },
@@ -11617,10 +11645,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Pentium G620T @ 2.20GHz',
-    mark: 896
-  },
-  {
-    nameDetail: 'MediaTek MT8166B',
     mark: 896
   },
   {
@@ -11688,10 +11712,6 @@ export const cpuData = [
     mark: 877
   },
   {
-    nameDetail: 'AMD Athlon 64 X2 Dual Core 5400+',
-    mark: 876
-  },
-  {
     nameDetail: 'Athlon 64 Dual Core 5600+',
     mark: 875
   },
@@ -11757,7 +11777,7 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Core2 Duo P8600 @ 2.40GHz',
-    mark: 851
+    mark: 853
   },
   {
     nameDetail: 'SAMSUNG Exynos7580',
@@ -11818,6 +11838,10 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon E5205 @ 1.86GHz',
     mark: 838
+  },
+  {
+    nameDetail: 'Intel Atom Z3580 @ 1.33GHz',
+    mark: 837
   },
   {
     nameDetail: 'Intel Celeron E3300 @ 2.50GHz',
@@ -11896,10 +11920,6 @@ export const cpuData = [
     mark: 824
   },
   {
-    nameDetail: 'Intel Atom x5-Z8300 @ 1.44GHz',
-    mark: 823
-  },
-  {
     nameDetail: 'Intel Core2 Duo T7500 @ 2.20GHz',
     mark: 823
   },
@@ -11912,11 +11932,11 @@ export const cpuData = [
     mark: 822
   },
   {
-    nameDetail: 'Intel Atom Z3580 @ 1.33GHz',
-    mark: 820
+    nameDetail: 'DO-Regular',
+    mark: 819
   },
   {
-    nameDetail: 'DO-Regular',
+    nameDetail: 'Intel Atom x5-Z8300 @ 1.44GHz',
     mark: 819
   },
   {
@@ -12040,11 +12060,11 @@ export const cpuData = [
     mark: 793
   },
   {
-    nameDetail: 'ARM Neoverse-N1 1 Core 0 MHz',
-    mark: 791
+    nameDetail: 'Intel Pentium T4500 @ 2.30GHz',
+    mark: 793
   },
   {
-    nameDetail: 'Intel Pentium T4500 @ 2.30GHz',
+    nameDetail: 'ARM Neoverse-N1 1 Core 0 MHz',
     mark: 791
   },
   {
@@ -12596,11 +12616,11 @@ export const cpuData = [
     mark: 665
   },
   {
-    nameDetail: 'AMD Athlon II X2 260u',
-    mark: 663
+    nameDetail: 'Intel Celeron N3060 @ 1.60GHz',
+    mark: 664
   },
   {
-    nameDetail: 'Intel Celeron N3060 @ 1.60GHz',
+    nameDetail: 'AMD Athlon II X2 260u',
     mark: 663
   },
   {
@@ -12670,10 +12690,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Core2 Duo T7100 @ 1.80GHz',
     mark: 643
-  },
-  {
-    nameDetail: 'Intel Celeron 877 @ 1.40GHz',
-    mark: 642
   },
   {
     nameDetail: 'Intel Pentium 987 @ 1.50GHz',
@@ -12788,6 +12804,10 @@ export const cpuData = [
     mark: 616
   },
   {
+    nameDetail: 'Intel Celeron 877 @ 1.40GHz',
+    mark: 615
+  },
+  {
     nameDetail: 'Intel Atom Z3740D @ 1.33GHz',
     mark: 614
   },
@@ -12880,6 +12900,10 @@ export const cpuData = [
     mark: 593
   },
   {
+    nameDetail: 'Intel Celeron N3050 @ 1.60GHz',
+    mark: 592
+  },
+  {
     nameDetail: 'Intel Core2 Duo E6300 @ 1.86GHz',
     mark: 592
   },
@@ -12889,10 +12913,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD Turion 64 X2 Mobile TL-60',
-    mark: 591
-  },
-  {
-    nameDetail: 'Intel Celeron N3050 @ 1.60GHz',
     mark: 591
   },
   {
@@ -12924,10 +12944,6 @@ export const cpuData = [
     mark: 584
   },
   {
-    nameDetail: 'Intel Celeron J1800 @ 2.41GHz',
-    mark: 583
-  },
-  {
     nameDetail: 'AMD Athlon 64 X2 QL-67',
     mark: 582
   },
@@ -12942,6 +12958,10 @@ export const cpuData = [
   {
     nameDetail: 'Qualcomm MSM8917',
     mark: 582
+  },
+  {
+    nameDetail: 'Intel Celeron J1800 @ 2.41GHz',
+    mark: 581
   },
   {
     nameDetail: 'MT8766A',
@@ -13048,10 +13068,6 @@ export const cpuData = [
     mark: 555
   },
   {
-    nameDetail: 'Qualcomm APQ8084',
-    mark: 555
-  },
-  {
     nameDetail: 'AMD Athlon 64 X2 QL-62',
     mark: 553
   },
@@ -13076,15 +13092,15 @@ export const cpuData = [
     mark: 546
   },
   {
-    nameDetail: 'Intel Pentium T2330 @ 1.60GHz',
-    mark: 545
-  },
-  {
     nameDetail: 'MediaTek MT8163',
     mark: 545
   },
   {
     nameDetail: 'Intel Atom Z3735F @ 1.33GHz',
+    mark: 544
+  },
+  {
+    nameDetail: 'Qualcomm APQ8084',
     mark: 544
   },
   {
@@ -13096,8 +13112,12 @@ export const cpuData = [
     mark: 543
   },
   {
+    nameDetail: 'AMD E1-6015 APU',
+    mark: 542
+  },
+  {
     nameDetail: 'Intel Celeron N2830 @ 2.16GHz',
-    mark: 541
+    mark: 542
   },
   {
     nameDetail: 'Intel Pentium U5400 @ 1.20GHz',
@@ -13108,15 +13128,15 @@ export const cpuData = [
     mark: 538
   },
   {
-    nameDetail: 'AMD E1-6015 APU',
-    mark: 537
-  },
-  {
     nameDetail: 'Amlogic',
     mark: 537
   },
   {
     nameDetail: 'AMD TurionX2 Dual Core Mobile RM-70',
+    mark: 536
+  },
+  {
+    nameDetail: 'Intel Pentium T2330 @ 1.60GHz',
     mark: 536
   },
   {
@@ -13492,12 +13512,12 @@ export const cpuData = [
     mark: 443
   },
   {
-    nameDetail: 'AMD G-T56E',
+    nameDetail: 'AMD E2-1800 APU',
     mark: 442
   },
   {
-    nameDetail: 'AMD E2-1800 APU',
-    mark: 441
+    nameDetail: 'AMD G-T56E',
+    mark: 442
   },
   {
     nameDetail: 'Intel Core2 Duo T5200 @ 1.60GHz',
@@ -13521,6 +13541,10 @@ export const cpuData = [
   },
   {
     nameDetail: 'AMD A4-1250 APU',
+    mark: 432
+  },
+  {
+    nameDetail: 'MediaTek MT6737',
     mark: 432
   },
   {
@@ -13554,10 +13578,6 @@ export const cpuData = [
   {
     nameDetail: 'Intel Xeon 3.00GHz',
     mark: 425
-  },
-  {
-    nameDetail: 'MediaTek MT6737',
-    mark: 424
   },
   {
     nameDetail: 'Qualcomm MSM8916',
@@ -13604,6 +13624,10 @@ export const cpuData = [
     mark: 412
   },
   {
+    nameDetail: 'Intel Celeron 900 @ 2.20GHz',
+    mark: 409
+  },
+  {
     nameDetail: 'MediaTek MT6739WW',
     mark: 409
   },
@@ -13633,10 +13657,6 @@ export const cpuData = [
   },
   {
     nameDetail: 'Intel Atom D510 @ 1.66GHz',
-    mark: 404
-  },
-  {
-    nameDetail: 'Intel Celeron 900 @ 2.20GHz',
     mark: 404
   },
   {
@@ -13804,10 +13824,6 @@ export const cpuData = [
     mark: 372
   },
   {
-    nameDetail: 'ARM Cortex-A53 4 Core 1400 MHz',
-    mark: 372
-  },
-  {
     nameDetail: 'Intel Celeron D 360 @ 3.46GHz',
     mark: 372
   },
@@ -13918,6 +13934,10 @@ export const cpuData = [
   {
     nameDetail: 'ARM Cortex-A7 4 Core 1368 MHz',
     mark: 346
+  },
+  {
+    nameDetail: 'ARM Cortex-A53 4 Core 1400 MHz',
+    mark: 345
   },
   {
     nameDetail: 'Intel Core2 Duo U7700 @ 1.33GHz',
@@ -15278,5 +15298,9 @@ export const cpuData = [
   {
     nameDetail: 'Intel Pentium 4 1300MHz',
     mark: 77
+  },
+  {
+    nameDetail: 'Intel Pentium 4 1300MHz',
+    mark: ']'
   }
 ]

@@ -2,7 +2,7 @@
   <div class="main_app">
     <a-tabs default-active-key="1" lazy-load>
       <template #extra>
-        <a-popover :title="`数据更新时间：2022年5月1日`" position="br">
+        <a-popover :title="`数据更新时间：2022年5月6日`" position="br">
           <div class="pr-16px flex items-center cursor-pointer">
             <icon-clock-circle :size="18" />
           </div>
@@ -11,19 +11,19 @@
             <section class="space-y-10px">
               <div>
                 <h2 class="text-blue-700">CPU多核:</h2>
-                <h2>新增7个型号 (共计:{{ cpuData.length }})</h2>
+                <h2>新增5个型号 (共计:{{ cpuData.length }})</h2>
               </div>
               <div>
                 <h2 class="text-blue-700">CPU单核:</h2>
-                <h2>新增5个型号 (共计:{{ cpuSingleCoreData.length }})</h2>
+                <h2>新增7个型号 (共计:{{ cpuSingleCoreData.length }})</h2>
               </div>
               <div>
                 <p class="text-blue-700">显卡:</p>
-                <p>新增1个型号 (共计:{{ cpuSingleCoreData.length }})</p>
+                <p>新增2个型号 (共计:{{ cpuSingleCoreData.length }})</p>
               </div>
               <div>
                 <p class="text-blue-700">硬盘:</p>
-                <p>新增11个型号 (共计:{{ hardDriveData.length }})</p>
+                <p>新增6个型号 (共计:{{ hardDriveData.length }})</p>
               </div>
               <div class="text-12px text-gray-400">
                 如果型号有缺失，请通过评论及时反馈哦~

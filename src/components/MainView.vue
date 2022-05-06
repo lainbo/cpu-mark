@@ -127,9 +127,18 @@ const mainRef = ref() // 主体部分的 ref
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
 // 数据处理
-const tempArr = cloneDeep(props.tableData)
-const MaxRank = Math.max(...tempArr.map(i => i.mark)) // 数据中性能最大值
-timSort(tempArr, (a, b) => b.mark - a.mark) // 根据性能降序排序
+
+// 先过滤掉mark不是数字的
+const tempArr = cloneDeep(props.tableData).filter(
+  item => !isNaN(parseFloat(item.mark)) && isFinite(item.mark)
+)
+
+// 计算数据中性能最大值
+const MaxRank = Math.max(...tempArr.map(i => i.mark))
+
+// 根据性能降序排序
+timSort(tempArr, (a, b) => b.mark - a.mark)
+
 // 添加排名、百分比字段
 tempArr.forEach((i, idx) => {
   i.key = idx + 1
