@@ -16,7 +16,10 @@
           >
             <div class="truncate flex-1">
               {{ item.nameDetail }}
-              {{ `(排名：${item.key})` }}
+              <!-- 不是cpu对比的才有排名显示 -->
+              <template v-if="!isCpuCompared">
+                {{ `(排名：${item.key})` }}
+              </template>
             </div>
             <div
               class="cursor-pointer w-16px h-16px flex items-center justify-center rounded-full transition-all hover:(text-[#f00] bg-red-100)"
@@ -26,13 +29,40 @@
             </div>
           </div>
           <div class="flex items-center space-x-6px">
-            <a-progress
-              :percent="item.percentage"
-              :show-text="false"
-              size="large"
-              color="#165dff"
-            />
-            <span>{{ formatNum(item.mark) }}</span>
+            <template v-if="!isCpuCompared">
+              <a-progress
+                :percent="item.percentage"
+                :show-text="false"
+                size="large"
+                color="#165dff"
+              />
+              <span>{{ formatNum(item.mark) }}</span>
+            </template>
+
+            <template v-else>
+              <div class="flex w-full space-x-16px mt-8px">
+                <section class="w-1/2">
+                  <span>多核：{{ formatNum(item.mCoreMark) }}</span>
+                  <span>（排名：第{{ item.mRank }}）</span>
+                  <a-progress
+                    :percent="item.mPercentage || 0"
+                    :show-text="false"
+                    size="large"
+                    color="#165dff"
+                  />
+                </section>
+                <section class="w-1/2">
+                  <span>单核：{{ formatNum(item.sCoreMark) }}</span>
+                  <span>（排名：第{{ item.sRank }}）</span>
+                  <a-progress
+                    :percent="item.sPercentage || 0"
+                    :show-text="false"
+                    size="large"
+                    color="#165dff"
+                  />
+                </section>
+              </div>
+            </template>
           </div>
           <a-divider style="border-bottom-style: dashed" />
         </div>
@@ -84,21 +114,43 @@
           @checkbox-change="selectChangeEvent"
         >
           <vxe-column type="checkbox" title="比较" width="65" />
-          <vxe-column field="key" title="排名" width="80" sortable />
+          <vxe-column
+            v-if="!isCpuCompared"
+            field="key"
+            title="排名"
+            width="80"
+            sortable
+          />
           <vxe-column field="nameDetail" title="型号" />
-          <vxe-column field="mark" title="性能" width="250" sortable>
-            <template #default="{ row }">
-              <div class="space-x-6px">
-                <a-progress
-                  :percent="row.percentage"
-                  :style="{ width: '70%' }"
-                  :show-text="false"
-                  color="#165dff"
-                />
-                <span>{{ formatNum(row.mark) }}</span>
-              </div>
-            </template>
-          </vxe-column>
+
+          <template v-if="isCpuCompared">
+            <vxe-column field="sCoreMark" title="单核性能" width="100" sortable>
+              <template #default="{ row }">
+                <span>{{ formatNum(row.sCoreMark) }}</span>
+              </template>
+            </vxe-column>
+            <vxe-column field="mCoreMark" title="多核性能" width="100" sortable>
+              <template #default="{ row }">
+                <span>{{ formatNum(row.mCoreMark) }}</span>
+              </template>
+            </vxe-column>
+          </template>
+
+          <template v-else>
+            <vxe-column field="mark" title="性能" width="250" sortable>
+              <template #default="{ row }">
+                <div class="space-x-6px">
+                  <a-progress
+                    :percent="row.percentage"
+                    :style="{ width: '70%' }"
+                    :show-text="false"
+                    color="#165dff"
+                  />
+                  <span>{{ formatNum(row.mark) }}</span>
+                </div>
+              </template>
+            </vxe-column>
+          </template>
         </vxe-table>
       </div>
     </div>
@@ -109,6 +161,7 @@
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
 import { timSort } from '@/utils/timSort.js'
+import { isNumber } from '@/utils/isNumber.js'
 import { IconClose } from '@arco-design/web-vue/es/icon'
 import { cloneDeep, throttle } from 'lodash-es'
 
@@ -117,36 +170,89 @@ const props = defineProps({
     type: Array,
     default: () => []
   },
+  allData: {
+    type: Array,
+    default: () => []
+  },
   pageConfig: {
     type: Object,
     default: () => {}
+  },
+  cpuCompared: {
+    type: Boolean,
+    default: false
   }
 })
 const isDark = useDark() // 响应式：是否为暗色
 const mainRef = ref() // 主体部分的 ref
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
-// 数据处理
-
-// 先过滤掉mark不是数字的
-const tempArr = cloneDeep(props.tableData).filter(
-  item => !isNaN(parseFloat(item.mark)) && isFinite(item.mark)
-)
-
-// 计算数据中性能最大值
-const MaxRank = Math.max(...tempArr.map(i => i.mark))
-
-// 根据性能降序排序
-timSort(tempArr, (a, b) => b.mark - a.mark)
-
-// 添加排名、百分比字段
-tempArr.forEach((i, idx) => {
-  i.key = idx + 1
-  i.percentage = parseFloat((i.mark / MaxRank).toFixed(3))
+// 返回是否是CPU综合对比
+const isCpuCompared = computed(() => {
+  return props.cpuCompared
 })
 
-const originalData = Object.freeze(cloneDeep(tempArr)) // 原始数据
+// 数据处理
+let tempArr = []
+// 如果是CPU对比页面
+if (isCpuCompared.value) {
+  const [cpuMData, cpuSData] = cloneDeep(props.allData)
+  // 单核数据Map
+  const cpuSDataMap = new Map()
+  cpuSData.forEach(i => {
+    cpuSDataMap.set(i.nameDetail, i.mark)
+  })
 
+  // push生成单双核数组
+  cpuMData.forEach(i => {
+    tempArr.push({
+      nameDetail: i.nameDetail,
+      mCoreMark: i.mark,
+      sCoreMark: cpuSDataMap.get(i.nameDetail) || 0
+    })
+  })
+  // 计算单核性能最大值
+  const sMaxRank = Math.max(
+    ...tempArr.filter(i => isNumber(i.sCoreMark)).map(i => i.sCoreMark)
+  )
+  // 计算多核性能最大值
+  const mMaxRank = Math.max(
+    ...tempArr.filter(i => isNumber(i.mCoreMark)).map(i => i.mCoreMark)
+  )
+
+  // 根据多核性能降序排序,并设置多核排名
+  timSort(tempArr, (a, b) => b.mCoreMark - a.mCoreMark)
+  tempArr.forEach((i, index) => {
+    i.mRank = index + 1
+    i.mPercentage = parseFloat((i.mCoreMark / mMaxRank).toFixed(3))
+    i.sPercentage = parseFloat((i.sCoreMark / sMaxRank).toFixed(3))
+  })
+
+  // 根据单核性能降序排序,并设置单核排名和key
+  timSort(tempArr, (a, b) => b.sCoreMark - a.sCoreMark)
+  tempArr.forEach((i, index) => {
+    i.sRank = index + 1
+    i.key = index
+  })
+} else {
+  tempArr = cloneDeep(props.tableData)
+  // mark不是数字的直接不要
+  tempArr = tempArr.filter(i => isNumber(i.mark))
+
+  // 计算数据中性能最大值
+  const MaxRank = Math.max(...tempArr.map(i => i.mark))
+
+  // 根据性能降序排序
+  timSort(tempArr, (a, b) => b.mark - a.mark)
+
+  // 添加排名、百分比字段
+  tempArr.forEach((i, idx) => {
+    i.key = idx + 1
+    i.percentage = parseFloat((i.mark / MaxRank).toFixed(3))
+  })
+}
+
+const originalData = Object.freeze(cloneDeep(tempArr)) // 原始数据
 const tableData = ref(originalData) // 表格数据
 const selectArr = ref([]) // 选中的数据
 const tableRef = ref() // 表格ref
@@ -167,8 +273,9 @@ function removeCompareItem(key) {
 
 // 返回排序后的对比数据
 const calcComparedArr = computed(() => {
+  const field = isCpuCompared.value ? 'mCoreMark' : 'mark'
   const arr = cloneDeep(selectArr.value)
-  timSort(arr, (a, b) => b.mark - a.mark)
+  timSort(arr, (a, b) => b[field] - a[field])
   return arr
 })
 

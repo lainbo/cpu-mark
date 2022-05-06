@@ -15298,9 +15298,5 @@ export const cpuData = [
   {
     nameDetail: 'Intel Pentium 4 1300MHz',
     mark: 77
-  },
-  {
-    nameDetail: 'Intel Pentium 4 1300MHz',
-    mark: ']'
   }
 ]
