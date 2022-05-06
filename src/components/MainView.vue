@@ -40,7 +40,7 @@
             </template>
 
             <template v-else>
-              <div class="flex w-full space-x-16px mt-8px">
+              <div class="flex w-full space-x-20px mt-8px">
                 <section class="w-1/2">
                   <span>多核：{{ formatNum(item.mCoreMark) }}</span>
                   <span>（排名：第{{ item.mRank }}）</span>
