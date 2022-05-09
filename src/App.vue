@@ -1,8 +1,8 @@
 <template>
   <div class="main_app">
-    <a-tabs default-active-key="1" lazy-load>
+    <a-tabs v-model:active-key="activeName" lazy-load>
       <template #extra>
-        <a-popover :title="`数据更新时间：2022年5月6日`" position="br">
+        <a-popover :title="`数据更新时间：2022年5月9日`" position="br">
           <div class="pr-16px flex items-center cursor-pointer">
             <icon-clock-circle :size="18" />
           </div>
@@ -11,11 +11,11 @@
             <section class="space-y-10px">
               <div>
                 <h2 class="text-blue-700">CPU多核:</h2>
-                <h2>新增5个型号 (共计:{{ cpuMData.length }})</h2>
+                <h2>新增4个型号 (共计:{{ cpuMData.length }})</h2>
               </div>
               <div>
                 <h2 class="text-blue-700">CPU单核:</h2>
-                <h2>新增7个型号 (共计:{{ cpuSData.length }})</h2>
+                <h2>新增1个型号 (共计:{{ cpuSData.length }})</h2>
               </div>
               <div>
                 <p class="text-blue-700">显卡:</p>
@@ -25,30 +25,27 @@
                 <p class="text-blue-700">硬盘:</p>
                 <p>新增6个型号 (共计:{{ hardDriveData.length }})</p>
               </div>
-              <div class="text-12px text-gray-400">
-                如果型号有缺失，请通过评论及时反馈哦~
-              </div>
             </section>
           </template>
         </a-popover>
       </template>
-      <a-tab-pane key="1" :title="pageConfig.cpuM.title">
+      <a-tab-pane :key="1" :title="pageConfig.cpuM.title">
         <MainView :table-data="cpuMData" :page-config="pageConfig.cpuM" />
       </a-tab-pane>
-      <a-tab-pane key="2" :title="pageConfig.cpuS.title">
+      <a-tab-pane :key="2" :title="pageConfig.cpuS.title">
         <MainView :table-data="cpuSData" :page-config="pageConfig.cpuS" />
       </a-tab-pane>
-      <a-tab-pane key="3" title="CPU综合对比">
+      <a-tab-pane :key="3" title="CPU综合对比">
         <MainView
           :all-data="[cpuMData, cpuSData]"
           :page-config="pageConfig.synthesis"
           :cpu-compared="true"
         />
       </a-tab-pane>
-      <a-tab-pane key="4" :title="pageConfig.gpu.title">
+      <a-tab-pane :key="4" :title="pageConfig.gpu.title">
         <MainView :table-data="gpuData" :page-config="pageConfig.gpu" />
       </a-tab-pane>
-      <a-tab-pane key="5" :title="pageConfig.drive.title">
+      <a-tab-pane :key="5" :title="pageConfig.drive.title">
         <MainView :table-data="hardDriveData" :page-config="pageConfig.drive" />
       </a-tab-pane>
     </a-tabs>
@@ -68,6 +65,26 @@ const cpuMData = uniqArr(cpuData)
 const cpuSData = uniqArr(cpuSingleCoreData)
 const gpuData = uniqArr(gpuOriginData)
 const hardDriveData = uniqArr(hardDriveOriginData)
+
+const activeName = ref(1) // 默认选中的tab
+
+onMounted(() => {
+  if (!window?.utools) return
+  utoolsInit()
+})
+
+const utoolsInit = () => {
+  window.utools.onPluginEnter(({ payload }) => {
+    if (['显卡', 'gpu', 'GPU'].includes(payload)) {
+      activeName.value = 4
+    } else if (['硬盘', 'hdd', 'HDD'].includes(payload)) {
+      activeName.value = 5
+    } else {
+      activeName.value = 1
+    }
+  })
+  window.utools.subInputBlur()
+}
 
 // 去重函数
 function uniqArr(arr) {
@@ -103,8 +120,9 @@ const pageConfig = {
   },
   synthesis: {
     title: 'CPU综合对比',
-    question: '',
-    answer: '',
+    question: '如何知道一款CPU是否适合我？',
+    answer:
+      '数据的排名靠前，并不代表这个CPU真的适合你，比如你需要一个打游戏的电脑，不知道如何CPU超频，还希望有着优秀的性价比，那么5800X 3D可能是你最好的选择，因为它有更大的CPU三级缓存，这让它在大部分游戏下的表现，和比他贵了2000多元的12900KS相当，但是仅从表格中可以得到的数据来看，他的单核、多核都不是特别的出彩，但是如果你会超频，你肯定知道去买一个散片12900KF可以爆杀5800X 3D。另一方面，除非你知道自己在做什么，否则不要去只依靠表格排名，去做你的购买参考，排名不能代表实际体验，数据仅供参考，所以如果对CPU只有一知半解，建议去网上多方综合了解后再购买',
     placeholder: '请输入CPU型号，如5800X'
   }
 }
