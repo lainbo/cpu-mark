@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.26.0",
-    "@vitejs/plugin-vue": "^2.3.2",
+    "@vitejs/plugin-vue": "^2.3.3",
     "@vue/eslint-config-prettier": "^7.0.0",
     "consola": "^2.15.3",
     "eslint": "^7.32.0",
@@ -28,10 +28,10 @@
     "sass": "^1.51.0",
     "unplugin-auto-import": "^0.7.1",
     "unplugin-vue-components": "^0.19.5",
-    "vite": "^2.9.8",
+    "vite": "^2.9.9",
     "vite-plugin-chunk-split": "^0.2.2",
     "vite-plugin-style-import": "^2.0.0",
     "vite-plugin-windicss": "^1.8.4",
-    "windicss": "^3.5.2"
+    "windicss": "^3.5.3"
   }
 }
