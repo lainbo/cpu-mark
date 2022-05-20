@@ -11,19 +11,19 @@
             <section class="space-y-10px">
               <div>
                 <h2 class="text-blue-700">CPU多核:</h2>
-                <h2>新增1个型号 (共计:{{ cpuMData.length }})</h2>
+                <h2>新增4个型号 (共计:{{ cpuMData.length }})</h2>
               </div>
               <div>
                 <h2 class="text-blue-700">CPU单核:</h2>
-                <h2>新增0个型号 (共计:{{ cpuSData.length }})</h2>
+                <h2>新增3个型号 (共计:{{ cpuSData.length }})</h2>
               </div>
               <div>
                 <p class="text-blue-700">显卡:</p>
-                <p>新增1个型号 (共计:{{ gpuData.length }})</p>
+                <p>新增0个型号 (共计:{{ gpuData.length }})</p>
               </div>
               <div>
                 <p class="text-blue-700">硬盘:</p>
-                <p>新增11个型号 (共计:{{ hardDriveData.length }})</p>
+                <p>新增0个型号 (共计:{{ hardDriveData.length }})</p>
               </div>
             </section>
           </template>

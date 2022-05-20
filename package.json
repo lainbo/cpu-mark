@@ -12,7 +12,7 @@
     "@vueuse/core": "^8.5.0",
     "dayjs": "^1.11.2",
     "lodash-es": "^4.17.21",
-    "vue": "^3.2.33",
+    "vue": "^3.2.34",
     "vxe-table": "^4.2.3",
     "xe-utils": "^3.5.4"
   },
@@ -23,15 +23,15 @@
     "consola": "^2.15.3",
     "eslint": "^7.32.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-vue": "^8.7.1",
+    "eslint-plugin-vue": "^9.0.1",
     "prettier": "^2.6.2",
-    "sass": "^1.51.0",
-    "unplugin-auto-import": "^0.7.1",
+    "sass": "^1.52.0",
+    "unplugin-auto-import": "^0.7.2",
     "unplugin-vue-components": "^0.19.5",
     "vite": "^2.9.9",
     "vite-plugin-chunk-split": "^0.2.2",
     "vite-plugin-style-import": "^2.0.0",
     "vite-plugin-windicss": "^1.8.4",
-    "windicss": "^3.5.3"
+    "windicss": "^3.5.4"
   }
 }
