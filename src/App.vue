@@ -2,7 +2,7 @@
   <div class="main_app">
     <a-tabs v-model:active-key="activeName" lazy-load>
       <template #extra>
-        <a-popover :title="`数据更新时间：2022年5月17日`" position="br">
+        <a-popover :title="`数据更新时间：2022年5月24日`" position="br">
           <div class="pr-16px flex items-center cursor-pointer">
             <icon-clock-circle :size="18" />
           </div>
@@ -19,11 +19,11 @@
               </div>
               <div>
                 <p class="text-blue-700">显卡:</p>
-                <p>新增0个型号 (共计:{{ gpuData.length }})</p>
+                <p>新增1个型号 (共计:{{ gpuData.length }})</p>
               </div>
               <div>
                 <p class="text-blue-700">硬盘:</p>
-                <p>新增0个型号 (共计:{{ hardDriveData.length }})</p>
+                <p>新增6个型号 (共计:{{ hardDriveData.length }})</p>
               </div>
             </section>
           </template>
