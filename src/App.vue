@@ -2,28 +2,18 @@
   <div class="main_app">
     <a-tabs v-model:active-key="activeName" lazy-load>
       <template #extra>
-        <a-popover :title="`数据更新时间：2022年5月24日`" position="br">
+        <a-popover :title="`数据更新时间：${updateObj.date}`" position="br">
           <div class="pr-16px flex items-center cursor-pointer">
             <icon-clock-circle :size="18" />
           </div>
           <template #content>
             <a-divider orientation="center">较上次新增数据</a-divider>
             <section class="space-y-10px">
-              <div>
-                <h2 class="text-blue-700">CPU多核:</h2>
-                <h2>新增4个型号 (共计:{{ cpuMData.length }})</h2>
-              </div>
-              <div>
-                <h2 class="text-blue-700">CPU单核:</h2>
-                <h2>新增3个型号 (共计:{{ cpuSData.length }})</h2>
-              </div>
-              <div>
-                <p class="text-blue-700">显卡:</p>
-                <p>新增1个型号 (共计:{{ gpuData.length }})</p>
-              </div>
-              <div>
-                <p class="text-blue-700">硬盘:</p>
-                <p>新增6个型号 (共计:{{ hardDriveData.length }})</p>
+              <div v-for="(item, index) in updateObj.updateArr" :key="index">
+                <h2 class="text-blue-700">{{ item.label }}:</h2>
+                <h2>
+                  新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个)
+                </h2>
               </div>
             </section>
           </template>
@@ -59,6 +49,7 @@ import { cpuData } from '@/assets/staticData/cpuData.js'
 import { cpuSingleCoreData } from '@/assets/staticData/cpuSingleCoreData.js'
 import { gpuOriginData } from '@/assets/staticData/gpuData.js'
 import { hardDriveOriginData } from '@/assets/staticData/hardDriveData.js'
+import { reactive } from 'vue'
 
 // 原数据有重复的，这里进行去重
 const cpuMData = uniqArr(cpuData)
@@ -67,7 +58,31 @@ const gpuData = uniqArr(gpuOriginData)
 const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
-
+const updateObj = reactive({
+  date: '2022年5月24日',
+  updateArr: [
+    {
+      label: 'CPU多核',
+      addNum: 4,
+      totalNum: cpuMData.length
+    },
+    {
+      label: 'CPU单核',
+      addNum: 3,
+      totalNum: cpuSData.length
+    },
+    {
+      label: '显卡',
+      addNum: 1,
+      totalNum: gpuData.length
+    },
+    {
+      label: '硬盘',
+      addNum: 6,
+      totalNum: hardDriveData.length
+    }
+  ]
+})
 onMounted(() => {
   if (!window?.utools) return
   utoolsInit()
