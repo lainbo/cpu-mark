@@ -122,8 +122,9 @@ const pageConfig = {
   },
   gpu: {
     title: '显卡天梯',
-    question: '',
-    answer: '',
+    question: '显卡得分解释',
+    answer:
+      '得分融合了PerformanceTest，微软DirectX API中的DirectCompute，Khronos的OpenCL中的各项数据，各项数据的权重也各不相同，最终得分是由成千上万的同型号显卡平均得出，不完全反映其游戏性能，数据仅供参考。',
     placeholder: '请输入显卡型号，如1050'
   },
   drive: {

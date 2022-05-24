@@ -11,9 +11,15 @@
   src: url('../assets/font/HarmonyOS_Sans_Regular.woff2') format('woff2');
 }
 
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  src: url('../assets/font/Inter-Regular.woff2') format('woff2');
+}
+
 html,
 body {
-  font-family: 'HarmonyOS', 'HarmonyOS Sans SC', system-ui,
+  font-family: 'Inter', 'HarmonyOS Sans SC', system-ui,
     —apple-system, Segoe UI, Rototo, Emoji, Helvetica, Arial, sans-serif !important;
 }
 
