@@ -31,8 +31,6 @@
     "ignorableWatch": true,
     "inject": true,
     "isDefined": true,
-    "isProxy": true,
-    "isReactive": true,
     "isReadonly": true,
     "isRef": true,
     "logicAnd": true,
@@ -228,8 +226,6 @@
     "watchIgnorable": true,
     "watchOnce": true,
     "watchPausable": true,
-    "watchPostEffect": true,
-    "watchSyncEffect": true,
     "watchThrottled": true,
     "watchWithFilter": true,
     "whenever": true
