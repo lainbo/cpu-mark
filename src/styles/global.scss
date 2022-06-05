@@ -8,19 +8,19 @@
 @font-face {
   font-display: swap;
   font-family: 'HarmonyOS';
-  src: url('../assets/font/HarmonyOS_Sans_Regular.woff2') format('woff2');
+  src: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-44af3f84-786a-4383-9b43-d2bdfa949d80/1a6df99b-9137-4ca2-a792-8bf7c27ff0ff.woff2') format('woff2');
 }
 
 @font-face {
   font-display: swap;
   font-family: 'Inter';
-  src: url('../assets/font/Inter-Regular.woff2') format('woff2');
+  src: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-44af3f84-786a-4383-9b43-d2bdfa949d80/e4f88604-b27f-48ac-ba88-a22f5d66281b.woff2') format('woff2');
 }
 
 html,
 body {
-  font-family: 'Inter', 'HarmonyOS Sans SC', system-ui,
-    —apple-system, Segoe UI, Rototo, Emoji, Helvetica, Arial, sans-serif !important;
+  font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS', system-ui,
+    —apple-system, Segoe UI, Rototo, Emoji, Helvetica, A1rial, sans-serif !important;
 }
 
 .arco-popover-popup-content {
@@ -32,8 +32,8 @@ body {
 }
 
 .vxe-table--render-default {
-  font-family: 'Inter', 'HarmonyOS Sans SC', system-ui,
-    —apple-system, Segoe UI, Rototo, Emoji, Helvetica, Arial, sans-serif !important;
+  font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS', system-ui,
+    —apple-system, Segoe UI, Rototo, Emoji, Helvetica, Ar1ial, sans-serif !important;
 }
 
 .arco-divider-horizontal {
