@@ -19,10 +19,10 @@
   dependencies:
     color "^3.1.3"
 
-"@arco-design/web-vue@^2.30.1":
-  version "2.30.1"
-  resolved "https://registry.npmmirror.com/@arco-design/web-vue/-/web-vue-2.30.1.tgz#20196ab96ac97592796f25d1903b3b125c2be500"
-  integrity sha512-dOoPf0k3s0vsmdnHS3t7D84mre63jQXDg/io6xX0kwfu7nSqW4kFvLerFWwNKNK2AGQ9/2lqTBOAzvj8Aj2hSQ==
+"@arco-design/web-vue@^2.31.0":
+  version "2.31.0"
+  resolved "https://registry.npmmirror.com/@arco-design/web-vue/-/web-vue-2.31.0.tgz#74faceb9b741875611543514d6c1c01a68e37e83"
+  integrity sha512-rjh6l/NBpYwDJeGYOCAQh2bb58BBxhMTxUhy5pSo5G9ZZ6q0VI/CqrTseUPSF4+CRucHKWBe1F96bmx1kEydXA==
   dependencies:
     "@arco-design/color" "^0.4.0"
     b-tween "^0.3.3"
@@ -220,24 +220,24 @@
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.37.tgz#8e6adc3f2759af52f0e85863dfb0b711ecc5c702"
   integrity sha512-4rSJemR2NQIo9Klm1vabqWjD8rs/ZaJSzMxkMNeJS6lHiUjjUeYFbooN19NgFjztubEKh3WlZUeOLVdbbUWHsw==
 
-"@vueuse/core@^8.6.0":
-  version "8.6.0"
-  resolved "https://registry.npmmirror.com/@vueuse/core/-/core-8.6.0.tgz#a8f80363cc63d17382423f16beae57696f376e67"
-  integrity sha512-VirzExCm/N+QdrEWT7J4uSrvJ5hquKIAU9alQ37kUvIJk9XxCLxmfRnmekYc1kz2+6BnoyuKYXVmrMV351CB4w==
+"@vueuse/core@^8.7.4":
+  version "8.7.4"
+  resolved "https://registry.npmmirror.com/@vueuse/core/-/core-8.7.4.tgz#39cec3e63faa8943be67121a176fbd84939c2b80"
+  integrity sha512-dQgxjb79PDcizlaclgCkCzNoqNv12PnbXxUOFL9VacakmD/ACoSMWwTpcG3HKoDoYyl2V3kSW/8AkvXGEYEGFA==
   dependencies:
-    "@vueuse/metadata" "8.6.0"
-    "@vueuse/shared" "8.6.0"
+    "@vueuse/metadata" "8.7.4"
+    "@vueuse/shared" "8.7.4"
     vue-demi "*"
 
-"@vueuse/metadata@8.6.0":
-  version "8.6.0"
-  resolved "https://registry.npmmirror.com/@vueuse/metadata/-/metadata-8.6.0.tgz#34771443a72ee891ae001a70aa05dd9a1d799372"
-  integrity sha512-F+CKPvaExsm7QgRr8y+ZNJFwXasn89rs5wth/HeX9lJ1q8XEt+HJ16Q5Sxh4rfG5YSKXrStveVge8TKvPjMjFA==
+"@vueuse/metadata@8.7.4":
+  version "8.7.4"
+  resolved "https://registry.npmmirror.com/@vueuse/metadata/-/metadata-8.7.4.tgz#211a2a095504dd34c3d8881f4b1989e67662e9f5"
+  integrity sha512-CwEYS6/M6JDxk9D1mUsZq3F0VnYnf39rAxOytP58vb4BrhmPKEVfiSpvxuYcJimU9ccT/xjWhwBnsdGC2H9mIQ==
 
-"@vueuse/shared@8.6.0":
-  version "8.6.0"
-  resolved "https://registry.npmmirror.com/@vueuse/shared/-/shared-8.6.0.tgz#63dad9fc4b73a7fccbe5d6b97adeacf73d4fec41"
-  integrity sha512-Y/IVywZo7IfEoSSEtCYpkVEmPV7pU35mEIxV7PbD/D3ly18B3mEsBaPbtDkNM/QP3zAZ5mn4nEkOfddX4uwuIA==
+"@vueuse/shared@8.7.4":
+  version "8.7.4"
+  resolved "https://registry.npmmirror.com/@vueuse/shared/-/shared-8.7.4.tgz#c9ddff6515c0898bb28d00a38dccc62d9be35887"
+  integrity sha512-QhwTEd2Gr/8ZliWVEM8sbMUkXtVVV1Mt1mOkCnIbIN33D/V28FwGKUKqEPGZZCXuJchARnun/J1TAiT/UmZd1w==
   dependencies:
     vue-demi "*"
 
@@ -1486,10 +1486,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.6.2:
-  version "2.6.2"
-  resolved "https://registry.npmmirror.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
-  integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
+prettier@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.npmmirror.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
 progress@^2.0.0:
   version "2.0.3"
@@ -1682,6 +1682,13 @@ strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
   resolved "https://registry.npmmirror.com/strip-json-comments/-/strip-json-comments-3.1.1.tgz#31f1281b3832630434831c310c01cccda8cbe006"
   integrity sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==
 
+strip-literal@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.npmmirror.com/strip-literal/-/strip-literal-0.4.0.tgz#0f90e86daecc1eb23c61c62d25238ffad4524634"
+  integrity sha512-ql/sBDoJOybTKSIOWrrh8kgUEMjXMwRAkZTD0EwiwxQH/6tTPkZvMIEjp0CRlpi6V5FMiJyvxeRkEi1KrGISoA==
+  dependencies:
+    acorn "^8.7.1"
+
 supports-color@^5.3.0:
   version "5.5.0"
   resolved "https://registry.npmmirror.com/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
@@ -1741,10 +1748,10 @@ type-fest@^0.20.2:
   resolved "https://registry.npmmirror.com/type-fest/-/type-fest-0.20.2.tgz#1bf207f4b28f91583666cb5fbd327887301cd5f4"
   integrity sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ==
 
-unimport@^0.2.5:
-  version "0.2.5"
-  resolved "https://registry.npmmirror.com/unimport/-/unimport-0.2.5.tgz#d9cada02542e50a0a117dcf36ea4c613192f3c29"
-  integrity sha512-1YreHVa6vUtRANhtKROtniBY01PXM0ol857tlI3HaQHNLcuQKqWUCAfvZC/GipotKrMVm4LV9ZQ4u1s9lrrDpg==
+unimport@^0.2.7:
+  version "0.2.9"
+  resolved "https://registry.npmmirror.com/unimport/-/unimport-0.2.9.tgz#62b720220c12a470e83bd01d9bf723b3534d2dd2"
+  integrity sha512-5SLmZZL2rwaNOQa/yTGaG0QI0meRhb6MDdIlS9s1uHPSYO6Gfzr7ugl5Rf35/CJioW6wYiNJsN9dru5JMzaD8w==
   dependencies:
     "@rollup/pluginutils" "^4.2.1"
     escape-string-regexp "^5.0.0"
@@ -1754,24 +1761,25 @@ unimport@^0.2.5:
     mlly "^0.5.2"
     pathe "^0.3.0"
     scule "^0.2.1"
-    unplugin "^0.6.3"
+    strip-literal "^0.4.0"
+    unplugin "^0.7.0"
 
 universalify@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmmirror.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-unplugin-auto-import@^0.8.7:
-  version "0.8.7"
-  resolved "https://registry.npmmirror.com/unplugin-auto-import/-/unplugin-auto-import-0.8.7.tgz#7456b76149a4db1a50355da8627d1825e1ccfff1"
-  integrity sha512-xepkl/lzlPmWym/ZqjgKpev30S5402qZYHnRZ7MQ78+WxBykvUw69PB0awWcWJ7atswNs6LkDRpGNqzjFCEH4w==
+unplugin-auto-import@^0.8.8:
+  version "0.8.8"
+  resolved "https://registry.npmmirror.com/unplugin-auto-import/-/unplugin-auto-import-0.8.8.tgz#a8d3bbbe9af0fd84f729032d9c1198afd2326216"
+  integrity sha512-cVZ79zMR1v4VCZ9emFTUnltmazCc2B4hObyVrxJdlgJ2sK8qub6JfjFt38rCF6MVEddkHiWCU6wZR1qbdqe+ig==
   dependencies:
     "@antfu/utils" "^0.5.2"
     "@rollup/pluginutils" "^4.2.1"
     local-pkg "^0.4.1"
     magic-string "^0.26.2"
-    unimport "^0.2.5"
-    unplugin "^0.6.3"
+    unimport "^0.2.7"
+    unplugin "^0.7.0"
 
 unplugin-vue-components@^0.19.6:
   version "0.19.6"
@@ -1794,6 +1802,16 @@ unplugin@^0.6.3:
   resolved "https://registry.npmmirror.com/unplugin/-/unplugin-0.6.3.tgz#b8721e2b163a410a7efed726e6a0fc6fbadf975a"
   integrity sha512-CoW88FQfCW/yabVc4bLrjikN9HC8dEvMU4O7B6K2jsYMPK0l6iAnd9dpJwqGcmXJKRCU9vwSsy653qg+RK0G6A==
   dependencies:
+    chokidar "^3.5.3"
+    webpack-sources "^3.2.3"
+    webpack-virtual-modules "^0.4.3"
+
+unplugin@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.npmmirror.com/unplugin/-/unplugin-0.7.0.tgz#8c8e28a7ca454a13313483ddd4c1f9cc1809d966"
+  integrity sha512-OsiFrgybmqm5bGuaodvbLYhqUrvGuRHRMZDhddKEXTDbuQ1x+hR7M1WpQguXj03whVYjEYChhFo738cZH5RNig==
+  dependencies:
+    acorn "^8.7.1"
     chokidar "^3.5.3"
     webpack-sources "^3.2.3"
     webpack-virtual-modules "^0.4.3"
@@ -1829,10 +1847,10 @@ v8-compile-cache@^2.0.3:
   resolved "https://registry.npmmirror.com/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz#2de19618c66dc247dcfb6f99338035d8245a2cee"
   integrity sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==
 
-vite-plugin-chunk-split@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.npmmirror.com/vite-plugin-chunk-split/-/vite-plugin-chunk-split-0.2.2.tgz#991f04a9834d8473362aeb3d986f290ffd3a0fe4"
-  integrity sha512-xkECmz83+yMPXIFKnzT5HTmaIlv+mxU35XXs6Qmv6kmytONv2s9jpAmjLkJ11DX6P4DitOaLF2Xcb02R3Z3l3w==
+vite-plugin-chunk-split@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.npmmirror.com/vite-plugin-chunk-split/-/vite-plugin-chunk-split-0.2.4.tgz#62469c128ee9b3b9ee600307ef728d3d292dd802"
+  integrity sha512-yYgVU9BDXtx5Bdb8uZbpLMtE3DgRARctg7hzl8+tFeAw555GLfEtwI+Mm+rAuSJzcJLE6Qsq/fsPZS8Lxayg9A==
 
 vite-plugin-style-import@^2.0.0:
   version "2.0.0"
