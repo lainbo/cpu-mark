@@ -9,11 +9,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON KC3000 2TB',
-    mark: 49934
+    mark: 48662
   },
   {
     nameDetail: 'KINGSTON KC3000 1TB',
-    mark: 48663
+    mark: 48413
   },
   {
     nameDetail: 'KINGSTON FURY Renegade 2TB',
@@ -21,11 +21,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung 980 PRO with Heatsink 2TB',
-    mark: 46737
+    mark: 46418
   },
   {
     nameDetail: 'Seagate FireCuda 530 ZP2000GM30013',
-    mark: 45704
+    mark: 45684
   },
   {
     nameDetail: 'PNY CS3140 2TB SSD',
@@ -33,7 +33,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Corsair MP600 PRO XT',
-    mark: 44827
+    mark: 45155
   },
   {
     nameDetail: 'NVMe KINGSTON SFYRS1000G',
@@ -45,19 +45,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate FireCuda 530 ZP1000GM30013',
-    mark: 44303
+    mark: 44250
   },
   {
     nameDetail: 'WDC PC SN810 SDCPNRY 1TB',
-    mark: 44001
+    mark: 43859
   },
   {
     nameDetail: 'WD BLACK SN850 Heatsink 1TB',
-    mark: 42653
-  },
-  {
-    nameDetail: 'NVMe Micron 3400 NVMe 1024GB',
-    mark: 42497
+    mark: 42778
   },
   {
     nameDetail: 'Micron 3400 NVMe 1024GB',
@@ -65,11 +61,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SFYRS1000G',
-    mark: 42233
+    mark: 42274
+  },
+  {
+    nameDetail: 'NVMe Micron 3400 NVMe 1024GB',
+    mark: 41991
   },
   {
     nameDetail: 'Samsung 980 PRO with Heatsink 1TB',
-    mark: 41912
+    mark: 41778
   },
   {
     nameDetail: 'Seagate FireCuda 530 ZP4000GM30013',
@@ -81,7 +81,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD BLACK SN850 1TB',
-    mark: 41683
+    mark: 41690
+  },
+  {
+    nameDetail: 'NVMe PC801 NVMe SK hynix 512GB',
+    mark: 41489
   },
   {
     nameDetail: 'Seagate FireCuda 530 ZP1000GM30023',
@@ -89,7 +93,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD BLACK SN850 2TB',
-    mark: 40822
+    mark: 40897
   },
   {
     nameDetail: 'MSI M480 2TB',
@@ -101,7 +105,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Micron 3400 NVMe 1TB',
-    mark: 40408
+    mark: 40424
+  },
+  {
+    nameDetail: 'XPG GAMMIX S70 BLADE',
+    mark: 40418
   },
   {
     nameDetail: 'NVMe CT2000P5PSSD8',
@@ -110,10 +118,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'PC SN810 NVMe WDC 512GB',
     mark: 40212
-  },
-  {
-    nameDetail: 'XPG GAMMIX S70 BLADE',
-    mark: 40135
   },
   {
     nameDetail: 'NVMe PC SN810 NVMe WDC 512GB',
@@ -129,7 +133,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 980 PRO 2TB',
-    mark: 39057
+    mark: 39076
   },
   {
     nameDetail: 'WDC PC SN810 SDCPNRY 512GB',
@@ -153,23 +157,19 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'NVMe PC801 NVMe SK hynix 1TB',
-    mark: 38066
+    mark: 38070
+  },
+  {
+    nameDetail: 'CT1000P5PSSD8',
+    mark: 37948
   },
   {
     nameDetail: 'Micron 3400 NVMe 2048GB',
     mark: 37901
   },
   {
-    nameDetail: 'CT1000P5PSSD8',
-    mark: 37841
-  },
-  {
-    nameDetail: 'NVMe PC801 NVMe SK hynix 2TB',
-    mark: 37583
-  },
-  {
     nameDetail: 'Samsung SSD 980 PRO 1TB',
-    mark: 37322
+    mark: 37338
   },
   {
     nameDetail: 'NVMe WD BLACK SN770 1TB',
@@ -177,15 +177,19 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD BLACK SN850 500GB',
-    mark: 37141
+    mark: 37087
   },
   {
     nameDetail: 'MSI M480 1TB',
-    mark: 37122
+    mark: 37016
   },
   {
     nameDetail: 'PNY CS3140 1TB SSD',
     mark: 36731
+  },
+  {
+    nameDetail: 'KIOXIA KXG70ZNV1T02 1024GB',
+    mark: 36661
   },
   {
     nameDetail: 'KXG70ZNV512G NVMe KIOXIA 512GB',
@@ -193,23 +197,23 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Micron 3400 MTFDKBA512TFH',
-    mark: 36604
+    mark: 36468
   },
   {
     nameDetail: 'WD BLACK SN770 2TB',
     mark: 36374
   },
   {
-    nameDetail: 'KIOXIA KXG70ZNV1T02 1024GB',
-    mark: 36354
+    nameDetail: 'Samsung SSD PM9A1 NVMe 2TB',
+    mark: 36169
   },
   {
     nameDetail: 'Corsair MP600 PRO',
-    mark: 36260
+    mark: 36146
   },
   {
     nameDetail: 'WD BLACK SN770 1TB',
-    mark: 36169
+    mark: 36108
   },
   {
     nameDetail: 'CT2000P5PSSD8',
@@ -218,10 +222,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'ADATA LEGEND 840',
     mark: 36078
-  },
-  {
-    nameDetail: 'Samsung SSD PM9A1 NVMe 2TB',
-    mark: 36070
   },
   {
     nameDetail: 'MSI M470 2TB',
@@ -236,6 +236,14 @@ export const hardDriveOriginData = [
     mark: 35402
   },
   {
+    nameDetail: 'NVMe Seagate FireCuda',
+    mark: 35032
+  },
+  {
+    nameDetail: 'NVMe PC801 NVMe SK hynix 2TB',
+    mark: 34922
+  },
+  {
     nameDetail: 'NVMe KXG70ZNV512G NVMe KIOXIA 512GB',
     mark: 34879
   },
@@ -248,16 +256,16 @@ export const hardDriveOriginData = [
     mark: 34536
   },
   {
-    nameDetail: 'PNY CS3040 2TB SSD',
-    mark: 34440
+    nameDetail: 'CT500P5PSSD8',
+    mark: 34396
   },
   {
     nameDetail: 'NVMe Micron 3400 NVMe 512GB',
     mark: 34343
   },
   {
-    nameDetail: 'CT500P5PSSD8',
-    mark: 34246
+    nameDetail: 'PNY CS3040 2TB SSD',
+    mark: 33999
   },
   {
     nameDetail: 'NVMe KXG70PN84T09 NVMe KIOXIA 4096GB',
@@ -269,27 +277,31 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'NVMe KXG70PNV2T04 NVMe KIOXIA 2048GB',
-    mark: 33720
+    mark: 33834
   },
   {
     nameDetail: 'PNY CS3040 1TB SSD',
-    mark: 33491
+    mark: 33578
   },
   {
     nameDetail: 'Samsung SSD PM9A1 NVMe 1TB',
-    mark: 33397
+    mark: 33454
+  },
+  {
+    nameDetail: 'Viper VP4300 1TB',
+    mark: 33292
   },
   {
     nameDetail: 'NVMe Force MP600',
     mark: 32937
   },
   {
-    nameDetail: 'Seagate FireCuda 530 ZP500GM30013',
-    mark: 32564
+    nameDetail: 'XPG GAMMIX S70',
+    mark: 32768
   },
   {
-    nameDetail: 'XPG GAMMIX S70',
-    mark: 32522
+    nameDetail: 'Seagate FireCuda 530 ZP500GM30013',
+    mark: 32564
   },
   {
     nameDetail: 'Micron MTFDKBA512TFH',
@@ -304,12 +316,8 @@ export const hardDriveOriginData = [
     mark: 32367
   },
   {
-    nameDetail: 'NVMe Seagate FireCuda',
-    mark: 32326
-  },
-  {
     nameDetail: 'Samsung SSD 980 PRO 500GB',
-    mark: 32258
+    mark: 32287
   },
   {
     nameDetail: 'KXG70PNV2T04 NVMe KIOXIA 2048GB',
@@ -317,7 +325,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate FireCuda 520 SSD ZP2000GM30002',
-    mark: 32030
+    mark: 31933
   },
   {
     nameDetail: 'HPT DISK 0 0',
@@ -332,36 +340,36 @@ export const hardDriveOriginData = [
     mark: 31694
   },
   {
-    nameDetail: 'WD BLACK SN770 500GB',
-    mark: 31315
+    nameDetail: 'WD Blue SN570 2TB',
+    mark: 31580
   },
   {
-    nameDetail: 'WD Blue SN570 2TB',
-    mark: 31267
+    nameDetail: 'WD BLACK SN770 500GB',
+    mark: 31436
   },
   {
     nameDetail: 'Sabrent Rocket 4.0 2TB',
-    mark: 31110
+    mark: 31036
   },
   {
     nameDetail: 'Seagate FireCuda 520 SSD ZP1000GM30002',
-    mark: 30929
-  },
-  {
-    nameDetail: 'Gigabyte AORUS NVMe Gen4 M.2 2TB',
-    mark: 30727
+    mark: 30895
   },
   {
     nameDetail: 'NVMe CT1000P5PSSD8',
     mark: 30690
   },
   {
-    nameDetail: 'Corsair Force MP600 2TB',
-    mark: 30520
+    nameDetail: 'Gigabyte AORUS NVMe Gen4 M.2 2TB',
+    mark: 30613
   },
   {
     nameDetail: 'NVMe PNY CS3140 1TB SSD',
     mark: 30514
+  },
+  {
+    nameDetail: 'Corsair Force MP600 2TB',
+    mark: 30460
   },
   {
     nameDetail: 'Viper M.2 VP4100',
@@ -372,12 +380,12 @@ export const hardDriveOriginData = [
     mark: 30413
   },
   {
-    nameDetail: 'Samsung SSD PM9A1 NVMe 512GB',
-    mark: 30368
-  },
-  {
     nameDetail: 'Samsung SSD 980 NVMe 2TB',
     mark: 30354
+  },
+  {
+    nameDetail: 'Samsung SSD PM9A1 NVMe 512GB',
+    mark: 30253
   },
   {
     nameDetail: 'XPG GAMMIX S50',
@@ -385,7 +393,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Corsair Force MP600 1TB',
-    mark: 30053
+    mark: 30056
   },
   {
     nameDetail: 'Gigabyte AORUS NVMe Gen4 M.2 1TB',
@@ -396,10 +404,6 @@ export const hardDriveOriginData = [
     mark: 29854
   },
   {
-    nameDetail: 'KXG7AZNV512G LA KIOXIA',
-    mark: 29830
-  },
-  {
     nameDetail: 'NVMe Sabrent Rocket 4',
     mark: 29814
   },
@@ -408,16 +412,20 @@ export const hardDriveOriginData = [
     mark: 29762
   },
   {
-    nameDetail: 'Viper VP4300 1TB',
-    mark: 29469
-  },
-  {
-    nameDetail: 'SKHynix HFS001TDE9X084N',
-    mark: 29105
+    nameDetail: 'KXG7AZNV512G LA KIOXIA',
+    mark: 29592
   },
   {
     nameDetail: 'Micron 2450 MTFDKBA1T0TFK',
-    mark: 29030
+    mark: 29251
+  },
+  {
+    nameDetail: 'SKHynix HFS001TDE9X084N',
+    mark: 29112
+  },
+  {
+    nameDetail: 'Micron 3400 NVMe 512GB',
+    mark: 28648
   },
   {
     nameDetail: 'NVMe CT500P5PSSD8',
@@ -432,16 +440,12 @@ export const hardDriveOriginData = [
     mark: 28233
   },
   {
-    nameDetail: 'WDC PC SN810 SDCPNRY 256GB',
-    mark: 28224
-  },
-  {
     nameDetail: 'NVMe KXG70PNV2T04 NVM',
     mark: 27962
   },
   {
-    nameDetail: 'Micron 3400 NVMe 512GB',
-    mark: 27853
+    nameDetail: 'WDC PC SN810 SDCPNRY 256GB',
+    mark: 27895
   },
   {
     nameDetail: 'RevuAhn NX2200A 1TB',
@@ -456,20 +460,16 @@ export const hardDriveOriginData = [
     mark: 27558
   },
   {
-    nameDetail: 'KBG5AZNV512G LA KIOXIA',
-    mark: 27450
-  },
-  {
     nameDetail: 'NVMe Micron 2450 MTFDKBK1T0TFK',
     mark: 27425
   },
   {
-    nameDetail: 'SKHynix HFS512GDE9X084N',
-    mark: 27239
-  },
-  {
     nameDetail: 'APS-SE20G-1T',
     mark: 27238
+  },
+  {
+    nameDetail: 'SKHynix HFS512GDE9X084N',
+    mark: 27148
   },
   {
     nameDetail: 'NVMe Micron 2450 MTFDKBK512TFK',
@@ -501,23 +501,23 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD Blue SN570 1TB',
-    mark: 26961
-  },
-  {
-    nameDetail: 'CT2000P5SSD8',
-    mark: 26938
+    mark: 26947
   },
   {
     nameDetail: 'PNY CS3040 500GB SSD',
     mark: 26902
   },
   {
-    nameDetail: 'WD BLACK SN750 SE NVMe 1TB',
-    mark: 26775
+    nameDetail: 'CT2000P5SSD8',
+    mark: 26835
   },
   {
     nameDetail: 'INTEL SSDPEKNU020TZ',
-    mark: 26754
+    mark: 26803
+  },
+  {
+    nameDetail: 'Sabrent Rocket 4',
+    mark: 26781
   },
   {
     nameDetail: 'Apacer AS2280Q4 1000GB',
@@ -533,7 +533,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD BLACK SN750 SE 1TB',
-    mark: 26641
+    mark: 26651
   },
   {
     nameDetail: 'NVMe PC711 NVMe SK hy',
@@ -542,6 +542,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe Micron 2450 MTFDKBA512TFK',
     mark: 26609
+  },
+  {
+    nameDetail: 'NVMe WD Blue SN570 1TB',
+    mark: 26507
   },
   {
     nameDetail: 'addlink M.2 PCIE G3x4 NVMe',
@@ -556,20 +560,32 @@ export const hardDriveOriginData = [
     mark: 26224
   },
   {
+    nameDetail: 'WD BLACK SN750 SE NVMe 1TB',
+    mark: 26201
+  },
+  {
     nameDetail: 'BC711 NVMe SK hynix 1TB',
     mark: 26098
   },
   {
+    nameDetail: 'KBG5AZNV512G LA KIOXIA',
+    mark: 25949
+  },
+  {
     nameDetail: 'Force MP510',
-    mark: 26087
+    mark: 25938
   },
   {
     nameDetail: 'CT1000P5SSD8',
-    mark: 25836
+    mark: 25835
   },
   {
     nameDetail: 'WD Green SN350 1TB',
-    mark: 25828
+    mark: 25832
+  },
+  {
+    nameDetail: 'Seagate FireCuda 510 SSD ZP1000GM30031',
+    mark: 25824
   },
   {
     nameDetail: 'Apacer SM210 M280 512GB',
@@ -577,27 +593,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 970 EVO Plus 2TB',
-    mark: 25735
-  },
-  {
-    nameDetail: 'Sabrent Rocket 4',
-    mark: 25673
+    mark: 25740
   },
   {
     nameDetail: 'KINGSTON KC3000 4TB',
     mark: 25663
   },
   {
-    nameDetail: 'NVMe WD Blue SN570 1TB',
-    mark: 25624
-  },
-  {
     nameDetail: 'Intel Optane 905P 960GB',
-    mark: 25552
-  },
-  {
-    nameDetail: 'Seagate FireCuda 510 SSD ZP1000GM30031',
-    mark: 25540
+    mark: 25586
   },
   {
     nameDetail: 'Sabrent Rocket Q4',
@@ -613,11 +617,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'HFM001TD3JX013N',
-    mark: 25240
-  },
-  {
-    nameDetail: 'NVMe PC711 NVMe SK hynix 1TB',
-    mark: 25209
+    mark: 25183
   },
   {
     nameDetail: 'PCIe SSD',
@@ -626,6 +626,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'KBG5AZNV1T02 LA KIOXIA',
     mark: 25176
+  },
+  {
+    nameDetail: 'NVMe PC711 NVMe SK hynix 1TB',
+    mark: 25143
   },
   {
     nameDetail: 'Intel Optane SSD DC P4800X 375GB',
@@ -652,6 +656,10 @@ export const hardDriveOriginData = [
     mark: 24952
   },
   {
+    nameDetail: 'NVMe PC711 NVMe SK hynix 512GB',
+    mark: 24935
+  },
+  {
     nameDetail: 'INTEL SSDPE21D960GA',
     mark: 24931
   },
@@ -668,16 +676,12 @@ export const hardDriveOriginData = [
     mark: 24776
   },
   {
-    nameDetail: 'NVMe PC711 NVMe SK hynix 512GB',
-    mark: 24765
+    nameDetail: 'Samsung SSD 970 EVO Plus 1TB',
+    mark: 24775
   },
   {
     nameDetail: 'NVMe KBG50ZNS256G NVMe KIOXIA 256GB',
     mark: 24764
-  },
-  {
-    nameDetail: 'Samsung SSD 970 EVO Plus 1TB',
-    mark: 24763
   },
   {
     nameDetail: 'NMICRO EXTREME NVME ALPHA 1TB',
@@ -685,6 +689,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'NVMe WDC PC SN730 SDB',
+    mark: 24555
+  },
+  {
+    nameDetail: 'Samsung SSD 980 PRO 250GB',
     mark: 24555
   },
   {
@@ -696,16 +704,12 @@ export const hardDriveOriginData = [
     mark: 24515
   },
   {
-    nameDetail: 'Samsung SSD 980 PRO 250GB',
-    mark: 24514
+    nameDetail: 'WD Black SN750 NVMe 1TB',
+    mark: 24466
   },
   {
     nameDetail: 'GIGABYTE GP-ASM2NE6500GTTD',
     mark: 24464
-  },
-  {
-    nameDetail: 'WD Black SN750 NVMe 1TB',
-    mark: 24463
   },
   {
     nameDetail: 'NVMe KXG60PNV2T04 NVMe KIOXIA 2048GB',
@@ -713,7 +717,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'XPG GAMMIX S50 Lite',
-    mark: 24446
+    mark: 24439
   },
   {
     nameDetail: 'PC711 NVMe SK hynix 512GB',
@@ -741,7 +745,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate FireCuda 520 SSD ZP500GM30002',
-    mark: 24227
+    mark: 24214
   },
   {
     nameDetail: 'WDC PC SN720 NVMe 1TB SDAPNTW',
@@ -749,15 +753,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD PM981a NVMe 1TB',
-    mark: 24180
+    mark: 24144
   },
   {
     nameDetail: 'INTEL SSDPEKNU010TZ',
-    mark: 24160
+    mark: 24091
   },
   {
     nameDetail: 'Micron 2300 NVMe 1024GB',
-    mark: 24047
+    mark: 24045
   },
   {
     nameDetail: 'Apple APPLE SSD AP0512',
@@ -768,28 +772,16 @@ export const hardDriveOriginData = [
     mark: 24019
   },
   {
-    nameDetail: 'PNY CM3031 1TB SSD',
-    mark: 23981
-  },
-  {
     nameDetail: 'Intel Optane 905P 480GB',
     mark: 23978
   },
   {
+    nameDetail: 'NVMe SK hynix BC711 HFM512GD3JX013N',
+    mark: 23974
+  },
+  {
     nameDetail: 'NVMe WDC PC SN720 SED',
     mark: 23968
-  },
-  {
-    nameDetail: 'NVMe SK hynix BC711 HFM512GD3JX013N',
-    mark: 23909
-  },
-  {
-    nameDetail: 'Force MP600',
-    mark: 23908
-  },
-  {
-    nameDetail: 'CT500P5SSD8',
-    mark: 23885
   },
   {
     nameDetail: 'E12-1TB-PHISON-SSD-B3-BB1',
@@ -800,6 +792,14 @@ export const hardDriveOriginData = [
     mark: 23881
   },
   {
+    nameDetail: 'CT500P5SSD8',
+    mark: 23873
+  },
+  {
+    nameDetail: 'Force MP600',
+    mark: 23871
+  },
+  {
     nameDetail: 'SPCC M.2 PCIe SSD',
     mark: 23855
   },
@@ -808,20 +808,20 @@ export const hardDriveOriginData = [
     mark: 23831
   },
   {
-    nameDetail: 'Samsung SSD 970 PRO 1TB',
-    mark: 23782
+    nameDetail: 'PNY CS2130 4TB SSD',
+    mark: 23810
   },
   {
     nameDetail: 'NVMe HFM001TD3JX013N',
-    mark: 23750
+    mark: 23779
+  },
+  {
+    nameDetail: 'Samsung SSD 970 PRO 1TB',
+    mark: 23775
   },
   {
     nameDetail: 'MSI M390 500GB',
-    mark: 23728
-  },
-  {
-    nameDetail: 'WD Blue SN570 500GB',
-    mark: 23674
+    mark: 23734
   },
   {
     nameDetail: 'WD Black NVMe 1TB',
@@ -830,6 +830,14 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'KBG50ZNS512G NVMe KIOXIA 512GB',
     mark: 23589
+  },
+  {
+    nameDetail: 'WD Blue SN570 500GB',
+    mark: 23534
+  },
+  {
+    nameDetail: 'KXG60PNV2T04 NVMe KIOXIA 2048GB',
+    mark: 23508
   },
   {
     nameDetail: 'HFM512GD3JX013N',
@@ -844,20 +852,12 @@ export const hardDriveOriginData = [
     mark: 23460
   },
   {
-    nameDetail: 'NVMe HFM512GD3JX016N',
-    mark: 23425
-  },
-  {
     nameDetail: 'SK hynix PC711 HFS001TDE9X073N',
     mark: 23408
   },
   {
-    nameDetail: 'KXG60PNV2T04 NVMe KIOXIA 2048GB',
-    mark: 23391
-  },
-  {
     nameDetail: 'Micron MTFDHBA512TDV',
-    mark: 23373
+    mark: 23345
   },
   {
     nameDetail: 'Sabrent',
@@ -884,10 +884,6 @@ export const hardDriveOriginData = [
     mark: 23254
   },
   {
-    nameDetail: 'NVMe Micron 2300 NVMe 512GB',
-    mark: 23242
-  },
-  {
     nameDetail: 'MSI M450 500GB',
     mark: 23207
   },
@@ -900,8 +896,16 @@ export const hardDriveOriginData = [
     mark: 23198
   },
   {
+    nameDetail: 'PNY CM3031 1TB SSD',
+    mark: 23164
+  },
+  {
+    nameDetail: 'NVMe HFM512GD3JX016N',
+    mark: 23160
+  },
+  {
     nameDetail: 'Sabrent Rocket 4.0 500GB',
-    mark: 23161
+    mark: 23142
   },
   {
     nameDetail: 'NVMe Micron 2300 NVMe 1024GB',
@@ -920,6 +924,10 @@ export const hardDriveOriginData = [
     mark: 23112
   },
   {
+    nameDetail: 'NVMe Micron 2300 NVMe 512GB',
+    mark: 23077
+  },
+  {
     nameDetail: 'NVMe SPCC M.2 PCIe SS',
     mark: 23071
   },
@@ -929,7 +937,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'PNY CS3030 1TB SSD',
-    mark: 22948
+    mark: 22953
   },
   {
     nameDetail: 'NVMe SK hynix BC711 HFM001TD3JX013N',
@@ -969,7 +977,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD PM981a NVMe 512GB',
-    mark: 22619
+    mark: 22621
   },
   {
     nameDetail: 'NVMe KXG60PNV2T04 NVM',
@@ -985,7 +993,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 970 PRO 512GB',
-    mark: 22580
+    mark: 22583
   },
   {
     nameDetail: 'KXG60PNV512G NVMe TOSHIBA 512GB',
@@ -1001,7 +1009,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'PC SN730 NVMe WDC 1024GB',
-    mark: 22495
+    mark: 22503
   },
   {
     nameDetail: 'NVMe BC711 NVMe SK hynix 1TB',
@@ -1017,15 +1025,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 980 NVMe 1TB',
-    mark: 22417
-  },
-  {
-    nameDetail: 'Samsung SSD 970',
-    mark: 22369
+    mark: 22388
   },
   {
     nameDetail: 'SanDisk Extreme Pro 1TB',
-    mark: 22340
+    mark: 22366
   },
   {
     nameDetail: 'NVMe Sabrent Rocket Q',
@@ -1041,7 +1045,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'NVMe HFM512GD3JX013N',
-    mark: 22229
+    mark: 22226
+  },
+  {
+    nameDetail: 'Samsung SSD 970',
+    mark: 22222
   },
   {
     nameDetail: 'PM981a NVMe SED Samsung 256GB',
@@ -1052,44 +1060,40 @@ export const hardDriveOriginData = [
     mark: 22171
   },
   {
-    nameDetail: 'NVMe KXG60ZNV1T02 NVMe KIOXIA 1024GB',
-    mark: 22149
+    nameDetail: 'WDC PC SN730 SDBPNTY',
+    mark: 22152
   },
   {
-    nameDetail: 'WDC PC SN730 SDBPNTY',
-    mark: 22139
+    nameDetail: 'NVMe KXG60ZNV1T02 NVMe KIOXIA 1024GB',
+    mark: 22149
   },
   {
     nameDetail: 'UMIS RPIRJ512VME2OWD',
     mark: 22093
   },
   {
-    nameDetail: 'KINGSTON SKC2500M81000G',
-    mark: 22051
+    nameDetail: 'addlink S70 M.2 G3x4 1TB',
+    mark: 22071
   },
   {
     nameDetail: 'KINGSTON SKC2500M8500G',
-    mark: 22036
+    mark: 22037
   },
   {
-    nameDetail: 'Viper M.2 VPN100 1TB',
-    mark: 22002
+    nameDetail: 'KINGSTON SKC2500M81000G',
+    mark: 21994
   },
   {
     nameDetail: 'imation M.2 PCIe 512GB SSD X931',
     mark: 21981
   },
   {
-    nameDetail: 'addlink S70 M.2 G3x4 1TB',
-    mark: 21954
+    nameDetail: 'Viper M.2 VPN100 1TB',
+    mark: 21975
   },
   {
     nameDetail: 'PC711 NVMe SK hynix 256GB',
     mark: 21886
-  },
-  {
-    nameDetail: 'Samsung SSD 970 EVO Plus 500GB',
-    mark: 21876
   },
   {
     nameDetail: 'NVMe PNY CS3030 1TB S',
@@ -1100,8 +1104,12 @@ export const hardDriveOriginData = [
     mark: 21865
   },
   {
+    nameDetail: 'Samsung SSD 970 EVO Plus 500GB',
+    mark: 21863
+  },
+  {
     nameDetail: 'Samsung SSD 970 EVO 2TB',
-    mark: 21819
+    mark: 21816
   },
   {
     nameDetail: 'HS-SSD-E2000',
@@ -1121,7 +1129,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 970 EVO 1TB',
-    mark: 21661
+    mark: 21669
   },
   {
     nameDetail: 'MyDigitalSSD BPX Pro 960GB',
@@ -1160,12 +1168,12 @@ export const hardDriveOriginData = [
     mark: 21417
   },
   {
-    nameDetail: 'Samsung PM981 2TB NVMe',
-    mark: 21405
-  },
-  {
     nameDetail: 'YMTC PC005 512GB',
     mark: 21394
+  },
+  {
+    nameDetail: 'Samsung PM981 2TB NVMe',
+    mark: 21374
   },
   {
     nameDetail: 'WD Black SN750 NVMe 500GB',
@@ -1173,19 +1181,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SKHynix HFS256GDE9X081N',
-    mark: 21305
+    mark: 21289
   },
   {
     nameDetail: 'WDBRPG0010BNC-WRSN',
     mark: 21257
   },
   {
-    nameDetail: 'BC711 NVMe SK hynix 512GB',
-    mark: 21204
-  },
-  {
     nameDetail: 'WD BLACK SN750 SE 500GB',
-    mark: 21198
+    mark: 21203
   },
   {
     nameDetail: 'KXG6AZNV512G NVMe SED TOSHIBA 512GB',
@@ -1196,24 +1200,24 @@ export const hardDriveOriginData = [
     mark: 21174
   },
   {
-    nameDetail: 'MSI M370 1TB',
-    mark: 21149
+    nameDetail: 'BC711 NVMe SK hynix 512GB',
+    mark: 21163
   },
   {
-    nameDetail: 'KXG60ZNV1T02 NVMe KIOXIA 1024GB',
-    mark: 21148
+    nameDetail: 'MSI M370 1TB',
+    mark: 21149
   },
   {
     nameDetail: 'WDS200T3X0C-00SJG0',
     mark: 21137
   },
   {
-    nameDetail: 'KXG60ZNV1T02 KIOXIA',
-    mark: 21076
+    nameDetail: 'KXG60ZNV1T02 NVMe KIOXIA 1024GB',
+    mark: 21134
   },
   {
-    nameDetail: 'WD BLACK SN750 SE NVMe 500GB',
-    mark: 21074
+    nameDetail: 'KXG60ZNV1T02 KIOXIA',
+    mark: 21083
   },
   {
     nameDetail: 'APS-SE20G-512',
@@ -1221,11 +1225,23 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'ADATA SX8200PNP',
-    mark: 21021
+    mark: 21039
+  },
+  {
+    nameDetail: 'SAMSUNG MZVLB512',
+    mark: 21036
   },
   {
     nameDetail: 'KXG60PNV1T02 NVMe KIOXIA 1024GB',
     mark: 21006
+  },
+  {
+    nameDetail: 'NVMe PC601A NVMe SK h',
+    mark: 21006
+  },
+  {
+    nameDetail: 'WD BLACK SN750 SE NVMe 500GB',
+    mark: 20995
   },
   {
     nameDetail: 'MSI M372 512GB',
@@ -1238,10 +1254,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'PNY CM3031 500GB SSD',
     mark: 20967
-  },
-  {
-    nameDetail: 'SKHynix HFM512GD3HX015N',
-    mark: 20958
   },
   {
     nameDetail: 'M.2 PCIE G3x4 NVMe',
@@ -1258,14 +1270,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe PC SN730 NVMe WDC 1024GB',
     mark: 20857
-  },
-  {
-    nameDetail: 'NVMe PC601A NVMe SK h',
-    mark: 20833
-  },
-  {
-    nameDetail: 'XPG GAMMIX S11 Pro',
-    mark: 20819
   },
   {
     nameDetail: 'TEAM TM8FPD002T',
@@ -1288,8 +1292,16 @@ export const hardDriveOriginData = [
     mark: 20745
   },
   {
+    nameDetail: 'SKHynix HFM512GD3HX015N',
+    mark: 20719
+  },
+  {
+    nameDetail: 'XPG GAMMIX S11 Pro',
+    mark: 20680
+  },
+  {
     nameDetail: 'WDC WDS200T2B0C',
-    mark: 20685
+    mark: 20674
   },
   {
     nameDetail: 'WDC PC SN730 SDBQNTY-512G',
@@ -1308,16 +1320,12 @@ export const hardDriveOriginData = [
     mark: 20477
   },
   {
-    nameDetail: 'NVMe PC SN730 NVMe WDC 512GB',
-    mark: 20448
+    nameDetail: 'WD Black NVMe 500GB',
+    mark: 20430
   },
   {
     nameDetail: 'Corsair Force MP510 960GB',
-    mark: 20447
-  },
-  {
-    nameDetail: 'WD Black NVMe 500GB',
-    mark: 20424
+    mark: 20401
   },
   {
     nameDetail: 'NVMe LENSN20512GMSP34',
@@ -1325,7 +1333,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung PM981 1TB NVMe',
-    mark: 20394
+    mark: 20393
   },
   {
     nameDetail: 'NVMe ADATA SX8100NP',
@@ -1336,16 +1344,16 @@ export const hardDriveOriginData = [
     mark: 20336
   },
   {
-    nameDetail: 'KXG6AZNV1T02 TOSHIBA',
-    mark: 20314
-  },
-  {
     nameDetail: 'NVMe PCIe SSD',
     mark: 20297
   },
   {
     nameDetail: 'NVMe BC711 NVMe SK hynix 512GB',
-    mark: 20266
+    mark: 20292
+  },
+  {
+    nameDetail: 'NVMe PC SN730 NVMe WDC 512GB',
+    mark: 20234
   },
   {
     nameDetail: 'KBG5AZNT512G LA KIOXIA',
@@ -1356,12 +1364,16 @@ export const hardDriveOriginData = [
     mark: 20228
   },
   {
-    nameDetail: 'SK hynix PC601 HFS512GD9TNG-L2A0A',
-    mark: 20199
+    nameDetail: 'NVMe KXG60ZNV512G KIOXIA',
+    mark: 20227
   },
   {
-    nameDetail: 'NVMe KXG60ZNV512G KIOXIA',
-    mark: 20191
+    nameDetail: 'KXG6AZNV1T02 TOSHIBA',
+    mark: 20206
+  },
+  {
+    nameDetail: 'SK hynix PC601 HFS512GD9TNG-L2A0A',
+    mark: 20199
   },
   {
     nameDetail: 'NVMe WD BLACK SN750 S',
@@ -1389,7 +1401,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SanDisk Extreme Pro 500GB',
-    mark: 19990
+    mark: 19995
   },
   {
     nameDetail: 'UMIS RPITJ512VME2OWD',
@@ -1398,10 +1410,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe XPG SPECTRIX S40',
     mark: 19922
-  },
-  {
-    nameDetail: 'INTEL SSDPEKNW512GZL',
-    mark: 19921
   },
   {
     nameDetail: 'NVMe SAMSUNG MZVLW1T0',
@@ -1436,6 +1444,10 @@ export const hardDriveOriginData = [
     mark: 19627
   },
   {
+    nameDetail: 'INTEL SSDPEKNW512GZL',
+    mark: 19623
+  },
+  {
     nameDetail: 'PC611 NVMe SK hynix 1TB',
     mark: 19594
   },
@@ -1445,7 +1457,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 970 EVO 500GB',
-    mark: 19554
+    mark: 19556
   },
   {
     nameDetail: 'WDC PC SN720 NVMe 512GB SDAQNTW',
@@ -1456,20 +1468,20 @@ export const hardDriveOriginData = [
     mark: 19538
   },
   {
-    nameDetail: 'UMIS RPETJ512MGE2QDQ',
-    mark: 19376
-  },
-  {
     nameDetail: 'HS-SSD-C2000Pro 512GB',
     mark: 19368
   },
   {
     nameDetail: 'HP SSD EX950 1TB',
-    mark: 19348
+    mark: 19358
   },
   {
     nameDetail: 'NVMe KXG60ZNV1T02 KIOXIA',
     mark: 19334
+  },
+  {
+    nameDetail: 'UMIS RPETJ512MGE2QDQ',
+    mark: 19323
   },
   {
     nameDetail: 'NVMe SK hynix BC711 HFM256GD3JX013N',
@@ -1485,11 +1497,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'NVMe Samsung SSD 960',
-    mark: 19151
-  },
-  {
-    nameDetail: 'Samsung SM961 1TB NVMe',
-    mark: 19150
+    mark: 19152
   },
   {
     nameDetail: 'Toshiba XG5-P NVMe 2TB',
@@ -1500,16 +1508,20 @@ export const hardDriveOriginData = [
     mark: 19138
   },
   {
+    nameDetail: 'Samsung SM961 1TB NVMe',
+    mark: 19135
+  },
+  {
     nameDetail: 'KINGSTON SKC2000M81000G',
     mark: 19120
   },
   {
-    nameDetail: 'KXG60ZNV512G KIOXIA',
-    mark: 19074
-  },
-  {
     nameDetail: 'NVMe KXG60ZNV1T02 NVM',
     mark: 19070
+  },
+  {
+    nameDetail: 'KXG60ZNV512G KIOXIA',
+    mark: 19051
   },
   {
     nameDetail: 'NVMe KXG60ZNV512G NVMe KIOXIA 512GB',
@@ -1529,19 +1541,19 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WDS100T2B0C',
-    mark: 18951
+    mark: 18948
   },
   {
     nameDetail: 'PC SN730 NVMe WDC 512GB',
     mark: 18932
   },
   {
-    nameDetail: 'Micron 2300 NVMe 256GB',
-    mark: 18895
+    nameDetail: 'Samsung SSD 960 PRO 512GB',
+    mark: 18897
   },
   {
-    nameDetail: 'Samsung SSD 960 PRO 512GB',
-    mark: 18890
+    nameDetail: 'Micron 2300 NVMe 256GB',
+    mark: 18895
   },
   {
     nameDetail: 'INTEL SSDPE2KX020T8',
@@ -1556,16 +1568,16 @@ export const hardDriveOriginData = [
     mark: 18862
   },
   {
+    nameDetail: 'NVMe PC611 NVMe SK hynix 1TB',
+    mark: 18860
+  },
+  {
     nameDetail: 'KXG60ZNV512G NVMe KIOXIA 512GB',
     mark: 18841
   },
   {
     nameDetail: 'PC611 NVMe SK hynix 512GB',
     mark: 18834
-  },
-  {
-    nameDetail: 'NVMe ADATA SX8200PNP',
-    mark: 18801
   },
   {
     nameDetail: 'CT250P5SSD8',
@@ -1581,63 +1593,71 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 970 EVO Plus 250GB',
-    mark: 18721
+    mark: 18722
   },
   {
     nameDetail: 'NVMe XPG GAMMIX S11 P',
     mark: 18703
   },
   {
+    nameDetail: 'PNY CS2130 1TB SSD',
+    mark: 18695
+  },
+  {
     nameDetail: 'Samsung SSD 960 PRO 1TB',
     mark: 18693
+  },
+  {
+    nameDetail: 'Seagate BarraCuda 510 SSD ZP500CM30001',
+    mark: 18653
   },
   {
     nameDetail: 'Reletech M.2 SSD 512GB',
     mark: 18637
   },
   {
-    nameDetail: 'PNY CS2130 1TB SSD',
-    mark: 18636
-  },
-  {
     nameDetail: 'Samsung SSD 960 PRO 2TB',
     mark: 18631
-  },
-  {
-    nameDetail: 'Seagate BarraCuda 510 SSD ZP500CM30001',
-    mark: 18628
-  },
-  {
-    nameDetail: 'HP SSD EX920 1TB',
-    mark: 18617
   },
   {
     nameDetail: 'HFM256GD3JX013N',
     mark: 18608
   },
   {
+    nameDetail: 'NVMe INTEL SSDPEKNU512GZ',
+    mark: 18607
+  },
+  {
+    nameDetail: 'SK hynix BC711 HFM256GD3JX013N',
+    mark: 18599
+  },
+  {
+    nameDetail: 'SanDisk Ultra 3D NVMe',
+    mark: 18595
+  },
+  {
     nameDetail: 'PC601 NVMe SK hynix 512GB',
     mark: 18591
   },
   {
-    nameDetail: 'SanDisk Ultra 3D NVMe',
-    mark: 18585
+    nameDetail: 'HP SSD EX920 1TB',
+    mark: 18572
   },
   {
-    nameDetail: 'NVMe INTEL SSDPEKNU512GZ',
-    mark: 18578
-  },
-  {
-    nameDetail: 'SK hynix BC711 HFM256GD3JX013N',
-    mark: 18530
+    nameDetail: 'NVMe ADATA SX8200PNP',
+    mark: 18563
   },
   {
     nameDetail: 'KBG40ZNS1T02 BG4A KIOXIA',
     mark: 18529
   },
   {
-    nameDetail: 'NVMe PC611 NVMe SK hynix 1TB',
-    mark: 18492
+    nameDetail: 'SKHynix HFM256GD3HX015N',
+    mark: 18507
+  },
+  {
+    nameDetail: 'TEAM TM8FP4512G',
+    mark: 18485
   },
   {
     nameDetail: 'WDC WDBA3V0010BNC',
@@ -1648,12 +1668,12 @@ export const hardDriveOriginData = [
     mark: 18429
   },
   {
-    nameDetail: 'SKHynix HFM256GD3HX015N',
-    mark: 18429
-  },
-  {
     nameDetail: 'Reletech M.2 SSD 1024GB',
     mark: 18419
+  },
+  {
+    nameDetail: 'KXG6AZNV512G KIOXIA',
+    mark: 18411
   },
   {
     nameDetail: 'NVMe ADATA SX8200NP',
@@ -1665,11 +1685,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SM961 512GB NVMe',
-    mark: 18387
-  },
-  {
-    nameDetail: 'TEAM TM8FP4512G',
-    mark: 18366
+    mark: 18380
   },
   {
     nameDetail: 'KXG60ZNV1T02 TOSHIBA',
@@ -1688,10 +1704,6 @@ export const hardDriveOriginData = [
     mark: 18308
   },
   {
-    nameDetail: 'TOSHIBA XG6 SSD 512GB M.2 NVMe',
-    mark: 18295
-  },
-  {
     nameDetail: 'PC601A NVMe SK hynix 512GB',
     mark: 18280
   },
@@ -1708,8 +1720,8 @@ export const hardDriveOriginData = [
     mark: 18260
   },
   {
-    nameDetail: 'INTEL SSDPEKNU512GZ',
-    mark: 18240
+    nameDetail: 'TOSHIBA XG6 SSD 512GB M.2 NVMe',
+    mark: 18242
   },
   {
     nameDetail: 'NVMe WDC PC SN530 SDB',
@@ -1717,15 +1729,19 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD Blue SN550 NVMe SSD 1TB',
-    mark: 18213
+    mark: 18224
   },
   {
-    nameDetail: 'Samsung PM981 512GB NVMe',
-    mark: 18203
+    nameDetail: 'INTEL SSDPEKNU512GZ',
+    mark: 18199
   },
   {
     nameDetail: 'Toshiba XG5-P NVMe 1TB',
     mark: 18199
+  },
+  {
+    nameDetail: 'Samsung PM981 512GB NVMe',
+    mark: 18198
   },
   {
     nameDetail: 'KINGSTON SKC2000M82000G',
@@ -1740,10 +1756,6 @@ export const hardDriveOriginData = [
     mark: 18119
   },
   {
-    nameDetail: 'KXG6AZNV512G KIOXIA',
-    mark: 18117
-  },
-  {
     nameDetail: 'NVMe Micron 2300 NVMe 256GB',
     mark: 18108
   },
@@ -1756,16 +1768,16 @@ export const hardDriveOriginData = [
     mark: 18081
   },
   {
+    nameDetail: 'Gigabyte AORUS RGB M.2 NVMe 512GB',
+    mark: 18056
+  },
+  {
     nameDetail: 'NVMe KXG60PNV512G NVM',
     mark: 18048
   },
   {
     nameDetail: 'Intel SSD 760P 2TB',
     mark: 18046
-  },
-  {
-    nameDetail: 'KINGSTON SNVS500G',
-    mark: 18033
   },
   {
     nameDetail: 'PNY CS1030 512GB SSD',
@@ -1776,6 +1788,10 @@ export const hardDriveOriginData = [
     mark: 18024
   },
   {
+    nameDetail: 'KINGSTON SNVS500G',
+    mark: 18021
+  },
+  {
     nameDetail: 'KXG60PNV512G NVMe KIOXIA 512GB',
     mark: 18020
   },
@@ -1784,20 +1800,16 @@ export const hardDriveOriginData = [
     mark: 18007
   },
   {
-    nameDetail: 'Gigabyte AORUS RGB M.2 NVMe 512GB',
-    mark: 17971
-  },
-  {
     nameDetail: 'KXG50PNV2T04 NVMe KIOXIA 2048GB',
     mark: 17965
   },
   {
-    nameDetail: 'EMTEC X300 512GB',
-    mark: 17922
+    nameDetail: 'NVMe BC711 NVMe SK hynix 256GB',
+    mark: 17942
   },
   {
-    nameDetail: 'NVMe BC711 NVMe SK hynix 256GB',
-    mark: 17908
+    nameDetail: 'EMTEC X300 512GB',
+    mark: 17922
   },
   {
     nameDetail: 'NVMe Force MP510',
@@ -1824,16 +1836,16 @@ export const hardDriveOriginData = [
     mark: 17830
   },
   {
-    nameDetail: 'INTEL SSDPEKNU512GZH',
-    mark: 17828
-  },
-  {
     nameDetail: 'PNY CS3030 500GB SSD',
-    mark: 17812
+    mark: 17824
   },
   {
     nameDetail: 'Intel Optane H20 with SSD 512GB',
     mark: 17798
+  },
+  {
+    nameDetail: 'Viper M.2 VPN100 512GB',
+    mark: 17766
   },
   {
     nameDetail: 'PNY CS1031 512GB SSD',
@@ -1848,15 +1860,15 @@ export const hardDriveOriginData = [
     mark: 17738
   },
   {
+    nameDetail: 'INTEL SSDPEKNU512GZH',
+    mark: 17721
+  },
+  {
     nameDetail: 'Samsung SSD 960 EVO 1TB',
-    mark: 17707
+    mark: 17706
   },
   {
     nameDetail: 'TEAM TM8FPD512G',
-    mark: 17704
-  },
-  {
-    nameDetail: 'Viper M.2 VPN100 512GB',
     mark: 17704
   },
   {
@@ -1865,7 +1877,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WDS480G2G0C',
-    mark: 17684
+    mark: 17694
   },
   {
     nameDetail: 'INTEL SSDPE2ME020T4D SFF NVME 2000GB',
@@ -1880,16 +1892,20 @@ export const hardDriveOriginData = [
     mark: 17542
   },
   {
-    nameDetail: 'TEAM TM8FPD001T',
-    mark: 17489
-  },
-  {
-    nameDetail: 'KXG60ZNV256G KIOXIA',
-    mark: 17482
+    nameDetail: 'Micron 2200S NVMe 512GB',
+    mark: 17487
   },
   {
     nameDetail: 'HFM256GD3JX016N',
     mark: 17467
+  },
+  {
+    nameDetail: 'KXG60ZNV256G KIOXIA',
+    mark: 17455
+  },
+  {
+    nameDetail: 'TEAM TM8FPD001T',
+    mark: 17449
   },
   {
     nameDetail: 'NVMe KXG60ZNV512G NVM',
@@ -1900,24 +1916,20 @@ export const hardDriveOriginData = [
     mark: 17432
   },
   {
-    nameDetail: 'Micron 2200S NVMe 512GB',
-    mark: 17431
-  },
-  {
     nameDetail: 'BC711 NVMe SK hynix 256GB',
     mark: 17409
   },
   {
     nameDetail: 'KBG40ZNV1T02 KIOXIA',
-    mark: 17404
-  },
-  {
-    nameDetail: 'Samsung SSD PM981a NVMe 256GB',
-    mark: 17399
+    mark: 17403
   },
   {
     nameDetail: 'NVMe KBG40ZNS1T02 NVMe KIOXIA 1024GB',
     mark: 17390
+  },
+  {
+    nameDetail: 'Samsung SSD PM981a NVMe 256GB',
+    mark: 17377
   },
   {
     nameDetail: 'UMIS LENSE40512GMSP34MESTB3A',
@@ -1934,10 +1946,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SPCC M.2 PCIE SS',
     mark: 17241
-  },
-  {
-    nameDetail: 'Transcend TS512GMTE220S',
-    mark: 17232
   },
   {
     nameDetail: 'PLEXTOR PX-512M9PeGN',
@@ -1980,6 +1988,14 @@ export const hardDriveOriginData = [
     mark: 17099
   },
   {
+    nameDetail: 'Transcend TS512GMTE220S',
+    mark: 17091
+  },
+  {
+    nameDetail: 'KINGSTON SKC2500M8250G',
+    mark: 17035
+  },
+  {
     nameDetail: 'KBG40ZPZ1T02 NVMe KIOXIA 1024GB',
     mark: 17029
   },
@@ -1996,16 +2012,12 @@ export const hardDriveOriginData = [
     mark: 17015
   },
   {
-    nameDetail: 'KINGSTON SKC2500M8250G',
-    mark: 17002
-  },
-  {
     nameDetail: 'WD Blue SN570 250GB',
     mark: 17001
   },
   {
     nameDetail: 'Samsung SSD PM991a NVMe 1TB',
-    mark: 17000
+    mark: 16997
   },
   {
     nameDetail: 'Micron 2200 MTFDHBA1T0TCK',
@@ -2020,20 +2032,12 @@ export const hardDriveOriginData = [
     mark: 16989
   },
   {
-    nameDetail: 'XPG SPECTRIX S20G',
-    mark: 16981
-  },
-  {
-    nameDetail: 'NVMe KINGSTON SNVS500G',
-    mark: 16976
-  },
-  {
     nameDetail: 'PLEXTOR PX-512M9PeG',
     mark: 16899
   },
   {
     nameDetail: 'Samsung SM961 256GB NVMe',
-    mark: 16893
+    mark: 16861
   },
   {
     nameDetail: 'NVMe BC711 NVMe SK hy',
@@ -2060,6 +2064,10 @@ export const hardDriveOriginData = [
     mark: 16795
   },
   {
+    nameDetail: 'WDC WDBA3V5000ANC',
+    mark: 16780
+  },
+  {
     nameDetail: 'KXG6AZNV256G NVMe SED TOSHIBA 256GB',
     mark: 16776
   },
@@ -2068,12 +2076,16 @@ export const hardDriveOriginData = [
     mark: 16760
   },
   {
-    nameDetail: 'WDC WDBA3V5000ANC',
-    mark: 16754
+    nameDetail: 'WDC WDS500G2B0C',
+    mark: 16737
   },
   {
     nameDetail: 'Mushkin Pilot 1TB MKNSSDPL1TB-D8',
     mark: 16727
+  },
+  {
+    nameDetail: 'XPG SPECTRIX S20G',
+    mark: 16702
   },
   {
     nameDetail: 'Apacer AS2280P4 512GB',
@@ -2082,10 +2094,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe KBG40ZNV512G KIO',
     mark: 16686
-  },
-  {
-    nameDetail: 'WDC WDS500G2B0C',
-    mark: 16685
   },
   {
     nameDetail: 'NVMe HP SSD EX920 1TB',
@@ -2101,7 +2109,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Corsair Force MP510 480GB',
-    mark: 16622
+    mark: 16639
   },
   {
     nameDetail: 'TEAM TM8FP6002T',
@@ -2120,8 +2128,8 @@ export const hardDriveOriginData = [
     mark: 16540
   },
   {
-    nameDetail: 'KXG60ZNV256G NVMe KIOXIA 256GB',
-    mark: 16480
+    nameDetail: 'NVMe KINGSTON SNVS500G',
+    mark: 16538
   },
   {
     nameDetail: 'NVMe CT2000P2SSD8',
@@ -2133,7 +2141,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD Blue SN550 NVMe SSD 500GB',
-    mark: 16423
+    mark: 16420
   },
   {
     nameDetail: 'EMTEC X300 256GB',
@@ -2142,6 +2150,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'UMIS RPETJ1T24MGE2QDQ',
     mark: 16390
+  },
+  {
+    nameDetail: 'KXG60ZNV256G NVMe KIOXIA 256GB',
+    mark: 16385
   },
   {
     nameDetail: 'INTEL SSDPEDMD020T4D HHHL NVMe 2000GB',
@@ -2160,12 +2172,12 @@ export const hardDriveOriginData = [
     mark: 16356
   },
   {
-    nameDetail: 'KBG40ZNS256G BG4A KIOXIA',
-    mark: 16346
-  },
-  {
     nameDetail: 'LITEON CA3-8D512',
     mark: 16337
+  },
+  {
+    nameDetail: 'KBG40ZNS256G BG4A KIOXIA',
+    mark: 16317
   },
   {
     nameDetail: 'HP SSD EX900 Pro 1TB',
@@ -2176,7 +2188,7 @@ export const hardDriveOriginData = [
     mark: 16255
   },
   {
-    nameDetail: 'CT2000P2SSD8',
+    nameDetail: 'Samsung SSD 960 EVO 500GB',
     mark: 16164
   },
   {
@@ -2184,24 +2196,16 @@ export const hardDriveOriginData = [
     mark: 16159
   },
   {
-    nameDetail: 'Samsung SSD 960 EVO 500GB',
-    mark: 16152
+    nameDetail: 'CT2000P2SSD8',
+    mark: 16145
+  },
+  {
+    nameDetail: 'TEAM TM8FP6001T',
+    mark: 16136
   },
   {
     nameDetail: 'NVMe WDS250G3X0C-00SJ',
     mark: 16135
-  },
-  {
-    nameDetail: 'Seagate BarraCuda 510 SSD ZP512CM30011',
-    mark: 16129
-  },
-  {
-    nameDetail: 'NVMe KBG40ZNV256G KIOXIA',
-    mark: 16120
-  },
-  {
-    nameDetail: 'TEAM TM8FP6001T',
-    mark: 16092
   },
   {
     nameDetail: 'NVMe Micron 2200S NVM',
@@ -2216,12 +2220,16 @@ export const hardDriveOriginData = [
     mark: 16067
   },
   {
-    nameDetail: 'PC SN530 NVMe WDC 1024GB',
-    mark: 16031
+    nameDetail: 'Intel SSD 760p 512GB',
+    mark: 16045
   },
   {
-    nameDetail: 'Intel SSD 760p 512GB',
-    mark: 16026
+    nameDetail: 'NVMe KBG40ZNV256G KIOXIA',
+    mark: 16042
+  },
+  {
+    nameDetail: 'PC SN530 NVMe WDC 1024GB',
+    mark: 16031
   },
   {
     nameDetail: 'NVMe Samsung SSD 960 EVO 250GB',
@@ -2236,16 +2244,16 @@ export const hardDriveOriginData = [
     mark: 15993
   },
   {
-    nameDetail: 'INTEL SSDPEKNW010T9',
-    mark: 15989
-  },
-  {
     nameDetail: 'NVMe TEAM TM8FP6512G',
     mark: 15973
   },
   {
+    nameDetail: 'INTEL SSDPEKNW010T9',
+    mark: 15963
+  },
+  {
     nameDetail: 'Micron 2210 MTFDHBA1T0QFD',
-    mark: 15953
+    mark: 15963
   },
   {
     nameDetail: 'Mystor SSD S910 256GB',
@@ -2256,12 +2264,16 @@ export const hardDriveOriginData = [
     mark: 15887
   },
   {
+    nameDetail: 'Seagate BarraCuda 510 SSD ZP512CM30011',
+    mark: 15838
+  },
+  {
     nameDetail: 'NVMe KBG40ZNV512G KIOXIA',
     mark: 15829
   },
   {
-    nameDetail: 'Lexar 1TB SSD',
-    mark: 15825
+    nameDetail: 'TEAM TM8FP6512G',
+    mark: 15762
   },
   {
     nameDetail: 'TOSHIBA-RC500',
@@ -2274,10 +2286,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG SSD SM951 M.2 512GB PCIe AHCI',
     mark: 15735
-  },
-  {
-    nameDetail: 'TEAM TM8FP6512G',
-    mark: 15706
   },
   {
     nameDetail: 'KBG40ZNS512G BG4A KIOXIA',
@@ -2296,11 +2304,15 @@ export const hardDriveOriginData = [
     mark: 15606
   },
   {
-    nameDetail: 'NVMe Micron 2210 MTFDHBA1T0QFD',
-    mark: 15585
+    nameDetail: 'Lexar 1TB SSD',
+    mark: 15582
   },
   {
     nameDetail: 'NVMe CT250P2SSD8',
+    mark: 15567
+  },
+  {
+    nameDetail: 'NVMe Micron 2210 MTFDHBA1T0QFD',
     mark: 15567
   },
   {
@@ -2317,7 +2329,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'CT1000P2SSD8',
-    mark: 15524
+    mark: 15511
   },
   {
     nameDetail: 'WDC PC SN730 SDBQNTY-256G',
@@ -2337,7 +2349,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'PC SN530 NVMe WDC 512GB',
-    mark: 15426
+    mark: 15423
   },
   {
     nameDetail: 'KBG40ZNT512G TOSHIBA MEMORY',
@@ -2373,19 +2385,19 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'TOSHIBA XG6 SSD 256GB M.2 NVMe SED',
-    mark: 15304
+    mark: 15300
   },
   {
     nameDetail: 'LENSE30512GMSP34MEAT3TA',
     mark: 15277
   },
   {
-    nameDetail: 'Transcend TS256GMTE220S',
-    mark: 15263
+    nameDetail: 'Samsung SSD 970 EVO 250GB',
+    mark: 15270
   },
   {
-    nameDetail: 'Samsung SSD 970 EVO 250GB',
-    mark: 15260
+    nameDetail: 'Transcend TS256GMTE220S',
+    mark: 15263
   },
   {
     nameDetail: 'CA3-8D512-Q11 NVMe LITEON 512GB',
@@ -2404,6 +2416,10 @@ export const hardDriveOriginData = [
     mark: 15136
   },
   {
+    nameDetail: 'NVMe TEAM TM8FP6256G',
+    mark: 15107
+  },
+  {
     nameDetail: 'NVMe INTEL SSDPEKNW020T8',
     mark: 15097
   },
@@ -2413,7 +2429,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SA2000M81000G',
-    mark: 15077
+    mark: 15084
   },
   {
     nameDetail: 'NVMe SAMSUNG MZVLB256',
@@ -2436,6 +2452,10 @@ export const hardDriveOriginData = [
     mark: 15039
   },
   {
+    nameDetail: 'Netac NVMe SSD 500GB',
+    mark: 15032
+  },
+  {
     nameDetail: 'KBG40ZNT256G TOSHIBA MEMORY',
     mark: 15009
   },
@@ -2452,28 +2472,24 @@ export const hardDriveOriginData = [
     mark: 14981
   },
   {
-    nameDetail: 'KBG40ZNV256G KIOXIA',
-    mark: 14938
-  },
-  {
     nameDetail: 'Netac NVMe SSD 512GB',
     mark: 14937
+  },
+  {
+    nameDetail: 'KBG40ZNV256G KIOXIA',
+    mark: 14935
   },
   {
     nameDetail: 'Toshiba XG3 512GB MLC',
     mark: 14930
   },
   {
+    nameDetail: 'WDC PC SN720 NVMe 256GB SDAPNTW',
+    mark: 14926
+  },
+  {
     nameDetail: 'ASE12NVME512',
     mark: 14924
-  },
-  {
-    nameDetail: 'Patriot M.2 P300 256GB',
-    mark: 14921
-  },
-  {
-    nameDetail: 'WDC PC SN720 NVMe 256GB SDAPNTW',
-    mark: 14920
   },
   {
     nameDetail: 'XPG GAMMIX S11L',
@@ -2481,7 +2497,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WD Black SN750 NVMe 250GB',
-    mark: 14905
+    mark: 14901
   },
   {
     nameDetail: 'PC SN730 NVMe WDC 256GB',
@@ -2492,8 +2508,12 @@ export const hardDriveOriginData = [
     mark: 14864
   },
   {
+    nameDetail: 'XPG GAMMIX S5',
+    mark: 14839
+  },
+  {
     nameDetail: 'KBG40ZNV512G KIOXIA',
-    mark: 14796
+    mark: 14789
   },
   {
     nameDetail: 'NVMe KXG50ZNV1T02 NVM',
@@ -2504,20 +2524,20 @@ export const hardDriveOriginData = [
     mark: 14780
   },
   {
-    nameDetail: 'XPG GAMMIX S5',
-    mark: 14763
-  },
-  {
-    nameDetail: 'Samsung SSD 950 Pro 512GB NVMe',
-    mark: 14759
-  },
-  {
     nameDetail: 'Intel SSD Pro 7600p Series 512GB',
-    mark: 14757
+    mark: 14756
   },
   {
     nameDetail: 'Mushkin Pilot 500GB PCIe NVMe',
     mark: 14750
+  },
+  {
+    nameDetail: 'Samsung SSD 950 Pro 512GB NVMe',
+    mark: 14741
+  },
+  {
+    nameDetail: 'KINGSTON SNVS250G',
+    mark: 14728
   },
   {
     nameDetail: 'NVMe XPG GAMMIX S5',
@@ -2533,11 +2553,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'CT500P2SSD8',
-    mark: 14686
+    mark: 14682
   },
   {
-    nameDetail: 'KINGSTON SNVS250G',
-    mark: 14683
+    nameDetail: 'Patriot M.2 P310 240GB',
+    mark: 14657
   },
   {
     nameDetail: 'KXG50PNV2T04 KIOXIA',
@@ -2545,7 +2565,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 960 EVO 250GB',
-    mark: 14641
+    mark: 14644
   },
   {
     nameDetail: 'SSDPEMKF512G8 NVMe INTEL 512GB',
@@ -2560,16 +2580,12 @@ export const hardDriveOriginData = [
     mark: 14620
   },
   {
-    nameDetail: 'Netac NVMe SSD 500GB',
-    mark: 14613
+    nameDetail: 'NVMe SSDPEMKF010T8 NV',
+    mark: 14607
   },
   {
     nameDetail: 'NVMe WDC PC SN520 SDA',
-    mark: 14608
-  },
-  {
-    nameDetail: 'NVMe SSDPEMKF010T8 NV',
-    mark: 14607
+    mark: 14603
   },
   {
     nameDetail: 'RevuAhn NX1200 512GB',
@@ -2588,16 +2604,16 @@ export const hardDriveOriginData = [
     mark: 14527
   },
   {
+    nameDetail: 'ADATA SX6000PNP',
+    mark: 14511
+  },
+  {
     nameDetail: 'LENSE40512GMSP34MESTB3A',
     mark: 14488
   },
   {
     nameDetail: 'KINGSTON SNVS1000G',
-    mark: 14485
-  },
-  {
-    nameDetail: 'ADATA SX6000PNP',
-    mark: 14465
+    mark: 14483
   },
   {
     nameDetail: 'TOSHIBA XG6 SSD 256GB M.2 NVMe',
@@ -2608,8 +2624,8 @@ export const hardDriveOriginData = [
     mark: 14429
   },
   {
-    nameDetail: 'Patriot M.2 P310 240GB',
-    mark: 14403
+    nameDetail: 'Patriot M.2 P300 256GB',
+    mark: 14410
   },
   {
     nameDetail: 'WDC PC SN520 SDAPNUW-512G',
@@ -2621,7 +2637,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung PM961 256GB NVMe',
-    mark: 14369
+    mark: 14361
   },
   {
     nameDetail: 'NVMe HP SSD EX920 512',
@@ -2648,16 +2664,16 @@ export const hardDriveOriginData = [
     mark: 14285
   },
   {
+    nameDetail: 'Samsung SSD PM991a NVMe 512GB',
+    mark: 14278
+  },
+  {
     nameDetail: 'NVMe Samsung SSD 950',
     mark: 14276
   },
   {
-    nameDetail: 'Samsung SSD PM991a NVMe 512GB',
-    mark: 14262
-  },
-  {
-    nameDetail: 'Intel Optane H10 with SSD 512GB',
-    mark: 14258
+    nameDetail: '512GB PCS PCIe M.2 SSD',
+    mark: 14274
   },
   {
     nameDetail: 'WDC PC SN520 SDAPMUW-512G',
@@ -2672,8 +2688,12 @@ export const hardDriveOriginData = [
     mark: 14221
   },
   {
-    nameDetail: '512GB PCS PCIe M.2 SSD',
-    mark: 14215
+    nameDetail: 'Netac NVMe SSD 1TB',
+    mark: 14213
+  },
+  {
+    nameDetail: 'Intel Optane H10 with SSD 512GB',
+    mark: 14203
   },
   {
     nameDetail: 'Seagate BarraCuda Q5 ZP2000CV30001',
@@ -2681,15 +2701,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'CT250P2SSD8',
-    mark: 14199
-  },
-  {
-    nameDetail: 'Intel SSD 660p 2TB',
-    mark: 14169
+    mark: 14180
   },
   {
     nameDetail: 'GSDFN512TS3F1OGCX',
     mark: 14168
+  },
+  {
+    nameDetail: 'Intel SSD 660p 2TB',
+    mark: 14165
   },
   {
     nameDetail: 'DIGIFAST ACE Series 256GB',
@@ -2700,16 +2720,20 @@ export const hardDriveOriginData = [
     mark: 14137
   },
   {
+    nameDetail: 'Samsung PM981 256GB NVMe',
+    mark: 14113
+  },
+  {
     nameDetail: 'SAMSUNG MZALQ512HALU-000L2',
     mark: 14107
   },
   {
-    nameDetail: 'Samsung PM981 256GB NVMe',
-    mark: 14102
-  },
-  {
     nameDetail: 'NVMe PC SN520 NVMe WD',
     mark: 14097
+  },
+  {
+    nameDetail: 'ADATA SWORDFISH',
+    mark: 14080
   },
   {
     nameDetail: 'Toshiba XG3 512GB NVMe M.2',
@@ -2721,23 +2745,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SA2000M8500G',
-    mark: 14070
+    mark: 14066
   },
   {
     nameDetail: 'NVMe INTEL SSDPEKNW010T8',
-    mark: 14048
-  },
-  {
-    nameDetail: 'Netac NVMe SSD 1TB',
-    mark: 14039
+    mark: 14060
   },
   {
     nameDetail: 'PLEXTOR PX-256M9PeG',
     mark: 14034
-  },
-  {
-    nameDetail: 'ADATA SWORDFISH',
-    mark: 14030
   },
   {
     nameDetail: 'Intel DC P3500 2TB NVMe',
@@ -2748,24 +2764,24 @@ export const hardDriveOriginData = [
     mark: 14008
   },
   {
+    nameDetail: 'WDC WDS500G1B0C',
+    mark: 13989
+  },
+  {
     nameDetail: 'WD BLACK SN750 SE 250GB',
     mark: 13974
   },
   {
-    nameDetail: 'WDC WDS500G1B0C',
-    mark: 13967
-  },
-  {
-    nameDetail: 'KINGSTON SNVS2000G',
-    mark: 13966
-  },
-  {
     nameDetail: 'NVMe KBG40ZNS256G NVMe KIOXIA 256GB',
-    mark: 13943
+    mark: 13961
   },
   {
     nameDetail: 'IM2P33F3A NVMe ADATA 512GB',
-    mark: 13931
+    mark: 13957
+  },
+  {
+    nameDetail: 'KINGSTON SNVS2000G',
+    mark: 13954
   },
   {
     nameDetail: 'NVMe HP SSD EX920 256',
@@ -2796,6 +2812,10 @@ export const hardDriveOriginData = [
     mark: 13817
   },
   {
+    nameDetail: 'Samsung SM951 512GB NVMe',
+    mark: 13806
+  },
+  {
     nameDetail: 'ASint AS806 512GB',
     mark: 13797
   },
@@ -2806,10 +2826,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Vi3000 SSD',
     mark: 13755
-  },
-  {
-    nameDetail: 'Samsung SM951 512GB NVMe',
-    mark: 13749
   },
   {
     nameDetail: 'Samsung SSD 960',
@@ -2828,24 +2844,20 @@ export const hardDriveOriginData = [
     mark: 13683
   },
   {
-    nameDetail: 'KBG40ZNS256G NVMe KIOXIA 256GB',
-    mark: 13680
+    nameDetail: 'Micron MTFDHBA256TCK',
+    mark: 13682
   },
   {
-    nameDetail: 'Micron MTFDHBA256TCK',
-    mark: 13670
+    nameDetail: 'KBG40ZNS256G NVMe KIOXIA 256GB',
+    mark: 13667
   },
   {
     nameDetail: 'NVMe INTEL SSDPEKNW02',
     mark: 13658
   },
   {
-    nameDetail: 'Samsung SSD PM991 NVMe 1TB',
-    mark: 13651
-  },
-  {
     nameDetail: 'NVMe KBG40ZNS512G NVMe KIOXIA 512GB',
-    mark: 13640
+    mark: 13641
   },
   {
     nameDetail: 'Dell Express Flash NVMe P4600 1.6TB SFF',
@@ -2854,6 +2866,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe ADATA SX6000PNP',
     mark: 13590
+  },
+  {
+    nameDetail: 'Samsung SSD PM991 NVMe 1TB',
+    mark: 13588
   },
   {
     nameDetail: 'Neutron NX500',
@@ -2868,8 +2884,12 @@ export const hardDriveOriginData = [
     mark: 13518
   },
   {
+    nameDetail: 'NVMe KINGSTON SNVS100',
+    mark: 13495
+  },
+  {
     nameDetail: 'Intel SSD 750 1.2TB NVMe',
-    mark: 13506
+    mark: 13444
   },
   {
     nameDetail: 'MyDigitalSSD BPX Pro 480GB',
@@ -2889,11 +2909,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KBG40ZNS512G NVMe KIOXIA 512GB',
-    mark: 13396
+    mark: 13404
   },
   {
     nameDetail: 'APPLE SSD SM0512G',
     mark: 13394
+  },
+  {
+    nameDetail: 'Toshiba XG5 SSD 512GB',
+    mark: 13368
   },
   {
     nameDetail: 'TOSHIBA RD400 NVMe 256GB',
@@ -2901,18 +2925,18 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Intel SSD 660p 1TB',
-    mark: 13345
+    mark: 13344
   },
   {
     nameDetail: 'LITEON CA3-8D256',
     mark: 13343
   },
   {
-    nameDetail: 'Toshiba XG5 SSD 512GB',
-    mark: 13321
+    nameDetail: 'Seagate BarraCuda Q5 ZP500CV30001',
+    mark: 13311
   },
   {
-    nameDetail: 'Seagate BarraCuda Q5 ZP500CV30001',
+    nameDetail: 'WDC WDS240G2G0C',
     mark: 13311
   },
   {
@@ -2921,11 +2945,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Intel SSD 760p 256GB',
-    mark: 13299
-  },
-  {
-    nameDetail: 'WDC WDS240G2G0C',
-    mark: 13282
+    mark: 13289
   },
   {
     nameDetail: 'TOSHIBA RD400 NVMe 512GB',
@@ -2936,24 +2956,16 @@ export const hardDriveOriginData = [
     mark: 13243
   },
   {
-    nameDetail: 'NVMe Micron 2210S NVMe 512GB',
-    mark: 13225
-  },
-  {
-    nameDetail: 'NVMe CT1000P1SSD8',
-    mark: 13217
-  },
-  {
     nameDetail: 'XPG GAMMIX S11 P',
     mark: 13211
   },
   {
-    nameDetail: 'Netac NVMe SSD 250GB',
-    mark: 13203
+    nameDetail: 'ADATA SX6000LNP',
+    mark: 13206
   },
   {
-    nameDetail: 'ADATA SX6000LNP',
-    mark: 13197
+    nameDetail: 'Netac NVMe SSD 250GB',
+    mark: 13203
   },
   {
     nameDetail: 'NVMe KINGSTON SNVS1000G',
@@ -2964,16 +2976,24 @@ export const hardDriveOriginData = [
     mark: 13196
   },
   {
+    nameDetail: 'NVMe CT1000P1SSD8',
+    mark: 13185
+  },
+  {
+    nameDetail: 'NVMe Micron 2210S NVMe 512GB',
+    mark: 13180
+  },
+  {
     nameDetail: 'KLEVV CRAS C710 M.2 NVMe SSD 512GB',
     mark: 13174
   },
   {
     nameDetail: 'Micron MTFDHBA512QFD',
-    mark: 13160
+    mark: 13164
   },
   {
     nameDetail: 'Samsung SM951 256GB NVMe',
-    mark: 13141
+    mark: 13148
   },
   {
     nameDetail: 'NVMe SM951 NVMe SAMSU',
@@ -2985,7 +3005,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'CT1000P1SSD8',
-    mark: 13122
+    mark: 13125
   },
   {
     nameDetail: 'NVMe KBG40ZNS512G NVM',
@@ -3016,16 +3036,20 @@ export const hardDriveOriginData = [
     mark: 13050
   },
   {
-    nameDetail: 'WDC PC SN520 NVMe SSD 512GB',
-    mark: 13030
-  },
-  {
     nameDetail: 'KBG40ZNS256G TOSHIBA MEMORY',
     mark: 13019
   },
   {
+    nameDetail: 'WDC PC SN520 NVMe SSD 512GB',
+    mark: 12990
+  },
+  {
     nameDetail: 'KINGSTON SNVS1000GB',
     mark: 12980
+  },
+  {
+    nameDetail: 'PC SN520 NVMe WDC 512GB',
+    mark: 12967
   },
   {
     nameDetail: 'SKhynix PC306 512GB',
@@ -3038,10 +3062,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'TEAM TM8FP4256G',
     mark: 12947
-  },
-  {
-    nameDetail: 'PC SN520 NVMe WDC 512GB',
-    mark: 12944
   },
   {
     nameDetail: 'NVMe SSDPEMKF512G8 NV',
@@ -3064,12 +3084,12 @@ export const hardDriveOriginData = [
     mark: 12916
   },
   {
-    nameDetail: 'Micron 2210 MTFDHBA512QFD',
-    mark: 12890
-  },
-  {
     nameDetail: 'KBG40ZNS512G NVMe TOSHIBA 512GB',
     mark: 12884
+  },
+  {
+    nameDetail: 'Micron 2210 MTFDHBA512QFD',
+    mark: 12865
   },
   {
     nameDetail: 'HP SSD EX920 256GB',
@@ -3181,7 +3201,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Intel SSD Pro 7600p Series 256GB',
-    mark: 12539
+    mark: 12531
   },
   {
     nameDetail: 'SSD M.2 PCI NVME 1TB InnovationIT',
@@ -3212,6 +3232,10 @@ export const hardDriveOriginData = [
     mark: 12427
   },
   {
+    nameDetail: 'HP SSD EX900 500GB',
+    mark: 12414
+  },
+  {
     nameDetail: 'LITEON CX2-GB1024-Q11 NVMe 1TB',
     mark: 12414
   },
@@ -3224,8 +3248,8 @@ export const hardDriveOriginData = [
     mark: 12380
   },
   {
-    nameDetail: 'HP SSD EX900 500GB',
-    mark: 12353
+    nameDetail: 'Intel SSD 750 400GB NVMe',
+    mark: 12341
   },
   {
     nameDetail: 'CA3-8D256-Q11 NVMe LITEON 256GB',
@@ -3246,10 +3270,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Corsair Force MP500 480GB',
     mark: 12327
-  },
-  {
-    nameDetail: 'Intel SSD 750 400GB NVMe',
-    mark: 12323
   },
   {
     nameDetail: 'M Series NVMe SSD 512G',
@@ -3292,20 +3312,20 @@ export const hardDriveOriginData = [
     mark: 12181
   },
   {
-    nameDetail: 'NVMe INTEL SSDPEKNW512G8H',
-    mark: 12180
-  },
-  {
     nameDetail: 'NVMe PNY CS2030 240GB',
     mark: 12152
   },
   {
     nameDetail: 'WD Blue SN550 NVMe SSD 250GB',
-    mark: 12143
+    mark: 12146
   },
   {
     nameDetail: 'Viper M.2 VPN100 256GB',
     mark: 12110
+  },
+  {
+    nameDetail: 'NVMe INTEL SSDPEKNW512G8H',
+    mark: 12096
   },
   {
     nameDetail: 'UMIS RPITJ256PED2MWX',
@@ -3336,12 +3356,12 @@ export const hardDriveOriginData = [
     mark: 12036
   },
   {
-    nameDetail: 'NVMe PLEXTOR PX-512M8',
-    mark: 12016
+    nameDetail: 'PC SN530 NVMe WDC 256GB',
+    mark: 12024
   },
   {
-    nameDetail: 'PC SN530 NVMe WDC 256GB',
-    mark: 12013
+    nameDetail: 'NVMe PLEXTOR PX-512M8',
+    mark: 12016
   },
   {
     nameDetail: 'KLEVV CRAS C710 M.2 NVMe SSD 1TB',
@@ -3372,6 +3392,10 @@ export const hardDriveOriginData = [
     mark: 11905
   },
   {
+    nameDetail: 'PNY CS3030 250GB SSD',
+    mark: 11904
+  },
+  {
     nameDetail: 'KBG40ZNV128G TOSHIBA MEMORY',
     mark: 11897
   },
@@ -3396,10 +3420,6 @@ export const hardDriveOriginData = [
     mark: 11859
   },
   {
-    nameDetail: 'KINGSTON RBUSNS8154P3512GJ5',
-    mark: 11851
-  },
-  {
     nameDetail: 'NVMe UMIS RPJTJ512MEE1OWX',
     mark: 11834
   },
@@ -3408,12 +3428,16 @@ export const hardDriveOriginData = [
     mark: 11821
   },
   {
+    nameDetail: 'KINGSTON RBUSNS8154P3512GJ5',
+    mark: 11800
+  },
+  {
     nameDetail: 'KLEVV CRAS C710 M.2 NVMe SSD 256GB',
     mark: 11799
   },
   {
     nameDetail: 'Micron 2200V MTFDHBA512TCK',
-    mark: 11767
+    mark: 11770
   },
   {
     nameDetail: 'PLEXTOR PX-1TM8PeG',
@@ -3433,11 +3457,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD PM991 NVMe 512GB',
-    mark: 11675
-  },
-  {
-    nameDetail: 'PNY CS3030 250GB SSD',
-    mark: 11673
+    mark: 11648
   },
   {
     nameDetail: 'XPG GAMMIX S11 240GB',
@@ -3453,11 +3473,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Corsair Force MP500 240GB',
-    mark: 11587
-  },
-  {
-    nameDetail: 'BC511 NVMe SK hynix 512GB',
-    mark: 11545
+    mark: 11585
   },
   {
     nameDetail: 'KBG40ZNS256G NVMe TOSHIBA 256GB',
@@ -3466,6 +3482,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'RPITJ256MEE1OWX',
     mark: 11539
+  },
+  {
+    nameDetail: 'BC511 NVMe SK hynix 512GB',
+    mark: 11527
   },
   {
     nameDetail: 'PLEXTOR PX-1TM8SeY',
@@ -3525,11 +3545,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'UMIS RPJTJ512MEE1OWX',
-    mark: 11425
+    mark: 11411
   },
   {
     nameDetail: 'AGI256G16AI198',
     mark: 11403
+  },
+  {
+    nameDetail: 'NVMe INTEL SSDPEKNW512G8',
+    mark: 11391
   },
   {
     nameDetail: 'PC401 NVMe SK hynix 1TB',
@@ -3548,10 +3572,6 @@ export const hardDriveOriginData = [
     mark: 11377
   },
   {
-    nameDetail: 'NVMe INTEL SSDPEKNW512G8',
-    mark: 11376
-  },
-  {
     nameDetail: 'Intel DC P3500 1.2TB NVMe',
     mark: 11364
   },
@@ -3565,7 +3585,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SA2000M8250G',
-    mark: 11353
+    mark: 11354
+  },
+  {
+    nameDetail: 'Corsair Force MP510 240GB',
+    mark: 11323
   },
   {
     nameDetail: 'PNY CS2030 480GB SSD',
@@ -3577,19 +3601,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'UMIS RPJTJ256MEE1OWX',
-    mark: 11299
+    mark: 11300
   },
   {
     nameDetail: 'mace 256GB nvme ssd',
     mark: 11294
-  },
-  {
-    nameDetail: 'Corsair Force MP510 240GB',
-    mark: 11282
-  },
-  {
-    nameDetail: 'Toshiba XG5 SSD 256GB',
-    mark: 11246
   },
   {
     nameDetail: 'NVMe IM2P33F3A NVMe ADATA 256GB',
@@ -3602,6 +3618,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Mushkin Scorpion Deluxe PCIe SSD 1920GB',
     mark: 11226
+  },
+  {
+    nameDetail: 'Toshiba XG5 SSD 256GB',
+    mark: 11222
   },
   {
     nameDetail: 'SK hynix PC300 NVMe 1TB',
@@ -3638,10 +3658,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'E12-256G-PHISON-SSD-B3-BB1',
     mark: 11156
-  },
-  {
-    nameDetail: 'BC711 NVMe SK hynix 128GB',
-    mark: 11150
   },
   {
     nameDetail: 'NVMe SSD 256G',
@@ -3702,6 +3718,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe KINGSTON RBUSNS8',
     mark: 10955
+  },
+  {
+    nameDetail: 'BC711 NVMe SK hynix 128GB',
+    mark: 10953
   },
   {
     nameDetail: 'NVMe PLEXTOR PX-1TM8P',
@@ -3776,16 +3796,16 @@ export const hardDriveOriginData = [
     mark: 10790
   },
   {
+    nameDetail: 'INTEL SSDPEKNW512G8L',
+    mark: 10788
+  },
+  {
     nameDetail: 'ZTSSDPG3-480G-GE',
     mark: 10781
   },
   {
     nameDetail: 'HFM512GDJTNG-8310A',
     mark: 10780
-  },
-  {
-    nameDetail: 'INTEL SSDPEKNW512G8L',
-    mark: 10776
   },
   {
     nameDetail: 'SAMSUNG SSD PM851a 2.5 7mm 1024GB',
@@ -3800,6 +3820,10 @@ export const hardDriveOriginData = [
     mark: 10737
   },
   {
+    nameDetail: 'Patriot P300 256GB',
+    mark: 10696
+  },
+  {
     nameDetail: 'Patriot M.2 P300 128GB',
     mark: 10695
   },
@@ -3812,20 +3836,16 @@ export const hardDriveOriginData = [
     mark: 10693
   },
   {
-    nameDetail: 'Patriot P300 256GB',
-    mark: 10687
+    nameDetail: 'CT500P1SSD8',
+    mark: 10680
   },
   {
-    nameDetail: 'CT500P1SSD8',
-    mark: 10677
+    nameDetail: 'WDC PC SN520 NVMe SSD 256GB',
+    mark: 10660
   },
   {
     nameDetail: 'HFM512GDHTNG-8710B',
     mark: 10659
-  },
-  {
-    nameDetail: 'WDC PC SN520 NVMe SSD 256GB',
-    mark: 10655
   },
   {
     nameDetail: 'NVMe KINGSTON OM8PCP3',
@@ -3872,16 +3892,16 @@ export const hardDriveOriginData = [
     mark: 10536
   },
   {
-    nameDetail: 'NVMe PNY CS3030 250GB',
-    mark: 10524
-  },
-  {
     nameDetail: 'INTEL SSDPEKNW512G8H',
-    mark: 10519
+    mark: 10520
   },
   {
     nameDetail: 'MyDigitalSSD BPX 480GB',
     mark: 10513
+  },
+  {
+    nameDetail: 'NVMe PNY CS3030 250GB',
+    mark: 10490
   },
   {
     nameDetail: 'SSD NVME 256GB',
@@ -3932,7 +3952,7 @@ export const hardDriveOriginData = [
     mark: 10384
   },
   {
-    nameDetail: 'Intel SSD Pro 6000p 512GB',
+    nameDetail: 'Intel SSD 660p 512GB',
     mark: 10353
   },
   {
@@ -3942,10 +3962,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Transcend PCIeSSD 110S 512GB',
     mark: 10352
-  },
-  {
-    nameDetail: 'Intel SSD 660p 512GB',
-    mark: 10351
   },
   {
     nameDetail: 'KBG40ZMT128G TOSHIBA MEMORY',
@@ -3964,6 +3980,10 @@ export const hardDriveOriginData = [
     mark: 10294
   },
   {
+    nameDetail: 'NVMe NVME SSD 256GB',
+    mark: 10271
+  },
+  {
     nameDetail: 'NVMe BC501 NVMe SK hy',
     mark: 10242
   },
@@ -3976,6 +3996,10 @@ export const hardDriveOriginData = [
     mark: 10234
   },
   {
+    nameDetail: 'Intel SSD Pro 6000p 512GB',
+    mark: 10222
+  },
+  {
     nameDetail: 'Intel DC P3600 800GB NVMe',
     mark: 10217
   },
@@ -3985,7 +4009,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON RBUSNS8154P3512GJ',
-    mark: 10211
+    mark: 10204
   },
   {
     nameDetail: 'PLEXTOR PX-256M8PeY',
@@ -4004,10 +4028,6 @@ export const hardDriveOriginData = [
     mark: 10178
   },
   {
-    nameDetail: 'PC401 NVMe SK hynix 512GB',
-    mark: 10143
-  },
-  {
     nameDetail: 'NVMe Lexar 1TB SSD',
     mark: 10141
   },
@@ -4018,6 +4038,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'ORICO V500 1TB',
     mark: 10124
+  },
+  {
+    nameDetail: 'PC401 NVMe SK hynix 512GB',
+    mark: 10120
   },
   {
     nameDetail: 'Toshiba XG4 512GB',
@@ -4076,6 +4100,10 @@ export const hardDriveOriginData = [
     mark: 10000
   },
   {
+    nameDetail: 'BC501 NVMe SK hynix 512GB',
+    mark: 9995
+  },
+  {
     nameDetail: 'HFM256GDHTNG-8510B',
     mark: 9987
   },
@@ -4086,6 +4114,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG PM-951 SSD 256GB',
     mark: 9963
+  },
+  {
+    nameDetail: 'HFB1M8MO331C0MR',
+    mark: 9958
   },
   {
     nameDetail: 'Seagate BarraCuda 510 SSD ZP256CM30011',
@@ -4104,24 +4136,20 @@ export const hardDriveOriginData = [
     mark: 9933
   },
   {
-    nameDetail: 'HFB1M8MO331C0MR',
-    mark: 9931
-  },
-  {
-    nameDetail: 'KBG30ZMV512G TOSHIBA',
-    mark: 9925
+    nameDetail: 'Axiom 250GB',
+    mark: 9928
   },
   {
     nameDetail: 'Intel DC P3520 1.2TB NVMe',
     mark: 9905
   },
   {
-    nameDetail: 'BC501 NVMe SK hynix 512GB',
-    mark: 9903
-  },
-  {
     nameDetail: 'LITEON CX2-8B256',
     mark: 9895
+  },
+  {
+    nameDetail: 'KBG30ZMV512G TOSHIBA',
+    mark: 9885
   },
   {
     nameDetail: 'Teelkoou 1TB',
@@ -4133,7 +4161,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SA1000M8480G',
-    mark: 9856
+    mark: 9859
   },
   {
     nameDetail: 'PLEXTOR PX-512M8SeY',
@@ -4158,10 +4186,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SP-5 PRO 256GB',
     mark: 9802
-  },
-  {
-    nameDetail: 'KBG40ZNS128G BG4A KIOXIA',
-    mark: 9801
   },
   {
     nameDetail: 'NVMe THNSN5128GPU7 TO',
@@ -4193,7 +4217,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD PM991a NVMe 256GB',
-    mark: 9657
+    mark: 9655
   },
   {
     nameDetail: 'INTEL SSDPEKKF256G8H',
@@ -4201,15 +4225,23 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'TOSHIBA XG4 512GB NVMe',
-    mark: 9618
+    mark: 9627
   },
   {
     nameDetail: 'IM2P33F3 NVMe ADATA 256GB',
     mark: 9613
   },
   {
+    nameDetail: 'KBG40ZNS128G BG4A KIOXIA',
+    mark: 9595
+  },
+  {
     nameDetail: 'Teclast 480GB NP900C-2280',
     mark: 9590
+  },
+  {
+    nameDetail: 'PM951 NVMe SAMSUNG 1024GB',
+    mark: 9557
   },
   {
     nameDetail: 'SUNEAST NVMe SSD 256GB',
@@ -4224,16 +4256,16 @@ export const hardDriveOriginData = [
     mark: 9534
   },
   {
-    nameDetail: 'PM951 NVMe SAMSUNG 1024GB',
-    mark: 9530
-  },
-  {
     nameDetail: 'SH00E240GB',
     mark: 9501
   },
   {
     nameDetail: 'OCZ RevoDrive 3 X2 Max IOPS',
     mark: 9496
+  },
+  {
+    nameDetail: 'KLLISRE 256GB',
+    mark: 9451
   },
   {
     nameDetail: 'HFM256GDHTNG-8310A',
@@ -4252,12 +4284,12 @@ export const hardDriveOriginData = [
     mark: 9349
   },
   {
-    nameDetail: 'BC501 NVMe SK hynix 256GB',
-    mark: 9335
-  },
-  {
     nameDetail: 'Corsair Force MP300 480GB',
     mark: 9319
+  },
+  {
+    nameDetail: 'BC501 NVMe SK hynix 256GB',
+    mark: 9318
   },
   {
     nameDetail: 'OCZ RevoDrive 350 PCI-E',
@@ -4296,10 +4328,6 @@ export const hardDriveOriginData = [
     mark: 9169
   },
   {
-    nameDetail: 'KLLISRE 256GB',
-    mark: 9146
-  },
-  {
     nameDetail: 'Intel SSD DC P3100 512GB',
     mark: 9142
   },
@@ -4328,15 +4356,15 @@ export const hardDriveOriginData = [
     mark: 8997
   },
   {
-    nameDetail: 'Transcend PCIeSSD 110S 256GB',
-    mark: 8992
-  },
-  {
     nameDetail: 'KINGSTON RBUSNS8154P3256GJ3',
     mark: 8988
   },
   {
     nameDetail: 'BIWIN SSD 500GB',
+    mark: 8983
+  },
+  {
+    nameDetail: 'Transcend PCIeSSD 110S 256GB',
     mark: 8983
   },
   {
@@ -4428,16 +4456,16 @@ export const hardDriveOriginData = [
     mark: 8677
   },
   {
+    nameDetail: 'KBG30ZMV256G KIOXIA',
+    mark: 8661
+  },
+  {
     nameDetail: 'SAMSUNG MZ1LV960HCJH-000MU',
     mark: 8661
   },
   {
-    nameDetail: 'KBG30ZMV256G KIOXIA',
-    mark: 8642
-  },
-  {
     nameDetail: 'Samsung PM951 512GB NVMe',
-    mark: 8628
+    mark: 8638
   },
   {
     nameDetail: 'TEAM TM8FP3256G',
@@ -4504,6 +4532,10 @@ export const hardDriveOriginData = [
     mark: 8306
   },
   {
+    nameDetail: 'LENSE20256GMSP34MEAT2TA',
+    mark: 8295
+  },
+  {
     nameDetail: 'NVMe FORESEE P900F128GH',
     mark: 8293
   },
@@ -4517,7 +4549,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Intel 600p Series 256GB',
-    mark: 8241
+    mark: 8266
   },
   {
     nameDetail: 'SAMSUNG XP941 M.2 512GB',
@@ -4534,10 +4566,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'NVMe SAMSUNG MZVLQ256',
     mark: 8210
-  },
-  {
-    nameDetail: 'LENSE20256GMSP34MEAT2TA',
-    mark: 8208
   },
   {
     nameDetail: 'UMIS LENSE40256GMSP34MESTB3A',
@@ -4589,7 +4617,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'TOSHIBA XG4 256GB NVMe',
-    mark: 8017
+    mark: 8018
   },
   {
     nameDetail: 'SAMSUNG PM971 SSD 128GB',
@@ -4604,12 +4632,12 @@ export const hardDriveOriginData = [
     mark: 7984
   },
   {
-    nameDetail: 'Samsung SSD PM991 NVMe 256GB',
-    mark: 7957
-  },
-  {
     nameDetail: 'OCZ REVODRIVE3 X2',
     mark: 7956
+  },
+  {
+    nameDetail: 'Samsung SSD PM991 NVMe 256GB',
+    mark: 7946
   },
   {
     nameDetail: 'KBG30ZMV256G TOSHIBA',
@@ -4620,6 +4648,10 @@ export const hardDriveOriginData = [
     mark: 7896
   },
   {
+    nameDetail: 'SAMSUNG MZFLW512HMJP 512GB',
+    mark: 7865
+  },
+  {
     nameDetail: 'CL1-3D128-Q11 NVMe LITEON 128GB',
     mark: 7843
   },
@@ -4628,12 +4660,8 @@ export const hardDriveOriginData = [
     mark: 7836
   },
   {
-    nameDetail: 'SAMSUNG MZFLW512HMJP 512GB',
-    mark: 7829
-  },
-  {
     nameDetail: 'WDC PC SN520 NVMe SSD 128GB',
-    mark: 7820
+    mark: 7815
   },
   {
     nameDetail: 'OCZ RevoDrive 3 X2',
@@ -4649,7 +4677,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SK hynix PC300 NVMe 256GB',
-    mark: 7721
+    mark: 7733
   },
   {
     nameDetail: 'THNSF5256GPUK NVMe SED TOSHIBA 256GB',
@@ -4660,20 +4688,20 @@ export const hardDriveOriginData = [
     mark: 7626
   },
   {
-    nameDetail: 'Corsair Force MP500 120GB',
-    mark: 7622
-  },
-  {
     nameDetail: 'Netac NVMe SSD 128GB',
     mark: 7619
+  },
+  {
+    nameDetail: 'Transcend PCIeSSD 110S 128GB',
+    mark: 7614
   },
   {
     nameDetail: 'OCZ-REVODRIV',
     mark: 7613
   },
   {
-    nameDetail: 'Transcend PCIeSSD 110S 128GB',
-    mark: 7608
+    nameDetail: 'Corsair Force MP500 120GB',
+    mark: 7575
   },
   {
     nameDetail: 'RPFTJ256PDD2MWX',
@@ -4836,12 +4864,12 @@ export const hardDriveOriginData = [
     mark: 6775
   },
   {
-    nameDetail: 'KBG30ZPZ256G TOSHIBA',
-    mark: 6719
+    nameDetail: 'Samsung PM951 256GB NVMe',
+    mark: 6724
   },
   {
-    nameDetail: 'Samsung PM951 256GB NVMe',
-    mark: 6718
+    nameDetail: 'KBG30ZPZ256G TOSHIBA',
+    mark: 6719
   },
   {
     nameDetail: 'D1-XTREME 256GB',
@@ -4916,6 +4944,10 @@ export const hardDriveOriginData = [
     mark: 6292
   },
   {
+    nameDetail: 'XrayDisk 256GB',
+    mark: 6280
+  },
+  {
     nameDetail: 'SAMSUNG MZFLV256HCHP-000MV',
     mark: 6274
   },
@@ -4952,10 +4984,6 @@ export const hardDriveOriginData = [
     mark: 6127
   },
   {
-    nameDetail: 'XrayDisk 256GB',
-    mark: 6117
-  },
-  {
     nameDetail: 'OWC Mercury Accelsior PCIe SSD',
     mark: 6110
   },
@@ -4984,10 +5012,6 @@ export const hardDriveOriginData = [
     mark: 6027
   },
   {
-    nameDetail: 'Corsair Force MP300 120GB',
-    mark: 5992
-  },
-  {
     nameDetail: 'HFM128GDHTNG-8310A',
     mark: 5990
   },
@@ -5004,12 +5028,12 @@ export const hardDriveOriginData = [
     mark: 5958
   },
   {
-    nameDetail: 'RPFTJ128PDD2EWX',
-    mark: 5945
+    nameDetail: 'Corsair Force MP300 120GB',
+    mark: 5947
   },
   {
-    nameDetail: 'MidasForce SSD 512GB',
-    mark: 5915
+    nameDetail: 'RPFTJ128PDD2EWX',
+    mark: 5945
   },
   {
     nameDetail: 'NVMe BC501A NVMe SK h',
@@ -5024,12 +5048,12 @@ export const hardDriveOriginData = [
     mark: 5893
   },
   {
-    nameDetail: 'VisionTek 960GB',
-    mark: 5828
+    nameDetail: 'INTEL SSDPEBKF256G7',
+    mark: 5869
   },
   {
-    nameDetail: 'INTEL SSDPEBKF256G7',
-    mark: 5814
+    nameDetail: 'VisionTek 960GB',
+    mark: 5828
   },
   {
     nameDetail: 'Patriot Spark',
@@ -5037,7 +5061,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KBG30ZMV128G TOSHIBA',
-    mark: 5727
+    mark: 5738
   },
   {
     nameDetail: 'Cisco UCS 785GB MLC Fusion-io ioDrive2',
@@ -5058,6 +5082,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'OCZ REVODRIVE3',
     mark: 5604
+  },
+  {
+    nameDetail: 'MidasForce SSD 512GB',
+    mark: 5588
   },
   {
     nameDetail: 'FORESEE P900F128GBH',
@@ -5081,7 +5109,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'HFB1M8MQ331C0MR',
-    mark: 5492
+    mark: 5507
   },
   {
     nameDetail: 'THNSN5128GPUK TOSHIBA',
@@ -5144,16 +5172,16 @@ export const hardDriveOriginData = [
     mark: 5270
   },
   {
+    nameDetail: 'KBG30ZMS128G NVMe TOSHIBA 128GB',
+    mark: 5268
+  },
+  {
     nameDetail: 'ADATA XPG SX8000 128GB',
     mark: 5261
   },
   {
     nameDetail: 'WDC WDS100T1R0A',
     mark: 5246
-  },
-  {
-    nameDetail: 'KBG30ZMS128G NVMe TOSHIBA 128GB',
-    mark: 5234
   },
   {
     nameDetail: 'Samsung SSD 860 PRO 1TB',
@@ -5197,7 +5225,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 870 EVO 1TB',
-    mark: 5098
+    mark: 5105
   },
   {
     nameDetail: 'Samsung SSD 850 EVO 2TB',
@@ -5225,7 +5253,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SanDisk SD9SN8W512G',
-    mark: 5063
+    mark: 5065
   },
   {
     nameDetail: 'Samsung Portable SSD T1 1TB',
@@ -5324,6 +5352,10 @@ export const hardDriveOriginData = [
     mark: 4962
   },
   {
+    nameDetail: 'Samsung SSD 860 PRO 256GB',
+    mark: 4953
+  },
+  {
     nameDetail: 'SanDisk SD9SB8W512G1101',
     mark: 4948
   },
@@ -5334,10 +5366,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SanDisk X600 M.2 2280 256GB',
     mark: 4944
-  },
-  {
-    nameDetail: 'Samsung SSD 860 PRO 256GB',
-    mark: 4943
   },
   {
     nameDetail: 'WDC WDS200T2B0B',
@@ -5366,6 +5394,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SanDisk Z400s M.2 2280 256GB',
     mark: 4908
+  },
+  {
+    nameDetail: 'Samsung SSD 850 EVO M.2 1TB',
+    mark: 4907
   },
   {
     nameDetail: 'LITEON CX1-GB512-D11 M.2 2280 512GB',
@@ -5416,14 +5448,6 @@ export const hardDriveOriginData = [
     mark: 4876
   },
   {
-    nameDetail: 'Samsung SSD 850 EVO M.2 1TB',
-    mark: 4870
-  },
-  {
-    nameDetail: 'Crucial CT500MX200SSD4',
-    mark: 4866
-  },
-  {
     nameDetail: 'SAMSUNG MZNLN256HAJQ-00000',
     mark: 4861
   },
@@ -5456,24 +5480,24 @@ export const hardDriveOriginData = [
     mark: 4834
   },
   {
+    nameDetail: 'SK hynix SC300B 512GB',
+    mark: 4833
+  },
+  {
     nameDetail: 'TEAM L5 LITE SSD 480GB',
     mark: 4833
   },
   {
     nameDetail: 'WDC WDBNCE0010PNC',
-    mark: 4833
+    mark: 4825
   },
   {
-    nameDetail: 'SK hynix SC300B 512GB',
-    mark: 4830
+    nameDetail: 'Crucial MX500 500GB CT500MX500SSD4',
+    mark: 4822
   },
   {
     nameDetail: 'Samsung SSD 850 EVO mSATA 1TB',
     mark: 4822
-  },
-  {
-    nameDetail: 'Crucial MX500 500GB CT500MX500SSD4',
-    mark: 4821
   },
   {
     nameDetail: 'Samsung SSD 850 EVO M.2',
@@ -5514,6 +5538,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'HFS512G39TNF-N3A0A',
     mark: 4802
+  },
+  {
+    nameDetail: 'Crucial CT500MX200SSD4',
+    mark: 4801
   },
   {
     nameDetail: 'SAMSUNG MZ7KM480HAHP-00005',
@@ -5584,16 +5612,28 @@ export const hardDriveOriginData = [
     mark: 4758
   },
   {
+    nameDetail: 'SanDisk SDSSDH3500G',
+    mark: 4757
+  },
+  {
     nameDetail: 'SanDisk SD8SN8U512G1002',
     mark: 4755
   },
   {
-    nameDetail: 'Samsung SSD 860 EVO 1TB',
+    nameDetail: 'SS PLUS 480GB',
     mark: 4753
   },
   {
-    nameDetail: 'SS PLUS 480GB',
-    mark: 4753
+    nameDetail: 'Samsung SSD 860 EVO 1TB',
+    mark: 4752
+  },
+  {
+    nameDetail: 'Intel SSD Pro 5450s 512GB M.2',
+    mark: 4751
+  },
+  {
+    nameDetail: 'SanDisk SD9SN8W256G1102',
+    mark: 4751
   },
   {
     nameDetail: 'ADATA SX910 512GB',
@@ -5616,23 +5656,15 @@ export const hardDriveOriginData = [
     mark: 4746
   },
   {
-    nameDetail: 'SanDisk SD9SN8W256G1102',
-    mark: 4745
-  },
-  {
-    nameDetail: 'SanDisk SDSSDH3500G',
-    mark: 4742
-  },
-  {
-    nameDetail: 'Intel SSD Pro 5450s 512GB M.2',
-    mark: 4741
-  },
-  {
     nameDetail: 'Samsung SSD PM881 NVMe 256GB',
     mark: 4739
   },
   {
     nameDetail: 'KINGSTON SKC600512G',
+    mark: 4738
+  },
+  {
+    nameDetail: 'WDC WDS250G1B0B',
     mark: 4738
   },
   {
@@ -5648,20 +5680,12 @@ export const hardDriveOriginData = [
     mark: 4732
   },
   {
-    nameDetail: 'WDC WDS250G1B0B',
-    mark: 4732
-  },
-  {
     nameDetail: 'HFS250G32TND-N1A0A',
     mark: 4727
   },
   {
     nameDetail: 'SanDisk X400 M.2 2280 512GB',
     mark: 4726
-  },
-  {
-    nameDetail: 'Samsung SSD 870 EVO 500GB',
-    mark: 4723
   },
   {
     nameDetail: 'SanDisk SD9TB8W512G1001',
@@ -5680,16 +5704,24 @@ export const hardDriveOriginData = [
     mark: 4717
   },
   {
+    nameDetail: 'Samsung SSD 870 EVO 500GB',
+    mark: 4717
+  },
+  {
     nameDetail: 'SanDisk SD8TN8U512G1001',
     mark: 4710
+  },
+  {
+    nameDetail: 'CT1000MX500SSD1',
+    mark: 4709
   },
   {
     nameDetail: 'SAMSUNG MZ7LN512HMJP-000',
     mark: 4708
   },
   {
-    nameDetail: 'CT1000MX500SSD1',
-    mark: 4707
+    nameDetail: 'SAMSUNG SSD SM871 2.5 7mm 512GB',
+    mark: 4703
   },
   {
     nameDetail: 'SanDisk X600 M.2 2280 256GB SED',
@@ -5713,15 +5745,15 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SK hynix SC311 512GB',
-    mark: 4688
+    mark: 4689
   },
   {
     nameDetail: 'SanDisk SD9SN8W256G1027',
     mark: 4687
   },
   {
-    nameDetail: 'SAMSUNG SSD SM871 2.5 7mm 512GB',
-    mark: 4686
+    nameDetail: 'WDC WDS100T2B0A',
+    mark: 4687
   },
   {
     nameDetail: 'SK hynix SC300 512GB',
@@ -5729,10 +5761,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SanDisk X600 2.5 7MM 512GB SED',
-    mark: 4683
-  },
-  {
-    nameDetail: 'WDC WDS100T2B0A',
     mark: 4683
   },
   {
@@ -5765,7 +5793,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'CT2000MX500SSD1',
-    mark: 4666
+    mark: 4668
   },
   {
     nameDetail: 'SAMSUNG MZNLN256HAJQ-000H1',
@@ -5901,7 +5929,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SKC600256G',
-    mark: 4606
+    mark: 4604
   },
   {
     nameDetail: 'TRO-SSD7 -250GB-PRO',
@@ -5980,11 +6008,11 @@ export const hardDriveOriginData = [
     mark: 4571
   },
   {
-    nameDetail: 'KingDian N480 240GB',
-    mark: 4567
+    nameDetail: 'Samsung SSD 870 EVO 250GB',
+    mark: 4569
   },
   {
-    nameDetail: 'Samsung SSD 870 EVO 250GB',
+    nameDetail: 'KingDian N480 240GB',
     mark: 4567
   },
   {
@@ -5993,7 +6021,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'CT500MX500SSD1',
-    mark: 4561
+    mark: 4563
   },
   {
     nameDetail: 'SanDisk SD9TB8W256G1001',
@@ -6072,6 +6100,10 @@ export const hardDriveOriginData = [
     mark: 4524
   },
   {
+    nameDetail: 'Seagate BarraCuda SSD ZA1000CM10002',
+    mark: 4524
+  },
+  {
     nameDetail: 'TOSHIBA-VX500',
     mark: 4523
   },
@@ -6100,6 +6132,10 @@ export const hardDriveOriginData = [
     mark: 4510
   },
   {
+    nameDetail: 'SanDisk SDSSDH3 512G',
+    mark: 4509
+  },
+  {
     nameDetail: 'SanDisk SSD G5 B',
     mark: 4508
   },
@@ -6112,6 +6148,10 @@ export const hardDriveOriginData = [
     mark: 4506
   },
   {
+    nameDetail: 'WDC WDS250G2B0B',
+    mark: 4506
+  },
+  {
     nameDetail: 'Transcend TS1TSSD230S',
     mark: 4504
   },
@@ -6120,20 +6160,16 @@ export const hardDriveOriginData = [
     mark: 4503
   },
   {
-    nameDetail: 'WDC WDS250G2B0B',
-    mark: 4503
-  },
-  {
     nameDetail: 'Micron M600 256GB',
     mark: 4502
   },
   {
-    nameDetail: 'SanDisk SDSSDH3 512G',
+    nameDetail: 'TOSHIBA THNSNJ256G8NU',
     mark: 4501
   },
   {
-    nameDetail: 'TOSHIBA THNSNJ256G8NU',
-    mark: 4501
+    nameDetail: 'Samsung SSD 860 EVO M.2 250GB',
+    mark: 4500
   },
   {
     nameDetail: 'KINGSTON SV300S37A120G 120.0GB',
@@ -6145,14 +6181,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 850 PRO 512GB',
-    mark: 4494
+    mark: 4495
   },
   {
     nameDetail: 'SAMSUNG MZNLN256HMHQ-000B1',
-    mark: 4493
-  },
-  {
-    nameDetail: 'Samsung SSD 860 EVO M.2 250GB',
     mark: 4493
   },
   {
@@ -6173,7 +6205,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 850 PRO 256GB',
-    mark: 4488
+    mark: 4490
   },
   {
     nameDetail: 'TOSHIBA THNSNJ256GMCT',
@@ -6229,14 +6261,14 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WDBNCE5000PNC',
-    mark: 4471
+    mark: 4474
   },
   {
     nameDetail: 'TOSHIBA THNSNH256GBST',
     mark: 4468
   },
   {
-    nameDetail: 'Seagate BarraCuda SSD ZA1000CM10002',
+    nameDetail: 'SanDisk X400 M.2 2280 256GB',
     mark: 4466
   },
   {
@@ -6245,10 +6277,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SA400M8480G',
-    mark: 4464
-  },
-  {
-    nameDetail: 'SanDisk X400 M.2 2280 256GB',
     mark: 4464
   },
   {
@@ -6292,12 +6320,12 @@ export const hardDriveOriginData = [
     mark: 4455
   },
   {
-    nameDetail: 'Intel SSD 520 240GB 7mm',
-    mark: 4454
+    nameDetail: 'WDC WDS500G2B0A',
+    mark: 4455
   },
   {
-    nameDetail: 'WDC WDS500G2B0A',
-    mark: 4453
+    nameDetail: 'Intel SSD 520 240GB 7mm',
+    mark: 4454
   },
   {
     nameDetail: 'SAMSUNG MZ7LN256HAJQ-00000',
@@ -6325,11 +6353,11 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Crucial CT1050MX300SSD4',
-    mark: 4435
+    mark: 4437
   },
   {
     nameDetail: 'Samsung SSD 850 EVO 500GB',
-    mark: 4435
+    mark: 4436
   },
   {
     nameDetail: 'PNY CS900 1TB SSD',
@@ -6360,8 +6388,16 @@ export const hardDriveOriginData = [
     mark: 4420
   },
   {
+    nameDetail: 'SanDisk SD9SB8W256G1002',
+    mark: 4419
+  },
+  {
     nameDetail: 'SanDisk Ultra II 500GB',
     mark: 4418
+  },
+  {
+    nameDetail: 'Micron 1100 MTFDDAK512TBN',
+    mark: 4417
   },
   {
     nameDetail: 'SK hynix SC300B',
@@ -6377,10 +6413,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'INTEL SSDSC2KB960G8',
-    mark: 4412
-  },
-  {
-    nameDetail: 'Samsung SSD 870 QVO 2TB',
     mark: 4412
   },
   {
@@ -6440,6 +6472,10 @@ export const hardDriveOriginData = [
     mark: 4390
   },
   {
+    nameDetail: 'Samsung SSD 870 QVO 2TB',
+    mark: 4390
+  },
+  {
     nameDetail: 'OCZ-SABER1000',
     mark: 4389
   },
@@ -6476,10 +6512,6 @@ export const hardDriveOriginData = [
     mark: 4377
   },
   {
-    nameDetail: 'SanDisk SD9SB8W256G1002',
-    mark: 4377
-  },
-  {
     nameDetail: 'WDC WDS100T1B0A',
     mark: 4377
   },
@@ -6492,8 +6524,16 @@ export const hardDriveOriginData = [
     mark: 4375
   },
   {
+    nameDetail: 'Samsung SSD 850 EVO M.2 250GB',
+    mark: 4374
+  },
+  {
     nameDetail: 'OCZ Vertex 460A 480GB',
     mark: 4373
+  },
+  {
+    nameDetail: 'Samsung SSD 850 EVO M.2 120GB',
+    mark: 4371
   },
   {
     nameDetail: 'TOSHIBA mSATA 512GB THNSNH512GNCT',
@@ -6506,10 +6546,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Intel 521 240GB SSDSCMMW240A3',
     mark: 4369
-  },
-  {
-    nameDetail: 'Samsung SSD 850 EVO M.2 250GB',
-    mark: 4368
   },
   {
     nameDetail: 'Samsung SSD 860',
@@ -6556,10 +6592,6 @@ export const hardDriveOriginData = [
     mark: 4360
   },
   {
-    nameDetail: 'Micron 1100 MTFDDAK512TBN',
-    mark: 4358
-  },
-  {
     nameDetail: 'PLEXTOR PX-AG128M6e',
     mark: 4357
   },
@@ -6596,6 +6628,10 @@ export const hardDriveOriginData = [
     mark: 4343
   },
   {
+    nameDetail: 'TEAML5Lite3D1T',
+    mark: 4343
+  },
+  {
     nameDetail: 'QEMU QEMU HARDDISK',
     mark: 4342
   },
@@ -6617,10 +6653,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Intel SSD Pro 5400s 256GB M.2',
-    mark: 4339
+    mark: 4338
   },
   {
-    nameDetail: 'Samsung SSD 850 EVO M.2 120GB',
+    nameDetail: 'CT250MX500SSD1',
     mark: 4337
   },
   {
@@ -6644,16 +6680,12 @@ export const hardDriveOriginData = [
     mark: 4335
   },
   {
-    nameDetail: 'CT250MX500SSD1',
-    mark: 4334
-  },
-  {
     nameDetail: 'OCZ Vertex 460 480GB',
     mark: 4332
   },
   {
     nameDetail: 'ADATA SU800 SSD 512GB',
-    mark: 4331
+    mark: 4329
   },
   {
     nameDetail: 'Micron_1100_MTFDDAV512TBN',
@@ -6788,10 +6820,6 @@ export const hardDriveOriginData = [
     mark: 4300
   },
   {
-    nameDetail: 'TEAML5Lite3D1T',
-    mark: 4299
-  },
-  {
     nameDetail: 'SAMSUNG MZNTY256HDHP-00007',
     mark: 4298
   },
@@ -6836,11 +6864,11 @@ export const hardDriveOriginData = [
     mark: 4289
   },
   {
-    nameDetail: 'EZLINK M4 480GB SSD',
-    mark: 4287
+    nameDetail: 'INTEL 730 480GB SSDSC2BP480G4',
+    mark: 4288
   },
   {
-    nameDetail: 'SK hynix SC311 256GB',
+    nameDetail: 'EZLINK M4 480GB SSD',
     mark: 4287
   },
   {
@@ -6850,6 +6878,14 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'ADATA SU810NS38 256 GB',
     mark: 4286
+  },
+  {
+    nameDetail: 'SK hynix SC311 256GB',
+    mark: 4286
+  },
+  {
+    nameDetail: 'MyDigitalSSD BP5 240GB',
+    mark: 4285
   },
   {
     nameDetail: 'AXPRO 240GB',
@@ -6872,11 +6908,11 @@ export const hardDriveOriginData = [
     mark: 4281
   },
   {
-    nameDetail: 'INTEL 730 480GB SSDSC2BP480G4',
-    mark: 4280
+    nameDetail: 'SAMSUNG MZ7LN512HCHP-000H1',
+    mark: 4279
   },
   {
-    nameDetail: 'SAMSUNG MZ7LN512HCHP-000H1',
+    nameDetail: 'SK hynix SC401 256GB',
     mark: 4279
   },
   {
@@ -6897,10 +6933,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Samsung SSD 870 QVO 4TB',
-    mark: 4272
-  },
-  {
-    nameDetail: 'SK hynix SC401 256GB',
     mark: 4272
   },
   {
@@ -7036,6 +7068,10 @@ export const hardDriveOriginData = [
     mark: 4235
   },
   {
+    nameDetail: 'SanDisk SD8TB8U256G1001',
+    mark: 4232
+  },
+  {
     nameDetail: 'SK hynix SC300 2.55',
     mark: 4232
   },
@@ -7088,6 +7124,10 @@ export const hardDriveOriginData = [
     mark: 4226
   },
   {
+    nameDetail: 'ADATA SU800 SSD 1TB',
+    mark: 4225
+  },
+  {
     nameDetail: 'Crucial CT250MX200SSD4',
     mark: 4225
   },
@@ -7102,10 +7142,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SanDisk SD8SN8U256G1122',
     mark: 4224
-  },
-  {
-    nameDetail: 'SanDisk SD8TB8U256G1001',
-    mark: 4222
   },
   {
     nameDetail: 'KLEVV NEO N400 SSD 480GB',
@@ -7138,10 +7174,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'PNY EU S SD CS1311 240GB',
     mark: 4215
-  },
-  {
-    nameDetail: 'SanDisk SDSSDH3 500G',
-    mark: 4214
   },
   {
     nameDetail: 'Crucial CT1024M550SSD1',
@@ -7184,6 +7216,10 @@ export const hardDriveOriginData = [
     mark: 4203
   },
   {
+    nameDetail: 'SanDisk SDSSDH3 500G',
+    mark: 4202
+  },
+  {
     nameDetail: 'Intel SSD 520 240GB 9.5mm',
     mark: 4201
   },
@@ -7198,10 +7234,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Micron M600 MTFDDAK1T0MBF',
     mark: 4199
-  },
-  {
-    nameDetail: 'ADATA SU800 SSD 1TB',
-    mark: 4198
   },
   {
     nameDetail: 'Micron 1300 MTFDDAK256TDL',
@@ -7240,12 +7272,20 @@ export const hardDriveOriginData = [
     mark: 4195
   },
   {
+    nameDetail: 'TOSHIBA THNSNH256GCST',
+    mark: 4195
+  },
+  {
     nameDetail: 'SAMSUNG SSD CM87',
     mark: 4194
   },
   {
     nameDetail: 'Samsung SSD PM881 NVMe 128GB',
     mark: 4193
+  },
+  {
+    nameDetail: 'FORESEE 256GB SSD',
+    mark: 4191
   },
   {
     nameDetail: 'Mushkin ECO2 1TB MKNSSDEC1TB',
@@ -7265,10 +7305,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'AFOX 240GB',
-    mark: 4185
-  },
-  {
-    nameDetail: 'FORESEE 256GB SSD',
     mark: 4185
   },
   {
@@ -7292,19 +7328,11 @@ export const hardDriveOriginData = [
     mark: 4182
   },
   {
-    nameDetail: 'Samsung SSD 870 QVO 1TB',
-    mark: 4181
-  },
-  {
     nameDetail: 'S10D',
     mark: 4178
   },
   {
     nameDetail: 'SAMSUNG MZ7LN128HAHQ-000H1',
-    mark: 4178
-  },
-  {
-    nameDetail: 'Samsung SSD 860 EVO 250GB',
     mark: 4178
   },
   {
@@ -7317,6 +7345,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Micron 1100',
+    mark: 4177
+  },
+  {
+    nameDetail: 'Samsung SSD 860 EVO 250GB',
     mark: 4177
   },
   {
@@ -7356,20 +7388,16 @@ export const hardDriveOriginData = [
     mark: 4173
   },
   {
-    nameDetail: 'TOSHIBA THNSNH256GCST',
-    mark: 4173
-  },
-  {
-    nameDetail: 'Transcend TS512GMTS430S',
-    mark: 4173
-  },
-  {
     nameDetail: 'SAMSUNG MZ7LN512HCHP-000L1',
     mark: 4172
   },
   {
     nameDetail: 'TOSHIBA THNSNJ512GCST',
     mark: 4172
+  },
+  {
+    nameDetail: 'Samsung SSD 870 QVO 1TB',
+    mark: 4171
   },
   {
     nameDetail: 'KINGSTON SKC400S371T',
@@ -7480,6 +7508,10 @@ export const hardDriveOriginData = [
     mark: 4139
   },
   {
+    nameDetail: 'WDC WDS250G2B0A',
+    mark: 4139
+  },
+  {
     nameDetail: 'Aireye S2 256GB SSD',
     mark: 4138
   },
@@ -7492,15 +7524,15 @@ export const hardDriveOriginData = [
     mark: 4137
   },
   {
+    nameDetail: 'Crucial CT750MX300SSD1',
+    mark: 4135
+  },
+  {
     nameDetail: 'MTFDDAK1T0TBN-1A',
     mark: 4134
   },
   {
     nameDetail: 'SAMSUNG MZNTN512HDJH-000L2',
-    mark: 4134
-  },
-  {
-    nameDetail: 'WDC WDS250G2B0A',
     mark: 4134
   },
   {
@@ -7524,6 +7556,10 @@ export const hardDriveOriginData = [
     mark: 4127
   },
   {
+    nameDetail: 'Transcend TS512GMTS430S',
+    mark: 4127
+  },
+  {
     nameDetail: 'LITEON CV8-CE256-11 256GB',
     mark: 4126
   },
@@ -7538,10 +7574,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Phison NGFF 2280 128GB',
     mark: 4124
-  },
-  {
-    nameDetail: 'Crucial CT750MX300SSD1',
-    mark: 4122
   },
   {
     nameDetail: 'Patriot Ignite',
@@ -7636,6 +7668,10 @@ export const hardDriveOriginData = [
     mark: 4106
   },
   {
+    nameDetail: 'TEAM T253A3512G',
+    mark: 4106
+  },
+  {
     nameDetail: 'GeIL ZENITH R3 480GB',
     mark: 4105
   },
@@ -7713,10 +7749,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SanDisk SDSSDXPS480G',
-    mark: 4089
-  },
-  {
-    nameDetail: 'TEAM T253A3512G',
     mark: 4089
   },
   {
@@ -7800,6 +7832,10 @@ export const hardDriveOriginData = [
     mark: 4065
   },
   {
+    nameDetail: 'Micron M550 SSD 256GB',
+    mark: 4065
+  },
+  {
     nameDetail: 'Mushkin Reactor 480GB MKNSSDRE480GB',
     mark: 4065
   },
@@ -7824,15 +7860,15 @@ export const hardDriveOriginData = [
     mark: 4060
   },
   {
-    nameDetail: 'Micron M550 SSD 256GB',
-    mark: 4060
-  },
-  {
     nameDetail: 'ADATA Premier Pro SP900 512GB',
     mark: 4059
   },
   {
     nameDetail: 'CT120BX300SSD1',
+    mark: 4059
+  },
+  {
+    nameDetail: 'Samsung SSD 850 EVO 250GB',
     mark: 4059
   },
   {
@@ -7844,15 +7880,7 @@ export const hardDriveOriginData = [
     mark: 4058
   },
   {
-    nameDetail: 'Samsung SSD 850 EVO 250GB',
-    mark: 4058
-  },
-  {
     nameDetail: 'BRAVEEAGLE SSD 240GB',
-    mark: 4056
-  },
-  {
-    nameDetail: 'TOSHIBA THNSNF128GMCS',
     mark: 4056
   },
   {
@@ -7888,6 +7916,10 @@ export const hardDriveOriginData = [
     mark: 4047
   },
   {
+    nameDetail: 'WDC WDBNCE2500PNC',
+    mark: 4046
+  },
+  {
     nameDetail: 'FSX-120GB',
     mark: 4045
   },
@@ -7896,8 +7928,8 @@ export const hardDriveOriginData = [
     mark: 4045
   },
   {
-    nameDetail: 'EMTEC X150 480GB',
-    mark: 4043
+    nameDetail: 'Crucial CT525MX300SSD1',
+    mark: 4044
   },
   {
     nameDetail: 'KINGSTON KINGSTON SH103S3',
@@ -7920,20 +7952,20 @@ export const hardDriveOriginData = [
     mark: 4039
   },
   {
-    nameDetail: 'Crucial CT525MX300SSD1',
-    mark: 4038
-  },
-  {
-    nameDetail: 'Micron 1100 MTFDDAV256TBN',
-    mark: 4038
-  },
-  {
     nameDetail: 'SAMSUNG SSD PM871 mSATA 512GB SED',
     mark: 4036
   },
   {
     nameDetail: 'Intel SSD 535 180GB M.2',
     mark: 4035
+  },
+  {
+    nameDetail: 'Micron 1100 MTFDDAV256TBN',
+    mark: 4035
+  },
+  {
+    nameDetail: 'SAMSUNG SSD SM841 2.5\\ 7mm 256GB',
+    mark: 4034
   },
   {
     nameDetail: 'DGM SSD 480GB S3-480A',
@@ -7992,10 +8024,6 @@ export const hardDriveOriginData = [
     mark: 4022
   },
   {
-    nameDetail: 'WDC WDBNCE2500PNC',
-    mark: 4021
-  },
-  {
     nameDetail: 'Patriot Mac Series XT 240GB',
     mark: 4019
   },
@@ -8017,10 +8045,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'LITEON CV3-8D512',
-    mark: 4016
-  },
-  {
-    nameDetail: 'SAMSUNG SSD SM841 2.5\\ 7mm 256GB',
     mark: 4016
   },
   {
@@ -8076,6 +8100,10 @@ export const hardDriveOriginData = [
     mark: 4005
   },
   {
+    nameDetail: 'Kingston HyperX 3K 240GB SH103S3240G',
+    mark: 4004
+  },
+  {
     nameDetail: 'RevuAhn 900G 256GB',
     mark: 4004
   },
@@ -8109,10 +8137,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'ADATA SU800 SSD 256GB',
-    mark: 4000
-  },
-  {
-    nameDetail: 'Kingston HyperX 3K 240GB SH103S3240G',
     mark: 4000
   },
   {
@@ -8172,15 +8196,15 @@ export const hardDriveOriginData = [
     mark: 3990
   },
   {
+    nameDetail: 'EMTEC X150 480GB',
+    mark: 3988
+  },
+  {
     nameDetail: 'PLEXTOR PX-256M6G-2280',
     mark: 3987
   },
   {
     nameDetail: 'PLEXTOR PX-G128M6e',
-    mark: 3987
-  },
-  {
-    nameDetail: 'Verbatim Vi550 S3',
     mark: 3987
   },
   {
@@ -8204,6 +8228,10 @@ export const hardDriveOriginData = [
     mark: 3984
   },
   {
+    nameDetail: 'Samsung SSD 840 EVO 500GB',
+    mark: 3980
+  },
+  {
     nameDetail: 'Crucial FCCT250MX200SSD1',
     mark: 3979
   },
@@ -8220,16 +8248,12 @@ export const hardDriveOriginData = [
     mark: 3976
   },
   {
-    nameDetail: 'Samsung SSD 840 EVO 500GB',
-    mark: 3976
-  },
-  {
     nameDetail: 'SPCC Solid State',
     mark: 3976
   },
   {
     nameDetail: 'KINGSTON SUV400S37240G',
-    mark: 3973
+    mark: 3975
   },
   {
     nameDetail: 'TOSHIBA THNSN9240GESG',
@@ -8432,6 +8456,10 @@ export const hardDriveOriginData = [
     mark: 3935
   },
   {
+    nameDetail: 'Apacer AS340 960GB',
+    mark: 3934
+  },
+  {
     nameDetail: 'LITEON CV3-CE512-11 512GB',
     mark: 3934
   },
@@ -8444,6 +8472,10 @@ export const hardDriveOriginData = [
     mark: 3932
   },
   {
+    nameDetail: 'Radeon R3 SSD R3SL240G',
+    mark: 3931
+  },
+  {
     nameDetail: 'INTEL SSDSC2BB300G',
     mark: 3929
   },
@@ -8454,6 +8486,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'VK0480GDJXV',
     mark: 3928
+  },
+  {
+    nameDetail: 'Intel SSD Pro 5450s 256GB M.2',
+    mark: 3927
   },
   {
     nameDetail: 'SanDisk X400 2.5 7MM 128GB',
@@ -8474,10 +8510,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Transcend TS128GMTS430S',
     mark: 3924
-  },
-  {
-    nameDetail: 'Intel SSD Pro 5450s 256GB M.2',
-    mark: 3923
   },
   {
     nameDetail: 'SSM28128GPTCB3B-S112611',
@@ -8532,15 +8564,15 @@ export const hardDriveOriginData = [
     mark: 3914
   },
   {
+    nameDetail: 'PNY CS1311 240GB SSD',
+    mark: 3914
+  },
+  {
     nameDetail: 'SanDisk SD7SN6S-256G',
     mark: 3914
   },
   {
     nameDetail: 'ADATA SSD DP900 512GB-',
-    mark: 3913
-  },
-  {
-    nameDetail: 'Apacer AS340 960GB',
     mark: 3913
   },
   {
@@ -8553,10 +8585,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'PLEXTOR PX-256M7VG',
-    mark: 3907
-  },
-  {
-    nameDetail: 'PNY CS1311 240GB SSD',
     mark: 3907
   },
   {
@@ -8584,8 +8612,8 @@ export const hardDriveOriginData = [
     mark: 3904
   },
   {
-    nameDetail: 'Radeon R3 SSD R3SL240G',
-    mark: 3903
+    nameDetail: 'TOSHIBA THNSNF128GMCS',
+    mark: 3904
   },
   {
     nameDetail: 'VisionTek 250GB M.2',
@@ -8616,10 +8644,6 @@ export const hardDriveOriginData = [
     mark: 3897
   },
   {
-    nameDetail: 'Lexar 256GB SSD',
-    mark: 3896
-  },
-  {
     nameDetail: 'SEAGATE ST240FP0',
     mark: 3896
   },
@@ -8644,6 +8668,14 @@ export const hardDriveOriginData = [
     mark: 3893
   },
   {
+    nameDetail: 'Lexar 256GB SSD',
+    mark: 3893
+  },
+  {
+    nameDetail: 'KINGSTON SUV500240G',
+    mark: 3892
+  },
+  {
     nameDetail: 'NEO-G4-SSD-240GB',
     mark: 3892
   },
@@ -8665,10 +8697,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Kingston HyperX 3K 480GB SH103S3480G',
-    mark: 3888
-  },
-  {
-    nameDetail: 'KINGSTON SUV500240G',
     mark: 3888
   },
   {
@@ -8776,6 +8804,10 @@ export const hardDriveOriginData = [
     mark: 3872
   },
   {
+    nameDetail: 'KINGSTON SUV400S37480G',
+    mark: 3870
+  },
+  {
     nameDetail: 'Extrememory XLR8_EX120BB',
     mark: 3869
   },
@@ -8828,10 +8860,6 @@ export const hardDriveOriginData = [
     mark: 3863
   },
   {
-    nameDetail: 'KINGSTON SUV400S37480G',
-    mark: 3863
-  },
-  {
     nameDetail: 'Patriot Blast 240GB',
     mark: 3863
   },
@@ -8840,15 +8868,15 @@ export const hardDriveOriginData = [
     mark: 3863
   },
   {
-    nameDetail: 'TEAM T253A3001T',
-    mark: 3863
-  },
-  {
     nameDetail: 'RBU-SNS8350DES3128GP',
     mark: 3862
   },
   {
     nameDetail: 'JAJS600M512C',
+    mark: 3861
+  },
+  {
+    nameDetail: 'Samsung SSD 850 EVO mSATA 250GB',
     mark: 3861
   },
   {
@@ -9016,7 +9044,15 @@ export const hardDriveOriginData = [
     mark: 3836
   },
   {
+    nameDetail: 'Samsung PM951 128GB NVMe',
+    mark: 3835
+  },
+  {
     nameDetail: 'Plextor M5 512GB PX-512M5',
+    mark: 3834
+  },
+  {
+    nameDetail: 'PNY 240GB SSD',
     mark: 3834
   },
   {
@@ -9028,20 +9064,12 @@ export const hardDriveOriginData = [
     mark: 3834
   },
   {
-    nameDetail: 'Samsung SSD 850 EVO mSATA 250GB',
-    mark: 3832
-  },
-  {
     nameDetail: 'Mushkin Chronos Deluxe 480GB MKNSSDCR480GB-DX',
     mark: 3831
   },
   {
     nameDetail: 'SPCC Solid State Dis',
     mark: 3830
-  },
-  {
-    nameDetail: 'Samsung PM951 128GB NVMe',
-    mark: 3829
   },
   {
     nameDetail: 'SanDisk SD7SN6S-128G',
@@ -9053,10 +9081,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'PNY CS900 250GB SSD',
-    mark: 3828
-  },
-  {
-    nameDetail: 'Samsung SSD 850 EVO 120GB',
     mark: 3828
   },
   {
@@ -9073,6 +9097,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON SKC300S37A240G',
+    mark: 3826
+  },
+  {
+    nameDetail: 'Samsung SSD 850 EVO 120GB',
     mark: 3826
   },
   {
@@ -9176,10 +9204,6 @@ export const hardDriveOriginData = [
     mark: 3808
   },
   {
-    nameDetail: 'PNY 240GB SSD',
-    mark: 3808
-  },
-  {
     nameDetail: 'Fujitsu F100-256GB',
     mark: 3807
   },
@@ -9218,6 +9242,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Transcend TS500GSSD220Q',
     mark: 3803
+  },
+  {
+    nameDetail: 'DIERYA SSD 500GB',
+    mark: 3802
   },
   {
     nameDetail: 'LITEON ECE-240NAS',
@@ -9288,10 +9316,6 @@ export const hardDriveOriginData = [
     mark: 3790
   },
   {
-    nameDetail: 'PNY CS900 960GB SSD',
-    mark: 3790
-  },
-  {
     nameDetail: 'SanDisk SD8SN8U128G1002',
     mark: 3790
   },
@@ -9302,6 +9326,14 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'TEAM T253X1480G',
     mark: 3789
+  },
+  {
+    nameDetail: 'Crucial CT512MX100SSD1',
+    mark: 3786
+  },
+  {
+    nameDetail: 'PNY CS900 960GB SSD',
+    mark: 3786
   },
   {
     nameDetail: 'LITEON IT LCS-256L9S-HP',
@@ -9317,10 +9349,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'ADATA SU810NS38 128 GB',
-    mark: 3780
-  },
-  {
-    nameDetail: 'Crucial CT512MX100SSD1',
     mark: 3780
   },
   {
@@ -9345,6 +9373,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'PLEXTOR PX-256M6Pro',
+    mark: 3774
+  },
+  {
+    nameDetail: 'TEAM T253A3001T',
     mark: 3774
   },
   {
@@ -9636,10 +9668,6 @@ export const hardDriveOriginData = [
     mark: 3734
   },
   {
-    nameDetail: 'TEAM T253X6256G',
-    mark: 3732
-  },
-  {
     nameDetail: 'CSSD-S6O480NCG1Q',
     mark: 3730
   },
@@ -9676,6 +9704,14 @@ export const hardDriveOriginData = [
     mark: 3726
   },
   {
+    nameDetail: 'Crucial CT250MX200SSD1',
+    mark: 3725
+  },
+  {
+    nameDetail: 'PNY CS900 500GB SSD',
+    mark: 3724
+  },
+  {
     nameDetail: 'Apacer A S610S 120GB',
     mark: 3723
   },
@@ -9696,11 +9732,11 @@ export const hardDriveOriginData = [
     mark: 3721
   },
   {
-    nameDetail: 'Crucial CT250MX200SSD1',
+    nameDetail: 'OCZ Vertex 3 240GB',
     mark: 3720
   },
   {
-    nameDetail: 'OCZ Vertex 3 240GB',
+    nameDetail: 'TEAM T253X6256G',
     mark: 3720
   },
   {
@@ -9717,10 +9753,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Mushkin Triactor 3D 512GB MKNSSDTR512GB-3D',
-    mark: 3718
-  },
-  {
-    nameDetail: 'PNY CS900 500GB SSD',
     mark: 3718
   },
   {
@@ -9873,6 +9905,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Patriot P210 1TB',
+    mark: 3692
+  },
+  {
+    nameDetail: 'Verbatim Vi550 S3',
     mark: 3692
   },
   {
@@ -10148,10 +10184,6 @@ export const hardDriveOriginData = [
     mark: 3629
   },
   {
-    nameDetail: 'Patriot Burst Elite 480GB',
-    mark: 3629
-  },
-  {
     nameDetail: 'SanDisk SD8SN8U-128G-1006',
     mark: 3629
   },
@@ -10169,6 +10201,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Corsair Neutron GTX SSD',
+    mark: 3627
+  },
+  {
+    nameDetail: 'Seagate BarraCuda Q1 SSD ZA240CV10001',
     mark: 3627
   },
   {
@@ -10196,6 +10232,10 @@ export const hardDriveOriginData = [
     mark: 3622
   },
   {
+    nameDetail: 'TOSHIBA KSG60ZMV256G M.2 2280 256GB',
+    mark: 3621
+  },
+  {
     nameDetail: 'Corsair Force GT',
     mark: 3620
   },
@@ -10216,10 +10256,6 @@ export const hardDriveOriginData = [
     mark: 3618
   },
   {
-    nameDetail: 'KINGSTON SA400S371920G',
-    mark: 3617
-  },
-  {
     nameDetail: 'LITEON LCH-512V2S-11 2.5 7mm 512GB',
     mark: 3617
   },
@@ -10234,10 +10270,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SanDisk SD8SB8U128G1002',
     mark: 3617
-  },
-  {
-    nameDetail: 'TOSHIBA KSG60ZMV256G M.2 2280 256GB',
-    mark: 3616
   },
   {
     nameDetail: 'SSD M.2 256GB InnovationIT',
@@ -10292,10 +10324,6 @@ export const hardDriveOriginData = [
     mark: 3608
   },
   {
-    nameDetail: 'Samsung SSD 860 QVO 1TB',
-    mark: 3606
-  },
-  {
     nameDetail: '2-Power SSD2041A 120GB',
     mark: 3605
   },
@@ -10336,12 +10364,20 @@ export const hardDriveOriginData = [
     mark: 3602
   },
   {
+    nameDetail: 'Samsung SSD 860 QVO 1TB',
+    mark: 3602
+  },
+  {
     nameDetail: 'OCZ RevoDrive 3',
     mark: 3601
   },
   {
     nameDetail: 'OCZ-TRION150',
     mark: 3600
+  },
+  {
+    nameDetail: 'CT240BX200SSD1',
+    mark: 3599
   },
   {
     nameDetail: 'Fusion-io ioXtreme 180GB',
@@ -10372,19 +10408,11 @@ export const hardDriveOriginData = [
     mark: 3597
   },
   {
-    nameDetail: 'CT240BX200SSD1',
-    mark: 3596
-  },
-  {
     nameDetail: 'GALAX GXTA1C0240A',
     mark: 3596
   },
   {
     nameDetail: 'JAJS300M960C',
-    mark: 3595
-  },
-  {
-    nameDetail: 'Seagate BarraCuda Q1 SSD ZA240CV10001',
     mark: 3595
   },
   {
@@ -10476,6 +10504,10 @@ export const hardDriveOriginData = [
     mark: 3581
   },
   {
+    nameDetail: 'Patriot Burst Elite 480GB',
+    mark: 3581
+  },
+  {
     nameDetail: 'RevuAhn_850X1TU256GB',
     mark: 3581
   },
@@ -10532,6 +10564,10 @@ export const hardDriveOriginData = [
     mark: 3571
   },
   {
+    nameDetail: 'KINGSTON SV300S37A480G',
+    mark: 3571
+  },
+  {
     nameDetail: 'Intel SSD Pro 1500 180GB',
     mark: 3569
   },
@@ -10566,10 +10602,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG SSD PM871 2.5 7m',
     mark: 3566
-  },
-  {
-    nameDetail: 'KINGSTON SV300S37A480G',
-    mark: 3564
   },
   {
     nameDetail: 'EZLINK Achilles SX 180GB',
@@ -10676,8 +10708,8 @@ export const hardDriveOriginData = [
     mark: 3546
   },
   {
-    nameDetail: 'Intel SSD 520 180GB 7mm',
-    mark: 3544
+    nameDetail: 'KINGSTON SA400S371920G',
+    mark: 3543
   },
   {
     nameDetail: 'SSDPR-CX300-480',
@@ -10762,6 +10794,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'LITEON IT LCS-256L9S-11',
     mark: 3531
+  },
+  {
+    nameDetail: 'Intel SSD 520 180GB 7mm',
+    mark: 3530
   },
   {
     nameDetail: 'SAMSUNG MZ7PC256HAFU-000DA',
@@ -11232,6 +11268,10 @@ export const hardDriveOriginData = [
     mark: 3462
   },
   {
+    nameDetail: 'KINGSTON SV300S37A240G',
+    mark: 3460
+  },
+  {
     nameDetail: 'TOSHIBA THNSNJ12',
     mark: 3460
   },
@@ -11244,10 +11284,6 @@ export const hardDriveOriginData = [
     mark: 3458
   },
   {
-    nameDetail: 'KINGSTON SV300S37A240G',
-    mark: 3458
-  },
-  {
     nameDetail: 'NGFF 2280 256GB SSD',
     mark: 3458
   },
@@ -11256,12 +11292,16 @@ export const hardDriveOriginData = [
     mark: 3456
   },
   {
-    nameDetail: 'PNY CS900 480GB SSD',
+    nameDetail: 'WDC WDS1 00T2B0A',
     mark: 3456
   },
   {
-    nameDetail: 'WDC WDS1 00T2B0A',
-    mark: 3456
+    nameDetail: 'KINGSTON RBUSC180S37128GJ',
+    mark: 3455
+  },
+  {
+    nameDetail: 'PNY CS900 480GB SSD',
+    mark: 3455
   },
   {
     nameDetail: 'Intel 335 180GB SSDSC2CT180A4',
@@ -11392,10 +11432,6 @@ export const hardDriveOriginData = [
     mark: 3435
   },
   {
-    nameDetail: 'TEAM T253X2512G',
-    mark: 3435
-  },
-  {
     nameDetail: 'AVSSDE100ZZ-120GB',
     mark: 3434
   },
@@ -11492,10 +11528,6 @@ export const hardDriveOriginData = [
     mark: 3421
   },
   {
-    nameDetail: 'KINGSTON RBUSC180S37128GJ',
-    mark: 3420
-  },
-  {
     nameDetail: '512GB PCS 2.5\\ SSD',
     mark: 3418
   },
@@ -11504,12 +11536,12 @@ export const hardDriveOriginData = [
     mark: 3418
   },
   {
-    nameDetail: 'OCZ Vertex 3 256GB',
-    mark: 3416
+    nameDetail: 'TEAM T253X2512G',
+    mark: 3417
   },
   {
-    nameDetail: 'Lexar 128GB SSD',
-    mark: 3415
+    nameDetail: 'OCZ Vertex 3 256GB',
+    mark: 3416
   },
   {
     nameDetail: 'SanDisk SD7SB3Q128G',
@@ -11526,10 +11558,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'CT250BX1 CT250BX100SSD1',
     mark: 3413
-  },
-  {
-    nameDetail: 'PNY CS900 240GB SSD',
-    mark: 3412
   },
   {
     nameDetail: 'SanDisk SDSSDXP2',
@@ -11560,6 +11588,10 @@ export const hardDriveOriginData = [
     mark: 3409
   },
   {
+    nameDetail: 'Lexar 128GB SSD',
+    mark: 3408
+  },
+  {
     nameDetail: 'RTOTJ256VGD2MYX',
     mark: 3408
   },
@@ -11578,6 +11610,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'PNY SSD2SC240GC2DH16T-T',
     mark: 3406
+  },
+  {
+    nameDetail: 'PNY CS900 240GB SSD',
+    mark: 3405
   },
   {
     nameDetail: 'KINGSTON RBU-SC152S37256GG2',
@@ -11804,6 +11840,10 @@ export const hardDriveOriginData = [
     mark: 3369
   },
   {
+    nameDetail: 'SanDisk SD8SNAT256G1002',
+    mark: 3369
+  },
+  {
     nameDetail: 'JD 480GB',
     mark: 3368
   },
@@ -11862,10 +11902,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'HFS256G32TND-N210A',
     mark: 3360
-  },
-  {
-    nameDetail: 'SanDisk SD8SNAT256G1002',
-    mark: 3359
   },
   {
     nameDetail: 'SAMSUNG MZ7WD240',
@@ -12016,10 +12052,6 @@ export const hardDriveOriginData = [
     mark: 3338
   },
   {
-    nameDetail: 'Samsung SSD 750 EVO 120GB',
-    mark: 3337
-  },
-  {
     nameDetail: 'Acer SSD SA100 480GB',
     mark: 3336
   },
@@ -12112,15 +12144,19 @@ export const hardDriveOriginData = [
     mark: 3324
   },
   {
+    nameDetail: 'KINGSTON SA400M8240G',
+    mark: 3324
+  },
+  {
+    nameDetail: 'Samsung SSD 750 EVO 120GB',
+    mark: 3324
+  },
+  {
     nameDetail: 'EZLINK P anzer-IV 128GB',
     mark: 3323
   },
   {
     nameDetail: 'HyperX Fury 3D 120GB',
-    mark: 3323
-  },
-  {
-    nameDetail: 'KINGSTON SA400M8240G',
     mark: 3323
   },
   {
@@ -12156,12 +12192,12 @@ export const hardDriveOriginData = [
     mark: 3320
   },
   {
-    nameDetail: 'SanDisk X110 MSATA 256GB',
+    nameDetail: 'Crucial CT256MX100SSD1',
     mark: 3319
   },
   {
-    nameDetail: 'Crucial CT256MX100SSD1',
-    mark: 3318
+    nameDetail: 'SanDisk X110 MSATA 256GB',
+    mark: 3319
   },
   {
     nameDetail: 'Emtec X150 240GB',
@@ -12400,10 +12436,6 @@ export const hardDriveOriginData = [
     mark: 3279
   },
   {
-    nameDetail: 'TEAM T2535T480G',
-    mark: 3279
-  },
-  {
     nameDetail: 'TOSHIBA THNSNS064GMCP',
     mark: 3279
   },
@@ -12492,6 +12524,10 @@ export const hardDriveOriginData = [
     mark: 3267
   },
   {
+    nameDetail: 'SanDisk Z400s 2.5 7MM 256GB',
+    mark: 3267
+  },
+  {
     nameDetail: 'LITEONIT LMT-128M6M mSAT',
     mark: 3266
   },
@@ -12572,6 +12608,10 @@ export const hardDriveOriginData = [
     mark: 3258
   },
   {
+    nameDetail: 'KINGSTON SUV400S37120G',
+    mark: 3258
+  },
+  {
     nameDetail: 'Drevo X1 pro 120G',
     mark: 3257
   },
@@ -12600,14 +12640,6 @@ export const hardDriveOriginData = [
     mark: 3255
   },
   {
-    nameDetail: 'KINGSTON SUV400S37120G',
-    mark: 3255
-  },
-  {
-    nameDetail: 'ADATA SU800 SSD 128GB',
-    mark: 3254
-  },
-  {
     nameDetail: 'HFS256G32MND-2200A',
     mark: 3254
   },
@@ -12632,6 +12664,10 @@ export const hardDriveOriginData = [
     mark: 3250
   },
   {
+    nameDetail: 'ADATA SU800 SSD 128GB',
+    mark: 3249
+  },
+  {
     nameDetail: 'KingDian S370 512GB',
     mark: 3249
   },
@@ -12650,10 +12686,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'MyDigitalSSD BP4',
     mark: 3248
-  },
-  {
-    nameDetail: 'SanDisk Z400s 2.5 7MM 256GB',
-    mark: 3244
   },
   {
     nameDetail: 'WD easystore 480GB',
@@ -13236,10 +13268,6 @@ export const hardDriveOriginData = [
     mark: 3144
   },
   {
-    nameDetail: 'JAJS600M128C',
-    mark: 3144
-  },
-  {
     nameDetail: 'SSD Smar tbuy 128GB',
     mark: 3143
   },
@@ -13376,6 +13404,10 @@ export const hardDriveOriginData = [
     mark: 3124
   },
   {
+    nameDetail: 'TEAM T2535T480G',
+    mark: 3124
+  },
+  {
     nameDetail: 'EZLINK Hector-S 120GB',
     mark: 3123
   },
@@ -13398,10 +13430,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'TOSHIBA THNSNK256GVN8',
     mark: 3120
-  },
-  {
-    nameDetail: 'JAMESDONKEY JD240LE 240GB',
-    mark: 3119
   },
   {
     nameDetail: 'PLEXTOR PX-128M5M',
@@ -13448,7 +13476,7 @@ export const hardDriveOriginData = [
     mark: 3112
   },
   {
-    nameDetail: 'Lexar 240GB SSD',
+    nameDetail: 'JAJS600M128C',
     mark: 3111
   },
   {
@@ -13500,10 +13528,6 @@ export const hardDriveOriginData = [
     mark: 3107
   },
   {
-    nameDetail: 'HP SSD S700 250GB',
-    mark: 3106
-  },
-  {
     nameDetail: 'Mushkin Atlas Vital 250GB MKNSSDAV250GB-D8',
     mark: 3104
   },
@@ -13520,6 +13544,10 @@ export const hardDriveOriginData = [
     mark: 3100
   },
   {
+    nameDetail: 'HP SSD S700 250GB',
+    mark: 3099
+  },
+  {
     nameDetail: 'GIGABYTE GP-GSTFS31120GNTD',
     mark: 3098
   },
@@ -13528,7 +13556,15 @@ export const hardDriveOriginData = [
     mark: 3097
   },
   {
+    nameDetail: 'Crucial CT240M500SSD1',
+    mark: 3097
+  },
+  {
     nameDetail: 'HP SSD S700 120GB',
+    mark: 3097
+  },
+  {
+    nameDetail: 'Lexar 240GB SSD',
     mark: 3097
   },
   {
@@ -13538,10 +13574,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'PN CS900 240GB SSD',
     mark: 3095
-  },
-  {
-    nameDetail: 'Crucial CT240M500SSD1',
-    mark: 3094
   },
   {
     nameDetail: 'Intel SSD E 5400s 120GB',
@@ -13652,6 +13684,10 @@ export const hardDriveOriginData = [
     mark: 3079
   },
   {
+    nameDetail: 'CT120BX100SSD1',
+    mark: 3077
+  },
+  {
     nameDetail: 'Fujitsu F200 SSD 240GB',
     mark: 3077
   },
@@ -13745,11 +13781,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SanDisk SDSSDHP128G',
-    mark: 3060
-  },
-  {
-    nameDetail: 'CT120BX100SSD1',
-    mark: 3059
+    mark: 3062
   },
   {
     nameDetail: 'HFS128G39TNF-N3A0A',
@@ -13792,8 +13824,12 @@ export const hardDriveOriginData = [
     mark: 3054
   },
   {
+    nameDetail: 'JAMESDONKEY JD240LE 240GB',
+    mark: 3052
+  },
+  {
     nameDetail: 'WDC WDS480G2G0B',
-    mark: 3054
+    mark: 3052
   },
   {
     nameDetail: 'MZMPC128HBFU-00000',
@@ -13852,10 +13888,6 @@ export const hardDriveOriginData = [
     mark: 3038
   },
   {
-    nameDetail: 'Transcend TS120GSSD220S',
-    mark: 3038
-  },
-  {
     nameDetail: 'LITEON IT SCS-256L9S',
     mark: 3036
   },
@@ -13900,6 +13932,10 @@ export const hardDriveOriginData = [
     mark: 3031
   },
   {
+    nameDetail: 'Samsung SSD 840 EVO 250GB',
+    mark: 3031
+  },
+  {
     nameDetail: 'NOVASTAR SSD 120GB',
     mark: 3030
   },
@@ -13924,11 +13960,11 @@ export const hardDriveOriginData = [
     mark: 3028
   },
   {
-    nameDetail: 'Samsung SSD 840 EVO 250GB',
-    mark: 3028
+    nameDetail: 'Intenso SSD Sata',
+    mark: 3026
   },
   {
-    nameDetail: 'Intenso SSD Sata',
+    nameDetail: 'Transcend TS120GSSD220S',
     mark: 3026
   },
   {
@@ -13942,6 +13978,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Corsai Force GS',
     mark: 3024
+  },
+  {
+    nameDetail: 'GAMER L TA1D0120A',
+    mark: 3020
   },
   {
     nameDetail: 'SAMSUNG MZMPC128HBFU-000MV',
@@ -13996,6 +14036,10 @@ export const hardDriveOriginData = [
     mark: 3012
   },
   {
+    nameDetail: 'Samsung SSD 750 EVO 250GB',
+    mark: 3012
+  },
+  {
     nameDetail: 'Mushkin Source M.2 250GB MKNSSDSR250GB-D8',
     mark: 3011
   },
@@ -14029,10 +14073,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'LITEON I T SCS-128L9S',
-    mark: 3007
-  },
-  {
-    nameDetail: 'Samsung SSD 750 EVO 250GB',
     mark: 3007
   },
   {
@@ -14105,10 +14145,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SAMSUNG SSD PM830 FDE mS',
-    mark: 2998
-  },
-  {
-    nameDetail: 'SanDisk SD8SBBU120G1122',
     mark: 2998
   },
   {
@@ -14217,6 +14253,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'GeIL ZENITH S3-120GB',
+    mark: 2981
+  },
+  {
+    nameDetail: 'JAMESDONKEY JD480 480GB',
     mark: 2981
   },
   {
@@ -14368,6 +14408,10 @@ export const hardDriveOriginData = [
     mark: 2960
   },
   {
+    nameDetail: 'SanDisk SD8SBBU120G1122',
+    mark: 2960
+  },
+  {
     nameDetail: 'EZCOOL S400 120GB',
     mark: 2958
   },
@@ -14381,10 +14425,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'EDGE Boost Pro 7mm SSD',
-    mark: 2957
-  },
-  {
-    nameDetail: 'SAMSUNG SSD PM851 2.5 7mm 256GB',
     mark: 2957
   },
   {
@@ -14402,6 +14442,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'LITEON CV5-CQ512-11 512GB',
     mark: 2955
+  },
+  {
+    nameDetail: 'SAMSUNG SSD PM851 2.5 7mm 256GB',
+    mark: 2954
   },
   {
     nameDetail: 'APS-SL3N-120',
@@ -14440,6 +14484,10 @@ export const hardDriveOriginData = [
     mark: 2947
   },
   {
+    nameDetail: 'CT120BX500SSD1',
+    mark: 2945
+  },
+  {
     nameDetail: 'LITEONIT LMT-64M6M mSATA',
     mark: 2944
   },
@@ -14448,16 +14496,8 @@ export const hardDriveOriginData = [
     mark: 2943
   },
   {
-    nameDetail: 'PNY CS900 120GB SSD',
-    mark: 2943
-  },
-  {
     nameDetail: 'SSD2SC12 0G1CS1754D117-48',
     mark: 2943
-  },
-  {
-    nameDetail: 'CT120BX500SSD1',
-    mark: 2942
   },
   {
     nameDetail: 'KINGSTON SVP200S37A240G',
@@ -14472,12 +14512,16 @@ export const hardDriveOriginData = [
     mark: 2942
   },
   {
-    nameDetail: 'Teclast 256GB A750',
+    nameDetail: 'CT480BX500SSD1',
     mark: 2941
   },
   {
-    nameDetail: 'CT480BX500SSD1',
-    mark: 2940
+    nameDetail: 'PNY CS900 120GB SSD',
+    mark: 2941
+  },
+  {
+    nameDetail: 'Teclast 256GB A750',
+    mark: 2941
   },
   {
     nameDetail: 'Intel SSD 545s 128GB M.2',
@@ -14534,10 +14578,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG MZ7TE256HMHP-000',
     mark: 2932
-  },
-  {
-    nameDetail: 'GAMER L TA1D0120A',
-    mark: 2931
   },
   {
     nameDetail: 'SUNEAST SSD SE800 256GB',
@@ -14808,11 +14848,11 @@ export const hardDriveOriginData = [
     mark: 2888
   },
   {
-    nameDetail: 'Crucial CT128MX100SSD1',
-    mark: 2887
+    nameDetail: 'KINGSTON SA400S37240G',
+    mark: 2888
   },
   {
-    nameDetail: 'KINGSTON SA400S37240G',
+    nameDetail: 'Crucial CT128MX100SSD1',
     mark: 2887
   },
   {
@@ -14820,11 +14860,11 @@ export const hardDriveOriginData = [
     mark: 2887
   },
   {
-    nameDetail: 'WDC WDS240G2G0B',
-    mark: 2887
+    nameDetail: 'Transcend TS128GMTS400',
+    mark: 2886
   },
   {
-    nameDetail: 'Transcend TS128GMTS400',
+    nameDetail: 'WDC WDS240G2G0B',
     mark: 2886
   },
   {
@@ -14862,10 +14902,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'LITEONIT LMT-128M3M mSATA 128GB',
     mark: 2881
-  },
-  {
-    nameDetail: 'JAMESDONKEY JD480 480GB',
-    mark: 2879
   },
   {
     nameDetail: 'MTFDDAK128MAY-1AH1ZABHA',
@@ -14996,6 +15032,10 @@ export const hardDriveOriginData = [
     mark: 2851
   },
   {
+    nameDetail: 'Patriot P200 512GB',
+    mark: 2848
+  },
+  {
     nameDetail: 'SanDisk SDSSDH22',
     mark: 2847
   },
@@ -15120,10 +15160,6 @@ export const hardDriveOriginData = [
     mark: 2829
   },
   {
-    nameDetail: 'PNY CS1311 120GB SSD',
-    mark: 2829
-  },
-  {
     nameDetail: 'SAMSUNG MZMTE512HMHP-000MV',
     mark: 2829
   },
@@ -15192,10 +15228,6 @@ export const hardDriveOriginData = [
     mark: 2821
   },
   {
-    nameDetail: 'Patriot P200 512GB',
-    mark: 2821
-  },
-  {
     nameDetail: 'Samsung SSD 840 EVO 250GB mSATA',
     mark: 2821
   },
@@ -15226,6 +15258,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG MZ7TE256HMHP-000L7',
     mark: 2816
+  },
+  {
+    nameDetail: 'PNY CS1311 120GB SSD',
+    mark: 2815
   },
   {
     nameDetail: 'LITEONIT LMT-19nmBGA-64G',
@@ -15456,8 +15492,8 @@ export const hardDriveOriginData = [
     mark: 2777
   },
   {
-    nameDetail: 'WDC WDS480G2G0A',
-    mark: 2775
+    nameDetail: 'INTEL SSDSC2BG800G4R',
+    mark: 2774
   },
   {
     nameDetail: 'RevuAhn 900G 120GB',
@@ -15466,6 +15502,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG SSD PM851 2.5 7m',
     mark: 2772
+  },
+  {
+    nameDetail: 'WDC WDS480G2G0A',
+    mark: 2769
   },
   {
     nameDetail: 'SSD 960GB',
@@ -15500,12 +15540,12 @@ export const hardDriveOriginData = [
     mark: 2763
   },
   {
-    nameDetail: 'SSD2SC120G3LC709B121-490P',
+    nameDetail: 'Samsung SSD 840 EVO 120GB',
     mark: 2762
   },
   {
-    nameDetail: 'Samsung SSD 840 EVO 120GB',
-    mark: 2761
+    nameDetail: 'SSD2SC120G3LC709B121-490P',
+    mark: 2762
   },
   {
     nameDetail: 'SAMSUNG MZNLN128HCGR-000L2',
@@ -15524,6 +15564,10 @@ export const hardDriveOriginData = [
     mark: 2758
   },
   {
+    nameDetail: 'SanDisk SDSSDA120G',
+    mark: 2756
+  },
+  {
     nameDetail: 'SSD2SC480G1SA754D117-479',
     mark: 2756
   },
@@ -15537,10 +15581,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SAMSUNG MZNTD256HAGL-000',
-    mark: 2754
-  },
-  {
-    nameDetail: 'SanDisk SDSSDA120G',
     mark: 2754
   },
   {
@@ -15700,6 +15740,10 @@ export const hardDriveOriginData = [
     mark: 2724
   },
   {
+    nameDetail: 'SanDisk SSD PLUS 1000GB',
+    mark: 2721
+  },
+  {
     nameDetail: 'SanDisk SDSSDA960G',
     mark: 2720
   },
@@ -15725,10 +15769,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'GSkill FM-25S3-240GBP3',
-    mark: 2716
-  },
-  {
-    nameDetail: 'SanDisk SSD PLUS 1000GB',
     mark: 2716
   },
   {
@@ -15772,10 +15812,6 @@ export const hardDriveOriginData = [
     mark: 2711
   },
   {
-    nameDetail: 'SanDisk SD8SBAT128G1002',
-    mark: 2711
-  },
-  {
     nameDetail: 'Fujitsu SSD 128GB',
     mark: 2710
   },
@@ -15790,10 +15826,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SSD2SC240G1SA754D117-459',
     mark: 2707
-  },
-  {
-    nameDetail: 'R5SL120G',
-    mark: 2705
   },
   {
     nameDetail: 'LITEON LMH-128V2M-11 MSATA 128GB',
@@ -15888,12 +15920,12 @@ export const hardDriveOriginData = [
     mark: 2684
   },
   {
-    nameDetail: 'TOSHIBA A100',
-    mark: 2683
+    nameDetail: 'TOSHIBA THNSNK128GVN8 M.2 2280 128GB',
+    mark: 2684
   },
   {
-    nameDetail: 'ADATA Premier Pro SP900 128GB',
-    mark: 2682
+    nameDetail: 'TOSHIBA A100',
+    mark: 2683
   },
   {
     nameDetail: 'aSsmnu gSS D48 0eSirse',
@@ -15904,7 +15936,7 @@ export const hardDriveOriginData = [
     mark: 2682
   },
   {
-    nameDetail: 'TOSHIBA THNSNK128GVN8 M.2 2280 128GB',
+    nameDetail: 'SATA3 128GB SSD',
     mark: 2682
   },
   {
@@ -15912,8 +15944,8 @@ export const hardDriveOriginData = [
     mark: 2681
   },
   {
-    nameDetail: 'SATA3 128GB SSD',
-    mark: 2680
+    nameDetail: 'ADATA Premier Pro SP900 128GB',
+    mark: 2679
   },
   {
     nameDetail: 'KINGSTON RBUSNS8180S3128GI',
@@ -16024,11 +16056,11 @@ export const hardDriveOriginData = [
     mark: 2660
   },
   {
-    nameDetail: 'WDC WDS120G2G0B',
-    mark: 2659
+    nameDetail: 'faspeed M3-360G',
+    mark: 2658
   },
   {
-    nameDetail: 'faspeed M3-360G',
+    nameDetail: 'WDC WDS120G2G0B',
     mark: 2658
   },
   {
@@ -16057,6 +16089,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Mushkin Chronos 480GB MKNSSDCR480GB',
+    mark: 2653
+  },
+  {
+    nameDetail: 'SanDisk SD8SBAT128G1002',
     mark: 2653
   },
   {
@@ -16112,7 +16148,15 @@ export const hardDriveOriginData = [
     mark: 2639
   },
   {
+    nameDetail: 'SanDisk SSD PLUS 480GB',
+    mark: 2639
+  },
+  {
     nameDetail: 'Aireye S1 240GB SSD',
+    mark: 2638
+  },
+  {
+    nameDetail: 'R5SL120G',
     mark: 2638
   },
   {
@@ -16129,10 +16173,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Intel SSD 520 60GB SSDSC2CW060',
-    mark: 2635
-  },
-  {
-    nameDetail: 'SanDisk SSD PLUS 480GB',
     mark: 2635
   },
   {
@@ -16500,10 +16540,6 @@ export const hardDriveOriginData = [
     mark: 2553
   },
   {
-    nameDetail: 'Ramsta SSD S800 120GB',
-    mark: 2553
-  },
-  {
     nameDetail: 'KINGSTON RBU-SNS8100S360GD',
     mark: 2552
   },
@@ -16541,10 +16577,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'FORESEE 240GB SSD',
-    mark: 2542
-  },
-  {
-    nameDetail: 'KINGSTON SMS200S360G',
     mark: 2542
   },
   {
@@ -16664,6 +16696,10 @@ export const hardDriveOriginData = [
     mark: 2515
   },
   {
+    nameDetail: 'Ramsta SSD S800 120GB',
+    mark: 2515
+  },
+  {
     nameDetail: 'TRO-SSD7-120GB',
     mark: 2515
   },
@@ -16732,6 +16768,10 @@ export const hardDriveOriginData = [
     mark: 2499
   },
   {
+    nameDetail: 'SanDisk SSD PLUS 240GB',
+    mark: 2498
+  },
+  {
     nameDetail: 'BIOSTAR S100E-120GB',
     mark: 2497
   },
@@ -16758,10 +16798,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'Samsung MZ7LF128HCHP-000',
     mark: 2495
-  },
-  {
-    nameDetail: 'SanDisk SSD PLUS 240GB',
-    mark: 2494
   },
   {
     nameDetail: 'PNY SSD2SC120GC2DH08T-T',
@@ -16869,6 +16905,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'KINGSTON RBUSNS8280S3128GH2',
+    mark: 2474
+  },
+  {
+    nameDetail: 'KINGSTON SMS200S360G',
     mark: 2474
   },
   {
@@ -17056,10 +17096,6 @@ export const hardDriveOriginData = [
     mark: 2438
   },
   {
-    nameDetail: 'XrayDisk 128GB',
-    mark: 2438
-  },
-  {
     nameDetail: 'SAMSUNG MZNLF192HCGS-000L1',
     mark: 2437
   },
@@ -17105,6 +17141,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'R580 60GB',
+    mark: 2433
+  },
+  {
+    nameDetail: 'XrayDisk 128GB',
     mark: 2433
   },
   {
@@ -17460,6 +17500,10 @@ export const hardDriveOriginData = [
     mark: 2335
   },
   {
+    nameDetail: 'SAMSUNG SSD CM871 M.2 2280 128GB',
+    mark: 2334
+  },
+  {
     nameDetail: 'MEJEC 800 120GB',
     mark: 2333
   },
@@ -17520,10 +17564,6 @@ export const hardDriveOriginData = [
     mark: 2318
   },
   {
-    nameDetail: 'Crucial CT120M500SSD3',
-    mark: 2318
-  },
-  {
     nameDetail: 'MTase M800 64GB',
     mark: 2317
   },
@@ -17553,10 +17593,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'M4-CT128 M4-CT128M4SSD2',
-    mark: 2310
-  },
-  {
-    nameDetail: 'SAMSUNG SSD CM871 M.2 2280 128GB',
     mark: 2310
   },
   {
@@ -17761,6 +17797,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Apacer AS610 120GB',
+    mark: 2256
+  },
+  {
+    nameDetail: 'Crucial CT120M500SSD3',
     mark: 2256
   },
   {
@@ -18097,7 +18137,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SanDisk SSD PLUS 120GB',
-    mark: 2172
+    mark: 2174
   },
   {
     nameDetail: 'SSD2SC120G1SA754D117-820',
@@ -18980,16 +19020,16 @@ export const hardDriveOriginData = [
     mark: 1837
   },
   {
+    nameDetail: 'Intel SSD 320 160GB 7mm',
+    mark: 1834
+  },
+  {
     nameDetail: 'OCZ-CACHE-SYNAPSE',
     mark: 1834
   },
   {
     nameDetail: 'Phinocom SSD',
     mark: 1833
-  },
-  {
-    nameDetail: 'Intel SSD 320 160GB 7mm',
-    mark: 1832
   },
   {
     nameDetail: 'SMI 120GB SSD',
@@ -19062,6 +19102,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'KingDian S200 60GB',
     mark: 1806
+  },
+  {
+    nameDetail: 'XrayDisk 120GB',
+    mark: 1801
   },
   {
     nameDetail: 'Intel SSD 320 160GB 9.5mm',
@@ -19220,6 +19264,10 @@ export const hardDriveOriginData = [
     mark: 1743
   },
   {
+    nameDetail: 'SAMSUNG SSD PM810 2.5\\ 7mm 128GB',
+    mark: 1743
+  },
+  {
     nameDetail: 'KINGSTON SUV400S3724',
     mark: 1741
   },
@@ -19242,10 +19290,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG MZ7PA128',
     mark: 1735
-  },
-  {
-    nameDetail: 'SAMSUNG SSD PM810 2.5\\ 7mm 128GB',
-    mark: 1733
   },
   {
     nameDetail: 'SSD2SC120G3LC709B121-460I',
@@ -19313,10 +19357,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SEVENSTAR-120GB',
-    mark: 1707
-  },
-  {
-    nameDetail: 'XrayDisk 120GB',
     mark: 1707
   },
   {
@@ -20316,16 +20356,16 @@ export const hardDriveOriginData = [
     mark: 1341
   },
   {
-    nameDetail: 'SanDisk DA4064',
-    mark: 1340
-  },
-  {
     nameDetail: 'Corsair CSSD-F80GBP2',
     mark: 1339
   },
   {
     nameDetail: 'TOSHIBA THNSNC128GBSJ',
     mark: 1339
+  },
+  {
+    nameDetail: 'SanDisk DA4064',
+    mark: 1338
   },
   {
     nameDetail: 'Intel SSD X25-M 120GB',
@@ -20476,8 +20516,16 @@ export const hardDriveOriginData = [
     mark: 1297
   },
   {
+    nameDetail: 'WDC WD1005FBYZ',
+    mark: 1297
+  },
+  {
     nameDetail: 'Corsair CSSD-V128GB2',
     mark: 1294
+  },
+  {
+    nameDetail: 'Generic SCA128',
+    mark: 1293
   },
   {
     nameDetail: 'TOSHIBA THNSNC128GMLJ',
@@ -20509,10 +20557,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Corsair CSSD-F40GB2',
-    mark: 1279
-  },
-  {
-    nameDetail: 'Generic SCA128',
     mark: 1279
   },
   {
@@ -20670,10 +20714,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SPCC Solid StateB28',
     mark: 1237
-  },
-  {
-    nameDetail: 'WDC WD1005FBYZ',
-    mark: 1236
   },
   {
     nameDetail: 'Monster Digital SSD 400GB',
@@ -20889,7 +20929,7 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD2003FZEX',
-    mark: 1187
+    mark: 1190
   },
   {
     nameDetail: 'V4-CT256V4SSD2',
@@ -21080,6 +21120,10 @@ export const hardDriveOriginData = [
     mark: 1139
   },
   {
+    nameDetail: 'Seagate ST3000DM001',
+    mark: 1139
+  },
+  {
     nameDetail: 'WDC WD2004FBYZ',
     mark: 1139
   },
@@ -21089,6 +21133,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'MB1000GCWCV',
+    mark: 1138
+  },
+  {
+    nameDetail: 'TOSHIBA HDWD120',
     mark: 1138
   },
   {
@@ -21104,15 +21152,7 @@ export const hardDriveOriginData = [
     mark: 1133
   },
   {
-    nameDetail: 'Seagate ST3000DM001',
-    mark: 1133
-  },
-  {
     nameDetail: 'TOSHIBA DT01ACA300',
-    mark: 1133
-  },
-  {
-    nameDetail: 'TOSHIBA HDWD120',
     mark: 1133
   },
   {
@@ -21368,6 +21408,10 @@ export const hardDriveOriginData = [
     mark: 1073
   },
   {
+    nameDetail: 'SanDisk DA4032',
+    mark: 1070
+  },
+  {
     nameDetail: 'SAMSUNG MMCRE64G8MXP-0VB',
     mark: 1069
   },
@@ -21388,12 +21432,12 @@ export const hardDriveOriginData = [
     mark: 1067
   },
   {
-    nameDetail: 'TOSHIBA MK3001GRRB',
+    nameDetail: 'TOSHIBA DT01ACA050',
     mark: 1066
   },
   {
-    nameDetail: 'TOSHIBA DT01ACA050',
-    mark: 1065
+    nameDetail: 'TOSHIBA MK3001GRRB',
+    mark: 1066
   },
   {
     nameDetail: 'Kingston DT Workspace USB',
@@ -21438,10 +21482,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG SSD PM800 2.5\\ 256GB',
     mark: 1051
-  },
-  {
-    nameDetail: 'SanDisk DA4032',
-    mark: 1050
   },
   {
     nameDetail: 'SAMSUNG SSD PM800 2.5\\ 128GB',
@@ -21884,6 +21924,10 @@ export const hardDriveOriginData = [
     mark: 958
   },
   {
+    nameDetail: 'Hynix HBG4a2',
+    mark: 958
+  },
+  {
     nameDetail: 'Intel SSD X18-M 80GB 50nm',
     mark: 958
   },
@@ -22140,6 +22184,10 @@ export const hardDriveOriginData = [
     mark: 908
   },
   {
+    nameDetail: 'WDC WD5000LPLX',
+    mark: 908
+  },
+  {
     nameDetail: 'CORSAIR CMFSSD-256GB',
     mark: 907
   },
@@ -22157,10 +22205,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'ADATA Permier SP600 32GB',
-    mark: 905
-  },
-  {
-    nameDetail: 'WDC WD5000LPLX',
     mark: 905
   },
   {
@@ -22244,10 +22288,6 @@ export const hardDriveOriginData = [
     mark: 893
   },
   {
-    nameDetail: 'Hynix HBG4a2',
-    mark: 892
-  },
-  {
     nameDetail: 'SAMSUNG MMCRE28G8MXP-0VBL1',
     mark: 892
   },
@@ -22284,11 +22324,19 @@ export const hardDriveOriginData = [
     mark: 886
   },
   {
+    nameDetail: 'WDC WD10EURX',
+    mark: 884
+  },
+  {
     nameDetail: 'WDC WD2002FAEX',
     mark: 883
   },
   {
     nameDetail: 'SAMSUNG SSD PM800 TM 128',
+    mark: 881
+  },
+  {
+    nameDetail: 'Seagate ST500DM005',
     mark: 881
   },
   {
@@ -22300,16 +22348,16 @@ export const hardDriveOriginData = [
     mark: 879
   },
   {
-    nameDetail: 'WDC WD10EURX',
-    mark: 878
-  },
-  {
     nameDetail: 'SAMSUNG SSD PB22-CS3 TM 256GB',
     mark: 877
   },
   {
     nameDetail: 'Seagate ST2000DM008',
     mark: 876
+  },
+  {
+    nameDetail: 'Generic SPeMMC',
+    mark: 875
   },
   {
     nameDetail: 'Corsair CSSD-R60GB2',
@@ -22344,19 +22392,15 @@ export const hardDriveOriginData = [
     mark: 872
   },
   {
-    nameDetail: 'Seagate ST500DM005',
-    mark: 871
-  },
-  {
     nameDetail: 'Hitachi HDS721050DLE630',
     mark: 870
   },
   {
-    nameDetail: 'Generic SPeMMC',
-    mark: 868
+    nameDetail: 'SAMSUNG SSD PB22-JS3 TH 64GB',
+    mark: 867
   },
   {
-    nameDetail: 'SAMSUNG SSD PB22-JS3 TH 64GB',
+    nameDetail: 'WDC WD20EZRX',
     mark: 867
   },
   {
@@ -22385,10 +22429,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD20EURS',
-    mark: 863
-  },
-  {
-    nameDetail: 'WDC WD20EZRX',
     mark: 863
   },
   {
@@ -22446,10 +22486,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'SAMSUNG HD254GJ',
     mark: 851
-  },
-  {
-    nameDetail: 'WDC WD5003ABYX',
-    mark: 850
   },
   {
     nameDetail: 'MB1000EBNCF',
@@ -22549,6 +22585,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD2503ABYX',
+    mark: 835
+  },
+  {
+    nameDetail: 'WDC WD5003ABYX',
     mark: 835
   },
   {
@@ -23096,6 +23136,10 @@ export const hardDriveOriginData = [
     mark: 755
   },
   {
+    nameDetail: 'WDC WD1600HLFS',
+    mark: 754
+  },
+  {
     nameDetail: 'HITACHI HUS153014VLS300',
     mark: 752
   },
@@ -23136,11 +23180,11 @@ export const hardDriveOriginData = [
     mark: 749
   },
   {
-    nameDetail: 'Seagate ST3500418AS',
-    mark: 749
+    nameDetail: 'HGST HTS 725050A7E630',
+    mark: 748
   },
   {
-    nameDetail: 'HGST HTS 725050A7E630',
+    nameDetail: 'Seagate ST3500418AS',
     mark: 748
   },
   {
@@ -23241,10 +23285,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD1500HLFS',
-    mark: 736
-  },
-  {
-    nameDetail: 'WDC WD1600HLFS',
     mark: 736
   },
   {
@@ -23352,6 +23392,10 @@ export const hardDriveOriginData = [
     mark: 727
   },
   {
+    nameDetail: 'Samsung MDGAGC',
+    mark: 726
+  },
+  {
     nameDetail: 'WDC WD740HLFS',
     mark: 725
   },
@@ -23420,11 +23464,11 @@ export const hardDriveOriginData = [
     mark: 719
   },
   {
-    nameDetail: 'Hitachi HDS721010CLA632',
-    mark: 718
+    nameDetail: 'WDC WD5000BPKT',
+    mark: 719
   },
   {
-    nameDetail: 'Samsung MDGAGC',
+    nameDetail: 'Hitachi HDS721010CLA632',
     mark: 718
   },
   {
@@ -23440,20 +23484,16 @@ export const hardDriveOriginData = [
     mark: 717
   },
   {
-    nameDetail: 'WDC WD2001FAES',
+    nameDetail: 'Hitachi HDS721050CLA362',
     mark: 716
   },
   {
-    nameDetail: 'WDC WD5000BPKT',
+    nameDetail: 'WDC WD2001FAES',
     mark: 716
   },
   {
     nameDetail: 'WDC WD7501AALS',
     mark: 716
-  },
-  {
-    nameDetail: 'Hitachi HDS721050CLA362',
-    mark: 715
   },
   {
     nameDetail: 'Hitachi HUA72202',
@@ -23488,10 +23528,6 @@ export const hardDriveOriginData = [
     mark: 713
   },
   {
-    nameDetail: 'WDC WD3200AAKX',
-    mark: 713
-  },
-  {
     nameDetail: 'Seagate ST9250610NS',
     mark: 712
   },
@@ -23513,6 +23549,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Toshiba 032G72',
+    mark: 710
+  },
+  {
+    nameDetail: 'WDC WD3200AAKX',
     mark: 710
   },
   {
@@ -23561,6 +23601,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate ST91000640NS',
+    mark: 707
+  },
+  {
+    nameDetail: 'TOSHIBA HDWJ110',
     mark: 707
   },
   {
@@ -23732,15 +23776,7 @@ export const hardDriveOriginData = [
     mark: 692
   },
   {
-    nameDetail: 'Seagate ST3250312AS',
-    mark: 692
-  },
-  {
     nameDetail: 'Seagate ST3320813AS',
-    mark: 692
-  },
-  {
-    nameDetail: 'TOSHIBA HDWJ110',
     mark: 692
   },
   {
@@ -23768,6 +23804,10 @@ export const hardDriveOriginData = [
     mark: 690
   },
   {
+    nameDetail: 'Seagate ST3250312AS',
+    mark: 690
+  },
+  {
     nameDetail: 'Seagate STM31000528AS',
     mark: 689
   },
@@ -23785,6 +23825,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'TOSHIBA HDWJ105',
+    mark: 688
+  },
+  {
+    nameDetail: 'WDC WD10JPVT',
     mark: 688
   },
   {
@@ -23821,10 +23865,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD10 02FBYS',
-    mark: 685
-  },
-  {
-    nameDetail: 'WDC WD10JPVT',
     mark: 685
   },
   {
@@ -24016,10 +24056,6 @@ export const hardDriveOriginData = [
     mark: 670
   },
   {
-    nameDetail: 'Seagate ST1000LM014',
-    mark: 670
-  },
-  {
     nameDetail: 'TOSHIBA MQ01ABD032VS',
     mark: 670
   },
@@ -24029,6 +24065,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SAMSUNG HD103UJ',
+    mark: 669
+  },
+  {
+    nameDetail: 'Seagate ST1000LM014',
     mark: 669
   },
   {
@@ -24060,15 +24100,15 @@ export const hardDriveOriginData = [
     mark: 666
   },
   {
+    nameDetail: 'SAMSUNG HD322HJ',
+    mark: 666
+  },
+  {
     nameDetail: 'GB0500EAFJH',
     mark: 665
   },
   {
     nameDetail: 'Kingrich KM3 32GB MSATA22',
-    mark: 665
-  },
-  {
-    nameDetail: 'SAMSUNG HD322HJ',
     mark: 665
   },
   {
@@ -24180,10 +24220,6 @@ export const hardDriveOriginData = [
     mark: 657
   },
   {
-    nameDetail: 'Seagate ST500LT012',
-    mark: 657
-  },
-  {
     nameDetail: 'WDC WD3200BEKX',
     mark: 657
   },
@@ -24201,6 +24237,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate BUP Slim BK',
+    mark: 656
+  },
+  {
+    nameDetail: 'Seagate ST500LT012',
     mark: 656
   },
   {
@@ -24256,10 +24296,6 @@ export const hardDriveOriginData = [
     mark: 652
   },
   {
-    nameDetail: 'WDC WD3200BEKT',
-    mark: 652
-  },
-  {
     nameDetail: 'WDC WD3202ABYS',
     mark: 652
   },
@@ -24298,6 +24334,10 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'WDC WD3200AZRX',
     mark: 650
+  },
+  {
+    nameDetail: 'WDC WD3200BEKT',
+    mark: 649
   },
   {
     nameDetail: 'SAMSUNG HM640JJ',
@@ -24464,6 +24504,10 @@ export const hardDriveOriginData = [
     mark: 635
   },
   {
+    nameDetail: 'TOSHIBA MK3261GSYN',
+    mark: 635
+  },
+  {
     nameDetail: 'KingSpec KSD-SA25.7-032MJ',
     mark: 634
   },
@@ -24593,10 +24637,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate ST500LT025',
-    mark: 628
-  },
-  {
-    nameDetail: 'TOSHIBA MK3261GSYN',
     mark: 628
   },
   {
@@ -24748,11 +24788,11 @@ export const hardDriveOriginData = [
     mark: 615
   },
   {
-    nameDetail: 'WDC WD10EARS',
-    mark: 614
+    nameDetail: 'HGST HTS545050A7E660',
+    mark: 613
   },
   {
-    nameDetail: 'HGST HTS545050A7E660',
+    nameDetail: 'Hitachi HTS545050A7E380',
     mark: 613
   },
   {
@@ -24772,10 +24812,6 @@ export const hardDriveOriginData = [
     mark: 612
   },
   {
-    nameDetail: 'Hitachi HTS545050A7E380',
-    mark: 612
-  },
-  {
     nameDetail: 'WDC WD15EARX',
     mark: 612
   },
@@ -24792,7 +24828,15 @@ export const hardDriveOriginData = [
     mark: 611
   },
   {
+    nameDetail: 'HGST HTS541010A9E680',
+    mark: 610
+  },
+  {
     nameDetail: 'Hitachi HDE721050SLA330',
+    mark: 610
+  },
+  {
+    nameDetail: 'WDC WD10EARS',
     mark: 610
   },
   {
@@ -24804,10 +24848,6 @@ export const hardDriveOriginData = [
     mark: 610
   },
   {
-    nameDetail: 'HGST HTS541010A9E680',
-    mark: 609
-  },
-  {
     nameDetail: 'Samsung DWBD3R',
     mark: 609
   },
@@ -24817,6 +24857,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SAMSUNG HN-M500MBB',
+    mark: 609
+  },
+  {
+    nameDetail: 'Seagate ST31000333AS',
     mark: 609
   },
   {
@@ -25000,6 +25044,10 @@ export const hardDriveOriginData = [
     mark: 597
   },
   {
+    nameDetail: 'HGST HTS545050A7E680',
+    mark: 596
+  },
+  {
     nameDetail: 'MAXTOR STM3750330AS',
     mark: 596
   },
@@ -25022,10 +25070,6 @@ export const hardDriveOriginData = [
   {
     nameDetail: 'WDC WD2500LPVX',
     mark: 596
-  },
-  {
-    nameDetail: 'HGST HTS545050A7E680',
-    mark: 595
   },
   {
     nameDetail: 'Hitachi HDT721032SLA380',
@@ -25252,6 +25296,10 @@ export const hardDriveOriginData = [
     mark: 573
   },
   {
+    nameDetail: 'WDC WD2500AAJS',
+    mark: 573
+  },
+  {
     nameDetail: 'HGST HCC545050A7E380',
     mark: 572
   },
@@ -25277,10 +25325,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Hitachi HDT721010SLA',
-    mark: 571
-  },
-  {
-    nameDetail: 'WDC WD2500AAJS',
     mark: 571
   },
   {
@@ -25344,10 +25388,6 @@ export const hardDriveOriginData = [
     mark: 567
   },
   {
-    nameDetail: 'Seagate ST31000333AS',
-    mark: 566
-  },
-  {
     nameDetail: 'WDC WD5000AVDS',
     mark: 566
   },
@@ -25380,6 +25420,10 @@ export const hardDriveOriginData = [
     mark: 563
   },
   {
+    nameDetail: 'Seagate ST3250310AS',
+    mark: 563
+  },
+  {
     nameDetail: 'WDC WD2500BEKT',
     mark: 563
   },
@@ -25389,10 +25433,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate ST160LM003',
-    mark: 562
-  },
-  {
-    nameDetail: 'Seagate ST3250310AS',
     mark: 562
   },
   {
@@ -25812,6 +25852,10 @@ export const hardDriveOriginData = [
     mark: 525
   },
   {
+    nameDetail: 'APPLE HDD HTS545050A7E362',
+    mark: 524
+  },
+  {
     nameDetail: 'Seagate ST3160310CS',
     mark: 524
   },
@@ -26060,10 +26104,6 @@ export const hardDriveOriginData = [
     mark: 506
   },
   {
-    nameDetail: 'APPLE HDD HTS545050A7E362',
-    mark: 505
-  },
-  {
     nameDetail: 'Seagate ST3250820SV',
     mark: 505
   },
@@ -26136,6 +26176,10 @@ export const hardDriveOriginData = [
     mark: 501
   },
   {
+    nameDetail: 'WDC WD3200BPVT',
+    mark: 501
+  },
+  {
     nameDetail: 'ExcelStor Technology J92',
     mark: 500
   },
@@ -26161,10 +26205,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD16 00BEKT',
-    mark: 500
-  },
-  {
-    nameDetail: 'WDC WD3200BPVT',
     mark: 500
   },
   {
@@ -26852,6 +26892,10 @@ export const hardDriveOriginData = [
     mark: 452
   },
   {
+    nameDetail: 'TOSHIBA MK3265GSX',
+    mark: 452
+  },
+  {
     nameDetail: 'TOSHIBA MK6476GSX',
     mark: 452
   },
@@ -26921,10 +26965,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'TOSHIBA MK2559GSXP',
-    mark: 448
-  },
-  {
-    nameDetail: 'TOSHIBA MK3265GSX',
     mark: 448
   },
   {
@@ -27060,6 +27100,10 @@ export const hardDriveOriginData = [
     mark: 437
   },
   {
+    nameDetail: 'WDC WD3200BEVT',
+    mark: 437
+  },
+  {
     nameDetail: 'WDC WD5000BUDT',
     mark: 437
   },
@@ -27069,10 +27113,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'WDC WD1600AVBS',
-    mark: 436
-  },
-  {
-    nameDetail: 'WDC WD3200BEVT',
     mark: 436
   },
   {
@@ -27252,6 +27292,10 @@ export const hardDriveOriginData = [
     mark: 424
   },
   {
+    nameDetail: 'Hitachi HTS545032B9A300',
+    mark: 424
+  },
+  {
     nameDetail: 'Hitachi HTS723232L9SA60',
     mark: 424
   },
@@ -27281,10 +27325,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Hitachi HDS721016CLA380',
-    mark: 423
-  },
-  {
-    nameDetail: 'Hitachi HTS545032B9A300',
     mark: 423
   },
   {
@@ -27444,10 +27484,6 @@ export const hardDriveOriginData = [
     mark: 415
   },
   {
-    nameDetail: 'Seagate ST3320620AS',
-    mark: 414
-  },
-  {
     nameDetail: 'TOSHIBA MK5065GSX',
     mark: 414
   },
@@ -27480,7 +27516,7 @@ export const hardDriveOriginData = [
     mark: 413
   },
   {
-    nameDetail: 'Seagate ST3160215AS',
+    nameDetail: 'Seagate ST3320620AS',
     mark: 413
   },
   {
@@ -27696,6 +27732,10 @@ export const hardDriveOriginData = [
     mark: 401
   },
   {
+    nameDetail: 'WDC WD2500JS',
+    mark: 401
+  },
+  {
     nameDetail: 'ExcelStor Technology J8160S',
     mark: 400
   },
@@ -27729,10 +27769,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate ST3320833AS',
-    mark: 399
-  },
-  {
-    nameDetail: 'WDC WD2500JS',
     mark: 399
   },
   {
@@ -27849,6 +27885,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Maxtor 6H400F0',
+    mark: 391
+  },
+  {
+    nameDetail: 'Seagate ST3160215AS',
     mark: 391
   },
   {
@@ -27976,11 +28016,11 @@ export const hardDriveOriginData = [
     mark: 385
   },
   {
-    nameDetail: 'Seagate ST380811AS',
-    mark: 384
+    nameDetail: 'Seagate ST9320325AS',
+    mark: 385
   },
   {
-    nameDetail: 'Seagate ST9320325AS',
+    nameDetail: 'Seagate ST380811AS',
     mark: 384
   },
   {
@@ -28248,6 +28288,10 @@ export const hardDriveOriginData = [
     mark: 371
   },
   {
+    nameDetail: 'WDC WD1600BEVT',
+    mark: 371
+  },
+  {
     nameDetail: 'WDC WD2500AVJB',
     mark: 371
   },
@@ -28281,10 +28325,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'SAMSUNG SP1624N',
-    mark: 369
-  },
-  {
-    nameDetail: 'WDC WD1600BEVT',
     mark: 369
   },
   {
@@ -28332,10 +28372,6 @@ export const hardDriveOriginData = [
     mark: 365
   },
   {
-    nameDetail: 'WDC WD2500BEVS',
-    mark: 365
-  },
-  {
     nameDetail: 'Hitachi HDT72252 5DLA380',
     mark: 364
   },
@@ -28376,6 +28412,10 @@ export const hardDriveOriginData = [
     mark: 363
   },
   {
+    nameDetail: 'MAXTOR STM3160211AS',
+    mark: 363
+  },
+  {
     nameDetail: 'MAXTOR STM3160815A',
     mark: 363
   },
@@ -28413,6 +28453,10 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Seagate ST9250311CS',
+    mark: 361
+  },
+  {
+    nameDetail: 'WDC WD2500BEVS',
     mark: 361
   },
   {
@@ -28545,10 +28589,6 @@ export const hardDriveOriginData = [
   },
   {
     nameDetail: 'Maxtor 6L100P0',
-    mark: 353
-  },
-  {
-    nameDetail: 'MAXTOR STM3160211AS',
     mark: 353
   },
   {
