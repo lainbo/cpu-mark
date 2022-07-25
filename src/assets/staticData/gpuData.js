@@ -1,59 +1,59 @@
 export const gpuOriginData = [
   {
     nameDetail: 'GeForce RTX 3090 Ti',
-    mark: 18300
+    mark: 18406
   },
   {
     nameDetail: 'Radeon RX 6950 XT',
-    mark: 16688
+    mark: 16672
   },
   {
     nameDetail: 'GeForce RTX 3080 Ti',
-    mark: 16497
+    mark: 16493
   },
   {
     nameDetail: 'GeForce RTX 3090',
-    mark: 16446
+    mark: 16453
   },
   {
     nameDetail: 'Radeon RX 6900 XT',
-    mark: 15635
+    mark: 15642
   },
   {
     nameDetail: 'GeForce RTX 3080',
-    mark: 15435
+    mark: 15445
   },
   {
     nameDetail: 'RTX A6000',
-    mark: 15345
+    mark: 15363
   },
   {
     nameDetail: 'Radeon RX 6800 XT',
-    mark: 14559
-  },
-  {
-    nameDetail: 'RTX A5000',
-    mark: 13279
+    mark: 14563
   },
   {
     nameDetail: 'RTX A4500',
-    mark: 13227
+    mark: 13268
+  },
+  {
+    nameDetail: 'RTX A5000',
+    mark: 13265
   },
   {
     nameDetail: 'GeForce RTX 3070 Ti',
-    mark: 12479
+    mark: 12483
   },
   {
     nameDetail: 'Radeon PRO W6800',
     mark: 12463
   },
   {
-    nameDetail: 'GeForce RTX 3070',
-    mark: 11831
+    nameDetail: 'Radeon RX 6800',
+    mark: 11826
   },
   {
-    nameDetail: 'Radeon RX 6800',
-    mark: 11824
+    nameDetail: 'GeForce RTX 3070',
+    mark: 11826
   },
   {
     nameDetail: 'Radeon RX 6750 XT',
@@ -61,7 +61,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 2080 Ti',
-    mark: 10678
+    mark: 10680
   },
   {
     nameDetail: 'TITAN V CEO Edition',
@@ -69,7 +69,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 3060 Ti',
-    mark: 10488
+    mark: 10482
   },
   {
     nameDetail: 'TITAN RTX',
@@ -77,11 +77,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 6700 XT',
-    mark: 10369
+    mark: 10372
   },
   {
     nameDetail: 'RTX A4000',
-    mark: 10352
+    mark: 10356
   },
   {
     nameDetail: 'Quadro RTX 6000',
@@ -89,15 +89,19 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'TITAN Xp',
-    mark: 10198
+    mark: 10219
   },
   {
     nameDetail: 'Quadro RTX 8000',
     mark: 9873
   },
   {
+    nameDetail: 'Radeon RX 6700',
+    mark: 9760
+  },
+  {
     nameDetail: 'GeForce GTX 1080 Ti',
-    mark: 9743
+    mark: 9745
   },
   {
     nameDetail: 'TITAN Xp COLLECTORS EDITION',
@@ -125,23 +129,23 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 3080 Ti Laptop GPU',
-    mark: 8986
+    mark: 9087
   },
   {
     nameDetail: 'GeForce RTX 3060',
-    mark: 8951
+    mark: 8952
   },
   {
     nameDetail: 'Radeon RX 6650 XT',
-    mark: 8659
+    mark: 8662
   },
   {
     nameDetail: 'GeForce RTX 2080 SUPER',
-    mark: 8654
+    mark: 8655
   },
   {
     nameDetail: 'Radeon RX 6600 XT',
-    mark: 8371
+    mark: 8373
   },
   {
     nameDetail: 'GeForce RTX 2080',
@@ -153,11 +157,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 5700 XT 50th Anniversary',
-    mark: 8018
+    mark: 8019
   },
   {
     nameDetail: 'GeForce RTX 2070 SUPER',
-    mark: 7913
+    mark: 7912
   },
   {
     nameDetail: 'Radeon PRO W6600',
@@ -165,7 +169,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 3080 Laptop GPU',
-    mark: 7685
+    mark: 7680
   },
   {
     nameDetail: 'Radeon VII',
@@ -177,19 +181,19 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 1080',
-    mark: 7593
+    mark: 7591
   },
   {
     nameDetail: 'GeForce RTX 3070 Ti Laptop GPU',
-    mark: 7569
+    mark: 7587
   },
   {
     nameDetail: 'RTX A5000 Laptop GPU',
-    mark: 7524
+    mark: 7500
   },
   {
     nameDetail: 'Radeon RX 6600',
-    mark: 7442
+    mark: 7458
   },
   {
     nameDetail: 'Quadro GP100',
@@ -201,11 +205,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 1070 Ti',
-    mark: 7195
+    mark: 7197
   },
   {
     nameDetail: 'Quadro RTX 5000',
-    mark: 7172
+    mark: 7161
   },
   {
     nameDetail: 'GeForce RTX 3070 Laptop GPU',
@@ -221,31 +225,31 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'RTX A4000 Laptop GPU',
-    mark: 6962
+    mark: 6964
   },
   {
     nameDetail: 'Radeon Pro VII',
     mark: 6891
   },
   {
-    nameDetail: 'Radeon RX 6800S',
-    mark: 6871
-  },
-  {
     nameDetail: 'RTX A2000',
-    mark: 6852
+    mark: 6851
   },
   {
     nameDetail: 'GeForce RTX 3050',
-    mark: 6845
+    mark: 6833
   },
   {
     nameDetail: 'Radeon RX 5700',
-    mark: 6804
+    mark: 6805
   },
   {
     nameDetail: 'RTX A2000 12GB',
-    mark: 6789
+    mark: 6787
+  },
+  {
+    nameDetail: 'Radeon RX 6800S',
+    mark: 6777
   },
   {
     nameDetail: 'Radeon RX 5600 XT',
@@ -253,7 +257,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro P5000',
-    mark: 6643
+    mark: 6641
   },
   {
     nameDetail: 'Radeon RX Vega 64',
@@ -269,7 +273,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro RTX 4000',
-    mark: 6422
+    mark: 6426
   },
   {
     nameDetail: 'Radeon Pro Vega 56',
@@ -281,7 +285,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX Vega 56',
-    mark: 6147
+    mark: 6148
   },
   {
     nameDetail: 'GeForce RTX 2080 with Max-Q Design',
@@ -292,16 +296,12 @@ export const gpuOriginData = [
     mark: 6119
   },
   {
-    nameDetail: 'RTX A3000 12GB Laptop GPU',
-    mark: 6116
+    nameDetail: 'Radeon RX 6700S',
+    mark: 6082
   },
   {
     nameDetail: 'GeForce GTX 1070',
     mark: 6078
-  },
-  {
-    nameDetail: 'Radeon RX 6700S',
-    mark: 6077
   },
   {
     nameDetail: 'Quadro RTX 5000 (Mobile)',
@@ -312,12 +312,16 @@ export const gpuOriginData = [
     mark: 6051
   },
   {
-    nameDetail: 'Radeon Pro WX 8200',
-    mark: 5932
+    nameDetail: 'RTX A3000 12GB Laptop GPU',
+    mark: 6006
   },
   {
     nameDetail: 'GeForce RTX 2070 (Mobile)',
     mark: 5909
+  },
+  {
+    nameDetail: 'Radeon Pro WX 8200',
+    mark: 5896
   },
   {
     nameDetail: 'GeForce GTX 1070 (Mobile)',
@@ -325,7 +329,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX TITAN X',
-    mark: 5864
+    mark: 5860
   },
   {
     nameDetail: 'GeForce GTX 1080 with Max-Q Design',
@@ -333,19 +337,19 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'RTX A3000 Laptop GPU',
-    mark: 5810
+    mark: 5816
+  },
+  {
+    nameDetail: 'Quadro P5200',
+    mark: 5792
   },
   {
     nameDetail: 'Radeon Pro WX 9100',
     mark: 5740
   },
   {
-    nameDetail: 'Quadro P5200',
-    mark: 5722
-  },
-  {
     nameDetail: 'GeForce RTX 3060 Laptop GPU',
-    mark: 5673
+    mark: 5674
   },
   {
     nameDetail: 'Radeon Pro V520 MxGPU',
@@ -353,7 +357,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 2060',
-    mark: 5605
+    mark: 5606
   },
   {
     nameDetail: 'Quadro M6000',
@@ -401,11 +405,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 1660',
-    mark: 5098
+    mark: 5097
   },
   {
     nameDetail: 'Radeon RX 6500 XT',
-    mark: 5093
+    mark: 5091
   },
   {
     nameDetail: 'Quadro P4200 with Max-Q Design',
@@ -413,11 +417,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Pro W5500',
-    mark: 4966
+    mark: 4967
   },
   {
     nameDetail: 'Quadro P4000',
-    mark: 4946
+    mark: 4953
   },
   {
     nameDetail: 'Radeon RX 6700M',
@@ -425,15 +429,19 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 980',
-    mark: 4839
+    mark: 4841
   },
   {
     nameDetail: 'Radeon RX 5500 XT',
     mark: 4817
   },
   {
+    nameDetail: 'Radeon RX 6600M',
+    mark: 4817
+  },
+  {
     nameDetail: 'Radeon RX 5500',
-    mark: 4791
+    mark: 4782
   },
   {
     nameDetail: 'GeForce GTX 1070 with Max-Q Design',
@@ -448,20 +456,16 @@ export const gpuOriginData = [
     mark: 4735
   },
   {
-    nameDetail: 'Radeon RX 6600M',
-    mark: 4724
-  },
-  {
     nameDetail: 'Quadro P5200 with Max-Q Design',
     mark: 4709
   },
   {
     nameDetail: 'Tesla T4',
-    mark: 4675
+    mark: 4670
   },
   {
     nameDetail: 'RTX A2000 Laptop GPU',
-    mark: 4566
+    mark: 4577
   },
   {
     nameDetail: 'GeForce GTX 1650 SUPER',
@@ -470,6 +474,10 @@ export const gpuOriginData = [
   {
     nameDetail: 'Quadro P2200',
     mark: 4476
+  },
+  {
+    nameDetail: 'RTX A2000 8GB Laptop GPU',
+    mark: 4447
   },
   {
     nameDetail: 'Radeon Pro SSG',
@@ -484,20 +492,16 @@ export const gpuOriginData = [
     mark: 4355
   },
   {
-    nameDetail: 'RTX A2000 8GB Laptop GPU',
+    nameDetail: 'Radeon RX 6800M',
     mark: 4311
   },
   {
     nameDetail: 'GeForce GTX 1060',
-    mark: 4304
+    mark: 4305
   },
   {
     nameDetail: 'Radeon R9 Fury X',
     mark: 4297
-  },
-  {
-    nameDetail: 'Radeon RX 6800M',
-    mark: 4288
   },
   {
     nameDetail: 'Tesla M40',
@@ -505,7 +509,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 590',
-    mark: 4215
+    mark: 4217
   },
   {
     nameDetail: 'Radeon R9 Fury',
@@ -524,16 +528,16 @@ export const gpuOriginData = [
     mark: 4127
   },
   {
+    nameDetail: 'GeForce GTX 1060 5GB',
+    mark: 4118
+  },
+  {
     nameDetail: 'GeForce GTX 1650 (Mobile)',
     mark: 4115
   },
   {
     nameDetail: 'GeForce GTX 1060 3GB',
-    mark: 4105
-  },
-  {
-    nameDetail: 'GeForce GTX 1060 5GB',
-    mark: 4102
+    mark: 4104
   },
   {
     nameDetail: 'GeForce GTX 970',
@@ -541,11 +545,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 3050 Ti Laptop GPU',
-    mark: 4060
-  },
-  {
-    nameDetail: 'RTX A1000 Laptop GPU',
-    mark: 4052
+    mark: 4070
   },
   {
     nameDetail: 'GeForce GTX 780 Ti',
@@ -553,7 +553,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro M5000',
-    mark: 4019
+    mark: 4023
   },
   {
     nameDetail: 'Radeon Pro Vega 48',
@@ -565,7 +565,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro RTX 3000',
-    mark: 3936
+    mark: 3930
+  },
+  {
+    nameDetail: 'RTX A1000 Laptop GPU',
+    mark: 3921
   },
   {
     nameDetail: 'GeForce GTX 1060 with Max-Q Design',
@@ -597,7 +601,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 580',
-    mark: 3753
+    mark: 3754
   },
   {
     nameDetail: 'Quadro T2000',
@@ -605,7 +609,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon R9 390X',
-    mark: 3730
+    mark: 3727
   },
   {
     nameDetail: 'Tesla M60',
@@ -625,7 +629,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce RTX 3050 Laptop GPU',
-    mark: 3681
+    mark: 3678
   },
   {
     nameDetail: 'Quadro P2000',
@@ -633,7 +637,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 480',
-    mark: 3668
+    mark: 3669
   },
   {
     nameDetail: 'Radeon Ryzen 9 4900HS',
@@ -641,7 +645,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon R9 290X',
-    mark: 3561
+    mark: 3550
   },
   {
     nameDetail: 'Quadro K6000',
@@ -676,6 +680,10 @@ export const gpuOriginData = [
     mark: 3318
   },
   {
+    nameDetail: 'Radeon RX 6400',
+    mark: 3303
+  },
+  {
     nameDetail: 'Radeon R9 290X / 390X',
     mark: 3300
   },
@@ -688,10 +696,6 @@ export const gpuOriginData = [
     mark: 3274
   },
   {
-    nameDetail: 'Radeon RX 6400',
-    mark: 3274
-  },
-  {
     nameDetail: 'Quadro T1000',
     mark: 3274
   },
@@ -701,23 +705,19 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Pro WX 7100',
-    mark: 3262
+    mark: 3266
   },
   {
     nameDetail: 'Radeon R9 290',
-    mark: 3239
+    mark: 3238
   },
   {
     nameDetail: 'T1000',
-    mark: 3180
+    mark: 3176
   },
   {
     nameDetail: 'Radeon HD 7970 / R9 280X',
     mark: 3168
-  },
-  {
-    nameDetail: 'T1200 Laptop GPU',
-    mark: 3149
   },
   {
     nameDetail: 'T1000 8GB',
@@ -737,11 +737,15 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 1650',
-    mark: 3111
+    mark: 3110
   },
   {
     nameDetail: 'GeForce GTX 1050 with Max-Q Design',
     mark: 3097
+  },
+  {
+    nameDetail: 'T1200 Laptop GPU',
+    mark: 3096
   },
   {
     nameDetail: 'Quadro P2000 with Max-Q Design',
@@ -756,6 +760,10 @@ export const gpuOriginData = [
     mark: 3012
   },
   {
+    nameDetail: 'Radeon RX 5600M',
+    mark: 2946
+  },
+  {
     nameDetail: 'GeForce GTX 760 Ti OEM',
     mark: 2943
   },
@@ -764,16 +772,12 @@ export const gpuOriginData = [
     mark: 2939
   },
   {
-    nameDetail: 'Radeon RX 5600M',
-    mark: 2930
+    nameDetail: 'Radeon Pro 5300M',
+    mark: 2859
   },
   {
     nameDetail: 'Radeon R9 280X',
-    mark: 2859
-  },
-  {
-    nameDetail: 'Radeon Pro 5300M',
-    mark: 2859
+    mark: 2858
   },
   {
     nameDetail: 'FirePro W8000',
@@ -801,11 +805,15 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 980M',
-    mark: 2776
+    mark: 2787
+  },
+  {
+    nameDetail: 'GeForce RTX 2050',
+    mark: 2754
   },
   {
     nameDetail: 'GeForce GTX 770',
-    mark: 2741
+    mark: 2742
   },
   {
     nameDetail: 'Radeon HD 7950 / R9 280',
@@ -845,7 +853,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'T600 Laptop GPU',
-    mark: 2607
+    mark: 2610
   },
   {
     nameDetail: 'Radeon Instinct MI25 MxGPU',
@@ -864,16 +872,16 @@ export const gpuOriginData = [
     mark: 2593
   },
   {
-    nameDetail: 'Quadro K5200',
-    mark: 2577
-  },
-  {
     nameDetail: 'Radeon R9 280',
     mark: 2572
   },
   {
     nameDetail: 'Radeon Pro 465',
     mark: 2568
+  },
+  {
+    nameDetail: 'Quadro K5200',
+    mark: 2558
   },
   {
     nameDetail: 'Radeon Pro Vega 16',
@@ -889,7 +897,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon R9 380X',
-    mark: 2513
+    mark: 2515
   },
   {
     nameDetail: 'GRID M60-8A',
@@ -901,7 +909,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'T600',
-    mark: 2498
+    mark: 2495
   },
   {
     nameDetail: 'Quadro P1000',
@@ -944,10 +952,6 @@ export const gpuOriginData = [
     mark: 2388
   },
   {
-    nameDetail: 'GeForce GTX 480',
-    mark: 2386
-  },
-  {
     nameDetail: 'Quadro M4000M',
     mark: 2386
   },
@@ -960,16 +964,20 @@ export const gpuOriginData = [
     mark: 2378
   },
   {
-    nameDetail: 'GeForce MX550',
-    mark: 2376
-  },
-  {
     nameDetail: 'Radeon Pro WX 4150',
     mark: 2375
   },
   {
     nameDetail: 'FirePro M6100 FireGL V',
     mark: 2355
+  },
+  {
+    nameDetail: 'GeForce GTX 480',
+    mark: 2353
+  },
+  {
+    nameDetail: 'GeForce MX550',
+    mark: 2347
   },
   {
     nameDetail: 'Radeon R9 M290X',
@@ -996,11 +1004,11 @@ export const gpuOriginData = [
     mark: 2294
   },
   {
-    nameDetail: 'GeForce GTX 950',
-    mark: 2264
+    nameDetail: 'GeForce GTX 660 Ti',
+    mark: 2265
   },
   {
-    nameDetail: 'GeForce GTX 660 Ti',
+    nameDetail: 'GeForce GTX 950',
     mark: 2264
   },
   {
@@ -1029,7 +1037,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 7870',
-    mark: 2174
+    mark: 2176
   },
   {
     nameDetail: 'FirePro W9000',
@@ -1049,11 +1057,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 7 4800H',
-    mark: 2104
+    mark: 2105
   },
   {
     nameDetail: 'GeForce GTX 1050',
-    mark: 2100
+    mark: 2101
   },
   {
     nameDetail: 'GeForce GTX 775M',
@@ -1066,6 +1074,10 @@ export const gpuOriginData = [
   {
     nameDetail: 'Quadro M3000M',
     mark: 2070
+  },
+  {
+    nameDetail: 'Radeon Pro',
+    mark: 2069
   },
   {
     nameDetail: 'Radeon R9 M295X',
@@ -1108,12 +1120,8 @@ export const gpuOriginData = [
     mark: 1940
   },
   {
-    nameDetail: 'Radeon Pro',
-    mark: 1911
-  },
-  {
     nameDetail: 'GeForce MX450',
-    mark: 1899
+    mark: 1900
   },
   {
     nameDetail: 'GeForce GTX 580',
@@ -1173,7 +1181,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro K4200',
-    mark: 1788
+    mark: 1790
   },
   {
     nameDetail: 'GeForce GTX 680M',
@@ -1196,27 +1204,27 @@ export const gpuOriginData = [
     mark: 1761
   },
   {
-    nameDetail: 'Radeon Ryzen 7 5800H',
-    mark: 1732
+    nameDetail: 'Quadro K5000',
+    mark: 1748
+  },
+  {
+    nameDetail: 'Radeon RX 5500M',
+    mark: 1748
   },
   {
     nameDetail: 'Radeon Ryzen 9 5900HX',
     mark: 1731
   },
   {
+    nameDetail: 'Radeon Ryzen 7 5800H',
+    mark: 1729
+  },
+  {
     nameDetail: 'Radeon R9 260',
     mark: 1727
   },
   {
-    nameDetail: 'Quadro K5000',
-    mark: 1723
-  },
-  {
     nameDetail: 'GeForce GTX 780M',
-    mark: 1720
-  },
-  {
-    nameDetail: 'Radeon RX 5500M',
     mark: 1719
   },
   {
@@ -1233,7 +1241,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 7850',
-    mark: 1687
+    mark: 1688
   },
   {
     nameDetail: 'Ryzen 9 5900HX with Radeon Graphics',
@@ -1245,7 +1253,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 7 5700G',
-    mark: 1681
+    mark: 1679
   },
   {
     nameDetail: 'GRID K220Q',
@@ -1293,7 +1301,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 7 PRO 4750G',
-    mark: 1603
+    mark: 1602
   },
   {
     nameDetail: 'Ryzen 7 PRO 5750GE with Radeon Graphics',
@@ -1329,7 +1337,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro K2200',
-    mark: 1567
+    mark: 1568
   },
   {
     nameDetail: 'Radeon RX 5300M',
@@ -1369,7 +1377,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'T400 4GB',
-    mark: 1530
+    mark: 1534
   },
   {
     nameDetail: 'GeForce GTX 860M',
@@ -1392,10 +1400,6 @@ export const gpuOriginData = [
     mark: 1495
   },
   {
-    nameDetail: 'Intel UHD 770',
-    mark: 1494
-  },
-  {
     nameDetail: 'Ryzen 5 5600GE with Radeon Graphics',
     mark: 1491
   },
@@ -1406,6 +1410,10 @@ export const gpuOriginData = [
   {
     nameDetail: 'Intel Iris Pro P580',
     mark: 1475
+  },
+  {
+    nameDetail: 'Intel UHD 770',
+    mark: 1473
   },
   {
     nameDetail: 'B8DKMDAP',
@@ -1425,7 +1433,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon R7 260X',
-    mark: 1451
+    mark: 1449
   },
   {
     nameDetail: 'Ryzen 5 PRO 5650GE with Radeon Graphics',
@@ -1473,7 +1481,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX Vega 11',
-    mark: 1400
+    mark: 1399
   },
   {
     nameDetail: 'Radeon R9 M380',
@@ -1484,24 +1492,24 @@ export const gpuOriginData = [
     mark: 1398
   },
   {
-    nameDetail: 'Radeon Ryzen 5 5600H',
-    mark: 1395
-  },
-  {
     nameDetail: 'GeForce GTX 590',
     mark: 1384
-  },
-  {
-    nameDetail: 'Radeon Ryzen 7 5800U',
-    mark: 1383
   },
   {
     nameDetail: 'Radeon Pro 555',
     mark: 1383
   },
   {
+    nameDetail: 'Radeon Ryzen 5 5600H',
+    mark: 1382
+  },
+  {
     nameDetail: 'Radeon Ryzen 5 PRO 4650G',
     mark: 1381
+  },
+  {
+    nameDetail: 'Radeon Ryzen 7 5800U',
+    mark: 1379
   },
   {
     nameDetail: 'Ryzen 5 Pro 4650G with Radeon Graphics',
@@ -1525,7 +1533,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 5 PRO 5650GE',
-    mark: 1365
+    mark: 1367
   },
   {
     nameDetail: 'Radeon R7 260',
@@ -1549,11 +1557,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 7 PRO 5850U',
-    mark: 1334
-  },
-  {
-    nameDetail: 'Radeon Ryzen 5 PRO 5650G',
-    mark: 1333
+    mark: 1331
   },
   {
     nameDetail: 'Radeon R7 PRO A12-9800',
@@ -1578,6 +1582,10 @@ export const gpuOriginData = [
   {
     nameDetail: 'Ryzen 5 5600H with Radeon Graphics',
     mark: 1322
+  },
+  {
+    nameDetail: 'Radeon Ryzen 5 PRO 5650G',
+    mark: 1320
   },
   {
     nameDetail: 'NVS 810',
@@ -1616,20 +1624,16 @@ export const gpuOriginData = [
     mark: 1285
   },
   {
+    nameDetail: 'Radeon R7 360',
+    mark: 1283
+  },
+  {
     nameDetail: 'Ryzen 7 Extreme Edition',
     mark: 1282
   },
   {
-    nameDetail: 'Radeon R7 360',
-    mark: 1281
-  },
-  {
     nameDetail: 'FirePro W5100',
     mark: 1280
-  },
-  {
-    nameDetail: 'Radeon Ryzen 7 Microsoft Surface Edition',
-    mark: 1276
   },
   {
     nameDetail: 'GeForce GT 645',
@@ -1641,15 +1645,19 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce MX350',
-    mark: 1271
+    mark: 1272
   },
   {
     nameDetail: 'Ryzen 7 4800U with Radeon Graphics',
     mark: 1267
   },
   {
-    nameDetail: 'GeForce GT 1030',
+    nameDetail: 'Radeon Ryzen 7 Microsoft Surface Edition',
     mark: 1265
+  },
+  {
+    nameDetail: 'GeForce GT 1030',
+    mark: 1264
   },
   {
     nameDetail: 'Ryzen 5 PRO 5650U with Radeon Graphics',
@@ -1664,16 +1672,16 @@ export const gpuOriginData = [
     mark: 1255
   },
   {
+    nameDetail: 'Radeon Ryzen 7 4800U',
+    mark: 1255
+  },
+  {
     nameDetail: 'Radeon RX Vega 11 Processor',
     mark: 1254
   },
   {
     nameDetail: 'GeForce GTX 560 Ti',
     mark: 1253
-  },
-  {
-    nameDetail: 'Radeon Ryzen 7 4800U',
-    mark: 1252
   },
   {
     nameDetail: 'Intel Coffee Lake UHD',
@@ -1697,7 +1705,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Vega 11',
-    mark: 1239
+    mark: 1238
   },
   {
     nameDetail: 'Ryzen 3 PRO 5350GE with Radeon Graphics',
@@ -1721,7 +1729,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 5 4600H',
-    mark: 1209
+    mark: 1207
   },
   {
     nameDetail: 'Quadro K3100M',
@@ -1765,18 +1773,18 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 7770',
-    mark: 1184
+    mark: 1185
   },
   {
     nameDetail: 'FirePro M6000 Mobility Pro',
     mark: 1183
   },
   {
-    nameDetail: 'Radeon Ryzen 5 5600U',
-    mark: 1183
+    nameDetail: 'Quadro K1200',
+    mark: 1182
   },
   {
-    nameDetail: 'Quadro K1200',
+    nameDetail: 'Radeon Ryzen 5 5600U',
     mark: 1182
   },
   {
@@ -1809,7 +1817,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro M620',
-    mark: 1150
+    mark: 1152
   },
   {
     nameDetail: 'GRID P40-2Q',
@@ -1821,7 +1829,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 5870',
-    mark: 1130
+    mark: 1133
   },
   {
     nameDetail: 'Quadro K4000',
@@ -1901,7 +1909,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 7 PRO 4750U',
-    mark: 1073
+    mark: 1072
   },
   {
     nameDetail: 'FirePro M5100 FireGL V',
@@ -1933,7 +1941,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 765M',
-    mark: 1048
+    mark: 1050
   },
   {
     nameDetail: 'Radeon RX 550',
@@ -1960,11 +1968,11 @@ export const gpuOriginData = [
     mark: 1032
   },
   {
-    nameDetail: 'GeForce MX330',
-    mark: 1028
+    nameDetail: 'Radeon Ryzen 5 Microsoft Surface Edition',
+    mark: 1027
   },
   {
-    nameDetail: 'Radeon Ryzen 5 Microsoft Surface Edition',
+    nameDetail: 'GeForce MX330',
     mark: 1027
   },
   {
@@ -2024,6 +2032,10 @@ export const gpuOriginData = [
     mark: 1000
   },
   {
+    nameDetail: 'Intel UHD P630',
+    mark: 1000
+  },
+  {
     nameDetail: 'Radeon HD 6870',
     mark: 990
   },
@@ -2054,10 +2066,6 @@ export const gpuOriginData = [
   {
     nameDetail: 'Radeon R7 PRO A8-8670E',
     mark: 967
-  },
-  {
-    nameDetail: 'Intel UHD P630',
-    mark: 966
   },
   {
     nameDetail: 'GeForce MX130',
@@ -2096,6 +2104,10 @@ export const gpuOriginData = [
     mark: 952
   },
   {
+    nameDetail: 'Radeon Ryzen 3 PRO 5450U',
+    mark: 950
+  },
+  {
     nameDetail: 'Radeon R7 + R5 435 Dual A10-9700 RADEON',
     mark: 950
   },
@@ -2112,12 +2124,12 @@ export const gpuOriginData = [
     mark: 947
   },
   {
-    nameDetail: 'Radeon RX Vega 10',
+    nameDetail: 'Radeon HD 7870M',
     mark: 947
   },
   {
-    nameDetail: 'Radeon HD 7870M',
-    mark: 947
+    nameDetail: 'Radeon RX Vega 10',
+    mark: 945
   },
   {
     nameDetail: 'Radeon Ryzen 5 4500U',
@@ -2180,10 +2192,6 @@ export const gpuOriginData = [
     mark: 921
   },
   {
-    nameDetail: 'Intel Iris Pro 580',
-    mark: 921
-  },
-  {
     nameDetail: 'Radeon R7 A8-9600 RADEON',
     mark: 920
   },
@@ -2193,6 +2201,10 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTX 745',
+    mark: 916
+  },
+  {
+    nameDetail: 'Intel Iris Pro 580',
     mark: 915
   },
   {
@@ -2225,18 +2237,18 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon Ryzen 5 PRO 4650U',
-    mark: 900
+    mark: 901
   },
   {
     nameDetail: 'Radeon R7 Opteron X3421',
     mark: 899
   },
   {
-    nameDetail: 'GeForce GTX 645',
+    nameDetail: 'GeForce GT 745M',
     mark: 895
   },
   {
-    nameDetail: 'GeForce GT 745M',
+    nameDetail: 'GeForce GTX 645',
     mark: 895
   },
   {
@@ -2357,10 +2369,14 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 550X',
-    mark: 832
+    mark: 829
   },
   {
     nameDetail: 'Radeon R7 PRO A10-8850B',
+    mark: 826
+  },
+  {
+    nameDetail: 'FirePro V7900',
     mark: 826
   },
   {
@@ -2396,10 +2412,6 @@ export const gpuOriginData = [
     mark: 814
   },
   {
-    nameDetail: 'FirePro V7900',
-    mark: 813
-  },
-  {
     nameDetail: 'Intel UHD P750',
     mark: 813
   },
@@ -2409,7 +2421,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon RX 540',
-    mark: 810
+    mark: 813
   },
   {
     nameDetail: 'Quadro K620M',
@@ -2456,12 +2468,12 @@ export const gpuOriginData = [
     mark: 776
   },
   {
-    nameDetail: 'GeForce MX230',
-    mark: 776
-  },
-  {
     nameDetail: 'Radeon R7 A12-9730P RADEON',
     mark: 775
+  },
+  {
+    nameDetail: 'GeForce MX230',
+    mark: 774
   },
   {
     nameDetail: 'GeForce GTX 460 SE',
@@ -2564,16 +2576,16 @@ export const gpuOriginData = [
     mark: 745
   },
   {
+    nameDetail: 'Intel UHD 730',
+    mark: 743
+  },
+  {
     nameDetail: 'Radeon Ryzen 3 PRO 4450U',
     mark: 743
   },
   {
     nameDetail: 'GeForce 930A',
     mark: 742
-  },
-  {
-    nameDetail: 'Intel UHD 730',
-    mark: 741
   },
   {
     nameDetail: 'FirePro M40003',
@@ -2585,7 +2597,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Quadro P400',
-    mark: 737
+    mark: 736
   },
   {
     nameDetail: 'GRID P6-2Q',
@@ -2764,10 +2776,6 @@ export const gpuOriginData = [
     mark: 655
   },
   {
-    nameDetail: 'Radeon R9 M370X',
-    mark: 652
-  },
-  {
     nameDetail: 'GeForce GT 650M',
     mark: 652
   },
@@ -2782,6 +2790,10 @@ export const gpuOriginData = [
   {
     nameDetail: 'Intel UHD',
     mark: 650
+  },
+  {
+    nameDetail: 'Radeon R9 M370X',
+    mark: 649
   },
   {
     nameDetail: 'Radeon HD 8650G + 7700M Dual',
@@ -2804,6 +2816,10 @@ export const gpuOriginData = [
     mark: 638
   },
   {
+    nameDetail: 'Radeon HD 7730',
+    mark: 637
+  },
+  {
     nameDetail: 'Radeon HD 8670D + R7 200 Dual',
     mark: 636
   },
@@ -2812,20 +2828,16 @@ export const gpuOriginData = [
     mark: 635
   },
   {
-    nameDetail: 'Radeon HD 7730',
-    mark: 635
-  },
-  {
     nameDetail: 'Radeon HD 6770',
-    mark: 634
-  },
-  {
-    nameDetail: 'Radeon R7 250',
-    mark: 633
+    mark: 635
   },
   {
     nameDetail: 'Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G',
     mark: 633
+  },
+  {
+    nameDetail: 'Radeon R7 250',
+    mark: 631
   },
   {
     nameDetail: 'Radeon R7 G',
@@ -2853,7 +2865,11 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GTS 450',
-    mark: 622
+    mark: 623
+  },
+  {
+    nameDetail: 'Quadro M500M',
+    mark: 620
   },
   {
     nameDetail: 'Intel Iris 540',
@@ -2870,10 +2886,6 @@ export const gpuOriginData = [
   {
     nameDetail: 'GRID K280Q',
     mark: 613
-  },
-  {
-    nameDetail: 'Quadro M500M',
-    mark: 608
   },
   {
     nameDetail: 'GeForce GT 820M',
@@ -2972,12 +2984,12 @@ export const gpuOriginData = [
     mark: 578
   },
   {
-    nameDetail: 'Quadro 4000',
+    nameDetail: 'Radeon HD 7560D + HD 8570 Dual',
     mark: 578
   },
   {
-    nameDetail: 'Radeon HD 7560D + HD 8570 Dual',
-    mark: 578
+    nameDetail: 'Quadro 4000',
+    mark: 577
   },
   {
     nameDetail: 'Radeon HD 8570 + 8670D Dual',
@@ -3028,12 +3040,12 @@ export const gpuOriginData = [
     mark: 560
   },
   {
-    nameDetail: 'Intel Iris Pro 6100',
+    nameDetail: 'Intel UHD 630',
     mark: 553
   },
   {
-    nameDetail: 'Intel UHD 630',
-    mark: 552
+    nameDetail: 'Intel Iris Pro 6100',
+    mark: 553
   },
   {
     nameDetail: 'GeForce GTX 560M',
@@ -3168,20 +3180,20 @@ export const gpuOriginData = [
     mark: 508
   },
   {
-    nameDetail: 'Intel Iris 5100',
+    nameDetail: 'Quadro 2000',
+    mark: 506
+  },
+  {
+    nameDetail: 'GeForce GT 730',
     mark: 505
   },
   {
-    nameDetail: 'Quadro 2000',
+    nameDetail: 'Intel Iris 5100',
     mark: 505
   },
   {
     nameDetail: 'Radeon HD 7560D + HD 7670 Dual',
     mark: 505
-  },
-  {
-    nameDetail: 'GeForce GT 730',
-    mark: 504
   },
   {
     nameDetail: 'GRID M60-2Q',
@@ -3269,7 +3281,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon R7 240',
-    mark: 478
+    mark: 479
   },
   {
     nameDetail: 'GeForce GT 545',
@@ -3356,10 +3368,6 @@ export const gpuOriginData = [
     mark: 451
   },
   {
-    nameDetail: 'Radeon 520',
-    mark: 451
-  },
-  {
     nameDetail: 'Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D',
     mark: 451
   },
@@ -3369,6 +3377,10 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon R4E',
+    mark: 449
+  },
+  {
+    nameDetail: 'Radeon 520',
     mark: 449
   },
   {
@@ -3440,15 +3452,15 @@ export const gpuOriginData = [
     mark: 432
   },
   {
-    nameDetail: 'Intel HD Graphics 620',
-    mark: 431
-  },
-  {
     nameDetail: 'Radeon R7 M260X',
     mark: 431
   },
   {
     nameDetail: 'Radeon HD 8570D + 6570 Dual',
+    mark: 430
+  },
+  {
+    nameDetail: 'Intel HD Graphics 620',
     mark: 430
   },
   {
@@ -3568,6 +3580,10 @@ export const gpuOriginData = [
     mark: 401
   },
   {
+    nameDetail: 'Quadro 2000M',
+    mark: 400
+  },
+  {
     nameDetail: 'Radeon HD 7660G + HD 7670M Dual',
     mark: 399
   },
@@ -3593,10 +3609,6 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 7520G + HD 7600M Dual',
-    mark: 394
-  },
-  {
-    nameDetail: 'Quadro 2000M',
     mark: 394
   },
   {
@@ -3732,11 +3744,11 @@ export const gpuOriginData = [
     mark: 357
   },
   {
-    nameDetail: 'Radeon R7 M265',
+    nameDetail: 'Qualcomm Adreno 680 GPU',
     mark: 356
   },
   {
-    nameDetail: 'Qualcomm Adreno 680 GPU',
+    nameDetail: 'Radeon R7 M265',
     mark: 356
   },
   {
@@ -3748,15 +3760,15 @@ export const gpuOriginData = [
     mark: 355
   },
   {
+    nameDetail: 'GeForce GT 440',
+    mark: 354
+  },
+  {
     nameDetail: 'Radeon HD 7520G + HD 8750M Dual',
     mark: 353
   },
   {
     nameDetail: 'Radeon HD 8670D',
-    mark: 353
-  },
-  {
-    nameDetail: 'GeForce GT 440',
     mark: 353
   },
   {
@@ -3772,12 +3784,12 @@ export const gpuOriginData = [
     mark: 350
   },
   {
-    nameDetail: 'Radeon HD 5670',
+    nameDetail: 'Radeon HD 8690A',
     mark: 349
   },
   {
-    nameDetail: 'Radeon HD 8690A',
-    mark: 348
+    nameDetail: 'Radeon HD 5670',
+    mark: 349
   },
   {
     nameDetail: 'Radeon HD 7660G + 7600M Dual',
@@ -3796,16 +3808,16 @@ export const gpuOriginData = [
     mark: 343
   },
   {
+    nameDetail: 'Intel HD Family',
+    mark: 342
+  },
+  {
     nameDetail: 'Radeon HD 8550G + 8690M Dual',
     mark: 342
   },
   {
     nameDetail: 'GeForce GT 520MX',
     mark: 342
-  },
-  {
-    nameDetail: 'Intel HD Family',
-    mark: 341
   },
   {
     nameDetail: 'GeForce 820A',
@@ -3932,6 +3944,10 @@ export const gpuOriginData = [
     mark: 319
   },
   {
+    nameDetail: 'GeForce GT 530',
+    mark: 319
+  },
+  {
     nameDetail: 'Radeon HD 7620G + HD 8670M Dual',
     mark: 319
   },
@@ -3941,10 +3957,6 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 8550D',
-    mark: 318
-  },
-  {
-    nameDetail: 'GeForce GT 530',
     mark: 318
   },
   {
@@ -3980,6 +3992,10 @@ export const gpuOriginData = [
     mark: 312
   },
   {
+    nameDetail: 'Radeon R7 M260',
+    mark: 312
+  },
+  {
     nameDetail: 'Radeon HD 8610G + 8500M Dual',
     mark: 312
   },
@@ -3990,10 +4006,6 @@ export const gpuOriginData = [
   {
     nameDetail: 'Radeon HD 7650M',
     mark: 307
-  },
-  {
-    nameDetail: 'Radeon R7 M260',
-    mark: 306
   },
   {
     nameDetail: 'Radeon HD 8650G',
@@ -4088,12 +4100,12 @@ export const gpuOriginData = [
     mark: 286
   },
   {
-    nameDetail: 'Radeon HD 8510G + 8500M Dual',
+    nameDetail: 'Radeon HD 8610G',
     mark: 286
   },
   {
-    nameDetail: 'Radeon HD 8610G',
-    mark: 285
+    nameDetail: 'Radeon HD 8510G + 8500M Dual',
+    mark: 286
   },
   {
     nameDetail: 'Matrox G200eW3 WDDM 2.0',
@@ -4124,10 +4136,6 @@ export const gpuOriginData = [
     mark: 279
   },
   {
-    nameDetail: 'Radeon 6600M',
-    mark: 279
-  },
-  {
     nameDetail: 'Radeon HD 7640G + HD 7600M Dual',
     mark: 279
   },
@@ -4136,11 +4144,15 @@ export const gpuOriginData = [
     mark: 277
   },
   {
-    nameDetail: 'Radeon HD 6550D',
+    nameDetail: 'Radeon 6600M',
     mark: 276
   },
   {
     nameDetail: 'Radeon HD 7560D + R5 235 Dual',
+    mark: 275
+  },
+  {
+    nameDetail: 'Radeon HD 6550D',
     mark: 275
   },
   {
@@ -4184,10 +4196,6 @@ export const gpuOriginData = [
     mark: 263
   },
   {
-    nameDetail: 'Intel HD 510',
-    mark: 261
-  },
-  {
     nameDetail: 'Mobility Radeon HD 5570',
     mark: 260
   },
@@ -4205,6 +4213,10 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 8550G + 8670M Dual',
+    mark: 259
+  },
+  {
+    nameDetail: 'Intel HD 510',
     mark: 259
   },
   {
@@ -4285,7 +4297,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GT 420M',
-    mark: 247
+    mark: 248
   },
   {
     nameDetail: 'Radeon HD 7500G + 7500M/7600M Dual',
@@ -4324,16 +4336,16 @@ export const gpuOriginData = [
     mark: 241
   },
   {
-    nameDetail: 'Radeon R5 310',
+    nameDetail: 'Radeon HD 8550G',
     mark: 238
   },
   {
     nameDetail: 'Intel HD 4000',
-    mark: 237
+    mark: 238
   },
   {
-    nameDetail: 'Radeon HD 8550G',
-    mark: 236
+    nameDetail: 'Radeon R5 310',
+    mark: 238
   },
   {
     nameDetail: 'Radeon HD 7600G + 7450M Dual',
@@ -4384,11 +4396,11 @@ export const gpuOriginData = [
     mark: 227
   },
   {
-    nameDetail: 'Radeon HD 8570D + HD8490 Dual',
-    mark: 226
+    nameDetail: 'Mobility Radeon HD 5650',
+    mark: 227
   },
   {
-    nameDetail: 'Mobility Radeon HD 5650',
+    nameDetail: 'Radeon HD 8570D + HD8490 Dual',
     mark: 226
   },
   {
@@ -4424,10 +4436,6 @@ export const gpuOriginData = [
     mark: 221
   },
   {
-    nameDetail: 'NVS 315',
-    mark: 221
-  },
-  {
     nameDetail: 'Radeon HD 5550',
     mark: 221
   },
@@ -4438,6 +4446,10 @@ export const gpuOriginData = [
   {
     nameDetail: 'Radeon HD 7640G + 7400M Dual',
     mark: 220
+  },
+  {
+    nameDetail: 'NVS 315',
+    mark: 219
   },
   {
     nameDetail: 'Radeon HD 8400E',
@@ -4517,7 +4529,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Intel UHD 605',
-    mark: 198
+    mark: 197
   },
   {
     nameDetail: 'Radeon R5E',
@@ -4533,7 +4545,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 6530D',
-    mark: 194
+    mark: 193
   },
   {
     nameDetail: 'Radeon HD 8280E',
@@ -4568,10 +4580,6 @@ export const gpuOriginData = [
     mark: 187
   },
   {
-    nameDetail: 'Radeon R3',
-    mark: 184
-  },
-  {
     nameDetail: 'Radeon HD 7470',
     mark: 184
   },
@@ -4581,6 +4589,10 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'GeForce GT 625',
+    mark: 183
+  },
+  {
+    nameDetail: 'Radeon R3',
     mark: 183
   },
   {
@@ -4620,12 +4632,12 @@ export const gpuOriginData = [
     mark: 176
   },
   {
-    nameDetail: 'GRID K120Q',
+    nameDetail: 'Intel HD 505',
     mark: 175
   },
   {
-    nameDetail: 'Intel HD 505',
-    mark: 174
+    nameDetail: 'GRID K120Q',
+    mark: 175
   },
   {
     nameDetail: 'Radeon HD 7600G + 8500M/8700M Dual',
@@ -4684,10 +4696,6 @@ export const gpuOriginData = [
     mark: 162
   },
   {
-    nameDetail: 'GeForce 510',
-    mark: 160
-  },
-  {
     nameDetail: 'Matrox G200eR WDDM 2.0',
     mark: 159
   },
@@ -4709,7 +4717,7 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 8240',
-    mark: 150
+    mark: 149
   },
   {
     nameDetail: 'GeForce 605',
@@ -4720,11 +4728,11 @@ export const gpuOriginData = [
     mark: 148
   },
   {
-    nameDetail: 'NVS 310',
+    nameDetail: 'Radeon HD 7420G',
     mark: 147
   },
   {
-    nameDetail: 'Radeon HD 7420G',
+    nameDetail: 'NVS 310',
     mark: 147
   },
   {
@@ -4732,11 +4740,11 @@ export const gpuOriginData = [
     mark: 147
   },
   {
-    nameDetail: 'Radeon HD 8250',
-    mark: 147
+    nameDetail: 'Radeon HD 7450',
+    mark: 146
   },
   {
-    nameDetail: 'Radeon HD 7450',
+    nameDetail: 'Radeon HD 8250',
     mark: 146
   },
   {
@@ -4768,7 +4776,15 @@ export const gpuOriginData = [
     mark: 137
   },
   {
+    nameDetail: 'GeForce 510',
+    mark: 136
+  },
+  {
     nameDetail: 'Radeon HD 6480G',
+    mark: 134
+  },
+  {
+    nameDetail: 'GeForce 410M',
     mark: 134
   },
   {
@@ -4777,10 +4793,6 @@ export const gpuOriginData = [
   },
   {
     nameDetail: 'Radeon HD 6450',
-    mark: 133
-  },
-  {
-    nameDetail: 'GeForce 410M',
     mark: 133
   },
   {
