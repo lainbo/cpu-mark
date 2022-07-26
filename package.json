@@ -18,7 +18,10 @@
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.33.1",
-    "@vitejs/plugin-vue": "^2.3.3",
+    "@iconify/json": "^2.1.82",
+    "@unocss/preset-rem-to-px": "^0.44.7",
+    "@unocss/reset": "^0.44.7",
+    "@vitejs/plugin-vue": "^3.0.1",
     "@vue/eslint-config-prettier": "^7.0.0",
     "consola": "^2.15.3",
     "eslint": "^7.32.0",
@@ -26,12 +29,11 @@
     "eslint-plugin-vue": "^9.3.0",
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
-    "unplugin-auto-import": "^0.9.5",
-    "unplugin-vue-components": "^0.21.1",
-    "vite": "^2.9.14",
+    "unocss": "^0.44.7",
+    "unplugin-auto-import": "^0.10.1",
+    "unplugin-vue-components": "^0.21.2",
+    "vite": "^3.0.3",
     "vite-plugin-chunk-split": "^0.2.5",
-    "vite-plugin-style-import": "^2.0.0",
-    "vite-plugin-windicss": "^1.8.7",
-    "windicss": "^3.5.6"
+    "vite-plugin-style-import": "^2.0.0"
   }
 }

@@ -3,8 +3,10 @@
     <a-tabs v-model:active-key="activeName" lazy-load>
       <template #extra>
         <a-popover :title="`数据更新时间：${updateObj.date}`" position="br">
-          <div class="pr-16px flex items-center cursor-pointer">
-            <icon-clock-circle :size="18" />
+          <div
+            class="mr-16px p-6px flex items-center rounded-4px transition-all hover:bg-#777:30"
+          >
+            <i class="i-lucide-clock-3 text-18px dark:text-white"></i>
           </div>
           <template #content>
             <a-divider orientation="center">较上次新增数据</a-divider>
@@ -42,7 +44,7 @@
   </div>
 </template>
 <script setup>
-import { IconClockCircle } from '@arco-design/web-vue/es/icon'
+// import { IconClockCircle } from '@arco-design/web-vue/es/icon'
 import { uniqBy } from 'lodash-es'
 import MainView from './components/MainView.vue'
 import { cpuData } from '@/assets/staticData/cpuData.js'
