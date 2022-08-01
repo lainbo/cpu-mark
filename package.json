@@ -17,8 +17,8 @@
     "xe-utils": "^3.5.6"
   },
   "devDependencies": {
-    "@arco-design/web-vue": "^2.33.1",
-    "@iconify/json": "^2.1.82",
+    "@arco-design/web-vue": "^2.34.0",
+    "@iconify/json": "^2.1.85",
     "@unocss/preset-rem-to-px": "^0.44.7",
     "@unocss/reset": "^0.44.7",
     "@vitejs/plugin-vue": "^3.0.1",
@@ -30,9 +30,9 @@
     "prettier": "^2.7.1",
     "sass": "^1.54.0",
     "unocss": "^0.44.7",
-    "unplugin-auto-import": "^0.10.1",
+    "unplugin-auto-import": "^0.10.3",
     "unplugin-vue-components": "^0.21.2",
-    "vite": "^3.0.3",
+    "vite": "^3.0.4",
     "vite-plugin-chunk-split": "^0.2.5",
     "vite-plugin-style-import": "^2.0.0"
   }
