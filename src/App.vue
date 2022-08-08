@@ -44,7 +44,6 @@
   </div>
 </template>
 <script setup>
-// import { IconClockCircle } from '@arco-design/web-vue/es/icon'
 import { uniqBy } from 'lodash-es'
 import MainView from './components/MainView.vue'
 import { cpuData } from '@/assets/staticData/cpuData.js'
@@ -61,26 +60,26 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2022年8月1日',
+  date: '2022年8月8日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 6,
+      addNum: 8,
       totalNum: cpuMData.length
     },
     {
       label: 'CPU单核',
-      addNum: 4,
+      addNum: 6,
       totalNum: cpuSData.length
     },
     {
       label: '显卡',
-      addNum: 2,
+      addNum: 0,
       totalNum: gpuData.length
     },
     {
       label: '硬盘',
-      addNum: 471,
+      addNum: 18,
       totalNum: hardDriveData.length
     }
   ]
