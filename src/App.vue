@@ -46,11 +46,10 @@
 <script setup>
 import { uniqBy } from 'lodash-es'
 import MainView from './components/MainView.vue'
-import { cpuData } from '@/assets/staticData/cpuData.js'
-import { cpuSingleCoreData } from '@/assets/staticData/cpuSingleCoreData.js'
-import { gpuOriginData } from '@/assets/staticData/gpuData.js'
-import { hardDriveOriginData } from '@/assets/staticData/hardDriveData.js'
-import { reactive } from 'vue'
+import cpuData from '@/assets/staticData/cpuMData.json'
+import cpuSingleCoreData from '@/assets/staticData/cpuSData.json'
+import gpuOriginData from '@/assets/staticData/gpuData.json'
+import hardDriveOriginData from '@/assets/staticData/hardDriveData.json'
 
 // 原数据有重复的，这里进行去重
 const cpuMData = uniqArr(cpuData)
@@ -60,16 +59,16 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2022年8月8日',
+  date: '2022年8月14日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 8,
+      addNum: 12,
       totalNum: cpuMData.length
     },
     {
       label: 'CPU单核',
-      addNum: 6,
+      addNum: 10,
       totalNum: cpuSData.length
     },
     {
@@ -79,7 +78,7 @@ const updateObj = reactive({
     },
     {
       label: '硬盘',
-      addNum: 18,
+      addNum: 25,
       totalNum: hardDriveData.length
     }
   ]
