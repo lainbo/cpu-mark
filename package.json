@@ -6,22 +6,23 @@
     "dev": "vite --port 6789 --open",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint --fix --ext .js,.vue src"
+    "lint": "eslint --fix --ext .js,.vue src",
+    "clear": "rimraf node_modules&&pnpm i"
   },
   "dependencies": {
     "@vueuse/core": "^8.9.4",
     "axios": "^0.27.2",
     "dayjs": "^1.11.5",
     "lodash-es": "^4.17.21",
-    "vue": "^3.2.37",
-    "vxe-table": "^4.2.8",
-    "xe-utils": "^3.5.6"
+    "vue": "^3.2.38",
+    "vxe-table": "4.2.8",
+    "xe-utils": "3.5.6"
   },
   "devDependencies": {
-    "@arco-design/web-vue": "^2.35.1",
-    "@iconify/json": "^2.1.99",
-    "@unocss/preset-rem-to-px": "^0.45.13",
-    "@unocss/reset": "^0.45.13",
+    "@arco-design/web-vue": "^2.36.0",
+    "@iconify/json": "^2.1.102",
+    "@unocss/preset-rem-to-px": "^0.45.15",
+    "@unocss/reset": "^0.45.15",
     "@vitejs/plugin-vue": "^3.0.3",
     "@vue/eslint-config-prettier": "^7.0.0",
     "consola": "^2.15.3",
@@ -29,9 +30,9 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.4.0",
     "prettier": "^2.7.1",
-    "sass": "^1.54.5",
+    "sass": "^1.54.8",
     "terser": "^5.15.0",
-    "unocss": "^0.45.13",
+    "unocss": "^0.45.15",
     "unplugin-auto-import": "^0.11.2",
     "unplugin-vue-components": "^0.22.4",
     "vite": "^3.0.9",
