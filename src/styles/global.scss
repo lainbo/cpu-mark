@@ -8,13 +8,15 @@
 @font-face {
   font-display: swap;
   font-family: 'HarmonyOS';
-  src: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-44af3f84-786a-4383-9b43-d2bdfa949d80/1a6df99b-9137-4ca2-a792-8bf7c27ff0ff.woff2') format('woff2');
+  src: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-44af3f84-786a-4383-9b43-d2bdfa949d80/1a6df99b-9137-4ca2-a792-8bf7c27ff0ff.woff2')
+    format('woff2');
 }
 
 @font-face {
   font-display: swap;
   font-family: 'Inter';
-  src: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-44af3f84-786a-4383-9b43-d2bdfa949d80/e4f88604-b27f-48ac-ba88-a22f5d66281b.woff2') format('woff2');
+  src: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-44af3f84-786a-4383-9b43-d2bdfa949d80/e4f88604-b27f-48ac-ba88-a22f5d66281b.woff2')
+    format('woff2');
 }
 
 html,
@@ -44,7 +46,27 @@ body {
   border-color: #165dff !important;
 }
 
-.vxe-table--render-default .is--checked.vxe-cell--checkbox .vxe-checkbox--icon:before {
+.vxe-table--render-default
+  .is--checked.vxe-cell--checkbox
+  .vxe-checkbox--icon:before {
   border-color: #165dff !important;
   background-color: #165dff !important;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  border-width: 0px;
+  @apply bg-#e5e5e5 dark:bg-#555;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-#777:50 dark:bg-#777:85;
+}
+
+::-webkit-scrollbar-track-piece {
+  @apply bg-#fff dark:bg-#272728;
 }

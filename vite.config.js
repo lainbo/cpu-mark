@@ -36,7 +36,7 @@ export default defineConfig({
         utils: [/src\/utils/],
         assets: [/src\/assets/],
         table: ['vxe-table'],
-        'component-library': ['@arco-design/web-vue']
+        arco: ['@arco-design/web-vue']
       }
     })
   ],
