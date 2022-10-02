@@ -57,7 +57,7 @@ const cpuSData = uniqArr(cpuSingleCoreData)
 const gpuData = uniqArr(gpuOriginData)
 const hardDriveData = uniqArr(hardDriveOriginData)
 
-const activeName = ref(1) // 默认选中的tab
+const activeName = ref(1) // 默认选中的tab1
 const updateObj = reactive({
   date: '2022年9月30日',
   updateArr: [
