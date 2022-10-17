@@ -42,15 +42,12 @@ body {
   margin: 16px 0;
 }
 
-.vxe-cell--checkbox:not(.is-disabled):hover .vxe-checkbox--icon::before {
-  border-color: #165dff !important;
-}
-
+.vxe-table--render-default .is--checked.vxe-cell--checkbox .vxe-checkbox--icon,
 .vxe-table--render-default
-  .is--checked.vxe-cell--checkbox
-  .vxe-checkbox--icon:before {
-  border-color: #165dff !important;
-  background-color: #165dff !important;
+  .vxe-cell--checkbox:not(.is--disabled):hover
+  .vxe-checkbox--icon,
+.vxe-table--render-default .is--checked.vxe-cell--checkbox {
+  color: #165dff !important;
 }
 ::-webkit-scrollbar {
   width: 8px;

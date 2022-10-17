@@ -16,8 +16,8 @@
     "dayjs": "^1.11.5",
     "lodash-es": "^4.17.21",
     "vue": "^3.2.41",
-    "vxe-table": "4.2.8",
-    "xe-utils": "3.5.6"
+    "vxe-table": "4.3.5",
+    "xe-utils": "3.5.7"
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.37.4",
@@ -27,7 +27,7 @@
     "@vitejs/plugin-vue": "^3.1.2",
     "@vue/eslint-config-prettier": "^7.0.0",
     "consola": "^2.15.3",
-    "eslint": "^7.32.0",
+    "eslint": "^8.25.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.6.0",
     "prettier": "^2.7.1",

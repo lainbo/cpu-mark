@@ -78,7 +78,7 @@ const updateObj = reactive({
     },
     {
       label: '硬盘',
-      addNum: 33,
+      addNum: 39,
       totalNum: hardDriveData.length
     }
   ]
