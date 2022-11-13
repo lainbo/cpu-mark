@@ -92,7 +92,7 @@ const utoolsInit = () => {
   window.utools.onPluginEnter(({ payload }) => {
     if (['显卡', 'gpu', 'GPU'].includes(payload)) {
       activeName.value = 4
-    } else if (['硬盘', 'hdd', 'HDD', 'ssd', 'SSD'].includes(payload)) {
+    } else if (['硬盘', 'hdd', 'ssd', 'disk'].includes(payload)) {
       activeName.value = 5
     } else {
       activeName.value = 1
