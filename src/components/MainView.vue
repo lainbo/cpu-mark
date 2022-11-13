@@ -1,10 +1,7 @@
 <template>
   <div ref="mainRef" class="content_wrapper">
     <!-- 对比部分 -->
-    <div
-      v-if="calcComparedArr.length"
-      class="card_wrapper lg:(flex flex-col pb-16px)"
-    >
+    <div v-if="calcComparedArr.length" class="card_wrapper lg:(flex flex-col pb-16px)">
       <div class="flex justify-between items-center">
         <h2 class="text_decorate">对比</h2>
         <a-button status="danger" @click="resetCompare">清空对比</a-button>
@@ -109,7 +106,7 @@
           :tooltip-config="{
             theme: isDark ? 'light' : 'dark',
             enterDelay: 0,
-            enterable: true
+            enterable: true,
           }"
           @checkbox-change="selectChangeEvent"
         >
@@ -167,20 +164,20 @@ import { cloneDeep, throttle } from 'lodash-es'
 const props = defineProps({
   tableData: {
     type: Array,
-    default: () => []
+    default: () => [],
   },
   allData: {
     type: Array,
-    default: () => []
+    default: () => [],
   },
   pageConfig: {
     type: Object,
-    default: () => {}
+    default: () => {},
   },
   cpuCompared: {
     type: Boolean,
-    default: false
-  }
+    default: false,
+  },
 })
 const isDark = useDark() // 响应式：是否为暗色
 const mainRef = ref() // 主体部分的 ref
@@ -207,7 +204,7 @@ if (isCpuCompared.value) {
     tempArr.push({
       nameDetail: i.nameDetail,
       mCoreMark: i.mark,
-      sCoreMark: cpuSDataMap.get(i.nameDetail) || 0
+      sCoreMark: cpuSDataMap.get(i.nameDetail) || 0,
     })
   })
   // 计算单核性能最大值
