@@ -57,26 +57,26 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年1月1日',
+  date: '2023年1月8日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 1,
+      addNum: 12,
       totalNum: cpuMData.length,
     },
     {
       label: 'CPU单核',
-      addNum: 2,
+      addNum: 3,
       totalNum: cpuSData.length,
     },
     {
       label: '显卡',
-      addNum: 9,
+      addNum: 6,
       totalNum: gpuData.length,
     },
     {
       label: '硬盘',
-      addNum: 27,
+      addNum: 26,
       totalNum: hardDriveData.length,
     },
   ],
@@ -110,20 +110,20 @@ const pageConfig = {
     title: 'CPU多核天梯',
     question: '单核、多核性能的区别？',
     answer: cpuAnswer,
-    placeholder: '请输入CPU型号，如5800X',
+    placeholder: '请输入CPU型号，如12700K',
   },
   cpuS: {
     title: 'CPU单核天梯',
     question: '单核、多核性能的区别？',
     answer: cpuAnswer,
-    placeholder: '请输入CPU型号，如5800X',
+    placeholder: '请输入CPU型号，如12700K',
   },
   gpu: {
     title: '显卡天梯',
     question: '显卡得分解释',
     answer:
       '得分融合了PerformanceTest，微软DirectX API中的DirectCompute，Khronos的OpenCL中的各项数据，各项数据的权重也各不相同，最终得分是由成千上万的同型号显卡平均得出，不完全反映其游戏性能，数据仅供参考。',
-    placeholder: '请输入显卡型号，如1050',
+    placeholder: '请输入显卡型号，如4090',
   },
   drive: {
     title: '硬盘天梯',
@@ -137,7 +137,7 @@ const pageConfig = {
     question: '如何知道一款CPU是否适合我？',
     answer:
       '数据的排名靠前，并不代表这个CPU真的适合你，比如你需要一个打游戏的电脑，不知道如何CPU超频，还希望有着优秀的性价比，那么5800X 3D可能是你最好的选择，因为它有更大的CPU三级缓存，这让它在大部分游戏下的表现，和比他贵了2000多元的12900KS相当，甚至可以和Ryzen9 7950X掰腕子，但是仅从表格中可以得到的数据来看，他的单核、多核都不是特别的出彩，但是如果你会超频，你肯定知道去买一个散片12900KF超频可以爆杀5800X 3D。另一方面，除非你知道自己在做什么，否则不要去只依靠表格排名，去做你的购买参考，排名不能代表实际体验，数据仅供参考，所以如果对CPU只有一知半解，建议去网上多方综合了解后再购买',
-    placeholder: '请输入CPU型号，如5800X',
+    placeholder: '请输入CPU型号，如12700K',
   },
 }
 </script>
