@@ -11,7 +11,7 @@
     "up": "taze major -I"
   },
   "dependencies": {
-    "@vueuse/core": "^9.10.0",
+    "@vueuse/core": "^9.11.1",
     "dayjs": "^1.11.7",
     "lodash-es": "^4.17.21",
     "vue": "^3.2.45",
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.42.0",
-    "@iconify/json": "^2.2.7",
+    "@iconify/json": "^2.2.10",
     "@unocss/preset-rem-to-px": "^0.48.4",
     "@unocss/reset": "^0.48.4",
     "@vitejs/plugin-vue": "^4.0.0",
