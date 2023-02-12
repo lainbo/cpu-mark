@@ -1,9 +1,11 @@
-@font-face {
-  font-display: swap;
-  font-family: 'HarmonyOS';
-  src: url('https://efadmin.netlify.app/font/HarmonyOS_Sans_Regular.woff2')
-    format('woff2');
-}
+@use '@/styles/HarmonyOS_font.css';
+
+// @font-face {
+//   font-display: swap;
+//   font-family: 'HarmonyOS';
+//   src: url('https://efadmin.netlify.app/font/HarmonyOS_Sans_Regular.woff2')
+//     format('woff2');
+// }
 
 @font-face {
   font-display: swap;
@@ -13,7 +15,7 @@
 
 html,
 body {
-  font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS', system-ui, —apple-system,
+  font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS_Regular', system-ui, —apple-system,
     Segoe UI, Rototo, Helvetica, Arial, sans-serif !important;
 }
 
@@ -26,7 +28,7 @@ body {
 }
 
 .vxe-table--render-default {
-  font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS', system-ui, —apple-system,
+  font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS_Regular', system-ui, —apple-system,
     Segoe UI, Rototo, Helvetica, Ar1ial, sans-serif !important;
 }
 
