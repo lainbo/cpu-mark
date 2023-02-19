@@ -6,6 +6,10 @@ body {
     Segoe UI, Rototo, Helvetica, Arial, sans-serif !important;
 }
 
+::selection {
+  @apply bg-#165dff text-#fff;
+}
+
 .arco-popover-popup-content {
   width: 300px;
 }
