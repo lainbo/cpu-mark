@@ -1,0 +1,10 @@
+/*
+  中文
+  鸿蒙的regular字重https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css
+  鸿蒙的medium字重https://s1.hdslb.com/bfs/static/jinkela/long/font/medium.css
+*/
+@import url('https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css');
+
+/* 官方为fonts.googleapis.com */
+/* 英文日文韩文泰文代码体 */
+@import url('https://fonts.font.im/css2?family=Inter&display=swap');
