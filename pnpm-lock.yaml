@@ -22,7 +22,6 @@ specifiers:
   unplugin-auto-import: ^0.15.0
   unplugin-vue-components: ^0.24.0
   vite: ^4.1.4
-  vite: ^4.1.4
   vite-plugin-style-import: ^2.0.0
   vue: ^3.2.47
   vxe-table: 4.3.10
@@ -1033,7 +1032,6 @@ packages:
     dev: true
 
   /@vitejs/plugin-vue/4.0.0_vite@4.1.4+vue@3.2.47:
-  /@vitejs/plugin-vue/4.0.0_vite@4.1.4+vue@3.2.47:
     resolution: {integrity: sha512-e0X4jErIxAB5oLtDqbHvHpJe/uWNkdpYV83AOG2xo2tEVSzCzewgJMtREZM30wXnM5ls90hxiOtAuVU6H5JgbA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -1078,8 +1076,6 @@ packages:
       '@vue/compiler-dom': 3.2.47
       '@vue/shared': 3.2.47
 
-  /@vue/eslint-config-prettier/7.1.0_yrlhudqyxg2l7qvwle5bdpmrli:
-    resolution: {integrity: sha512-Pv/lVr0bAzSIHLd9iz0KnvAr4GKyCEl+h52bc4e5yWuDVtLgFwycF7nrbWTAQAS+FU6q1geVd07lc6EWfJiWKQ==}
   /@vue/eslint-config-prettier/7.1.0_yrlhudqyxg2l7qvwle5bdpmrli:
     resolution: {integrity: sha512-Pv/lVr0bAzSIHLd9iz0KnvAr4GKyCEl+h52bc4e5yWuDVtLgFwycF7nrbWTAQAS+FU6q1geVd07lc6EWfJiWKQ==}
     peerDependencies:
@@ -3939,7 +3935,6 @@ packages:
       builtins: 5.0.1
     dev: true
 
-  /vite-plugin-style-import/2.0.0_vite@4.1.4:
   /vite-plugin-style-import/2.0.0_vite@4.1.4:
     resolution: {integrity: sha512-qtoHQae5dSUQPo/rYz/8p190VU5y19rtBaeV7ryLa/AYAU/e9CG89NrN/3+k7MR8mJy/GPIu91iJ3zk9foUOSA==}
     peerDependencies:
