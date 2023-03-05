@@ -42,11 +42,10 @@ export default defineConfig({
     },
   },
   build: {
-    assetsInlineLimit: 4096,
-    cssCodeSplit: true,
-    sourcemap: false,
+    target: 'es2021',
     minify: 'terser',
     terserOptions: {
+      ecma: 2020,
       compress: {
         drop_console: true,
         drop_debugger: true,
