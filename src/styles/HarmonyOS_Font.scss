@@ -111,7 +111,7 @@ $fontInfoMap: (
     'family': 'HarmonyOS_Medium',
   ),
 );
-$fontBaseUrl: 'https://fast-naptime.netlify.app'; // 基础路径
+$fontBaseUrl: 'https://s1.hdslb.com'; // B站字体基础路径
 $defaultWeight: 'Regular'; // 不传或者传错，会降级到这个字重
 
 @mixin generateFontFace($file, $unicodeRange, $weight: $defaultWeight) {
@@ -129,7 +129,7 @@ $defaultWeight: 'Regular'; // 不传或者传错，会降级到这个字重
     font-style: normal;
     font-weight: $_fontWeight;
     font-display: swap;
-    src: url('#{$fontBaseUrl}/font/HarmonyOS_Font_#{$_fontWeightStr}/#{$_fontFamily}.#{$file}.woff2')
+    src: url('#{$fontBaseUrl}/bfs/static/jinkela/long/font/#{$_fontFamily}.#{$file}.woff2')
       format('woff2');
     unicode-range: #{$unicodeRange};
   }
