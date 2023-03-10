@@ -1,3 +1,7 @@
+$provider: 'free'; // 如果值为'free'，将使用B站的字体文件，否则使用自定义字体文件
+$weightStr: 'Regular'; // 'Regular' | 'Medium' ，不填、填错降级为'Regular'
+$fontBaseUrl: 'https://fast-naptime.netlify.app'; // 自定义字体文件路径
+$freeFontBaseUrl: 'https://s1.hdslb.com'; // B站字体文件路径
 $fontRangeMap: (
   'a': 'U+9aa2-ffe5',
   'b': 'U+8983-9aa0',
@@ -111,16 +115,12 @@ $fontInfoMap: (
     'family': 'HarmonyOS_Medium',
   ),
 );
-$fontBaseUrl: 'https://s1.hdslb.com'; // B站字体基础路径
-$defaultWeight: 'Regular'; // 不传或者传错，会降级到这个字重
 
-@mixin generateFontFace($file, $unicodeRange, $weight: $defaultWeight) {
-  $_fontInfo: if(
-    map-has-key($fontInfoMap, $weight),
-    map-get($fontInfoMap, $weight),
-    map-get($fontInfoMap, $defaultWeight)
-  );
-  $_fontWeightStr: if(map-has-key($fontInfoMap, $weight), $weight, $defaultWeight);
+// 判断$weightStr的值是否在$fontInfoMap中存在，不存在则降级为'Regular'
+$correctWeightStr: if(map-has-key($fontInfoMap, $weightStr), $weightStr, 'Regular');
+
+@mixin generateFontFace($file, $unicodeRange) {
+  $_fontInfo: map-get($fontInfoMap, $correctWeightStr);
   $_fontWeight: map-get($_fontInfo, 'weight');
   $_fontFamily: map-get($_fontInfo, 'family');
 
@@ -129,8 +129,13 @@ $defaultWeight: 'Regular'; // 不传或者传错，会降级到这个字重
     font-style: normal;
     font-weight: $_fontWeight;
     font-display: swap;
-    src: url('#{$fontBaseUrl}/bfs/static/jinkela/long/font/#{$_fontFamily}.#{$file}.woff2')
-      format('woff2');
+    @if $provider == 'free' {
+      src: url('#{$freeFontBaseUrl}/bfs/static/jinkela/long/font/#{$_fontFamily}.#{$file}.woff2')
+        format('woff2');
+    } @else {
+      src: url('#{$fontBaseUrl}/font/HarmonyOS_Font_#{$correctWeightStr}/#{$_fontFamily}.#{$file}.woff2')
+        format('woff2');
+    }
     unicode-range: #{$unicodeRange};
   }
 }
