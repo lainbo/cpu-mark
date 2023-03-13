@@ -5,7 +5,7 @@
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5995WX",
-    "mark": 94906
+    "mark": 95655
   },
   {
     "nameDetail": "AMD EPYC 7773X",
@@ -21,7 +21,7 @@
   },
   {
     "nameDetail": "AMD EPYC 7713",
-    "mark": 85203
+    "mark": 85165
   },
   {
     "nameDetail": "AMD EPYC 7713P",
@@ -48,12 +48,12 @@
     "mark": 77460
   },
   {
-    "nameDetail": "AMD EPYC 7643",
-    "mark": 76455
+    "nameDetail": "AMD Ryzen Threadripper PRO 5975WX",
+    "mark": 76523
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper PRO 5975WX",
-    "mark": 76374
+    "nameDetail": "AMD EPYC 7643",
+    "mark": 76455
   },
   {
     "nameDetail": "AMD EPYC 7T83",
@@ -89,27 +89,27 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X3D",
-    "mark": 64011
+    "mark": 64029
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3970X",
-    "mark": 63477
+    "mark": 63482
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
-    "mark": 63473
+    "mark": 63479
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 3975WX",
     "mark": 62862
   },
   {
-    "nameDetail": "Intel Core i9-13900KS",
-    "mark": 62355
-  },
-  {
     "nameDetail": "Intel Xeon Platinum 8380 @ 2.30GHz",
     "mark": 62318
+  },
+  {
+    "nameDetail": "Intel Core i9-13900KS",
+    "mark": 62166
   },
   {
     "nameDetail": "AMD EPYC 7702P",
@@ -129,7 +129,7 @@
   },
   {
     "nameDetail": "Intel Core i9-13900K",
-    "mark": 60014
+    "mark": 60043
   },
   {
     "nameDetail": "AMD EPYC 7513",
@@ -137,7 +137,7 @@
   },
   {
     "nameDetail": "Intel Core i9-13900KF",
-    "mark": 59763
+    "mark": 59714
   },
   {
     "nameDetail": "Intel Xeon W-3365 @ 2.70GHz",
@@ -161,23 +161,19 @@
   },
   {
     "nameDetail": "Intel Core i9-13900F",
-    "mark": 56140
-  },
-  {
-    "nameDetail": "AMD EPYC 7532",
-    "mark": 55483
+    "mark": 55495
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3960X",
     "mark": 54793
   },
   {
-    "nameDetail": "Intel Xeon Platinum 8358 @ 2.60GHz",
-    "mark": 54416
+    "nameDetail": "AMD EPYC 7532",
+    "mark": 54582
   },
   {
-    "nameDetail": "AMD Ryzen 9 7900X3D",
-    "mark": 52302
+    "nameDetail": "Intel Xeon Platinum 8358 @ 2.60GHz",
+    "mark": 54416
   },
   {
     "nameDetail": "Intel Xeon Gold 6348 @ 2.60GHz",
@@ -185,7 +181,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X",
-    "mark": 52185
+    "mark": 52199
   },
   {
     "nameDetail": "Intel Xeon Platinum 8375C @ 2.90GHz",
@@ -196,12 +192,16 @@
     "mark": 51764
   },
   {
+    "nameDetail": "AMD Ryzen 9 7900X3D",
+    "mark": 51236
+  },
+  {
     "nameDetail": "Intel Xeon Gold 6314U @ 2.30GHz",
     "mark": 51014
   },
   {
     "nameDetail": "Intel Core i9-13900",
-    "mark": 50656
+    "mark": 50558
   },
   {
     "nameDetail": "AMD EPYC 7413",
@@ -210,10 +210,6 @@
   {
     "nameDetail": "AMD EPYC 7453",
     "mark": 50209
-  },
-  {
-    "nameDetail": "Intel Core i9-13900HX",
-    "mark": 49902
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5955WX",
@@ -233,11 +229,15 @@
   },
   {
     "nameDetail": "Intel Core i9-13980HX",
-    "mark": 48713
+    "mark": 48954
+  },
+  {
+    "nameDetail": "AMD EPYC 7R12",
+    "mark": 48934
   },
   {
     "nameDetail": "AMD Ryzen 9 7900",
-    "mark": 48627
+    "mark": 48775
   },
   {
     "nameDetail": "Intel Xeon W-3345 @ 3.00GHz",
@@ -248,20 +248,24 @@
     "mark": 47668
   },
   {
+    "nameDetail": "Intel Core i9-13900HX",
+    "mark": 47598
+  },
+  {
     "nameDetail": "Intel Xeon Gold 6342 @ 2.80GHz",
     "mark": 47320
   },
   {
     "nameDetail": "Intel Core i7-13700K",
-    "mark": 47034
+    "mark": 47003
+  },
+  {
+    "nameDetail": "Intel Core i7-13700KF",
+    "mark": 46817
   },
   {
     "nameDetail": "AMD Ryzen 9 7845HX",
     "mark": 46791
-  },
-  {
-    "nameDetail": "Intel Core i7-13700KF",
-    "mark": 46788
   },
   {
     "nameDetail": "Intel Xeon Gold 6338N @ 2.20GHz",
@@ -277,7 +281,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 5950X",
-    "mark": 45890
+    "mark": 45891
   },
   {
     "nameDetail": "Intel Xeon Gold 6336Y @ 2.40GHz",
@@ -289,7 +293,7 @@
   },
   {
     "nameDetail": "Intel Core i9-12900KS",
-    "mark": 44532
+    "mark": 44537
   },
   {
     "nameDetail": "Intel Xeon Gold 6312U @ 2.40GHz",
@@ -308,6 +312,10 @@
     "mark": 42244
   },
   {
+    "nameDetail": "Intel Core i7-13700F",
+    "mark": 42222
+  },
+  {
     "nameDetail": "AMD EPYC 7313P",
     "mark": 42057
   },
@@ -320,12 +328,8 @@
     "mark": 41871
   },
   {
-    "nameDetail": "Intel Core i7-13700F",
-    "mark": 41829
-  },
-  {
     "nameDetail": "Intel Core i9-12900K",
-    "mark": 41579
+    "mark": 41591
   },
   {
     "nameDetail": "Intel Xeon Gold 6354 @ 3.00GHz",
@@ -333,15 +337,11 @@
   },
   {
     "nameDetail": "Intel Core i9-12900KF",
-    "mark": 41375
+    "mark": 41403
   },
   {
     "nameDetail": "AMD EPYC 7551P",
     "mark": 41150
-  },
-  {
-    "nameDetail": "AMD EPYC 7313",
-    "mark": 41060
   },
   {
     "nameDetail": "AMD EPYC 7F52",
@@ -349,7 +349,7 @@
   },
   {
     "nameDetail": "Apple M1 Ultra 20 Core",
-    "mark": 40918
+    "mark": 40908
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5945WX",
@@ -360,20 +360,20 @@
     "mark": 40794
   },
   {
+    "nameDetail": "AMD EPYC 7313",
+    "mark": 40512
+  },
+  {
     "nameDetail": "AMD EPYC 7K62",
     "mark": 40487
   },
   {
-    "nameDetail": "Intel Core i7-13700",
-    "mark": 40339
+    "nameDetail": "Intel Core i9-13950HX",
+    "mark": 40331
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 3955WX",
     "mark": 40252
-  },
-  {
-    "nameDetail": "Intel Core i9-13950HX",
-    "mark": 40048
   },
   {
     "nameDetail": "AMD EPYC 7352",
@@ -384,12 +384,16 @@
     "mark": 39979
   },
   {
+    "nameDetail": "Intel Core i7-13700",
+    "mark": 39839
+  },
+  {
     "nameDetail": "Intel Xeon W-3335 @ 3.40GHz",
-    "mark": 39314
+    "mark": 39280
   },
   {
     "nameDetail": "AMD Ryzen 9 5900X",
-    "mark": 39265
+    "mark": 39266
   },
   {
     "nameDetail": "Intel Xeon W-3265M @ 2.70GHz",
@@ -397,7 +401,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 3950X",
-    "mark": 39004
+    "mark": 38998
   },
   {
     "nameDetail": "Intel Xeon Gold 6248R @ 3.00GHz",
@@ -405,11 +409,11 @@
   },
   {
     "nameDetail": "Intel Core i5-13600K",
-    "mark": 38470
+    "mark": 38471
   },
   {
     "nameDetail": "Intel Core i5-13600KF",
-    "mark": 38388
+    "mark": 38339
   },
   {
     "nameDetail": "Intel Xeon Gold 6346 @ 3.10GHz",
@@ -429,7 +433,7 @@
   },
   {
     "nameDetail": "Intel Core i9-12900F",
-    "mark": 37404
+    "mark": 37408
   },
   {
     "nameDetail": "Intel Xeon Silver 4316 @ 2.30GHz",
@@ -441,7 +445,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 7700X",
-    "mark": 36503
+    "mark": 36500
   },
   {
     "nameDetail": "ARM Neoverse-N1 80 Core 3000 MHz",
@@ -453,19 +457,19 @@
   },
   {
     "nameDetail": "Intel Core i9-12900HX",
-    "mark": 35737
+    "mark": 35731
   },
   {
     "nameDetail": "Intel Xeon Gold 6326 @ 2.90GHz",
     "mark": 35328
   },
   {
-    "nameDetail": "Intel Xeon Platinum 8180 @ 2.50GHz",
-    "mark": 35208
+    "nameDetail": "AMD Ryzen 7 7700",
+    "mark": 35209
   },
   {
-    "nameDetail": "AMD Ryzen 7 7700",
-    "mark": 35139
+    "nameDetail": "Intel Xeon Platinum 8180 @ 2.50GHz",
+    "mark": 35208
   },
   {
     "nameDetail": "Intel Xeon Gold 6242R @ 3.10GHz",
@@ -473,19 +477,19 @@
   },
   {
     "nameDetail": "Intel Core i9-12900",
-    "mark": 34916
+    "mark": 34900
   },
   {
     "nameDetail": "Intel Core i7-12700K",
-    "mark": 34780
+    "mark": 34795
   },
   {
     "nameDetail": "AMD Ryzen 9 5900",
-    "mark": 34564
+    "mark": 34569
   },
   {
     "nameDetail": "Intel Core i7-12700KF",
-    "mark": 34549
+    "mark": 34561
   },
   {
     "nameDetail": "AMD Ryzen 9 PRO 5945",
@@ -500,20 +504,16 @@
     "mark": 33970
   },
   {
-    "nameDetail": "Intel Core i7-13700HX",
-    "mark": 33968
-  },
-  {
     "nameDetail": "Intel Xeon D-2799 @ 2.40GHz",
     "mark": 33792
   },
   {
     "nameDetail": "Intel Core i7-12800HX",
-    "mark": 33742
+    "mark": 33669
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 3945WX",
-    "mark": 33413
+    "mark": 33431
   },
   {
     "nameDetail": "Intel Xeon Gold 5220R @ 2.20GHz",
@@ -529,7 +529,11 @@
   },
   {
     "nameDetail": "Intel Core i9-10980XE @ 3.00GHz",
-    "mark": 33053
+    "mark": 33054
+  },
+  {
+    "nameDetail": "Intel Core i7-13650HX",
+    "mark": 33004
   },
   {
     "nameDetail": "Intel Xeon Gold 6278C @ 2.60GHz",
@@ -537,11 +541,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 3900XT",
-    "mark": 32824
+    "mark": 32822
   },
   {
     "nameDetail": "Intel Core i9-12950HX",
-    "mark": 32788
+    "mark": 32757
   },
   {
     "nameDetail": "AMD Ryzen 9 3900X",
@@ -556,12 +560,16 @@
     "mark": 32615
   },
   {
+    "nameDetail": "Intel Core i5-13500",
+    "mark": 32610
+  },
+  {
     "nameDetail": "AMD EPYC 7302P",
     "mark": 32543
   },
   {
-    "nameDetail": "Intel Core i5-13500",
-    "mark": 32509
+    "nameDetail": "Intel Core i9-13900H",
+    "mark": 32439
   },
   {
     "nameDetail": "Intel Core i9-9980XE @ 3.00GHz",
@@ -569,11 +577,11 @@
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 2990WX",
-    "mark": 32075
+    "mark": 32091
   },
   {
-    "nameDetail": "Intel Core i9-13900H",
-    "mark": 31931
+    "nameDetail": "Intel Core i7-13700HX",
+    "mark": 31983
   },
   {
     "nameDetail": "Intel Xeon Platinum 8173M @ 2.00GHz",
@@ -588,10 +596,6 @@
     "mark": 31632
   },
   {
-    "nameDetail": "Intel Core i9-12900T",
-    "mark": 31560
-  },
-  {
     "nameDetail": "Intel Core i9-12900E",
     "mark": 31530
   },
@@ -600,15 +604,23 @@
     "mark": 31446
   },
   {
-    "nameDetail": "Intel Core i7-12700",
-    "mark": 31155
+    "nameDetail": "Intel Core i9-12900T",
+    "mark": 31435
   },
   {
-    "nameDetail": "Intel Xeon W-2295 @ 3.00GHz",
-    "mark": 31112
+    "nameDetail": "Intel Core i7-13700H",
+    "mark": 31350
+  },
+  {
+    "nameDetail": "Intel Core i7-12700",
+    "mark": 31169
   },
   {
     "nameDetail": "Intel Core i7-12700F",
+    "mark": 31103
+  },
+  {
+    "nameDetail": "Intel Xeon W-2295 @ 3.00GHz",
     "mark": 31102
   },
   {
@@ -616,16 +628,16 @@
     "mark": 31094
   },
   {
-    "nameDetail": "Intel Core i7-13700H",
-    "mark": 30833
+    "nameDetail": "Intel Core i7-13800H",
+    "mark": 30724
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 3900",
+    "mark": 30681
   },
   {
     "nameDetail": "Intel Xeon Platinum 8171M @ 2.60GHz",
     "mark": 30632
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 3900",
-    "mark": 30631
   },
   {
     "nameDetail": "AMD EPYC Embedded 7292P",
@@ -636,20 +648,20 @@
     "mark": 30539
   },
   {
-    "nameDetail": "Intel Core i9-7980XE @ 2.60GHz",
-    "mark": 30481
-  },
-  {
     "nameDetail": "Intel Xeon Gold 6246R @ 3.40GHz",
     "mark": 30468
   },
   {
-    "nameDetail": "Intel Core i7-13700T",
-    "mark": 30304
+    "nameDetail": "Intel Core i9-7980XE @ 2.60GHz",
+    "mark": 30418
   },
   {
     "nameDetail": "Intel Core i7-12850HX",
-    "mark": 30293
+    "mark": 30321
+  },
+  {
+    "nameDetail": "Intel Core i7-13700T",
+    "mark": 30304
   },
   {
     "nameDetail": "Intel Core i9-9990XE @ 4.00GHz",
@@ -661,7 +673,7 @@
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 2970WX",
-    "mark": 29990
+    "mark": 30011
   },
   {
     "nameDetail": "Intel Xeon W-3245 @ 3.20GHz",
@@ -680,12 +692,12 @@
     "mark": 29489
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper 2950X",
-    "mark": 29443
-  },
-  {
     "nameDetail": "Intel Core i5-13500T",
     "mark": 29421
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 2950X",
+    "mark": 29408
   },
   {
     "nameDetail": "Intel Xeon Platinum 8260 @ 2.40GHz",
@@ -705,7 +717,7 @@
   },
   {
     "nameDetail": "Intel Core i9-12900H",
-    "mark": 29032
+    "mark": 29039
   },
   {
     "nameDetail": "Intel Xeon Gold 6210U @ 2.50GHz",
@@ -717,7 +729,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 7600X",
-    "mark": 28774
+    "mark": 28766
   },
   {
     "nameDetail": "Intel Xeon W-2191B @ 2.30GHz",
@@ -725,7 +737,7 @@
   },
   {
     "nameDetail": "Intel Core i9-12900HK",
-    "mark": 28700
+    "mark": 28687
   },
   {
     "nameDetail": "Intel Xeon Gold 6253CL @ 3.10GHz",
@@ -752,12 +764,12 @@
     "mark": 28113
   },
   {
-    "nameDetail": "AMD Ryzen 7 5800X",
-    "mark": 28080
-  },
-  {
     "nameDetail": "ARM Neoverse-N1 64 Core 0 MHz",
     "mark": 28079
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5800X",
+    "mark": 28077
   },
   {
     "nameDetail": "Intel Xeon W-2275 @ 3.30GHz",
@@ -765,19 +777,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5800X3D",
-    "mark": 27904
+    "mark": 27958
   },
   {
     "nameDetail": "Intel Core i5-12600K",
-    "mark": 27801
-  },
-  {
-    "nameDetail": "AMD Ryzen Threadripper 1950X",
-    "mark": 27768
+    "mark": 27809
   },
   {
     "nameDetail": "AMD Ryzen 5 7600",
-    "mark": 27639
+    "mark": 27800
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 1950X",
+    "mark": 27784
   },
   {
     "nameDetail": "Intel Xeon Gold 6238 @ 2.10GHz",
@@ -797,7 +809,7 @@
   },
   {
     "nameDetail": "Intel Core i5-12600KF",
-    "mark": 27416
+    "mark": 27431
   },
   {
     "nameDetail": "Intel Xeon Gold 5317 @ 3.00GHz",
@@ -833,11 +845,11 @@
   },
   {
     "nameDetail": "Intel Xeon Gold 6230 @ 2.10GHz",
-    "mark": 26920
+    "mark": 26888
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X",
-    "mark": 26801
+    "mark": 26812
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 5845",
@@ -845,15 +857,11 @@
   },
   {
     "nameDetail": "Intel Core i7-12700H",
-    "mark": 26763
+    "mark": 26765
   },
   {
     "nameDetail": "Intel Xeon Platinum 8175M @ 2.50GHz",
     "mark": 26659
-  },
-  {
-    "nameDetail": "Intel Core i5-13400",
-    "mark": 26530
   },
   {
     "nameDetail": "Intel Xeon Platinum 8160 @ 2.10GHz",
@@ -868,12 +876,16 @@
     "mark": 26446
   },
   {
-    "nameDetail": "Intel Core i9-10920X @ 3.50GHz",
-    "mark": 26360
+    "nameDetail": "Intel Core i5-13400",
+    "mark": 26429
   },
   {
     "nameDetail": "Apple M2 Pro 12 Core 3480 MHz",
-    "mark": 26357
+    "mark": 26407
+  },
+  {
+    "nameDetail": "Intel Core i9-10920X @ 3.50GHz",
+    "mark": 26360
   },
   {
     "nameDetail": "Intel Core i9-7940X @ 3.10GHz",
@@ -884,12 +896,12 @@
     "mark": 26288
   },
   {
-    "nameDetail": "Apple M2 Max 12 Core 3680 MHz",
-    "mark": 26134
+    "nameDetail": "Intel Core i5-13400F",
+    "mark": 26118
   },
   {
-    "nameDetail": "Intel Core i5-13400F",
-    "mark": 26063
+    "nameDetail": "Apple M2 Max 12 Core 3680 MHz",
+    "mark": 26117
   },
   {
     "nameDetail": "Intel Xeon W-3235 @ 3.30GHz",
@@ -901,7 +913,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5800",
-    "mark": 25954
+    "mark": 25923
   },
   {
     "nameDetail": "Intel Xeon Gold 5218R @ 2.10GHz",
@@ -917,7 +929,7 @@
   },
   {
     "nameDetail": "Intel Core i9-11900K @ 3.50GHz",
-    "mark": 25527
+    "mark": 25530
   },
   {
     "nameDetail": "Intel Xeon Gold 6150 @ 2.70GHz",
@@ -937,7 +949,11 @@
   },
   {
     "nameDetail": "Intel Core i9-11900KF @ 3.50GHz",
-    "mark": 25388
+    "mark": 25393
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 7735H",
+    "mark": 25367
   },
   {
     "nameDetail": "Intel Xeon E5-2696 v4 @ 2.20GHz",
@@ -977,7 +993,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 6900HX",
-    "mark": 24699
+    "mark": 24715
   },
   {
     "nameDetail": "Intel Xeon E5-2699 v4 @ 2.20GHz",
@@ -985,15 +1001,15 @@
   },
   {
     "nameDetail": "Intel Core i7-11700K @ 3.60GHz",
-    "mark": 24660
+    "mark": 24661
   },
   {
     "nameDetail": "Intel Core i5-12600HX",
-    "mark": 24651
+    "mark": 24650
   },
   {
     "nameDetail": "AMD Ryzen 7 5700G",
-    "mark": 24617
+    "mark": 24632
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 5750G",
@@ -1001,7 +1017,7 @@
   },
   {
     "nameDetail": "Intel Core i7-12800H",
-    "mark": 24453
+    "mark": 24478
   },
   {
     "nameDetail": "Intel Xeon Gold 6246 @ 3.30GHz",
@@ -1009,11 +1025,11 @@
   },
   {
     "nameDetail": "Intel Core i7-12650H",
-    "mark": 24433
+    "mark": 24437
   },
   {
     "nameDetail": "AMD Ryzen 7 7735HS",
-    "mark": 24208
+    "mark": 24372
   },
   {
     "nameDetail": "Intel Xeon E5-2679 v4 @ 2.50GHz",
@@ -1021,7 +1037,7 @@
   },
   {
     "nameDetail": "Intel Core i7-11700KF @ 3.60GHz",
-    "mark": 24084
+    "mark": 24093
   },
   {
     "nameDetail": "Intel Core i5-13500H",
@@ -1029,7 +1045,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 6900HS",
-    "mark": 23993
+    "mark": 23992
   },
   {
     "nameDetail": "Intel Xeon W-2170B @ 2.50GHz",
@@ -1056,6 +1072,10 @@
     "mark": 23781
   },
   {
+    "nameDetail": "AMD Ryzen 7 6800H",
+    "mark": 23739
+  },
+  {
     "nameDetail": "AMD Ryzen 7 3800XT",
     "mark": 23729
   },
@@ -1064,16 +1084,12 @@
     "mark": 23725
   },
   {
-    "nameDetail": "AMD Ryzen 7 6800H",
-    "mark": 23719
+    "nameDetail": "AMD Ryzen 9 5980HX",
+    "mark": 23705
   },
   {
     "nameDetail": "Intel Xeon W-11865MRE @ 2.60GHz",
     "mark": 23702
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 5980HX",
-    "mark": 23673
   },
   {
     "nameDetail": "Intel Core i9-7920X @ 2.90GHz",
@@ -1092,15 +1108,15 @@
     "mark": 23372
   },
   {
+    "nameDetail": "Intel Core i9-11980HK @ 2.60GHz",
+    "mark": 23339
+  },
+  {
     "nameDetail": "Intel Core i9-10900K @ 3.70GHz",
-    "mark": 23351
+    "mark": 23333
   },
   {
     "nameDetail": "Intel Xeon E5-2696 v3 @ 2.30GHz",
-    "mark": 23327
-  },
-  {
-    "nameDetail": "Intel Core i9-11980HK @ 2.60GHz",
     "mark": 23322
   },
   {
@@ -1113,7 +1129,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 3800X",
-    "mark": 23271
+    "mark": 23270
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 6850H",
@@ -1133,39 +1149,35 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 6800HS Creator Edition",
-    "mark": 23084
+    "mark": 23041
   },
   {
     "nameDetail": "Intel Xeon W-11955M @ 2.60GHz",
-    "mark": 23056
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 PRO 6950H",
-    "mark": 23053
-  },
-  {
-    "nameDetail": "Intel Core i9-10900KF @ 3.70GHz",
-    "mark": 23035
+    "mark": 23013
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 3700",
-    "mark": 23028
+    "mark": 23011
+  },
+  {
+    "nameDetail": "Intel Core i9-10900KF @ 3.70GHz",
+    "mark": 23009
   },
   {
     "nameDetail": "Intel Core i9-11900 @ 2.50GHz",
-    "mark": 22987
-  },
-  {
-    "nameDetail": "Intel Core i9-11900F @ 2.50GHz",
-    "mark": 22965
+    "mark": 22997
   },
   {
     "nameDetail": "Intel Xeon W-2175 @ 2.50GHz",
     "mark": 22962
   },
   {
+    "nameDetail": "Intel Core i9-11900F @ 2.50GHz",
+    "mark": 22961
+  },
+  {
     "nameDetail": "AMD Ryzen 7 6800HS",
-    "mark": 22935
+    "mark": 22940
   },
   {
     "nameDetail": "Intel Xeon E5-2698 v4 @ 2.20GHz",
@@ -1173,7 +1185,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 5900HX",
-    "mark": 22881
+    "mark": 22882
   },
   {
     "nameDetail": "Intel Core i7-11700B @ 3.20GHz",
@@ -1184,12 +1196,12 @@
     "mark": 22802
   },
   {
-    "nameDetail": "Intel Core i9-10850K @ 3.60GHz",
-    "mark": 22761
-  },
-  {
     "nameDetail": "Intel Xeon E-2378G @ 2.80GHz",
     "mark": 22755
+  },
+  {
+    "nameDetail": "Intel Core i9-10850K @ 3.60GHz",
+    "mark": 22753
   },
   {
     "nameDetail": "Intel Xeon Gold 6140 @ 2.30GHz",
@@ -1200,8 +1212,12 @@
     "mark": 22730
   },
   {
+    "nameDetail": "AMD Ryzen 9 PRO 6950H",
+    "mark": 22701
+  },
+  {
     "nameDetail": "AMD Ryzen 7 3700X",
-    "mark": 22685
+    "mark": 22683
   },
   {
     "nameDetail": "Intel Xeon Platinum P-8124 @ 3.00GHz",
@@ -1209,11 +1225,11 @@
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 1920X",
-    "mark": 22658
+    "mark": 22667
   },
   {
     "nameDetail": "Intel Core i9-10900X @ 3.70GHz",
-    "mark": 22512
+    "mark": 22507
   },
   {
     "nameDetail": "Intel Xeon Gold 6132 @ 2.60GHz",
@@ -1228,12 +1244,12 @@
     "mark": 22376
   },
   {
-    "nameDetail": "Intel Xeon Gold 6136 @ 3.00GHz",
-    "mark": 22266
+    "nameDetail": "Intel Xeon W-2255 @ 3.70GHz",
+    "mark": 22228
   },
   {
-    "nameDetail": "Intel Xeon W-2255 @ 3.70GHz",
-    "mark": 22224
+    "nameDetail": "Intel Xeon Gold 6136 @ 3.00GHz",
+    "mark": 22217
   },
   {
     "nameDetail": "AMD Ryzen 7 5700GE",
@@ -1244,11 +1260,11 @@
     "mark": 22160
   },
   {
-    "nameDetail": "Apple M1 Max 10 Core 3200 MHz",
-    "mark": 22141
+    "nameDetail": "AMD Ryzen 9 5900HS Creator Edition",
+    "mark": 22138
   },
   {
-    "nameDetail": "AMD Ryzen 9 5900HS Creator Edition",
+    "nameDetail": "Apple M1 Max 10 Core 3200 MHz",
     "mark": 22138
   },
   {
@@ -1261,7 +1277,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 5900HS",
-    "mark": 22059
+    "mark": 22036
   },
   {
     "nameDetail": "AMD EPYC 7551",
@@ -1276,16 +1292,12 @@
     "mark": 21970
   },
   {
-    "nameDetail": "Apple M2 Pro 10 Core 3480 MHz",
-    "mark": 21954
-  },
-  {
     "nameDetail": "AMD Ryzen 5 5600X",
-    "mark": 21936
+    "mark": 21941
   },
   {
     "nameDetail": "Apple M1 Pro 10 Core 3200 MHz",
-    "mark": 21933
+    "mark": 21928
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 5645",
@@ -1296,8 +1308,12 @@
     "mark": 21870
   },
   {
+    "nameDetail": "Apple M2 Pro 10 Core 3480 MHz",
+    "mark": 21858
+  },
+  {
     "nameDetail": "Intel Core i9-11950H @ 2.60GHz",
-    "mark": 21868
+    "mark": 21816
   },
   {
     "nameDetail": "Intel Core i9-10910 @ 3.60GHz",
@@ -1313,7 +1329,7 @@
   },
   {
     "nameDetail": "Intel Core i5-12500H",
-    "mark": 21773
+    "mark": 21701
   },
   {
     "nameDetail": "Intel Xeon E5-2697A v4 @ 2.60GHz",
@@ -1321,7 +1337,7 @@
   },
   {
     "nameDetail": "Intel Core i7-12700T",
-    "mark": 21635
+    "mark": 21659
   },
   {
     "nameDetail": "Intel Xeon E7-8891 v3 @ 2.80GHz",
@@ -1329,7 +1345,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 5600",
-    "mark": 21556
+    "mark": 21563
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2699C v4 @ 2.20GHz",
+    "mark": 21493
   },
   {
     "nameDetail": "Intel Xeon Gold 5218T @ 2.10GHz",
@@ -1337,19 +1357,15 @@
   },
   {
     "nameDetail": "Intel Core i5-12600",
-    "mark": 21406
-  },
-  {
-    "nameDetail": "Intel Core i7-1360P",
-    "mark": 21323
+    "mark": 21393
   },
   {
     "nameDetail": "AMD Ryzen 7 5800H",
-    "mark": 21299
+    "mark": 21304
   },
   {
     "nameDetail": "Intel Core i7-11700F @ 2.50GHz",
-    "mark": 21173
+    "mark": 21177
   },
   {
     "nameDetail": "AMD Ryzen 7 5800HS Creator Edition",
@@ -1357,27 +1373,31 @@
   },
   {
     "nameDetail": "Intel Core i9-7900X @ 3.30GHz",
-    "mark": 21157
+    "mark": 21161
   },
   {
     "nameDetail": "Intel Core i9-11900H @ 2.50GHz",
-    "mark": 21136
+    "mark": 21129
+  },
+  {
+    "nameDetail": "Intel Xeon W-2155 @ 3.30GHz",
+    "mark": 21079
   },
   {
     "nameDetail": "AMD Ryzen 9 5980HS",
     "mark": 21058
   },
   {
-    "nameDetail": "Intel Xeon W-2155 @ 3.30GHz",
-    "mark": 21031
+    "nameDetail": "AMD Ryzen 7 PRO 6850U",
+    "mark": 21037
+  },
+  {
+    "nameDetail": "Intel Core i7-7900X @ 3.30GHz",
+    "mark": 21008
   },
   {
     "nameDetail": "Intel Core i7-11800H @ 2.30GHz",
-    "mark": 21011
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 PRO 6850U",
-    "mark": 20988
+    "mark": 21004
   },
   {
     "nameDetail": "Intel Xeon Silver 4310T @ 2.30GHz",
@@ -1396,16 +1416,12 @@
     "mark": 20956
   },
   {
-    "nameDetail": "Intel Core i7-7900X @ 3.30GHz",
-    "mark": 20927
+    "nameDetail": "Intel Core i7-11850H @ 2.50GHz",
+    "mark": 20915
   },
   {
     "nameDetail": "Intel Xeon Gold 6250 @ 3.90GHz",
     "mark": 20915
-  },
-  {
-    "nameDetail": "Intel Core i7-11850H @ 2.50GHz",
-    "mark": 20897
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 4700G",
@@ -1416,12 +1432,16 @@
     "mark": 20843
   },
   {
-    "nameDetail": "AMD EPYC 7262",
-    "mark": 20827
+    "nameDetail": "Intel Core i7-1360P",
+    "mark": 20813
   },
   {
     "nameDetail": "Intel Xeon D-2796TE @ 2.00GHz",
     "mark": 20806
+  },
+  {
+    "nameDetail": "AMD EPYC 7262",
+    "mark": 20795
   },
   {
     "nameDetail": "Intel Core i5-12490F",
@@ -1441,23 +1461,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5800HS",
-    "mark": 20670
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 PRO 4750G",
-    "mark": 20581
+    "mark": 20655
   },
   {
     "nameDetail": "AMD Ryzen 7 6800U",
-    "mark": 20578
+    "mark": 20655
   },
   {
-    "nameDetail": "Intel Xeon E5-2697 v4 @ 2.30GHz",
-    "mark": 20536
+    "nameDetail": "AMD Ryzen 7 PRO 4750G",
+    "mark": 20572
   },
   {
     "nameDetail": "Intel Core i9-10900F @ 2.80GHz",
-    "mark": 20517
+    "mark": 20512
   },
   {
     "nameDetail": "AMD EPYC 7451",
@@ -1465,31 +1481,31 @@
   },
   {
     "nameDetail": "Intel Core i7-1280P",
-    "mark": 20436
+    "mark": 20442
   },
   {
     "nameDetail": "Intel Xeon W-2150B @ 3.00GHz",
-    "mark": 20422
+    "mark": 20430
   },
   {
     "nameDetail": "Intel Xeon Silver 4216 @ 2.10GHz",
     "mark": 20380
   },
   {
+    "nameDetail": "AMD Ryzen 7 4700GE",
+    "mark": 20249
+  },
+  {
     "nameDetail": "AMD Ryzen 7 4700G",
     "mark": 20231
   },
   {
-    "nameDetail": "AMD Ryzen 7 4700GE",
-    "mark": 20218
-  },
-  {
     "nameDetail": "Intel Core i9-10900 @ 2.80GHz",
-    "mark": 20206
+    "mark": 20211
   },
   {
     "nameDetail": "Intel Core i7-11700 @ 2.50GHz",
-    "mark": 20144
+    "mark": 20126
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 6650H",
@@ -1500,12 +1516,8 @@
     "mark": 20100
   },
   {
-    "nameDetail": "Intel Xeon E5-2699C v4 @ 2.20GHz",
-    "mark": 20079
-  },
-  {
     "nameDetail": "AMD Ryzen 5 PRO 5650G",
-    "mark": 20075
+    "mark": 20070
   },
   {
     "nameDetail": "Intel Xeon W-1350P @ 4.00GHz",
@@ -1517,15 +1529,19 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2690 v4 @ 2.60GHz",
-    "mark": 20008
+    "mark": 19993
   },
   {
     "nameDetail": "Intel Core i5-12500",
-    "mark": 19897
+    "mark": 19895
   },
   {
     "nameDetail": "AMD Ryzen 5 5600G",
-    "mark": 19884
+    "mark": 19891
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2697 v4 @ 2.30GHz",
+    "mark": 19836
   },
   {
     "nameDetail": "Intel Xeon D-1747NTE @ 2.50GHz",
@@ -1541,15 +1557,15 @@
   },
   {
     "nameDetail": "Intel Core i5-12400F",
-    "mark": 19759
+    "mark": 19757
   },
   {
     "nameDetail": "Intel Core i5-11600K @ 3.90GHz",
-    "mark": 19750
+    "mark": 19756
   },
   {
     "nameDetail": "Intel Core i5-11600KF @ 3.90GHz",
-    "mark": 19749
+    "mark": 19744
   },
   {
     "nameDetail": "Intel Core i5-1250P",
@@ -1572,20 +1588,24 @@
     "mark": 19656
   },
   {
+    "nameDetail": "Intel Core i5-1340P",
+    "mark": 19618
+  },
+  {
     "nameDetail": "AMD EPYC 7252",
     "mark": 19616
   },
   {
     "nameDetail": "Intel Core i9-9900KS @ 4.00GHz",
-    "mark": 19578
-  },
-  {
-    "nameDetail": "Intel Core i5-12400",
-    "mark": 19550
+    "mark": 19587
   },
   {
     "nameDetail": "AMD Ryzen 5 5500",
-    "mark": 19548
+    "mark": 19558
+  },
+  {
+    "nameDetail": "Intel Core i5-12400",
+    "mark": 19545
   },
   {
     "nameDetail": "Intel Xeon Gold 6244 @ 3.60GHz",
@@ -1594,6 +1614,10 @@
   {
     "nameDetail": "Intel Xeon W-2245 @ 3.90GHz",
     "mark": 19478
+  },
+  {
+    "nameDetail": "Intel Xeon E-2356G @ 3.20GHz",
+    "mark": 19473
   },
   {
     "nameDetail": "Intel Xeon Gold 6137 @ 3.90GHz",
@@ -1605,11 +1629,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 4900H",
-    "mark": 19266
+    "mark": 19278
   },
   {
     "nameDetail": "AMD Ryzen 9 4900HS",
-    "mark": 19264
+    "mark": 19260
   },
   {
     "nameDetail": "Intel Xeon Silver 4309Y @ 2.80GHz",
@@ -1618,10 +1642,6 @@
   {
     "nameDetail": "Intel Xeon W-1270P @ 3.80GHz",
     "mark": 19245
-  },
-  {
-    "nameDetail": "Intel Xeon E-2356G @ 3.20GHz",
-    "mark": 19241
   },
   {
     "nameDetail": "Intel Xeon Gold 6126 @ 2.60GHz",
@@ -1633,19 +1653,19 @@
   },
   {
     "nameDetail": "Intel Core i7-10700K @ 3.80GHz",
-    "mark": 19108
+    "mark": 19100
   },
   {
     "nameDetail": "AMD Ryzen 5 6600HS Creator Edition",
-    "mark": 19053
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 7730U",
-    "mark": 19034
+    "mark": 19087
   },
   {
     "nameDetail": "Intel Xeon W-1350 @ 3.30GHz",
     "mark": 19015
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 6600H",
+    "mark": 19004
   },
   {
     "nameDetail": "Intel Xeon E5-2676 v4 @ 2.40GHz",
@@ -1656,20 +1676,24 @@
     "mark": 18965
   },
   {
-    "nameDetail": "AMD Ryzen 5 6600H",
-    "mark": 18924
+    "nameDetail": "AMD Ryzen 5 5600GE",
+    "mark": 18880
   },
   {
     "nameDetail": "Intel Xeon E5-2697 v3 @ 2.60GHz",
-    "mark": 18872
+    "mark": 18873
   },
   {
-    "nameDetail": "Intel Xeon E5-2698 v3 @ 2.30GHz",
+    "nameDetail": "AMD Ryzen 7 7730U",
     "mark": 18864
   },
   {
     "nameDetail": "AMD Ryzen 7 4800H",
-    "mark": 18841
+    "mark": 18838
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2698 v3 @ 2.30GHz",
+    "mark": 18836
   },
   {
     "nameDetail": "Hygon C86 7255 16-core",
@@ -1680,16 +1704,12 @@
     "mark": 18823
   },
   {
-    "nameDetail": "AMD Ryzen 5 5600GE",
-    "mark": 18818
-  },
-  {
     "nameDetail": "AMD Ryzen 7 5800U",
-    "mark": 18725
+    "mark": 18737
   },
   {
     "nameDetail": "AMD Ryzen 5 3600XT",
-    "mark": 18713
+    "mark": 18712
   },
   {
     "nameDetail": "AMD Ryzen 7 4800HS",
@@ -1705,15 +1725,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 5650GE",
-    "mark": 18576
+    "mark": 18574
+  },
+  {
+    "nameDetail": "Intel Core i9-10900TE @ 1.80GHz",
+    "mark": 18548
   },
   {
     "nameDetail": "Intel Core i9-9900K @ 3.60GHz",
-    "mark": 18542
+    "mark": 18540
   },
   {
     "nameDetail": "Intel Core i9-9900KF @ 3.60GHz",
-    "mark": 18522
+    "mark": 18526
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 4750GE",
@@ -1721,7 +1745,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5825U",
-    "mark": 18479
+    "mark": 18496
   },
   {
     "nameDetail": "Intel Xeon W-1290E @ 3.50GHz",
@@ -1752,12 +1776,12 @@
     "mark": 18276
   },
   {
-    "nameDetail": "AMD Ryzen 7 Extreme Edition",
+    "nameDetail": "AMD Ryzen 5 3600X",
     "mark": 18261
   },
   {
-    "nameDetail": "AMD Ryzen 5 3600X",
-    "mark": 18259
+    "nameDetail": "AMD Ryzen 7 Extreme Edition",
+    "mark": 18261
   },
   {
     "nameDetail": "Intel Xeon E7-8880 v3 @ 2.30GHz",
@@ -1769,7 +1793,7 @@
   },
   {
     "nameDetail": "Intel Core i5-11600 @ 2.80GHz",
-    "mark": 18188
+    "mark": 18186
   },
   {
     "nameDetail": "Intel Xeon E5-2686 v3 @ 2.00GHz",
@@ -1781,11 +1805,11 @@
   },
   {
     "nameDetail": "Intel Core i7-9800X @ 3.80GHz",
-    "mark": 18113
+    "mark": 18112
   },
   {
     "nameDetail": "Intel Core i5-12450H",
-    "mark": 18098
+    "mark": 18106
   },
   {
     "nameDetail": "Intel Xeon D-2187NT @ 2.00GHz",
@@ -1797,7 +1821,11 @@
   },
   {
     "nameDetail": "AMD 4700S",
-    "mark": 18034
+    "mark": 18054
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2687W v4 @ 3.00GHz",
+    "mark": 18050
   },
   {
     "nameDetail": "Intel Xeon E5-2680 v4 @ 2.40GHz",
@@ -1812,24 +1840,8 @@
     "mark": 17906
   },
   {
-    "nameDetail": "Intel Core i9-10900TE @ 1.80GHz",
-    "mark": 17888
-  },
-  {
-    "nameDetail": "Intel Core i5-1340P",
-    "mark": 17878
-  },
-  {
     "nameDetail": "Intel Xeon D-1736NT @ 2.70GHz",
     "mark": 17826
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2687W v4 @ 3.00GHz",
-    "mark": 17809
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 3600",
-    "mark": 17807
   },
   {
     "nameDetail": "Intel Core i5-11500B @ 3.30GHz",
@@ -1840,24 +1852,28 @@
     "mark": 17795
   },
   {
+    "nameDetail": "AMD Ryzen 5 PRO 3600",
+    "mark": 17723
+  },
+  {
     "nameDetail": "AMD Ryzen 5 6600U",
-    "mark": 17699
+    "mark": 17702
   },
   {
     "nameDetail": "Intel Xeon Gold 5120 @ 2.20GHz",
     "mark": 17686
   },
   {
-    "nameDetail": "Intel Core i7-1270P",
-    "mark": 17621
+    "nameDetail": "AMD Ryzen 7 2700X",
+    "mark": 17594
   },
   {
-    "nameDetail": "AMD Ryzen 7 2700X",
-    "mark": 17595
+    "nameDetail": "Intel Core i7-1270P",
+    "mark": 17592
   },
   {
     "nameDetail": "Intel Core i5-11500 @ 2.70GHz",
-    "mark": 17524
+    "mark": 17496
   },
   {
     "nameDetail": "Intel Xeon E5-2683 v4 @ 2.10GHz",
@@ -1881,7 +1897,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 5850U",
-    "mark": 17347
+    "mark": 17359
   },
   {
     "nameDetail": "Intel Core i7-6950X @ 3.00GHz",
@@ -1889,7 +1905,7 @@
   },
   {
     "nameDetail": "Intel Core i5-1240P",
-    "mark": 17320
+    "mark": 17321
   },
   {
     "nameDetail": "Intel Xeon W-2140B @ 3.20GHz",
@@ -1897,27 +1913,27 @@
   },
   {
     "nameDetail": "Intel Core i7-7820X @ 3.60GHz",
-    "mark": 17222
-  },
-  {
-    "nameDetail": "Apple M1 Pro 8 Core 3200 MHz",
-    "mark": 17203
+    "mark": 17224
   },
   {
     "nameDetail": "Intel Core i5-11400F @ 2.60GHz",
-    "mark": 17197
+    "mark": 17203
+  },
+  {
+    "nameDetail": "Apple M1 Pro 8 Core 3200 MHz",
+    "mark": 17201
+  },
+  {
+    "nameDetail": "Intel Core i7-1260P",
+    "mark": 17193
   },
   {
     "nameDetail": "AMD Ryzen 5 5600H",
-    "mark": 17178
+    "mark": 17180
   },
   {
     "nameDetail": "AMD Ryzen Embedded V2748",
     "mark": 17166
-  },
-  {
-    "nameDetail": "Intel Core i7-1260P",
-    "mark": 17153
   },
   {
     "nameDetail": "Intel Core i5-12600T",
@@ -1929,7 +1945,7 @@
   },
   {
     "nameDetail": "Intel Core i5-11400 @ 2.60GHz",
-    "mark": 17045
+    "mark": 17052
   },
   {
     "nameDetail": "Intel Xeon E5-2689 v4 @ 3.10GHz",
@@ -1953,7 +1969,7 @@
   },
   {
     "nameDetail": "Intel Core i7-10700F @ 2.90GHz",
-    "mark": 16927
+    "mark": 16920
   },
   {
     "nameDetail": "Intel Xeon E5-2680R v4 @ 2.40GHz",
@@ -1964,28 +1980,24 @@
     "mark": 16846
   },
   {
-    "nameDetail": "Intel Core i5-12400T",
-    "mark": 16832
-  },
-  {
     "nameDetail": "Intel Core i9-9900 @ 3.10GHz",
-    "mark": 16770
+    "mark": 16762
   },
   {
     "nameDetail": "Intel Core i7-10700 @ 2.90GHz",
-    "mark": 16714
+    "mark": 16709
   },
   {
     "nameDetail": "Intel Xeon E-2336 @ 2.90GHz",
     "mark": 16673
   },
   {
-    "nameDetail": "Intel Xeon E5-2698B v3 @ 2.00GHz",
-    "mark": 16633
+    "nameDetail": "AMD Ryzen 5 PRO 6650U",
+    "mark": 16646
   },
   {
-    "nameDetail": "AMD Ryzen 5 PRO 6650U",
-    "mark": 16611
+    "nameDetail": "Intel Xeon E5-2698B v3 @ 2.00GHz",
+    "mark": 16633
   },
   {
     "nameDetail": "Intel Xeon Gold 6134 @ 3.20GHz",
@@ -1996,16 +2008,16 @@
     "mark": 16584
   },
   {
+    "nameDetail": "Intel Core i5-12400T",
+    "mark": 16552
+  },
+  {
     "nameDetail": "AMD Ryzen 5 7530U",
-    "mark": 16583
+    "mark": 16519
   },
   {
     "nameDetail": "AMD Ryzen Embedded V2718",
     "mark": 16500
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2695 v3 @ 2.30GHz",
-    "mark": 16455
   },
   {
     "nameDetail": "Intel Xeon Silver 4214Y @ 2.20GHz",
@@ -2013,7 +2025,7 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2690 v3 @ 2.60GHz",
-    "mark": 16439
+    "mark": 16424
   },
   {
     "nameDetail": "Intel Core i7-10700E @ 2.90GHz",
@@ -2021,11 +2033,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 1800X",
-    "mark": 16404
+    "mark": 16406
   },
   {
-    "nameDetail": "Intel Xeon E5-4660 v4 @ 2.20GHz",
-    "mark": 16376
+    "nameDetail": "Intel Xeon E5-2695 v3 @ 2.30GHz",
+    "mark": 16400
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 4400G",
@@ -2045,7 +2057,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 4500",
-    "mark": 16190
+    "mark": 16211
   },
   {
     "nameDetail": "Intel Xeon E5-2669 v3 @ 2.30GHz",
@@ -2057,7 +2069,7 @@
   },
   {
     "nameDetail": "Intel Core i5-11500H @ 2.90GHz",
-    "mark": 16052
+    "mark": 16059
   },
   {
     "nameDetail": "Intel Xeon E5-2660 v4 @ 2.00GHz",
@@ -2069,7 +2081,7 @@
   },
   {
     "nameDetail": "Intel Xeon W-10885M @ 2.40GHz",
-    "mark": 15945
+    "mark": 15923
   },
   {
     "nameDetail": "AMD Ryzen 7 4850U Mobile",
@@ -2077,11 +2089,11 @@
   },
   {
     "nameDetail": "Intel Core i5-11400H @ 2.70GHz",
-    "mark": 15916
+    "mark": 15914
   },
   {
     "nameDetail": "Intel Core i9-10980HK @ 2.40GHz",
-    "mark": 15907
+    "mark": 15898
   },
   {
     "nameDetail": "Intel Xeon E-2278GE @ 3.30GHz",
@@ -2097,7 +2109,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 4600G",
-    "mark": 15800
+    "mark": 15803
   },
   {
     "nameDetail": "Intel Xeon D-2733NT @ 2.10GHz",
@@ -2116,12 +2128,8 @@
     "mark": 15745
   },
   {
-    "nameDetail": "Intel Xeon Gold 5215 @ 2.50GHz",
-    "mark": 15735
-  },
-  {
     "nameDetail": "Intel Core i5-11260H @ 2.60GHz",
-    "mark": 15711
+    "mark": 15720
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 1700X",
@@ -2129,7 +2137,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 1700X",
-    "mark": 15682
+    "mark": 15685
   },
   {
     "nameDetail": "AMD Ryzen 5 4600GE",
@@ -2137,7 +2145,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 4650GE",
-    "mark": 15612
+    "mark": 15613
+  },
+  {
+    "nameDetail": "Intel Xeon Gold 5215 @ 2.50GHz",
+    "mark": 15608
   },
   {
     "nameDetail": "Intel Xeon D-1726 @ 2.90GHz",
@@ -2145,11 +2157,11 @@
   },
   {
     "nameDetail": "Intel Core i9-10885H @ 2.40GHz",
-    "mark": 15437
+    "mark": 15439
   },
   {
     "nameDetail": "AMD Ryzen 5 5600U",
-    "mark": 15430
+    "mark": 15433
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 5875U",
@@ -2164,12 +2176,16 @@
     "mark": 15397
   },
   {
-    "nameDetail": "Intel Xeon E5-2680 v3 @ 2.50GHz",
-    "mark": 15368
+    "nameDetail": "Intel Xeon E5-4660 v4 @ 2.20GHz",
+    "mark": 15375
   },
   {
     "nameDetail": "Apple M2 8 Core 3500 MHz",
-    "mark": 15364
+    "mark": 15363
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2680 v3 @ 2.50GHz",
+    "mark": 15341
   },
   {
     "nameDetail": "Intel Core i3-13100F",
@@ -2177,19 +2193,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 4750U",
-    "mark": 15280
+    "mark": 15275
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 2700",
     "mark": 15267
   },
   {
-    "nameDetail": "Intel Core i7-10875H @ 2.30GHz",
-    "mark": 15253
+    "nameDetail": "Intel Core i3-13100",
+    "mark": 15255
   },
   {
-    "nameDetail": "Intel Core i3-13100",
-    "mark": 15219
+    "nameDetail": "Intel Core i7-10875H @ 2.30GHz",
+    "mark": 15251
   },
   {
     "nameDetail": "AMD Ryzen 5 5560U",
@@ -2217,11 +2233,7 @@
   },
   {
     "nameDetail": "Intel Core i3-1220P",
-    "mark": 15093
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 5650U",
-    "mark": 15064
+    "mark": 15063
   },
   {
     "nameDetail": "Intel Xeon Silver 4215R @ 3.20GHz",
@@ -2232,8 +2244,12 @@
     "mark": 15052
   },
   {
+    "nameDetail": "AMD Ryzen 5 PRO 5650U",
+    "mark": 15051
+  },
+  {
     "nameDetail": "AMD Ryzen 5 5625U",
-    "mark": 15013
+    "mark": 15014
   },
   {
     "nameDetail": "AMD EPYC 7301",
@@ -2257,7 +2273,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 1700",
-    "mark": 14846
+    "mark": 14843
   },
   {
     "nameDetail": "Intel Core i3-12300",
@@ -2269,7 +2285,7 @@
   },
   {
     "nameDetail": "Intel Core i7-10870H @ 2.20GHz",
-    "mark": 14813
+    "mark": 14814
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 4400GE",
@@ -2301,7 +2317,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 4600H",
-    "mark": 14632
+    "mark": 14634
   },
   {
     "nameDetail": "Intel Xeon E5-2683 v3 @ 2.00GHz",
@@ -2313,7 +2329,7 @@
   },
   {
     "nameDetail": "Intel Core i7-9700K @ 3.60GHz",
-    "mark": 14554
+    "mark": 14548
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 1700",
@@ -2321,19 +2337,23 @@
   },
   {
     "nameDetail": "Intel Core i9-9980HK @ 2.40GHz",
-    "mark": 14476
-  },
-  {
-    "nameDetail": "Intel Core i5-10600K @ 4.10GHz",
-    "mark": 14469
+    "mark": 14487
   },
   {
     "nameDetail": "Intel Core i5-10600KF @ 4.10GHz",
-    "mark": 14468
+    "mark": 14471
+  },
+  {
+    "nameDetail": "Intel Core i5-10600K @ 4.10GHz",
+    "mark": 14461
+  },
+  {
+    "nameDetail": "Intel Core i7-6900K @ 3.20GHz",
+    "mark": 14446
   },
   {
     "nameDetail": "Intel Core i7-8086K @ 4.00GHz",
-    "mark": 14450
+    "mark": 14445
   },
   {
     "nameDetail": "Intel Xeon W-1250P @ 4.10GHz",
@@ -2349,15 +2369,15 @@
   },
   {
     "nameDetail": "Intel Core i7-9700KF @ 3.60GHz",
-    "mark": 14414
+    "mark": 14412
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 PRO 5675U",
+    "mark": 14410
   },
   {
     "nameDetail": "Intel Xeon Silver 4123 @ 3.00GHz",
     "mark": 14405
-  },
-  {
-    "nameDetail": "Intel Core i7-6900K @ 3.20GHz",
-    "mark": 14401
   },
   {
     "nameDetail": "Intel Xeon W-2235 @ 3.80GHz",
@@ -2365,31 +2385,23 @@
   },
   {
     "nameDetail": "Intel Core i3-12100F",
-    "mark": 14328
+    "mark": 14330
   },
   {
     "nameDetail": "Intel Core i5-1240U",
     "mark": 14323
   },
   {
+    "nameDetail": "Intel Xeon E5-2697 v2 @ 2.70GHz",
+    "mark": 14315
+  },
+  {
     "nameDetail": "Intel Xeon E5-2696 v2 @ 2.50GHz",
     "mark": 14311
   },
   {
-    "nameDetail": "Intel Xeon E5-2697 v2 @ 2.70GHz",
-    "mark": 14311
-  },
-  {
     "nameDetail": "Intel Xeon E5-2666 v3 @ 2.90GHz",
-    "mark": 14307
-  },
-  {
-    "nameDetail": "Intel Xeon E-2236 @ 3.40GHz",
-    "mark": 14297
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 5675U",
-    "mark": 14280
+    "mark": 14306
   },
   {
     "nameDetail": "Intel Xeon E5-4660 v3 @ 2.10GHz",
@@ -2401,7 +2413,11 @@
   },
   {
     "nameDetail": "Apple M1 8 Core 3200 MHz",
-    "mark": 14228
+    "mark": 14218
+  },
+  {
+    "nameDetail": "Intel Xeon E-2236 @ 3.40GHz",
+    "mark": 14214
   },
   {
     "nameDetail": "Intel Xeon W-2135 @ 3.70GHz",
@@ -2412,16 +2428,16 @@
     "mark": 14132
   },
   {
-    "nameDetail": "Intel Xeon E5-2650 v4 @ 2.20GHz",
-    "mark": 14116
-  },
-  {
     "nameDetail": "Intel Xeon E5-2667 v4 @ 3.20GHz",
-    "mark": 14064
+    "mark": 14096
   },
   {
     "nameDetail": "Intel Xeon E-2246G @ 3.60GHz",
     "mark": 14050
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2650 v4 @ 2.20GHz",
+    "mark": 14040
   },
   {
     "nameDetail": "AMD EPYC 3251",
@@ -2429,15 +2445,15 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 2600X",
-    "mark": 13979
+    "mark": 13980
   },
   {
     "nameDetail": "Intel Xeon E5-2676 v3 @ 2.40GHz",
-    "mark": 13979
+    "mark": 13964
   },
   {
     "nameDetail": "Intel Core i9-9880H @ 2.30GHz",
-    "mark": 13953
+    "mark": 13952
   },
   {
     "nameDetail": "Intel Xeon E-2186G @ 3.80GHz",
@@ -2445,7 +2461,7 @@
   },
   {
     "nameDetail": "Intel Core i7-1255U",
-    "mark": 13926
+    "mark": 13914
   },
   {
     "nameDetail": "Intel Xeon Silver 4210 @ 2.20GHz",
@@ -2469,23 +2485,23 @@
   },
   {
     "nameDetail": "Intel Core i7-1265U",
-    "mark": 13824
+    "mark": 13837
   },
   {
     "nameDetail": "Intel Core i3-12100",
-    "mark": 13822
+    "mark": 13835
   },
   {
     "nameDetail": "Intel Xeon E-2276G @ 3.80GHz",
     "mark": 13803
   },
   {
-    "nameDetail": "Intel Xeon E5-2670 v3 @ 2.30GHz",
+    "nameDetail": "Intel Xeon W-1250 @ 3.30GHz",
     "mark": 13801
   },
   {
-    "nameDetail": "Intel Xeon W-1250 @ 3.30GHz",
-    "mark": 13801
+    "nameDetail": "Intel Xeon E5-2670 v3 @ 2.30GHz",
+    "mark": 13800
   },
   {
     "nameDetail": "Intel Xeon E5-1680 v4 @ 3.40GHz",
@@ -2493,19 +2509,19 @@
   },
   {
     "nameDetail": "Intel Core i5-10600 @ 3.30GHz",
-    "mark": 13768
-  },
-  {
-    "nameDetail": "Intel Core i7-1260U",
-    "mark": 13759
+    "mark": 13762
   },
   {
     "nameDetail": "Intel Core i7-8700K @ 3.70GHz",
-    "mark": 13754
+    "mark": 13757
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 5350GE",
     "mark": 13685
+  },
+  {
+    "nameDetail": "Intel Core i5-1235U",
+    "mark": 13675
   },
   {
     "nameDetail": "Intel Xeon E-2286G @ 4.00GHz",
@@ -2514,10 +2530,6 @@
   {
     "nameDetail": "AMD Ryzen 3 5300GE",
     "mark": 13636
-  },
-  {
-    "nameDetail": "Intel Core i5-1235U",
-    "mark": 13631
   },
   {
     "nameDetail": "Intel Xeon E-2176G @ 3.70GHz",
@@ -2533,11 +2545,7 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2690 v2 @ 3.00GHz",
-    "mark": 13526
-  },
-  {
-    "nameDetail": "Intel Core i7-1250U",
-    "mark": 13519
+    "mark": 13545
   },
   {
     "nameDetail": "AMD Ryzen 7 4700U",
@@ -2557,7 +2565,15 @@
   },
   {
     "nameDetail": "Intel Xeon E5-1660 v4 @ 3.20GHz",
-    "mark": 13468
+    "mark": 13479
+  },
+  {
+    "nameDetail": "Intel Core i7-1250U",
+    "mark": 13446
+  },
+  {
+    "nameDetail": "Intel Core i5-11500T @ 1.50GHz",
+    "mark": 13425
   },
   {
     "nameDetail": "Intel Xeon E-2136 @ 3.30GHz",
@@ -2565,23 +2581,19 @@
   },
   {
     "nameDetail": "Intel Core i7-9700F @ 3.00GHz",
-    "mark": 13378
+    "mark": 13376
   },
   {
     "nameDetail": "Intel Core i5-11400T @ 1.30GHz",
     "mark": 13354
   },
   {
-    "nameDetail": "Intel Core i5-11500T @ 1.50GHz",
-    "mark": 13345
-  },
-  {
     "nameDetail": "Intel Core i7-9700 @ 3.00GHz",
-    "mark": 13318
+    "mark": 13310
   },
   {
     "nameDetail": "Intel Core i5-1245U",
-    "mark": 13316
+    "mark": 13307
   },
   {
     "nameDetail": "Intel Xeon D-1581 @ 1.80GHz",
@@ -2589,7 +2601,7 @@
   },
   {
     "nameDetail": "Intel Xeon E-2146G @ 3.50GHz",
-    "mark": 13251
+    "mark": 13255
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 2600",
@@ -2597,11 +2609,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 3500X",
-    "mark": 13236
+    "mark": 13238
   },
   {
     "nameDetail": "AMD Ryzen 5 2600",
-    "mark": 13234
+    "mark": 13235
   },
   {
     "nameDetail": "AMD Ryzen Embedded V2516",
@@ -2621,7 +2633,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 5500U",
-    "mark": 13168
+    "mark": 13166
   },
   {
     "nameDetail": "Intel Xeon D-2143IT @ 2.20GHz",
@@ -2633,7 +2645,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 1600X",
-    "mark": 13068
+    "mark": 13070
+  },
+  {
+    "nameDetail": "Intel Core i7-1260U",
+    "mark": 13046
   },
   {
     "nameDetail": "AMD Ryzen 3 5300G",
@@ -2649,7 +2665,7 @@
   },
   {
     "nameDetail": "Intel Core i7-8700 @ 3.20GHz",
-    "mark": 12966
+    "mark": 12967
   },
   {
     "nameDetail": "Intel Core i3-12100TE",
@@ -2660,28 +2676,28 @@
     "mark": 12944
   },
   {
-    "nameDetail": "Intel Core i7-7800X @ 3.50GHz",
-    "mark": 12916
-  },
-  {
     "nameDetail": "Intel Xeon W-10855M @ 2.80GHz",
     "mark": 12916
   },
   {
+    "nameDetail": "Intel Core i7-7800X @ 3.50GHz",
+    "mark": 12911
+  },
+  {
     "nameDetail": "Intel Core i5-10500 @ 3.10GHz",
-    "mark": 12895
+    "mark": 12892
+  },
+  {
+    "nameDetail": "Intel Core i7-10700T @ 2.00GHz",
+    "mark": 12886
   },
   {
     "nameDetail": "Intel Xeon Silver 4114 @ 2.20GHz",
     "mark": 12883
   },
   {
-    "nameDetail": "Intel Core i7-10700T @ 2.00GHz",
-    "mark": 12874
-  },
-  {
     "nameDetail": "AMD Ryzen 5 3500",
-    "mark": 12838
+    "mark": 12842
   },
   {
     "nameDetail": "Intel Xeon E5-2618L v4 @ 2.20GHz",
@@ -2697,27 +2713,27 @@
   },
   {
     "nameDetail": "Intel Core i7-5960X @ 3.00GHz",
-    "mark": 12740
+    "mark": 12728
   },
   {
     "nameDetail": "Intel Xeon E5-1680 v2 @ 3.00GHz",
-    "mark": 12727
+    "mark": 12726
   },
   {
     "nameDetail": "AMD Ryzen 3 3300X",
-    "mark": 12691
+    "mark": 12696
   },
   {
     "nameDetail": "Intel Xeon E5-2680 v2 @ 2.80GHz",
-    "mark": 12642
+    "mark": 12640
   },
   {
     "nameDetail": "Intel Xeon W-2133 @ 3.60GHz",
-    "mark": 12585
+    "mark": 12591
   },
   {
     "nameDetail": "Intel Xeon E5-2667 v3 @ 3.20GHz",
-    "mark": 12550
+    "mark": 12557
   },
   {
     "nameDetail": "Intel Xeon W-11555MLE @ 1.90GHz",
@@ -2729,31 +2745,31 @@
   },
   {
     "nameDetail": "Intel Core i5-10400F @ 2.90GHz",
-    "mark": 12351
+    "mark": 12354
+  },
+  {
+    "nameDetail": "Intel Core i7-11375H @ 3.30GHz",
+    "mark": 12340
   },
   {
     "nameDetail": "Intel Xeon E5-1660 v3 @ 3.00GHz",
     "mark": 12330
   },
   {
-    "nameDetail": "Intel Core i7-11375H @ 3.30GHz",
-    "mark": 12321
-  },
-  {
     "nameDetail": "AMD Ryzen 5 1600",
-    "mark": 12302
-  },
-  {
-    "nameDetail": "Intel Core i5-10400 @ 2.90GHz",
-    "mark": 12268
+    "mark": 12303
   },
   {
     "nameDetail": "Intel Core i5-10505 @ 3.20GHz",
     "mark": 12268
   },
   {
+    "nameDetail": "Intel Core i5-10400 @ 2.90GHz",
+    "mark": 12266
+  },
+  {
     "nameDetail": "Intel Xeon E5-2667 v2 @ 3.30GHz",
-    "mark": 12234
+    "mark": 12229
   },
   {
     "nameDetail": "Intel Xeon E5-2687W v2 @ 3.40GHz",
@@ -2761,7 +2777,7 @@
   },
   {
     "nameDetail": "Intel Core i7-10750H @ 2.60GHz",
-    "mark": 12156
+    "mark": 12146
   },
   {
     "nameDetail": "Intel Xeon E5-2673 v2 @ 3.30GHz",
@@ -2788,12 +2804,12 @@
     "mark": 12049
   },
   {
-    "nameDetail": "Intel Core i7-10850H @ 2.70GHz",
-    "mark": 12030
-  },
-  {
     "nameDetail": "Intel Xeon E-2278GEL @ 2.00GHz",
     "mark": 12024
+  },
+  {
+    "nameDetail": "Intel Core i7-10850H @ 2.70GHz",
+    "mark": 12021
   },
   {
     "nameDetail": "Intel Xeon E5-2675 v3 @ 1.80GHz",
@@ -2801,7 +2817,7 @@
   },
   {
     "nameDetail": "Intel Core i7-11370H @ 3.30GHz",
-    "mark": 11895
+    "mark": 11898
   },
   {
     "nameDetail": "Intel Xeon E5-2650 v3 @ 2.30GHz",
@@ -2813,7 +2829,7 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2650L v3 @ 1.80GHz",
-    "mark": 11804
+    "mark": 11803
   },
   {
     "nameDetail": "Snapdragon 8cx Gen 3 @ 3.0 GHz",
@@ -2832,6 +2848,10 @@
     "mark": 11700
   },
   {
+    "nameDetail": "Intel Xeon E5-2630 v4 @ 2.20GHz",
+    "mark": 11685
+  },
+  {
     "nameDetail": "AMD Ryzen 3 3100",
     "mark": 11646
   },
@@ -2840,20 +2860,20 @@
     "mark": 11645
   },
   {
-    "nameDetail": "Intel Xeon E5-2630 v4 @ 2.20GHz",
-    "mark": 11644
+    "nameDetail": "AMD Ryzen 3 5425U",
+    "mark": 11619
   },
   {
-    "nameDetail": "AMD Ryzen 3 5425U",
-    "mark": 11632
+    "nameDetail": "Intel Core i3-1215U",
+    "mark": 11552
   },
   {
     "nameDetail": "Intel Xeon E5-2648L v4 @ 1.80GHz",
     "mark": 11547
   },
   {
-    "nameDetail": "Intel Xeon E5-2670 v2 @ 2.50GHz",
-    "mark": 11530
+    "nameDetail": "Intel Xeon E5-1650 v4 @ 3.60GHz",
+    "mark": 11529
   },
   {
     "nameDetail": "Intel Xeon E5-4669 v4 @ 2.20GHz",
@@ -2861,15 +2881,11 @@
   },
   {
     "nameDetail": "Intel Core i5-10500H @ 2.50GHz",
-    "mark": 11507
+    "mark": 11510
   },
   {
-    "nameDetail": "Intel Core i3-1215U",
-    "mark": 11502
-  },
-  {
-    "nameDetail": "Intel Xeon E5-1650 v4 @ 3.60GHz",
-    "mark": 11485
+    "nameDetail": "Intel Xeon E5-2670 v2 @ 2.50GHz",
+    "mark": 11497
   },
   {
     "nameDetail": "Intel Xeon E-2186M @ 2.90GHz",
@@ -2888,10 +2904,6 @@
     "mark": 11372
   },
   {
-    "nameDetail": "Intel Core i7-9850H @ 2.60GHz",
-    "mark": 11362
-  },
-  {
     "nameDetail": "Intel Core i3-11100B @ 3.60GHz",
     "mark": 11357
   },
@@ -2900,20 +2912,24 @@
     "mark": 11353
   },
   {
+    "nameDetail": "Intel Core i7-9850H @ 2.60GHz",
+    "mark": 11345
+  },
+  {
     "nameDetail": "Intel Xeon E5-4627 v3 @ 2.60GHz",
     "mark": 11344
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2640 v3 @ 2.60GHz",
+    "mark": 11340
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 5475U",
     "mark": 11337
   },
   {
-    "nameDetail": "Intel Xeon E5-2640 v3 @ 2.60GHz",
-    "mark": 11330
-  },
-  {
     "nameDetail": "AMD Ryzen 3 PRO 5450U",
-    "mark": 11316
+    "mark": 11320
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 4200G",
@@ -2961,11 +2977,11 @@
   },
   {
     "nameDetail": "Intel Core i7-9750H @ 2.60GHz",
-    "mark": 11071
+    "mark": 11064
   },
   {
-    "nameDetail": "Intel Core i7-1195G7 @ 2.90GHz",
-    "mark": 11061
+    "nameDetail": "Intel Xeon E5-4650 v2 @ 2.40GHz",
+    "mark": 11064
   },
   {
     "nameDetail": "Intel Core i5-11300H @ 3.10GHz",
@@ -2976,16 +2992,16 @@
     "mark": 11052
   },
   {
-    "nameDetail": "AMD Ryzen 5 4500U",
+    "nameDetail": "Intel Core i7-1195G7 @ 2.90GHz",
     "mark": 11049
   },
   {
-    "nameDetail": "AMD Ryzen 3 4300G",
-    "mark": 11041
+    "nameDetail": "AMD Ryzen 5 4500U",
+    "mark": 11043
   },
   {
-    "nameDetail": "Intel Xeon E5-4650 v2 @ 2.40GHz",
-    "mark": 11001
+    "nameDetail": "AMD Ryzen 3 4300G",
+    "mark": 11017
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 4350G",
@@ -2993,7 +3009,7 @@
   },
   {
     "nameDetail": "Intel Core i5-11320H @ 3.20GHz",
-    "mark": 10952
+    "mark": 10961
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 4200GE",
@@ -3001,7 +3017,7 @@
   },
   {
     "nameDetail": "Intel Xeon E-2176M @ 2.70GHz",
-    "mark": 10909
+    "mark": 10889
   },
   {
     "nameDetail": "Intel Xeon E5-2618L v3 @ 2.30GHz",
@@ -3020,6 +3036,10 @@
     "mark": 10859
   },
   {
+    "nameDetail": "AMD Ryzen 3 5400U",
+    "mark": 10856
+  },
+  {
     "nameDetail": "Intel Xeon E5-4650 v3 @ 2.10GHz",
     "mark": 10838
   },
@@ -3029,11 +3049,11 @@
   },
   {
     "nameDetail": "Intel Core i5-9600KF @ 3.70GHz",
-    "mark": 10801
+    "mark": 10804
   },
   {
     "nameDetail": "Intel Core i7-9700T @ 2.00GHz",
-    "mark": 10794
+    "mark": 10790
   },
   {
     "nameDetail": "Intel Core i7-6800K @ 3.40GHz",
@@ -3041,15 +3061,15 @@
   },
   {
     "nameDetail": "Intel Core i5-9600K @ 3.70GHz",
-    "mark": 10766
-  },
-  {
-    "nameDetail": "Intel Core i9-8950HK @ 2.90GHz",
-    "mark": 10748
+    "mark": 10765
   },
   {
     "nameDetail": "Intel Xeon E-2126G @ 3.30GHz",
     "mark": 10747
+  },
+  {
+    "nameDetail": "Intel Core i9-8950HK @ 2.90GHz",
+    "mark": 10744
   },
   {
     "nameDetail": "Intel Core i7-9700TE @ 1.80GHz",
@@ -3069,23 +3089,23 @@
   },
   {
     "nameDetail": "Intel Core i7-1185G7 @ 3.00GHz",
-    "mark": 10635
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 5400U",
-    "mark": 10612
+    "mark": 10634
   },
   {
     "nameDetail": "Intel Xeon E-2324G @ 3.10GHz",
     "mark": 10603
   },
   {
-    "nameDetail": "Intel Core i7-11390H @ 3.40GHz",
-    "mark": 10543
+    "nameDetail": "Intel Core i7-1265UE",
+    "mark": 10573
   },
   {
     "nameDetail": "Intel Xeon E5-4620 v3 @ 2.00GHz",
     "mark": 10525
+  },
+  {
+    "nameDetail": "Intel Core i7-11390H @ 3.40GHz",
+    "mark": 10522
   },
   {
     "nameDetail": "Intel Xeon E5-2658 v2 @ 2.40GHz",
@@ -3096,32 +3116,28 @@
     "mark": 10506
   },
   {
-    "nameDetail": "Intel Xeon E5-2470 v2 @ 2.40GHz",
-    "mark": 10476
-  },
-  {
     "nameDetail": "Intel Core i3-N305",
     "mark": 10475
+  },
+  {
+    "nameDetail": "Intel Xeon E5-1650 v3 @ 3.50GHz",
+    "mark": 10449
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2470 v2 @ 2.40GHz",
+    "mark": 10449
   },
   {
     "nameDetail": "Intel Xeon D-1567 @ 2.10GHz",
     "mark": 10447
   },
   {
-    "nameDetail": "Intel Xeon E5-1650 v3 @ 3.50GHz",
-    "mark": 10447
+    "nameDetail": "Intel Xeon E5-2630 v3 @ 2.40GHz",
+    "mark": 10424
   },
   {
     "nameDetail": "Intel Core i7-1165G7 @ 2.80GHz",
-    "mark": 10426
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2630 v3 @ 2.40GHz",
-    "mark": 10425
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 1600",
-    "mark": 10401
+    "mark": 10422
   },
   {
     "nameDetail": "Intel Xeon E5-1660 v2 @ 3.70GHz",
@@ -3141,11 +3157,15 @@
   },
   {
     "nameDetail": "Intel Core i7-8700T @ 2.40GHz",
-    "mark": 10341
+    "mark": 10344
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 PRO 1600",
+    "mark": 10336
   },
   {
     "nameDetail": "Intel Core i7-8850H @ 2.60GHz",
-    "mark": 10334
+    "mark": 10321
   },
   {
     "nameDetail": "Intel Core i5-9600 @ 3.10GHz",
@@ -3153,7 +3173,7 @@
   },
   {
     "nameDetail": "Intel Core i7-5930K @ 3.50GHz",
-    "mark": 10311
+    "mark": 10299
   },
   {
     "nameDetail": "Intel Core i5-9500F @ 3.00GHz",
@@ -3161,15 +3181,15 @@
   },
   {
     "nameDetail": "Intel Core i5-8600K @ 3.60GHz",
-    "mark": 10243
+    "mark": 10235
   },
   {
     "nameDetail": "Intel Core i5-10500T @ 2.30GHz",
-    "mark": 10214
+    "mark": 10224
   },
   {
     "nameDetail": "Intel Core i5-1155G7 @ 2.50GHz",
-    "mark": 10193
+    "mark": 10220
   },
   {
     "nameDetail": "Intel Xeon D-1541 @ 2.10GHz",
@@ -3189,11 +3209,11 @@
   },
   {
     "nameDetail": "Intel Core i5-1145G7 @ 2.60GHz",
-    "mark": 10074
+    "mark": 10082
   },
   {
     "nameDetail": "Intel Core i3-10320 @ 3.80GHz",
-    "mark": 10068
+    "mark": 10057
   },
   {
     "nameDetail": "Intel Xeon D-1540 @ 2.00GHz",
@@ -3201,23 +3221,27 @@
   },
   {
     "nameDetail": "Intel Core i7-8750H @ 2.20GHz",
-    "mark": 10026
-  },
-  {
-    "nameDetail": "Intel Xeon W-2125 @ 4.00GHz",
-    "mark": 9995
+    "mark": 10027
   },
   {
     "nameDetail": "Intel Xeon Silver 4110 @ 2.10GHz",
     "mark": 9990
   },
   {
-    "nameDetail": "Intel Core i5-1135G7 @ 2.40GHz",
+    "nameDetail": "Intel Xeon W-2125 @ 4.00GHz",
     "mark": 9985
+  },
+  {
+    "nameDetail": "Intel Core i5-1135G7 @ 2.40GHz",
+    "mark": 9984
   },
   {
     "nameDetail": "Intel Xeon E5-2650 v2 @ 2.60GHz",
     "mark": 9973
+  },
+  {
+    "nameDetail": "Intel Core i5-8600 @ 3.10GHz",
+    "mark": 9962
   },
   {
     "nameDetail": "Intel Core i5-10500TE @ 2.30GHz",
@@ -3225,11 +3249,7 @@
   },
   {
     "nameDetail": "Intel Core i5-10400T @ 2.00GHz",
-    "mark": 9955
-  },
-  {
-    "nameDetail": "Intel Core i5-8600 @ 3.10GHz",
-    "mark": 9950
+    "mark": 9957
   },
   {
     "nameDetail": "Intel Xeon E5-2628L v3 @ 2.00GHz",
@@ -3241,7 +3261,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 5300U",
-    "mark": 9939
+    "mark": 9937
   },
   {
     "nameDetail": "Intel Xeon E-2234 @ 3.60GHz",
@@ -3249,7 +3269,7 @@
   },
   {
     "nameDetail": "Intel Core i3-1125G4 @ 2.00GHz",
-    "mark": 9892
+    "mark": 9894
   },
   {
     "nameDetail": "Intel Core i7-1068NG7 @ 2.30GHz",
@@ -3257,19 +3277,19 @@
   },
   {
     "nameDetail": "Intel Core i7-10710U @ 1.10GHz",
-    "mark": 9857
-  },
-  {
-    "nameDetail": "Intel Core i7-5820K @ 3.30GHz",
-    "mark": 9849
+    "mark": 9848
   },
   {
     "nameDetail": "Intel Xeon E5-2648L v3 @ 1.80GHz",
     "mark": 9847
   },
   {
+    "nameDetail": "Intel Core i7-5820K @ 3.30GHz",
+    "mark": 9846
+  },
+  {
     "nameDetail": "Intel Core i7-7740X @ 4.30GHz",
-    "mark": 9834
+    "mark": 9843
   },
   {
     "nameDetail": "Intel Core i5-1140G7 @ 1.10GHz",
@@ -3280,16 +3300,16 @@
     "mark": 9794
   },
   {
-    "nameDetail": "Intel Core i5-9500 @ 3.00GHz",
-    "mark": 9787
-  },
-  {
     "nameDetail": "Intel Xeon E5-2690 @ 2.90GHz",
     "mark": 9787
   },
   {
+    "nameDetail": "Intel Core i5-9500 @ 3.00GHz",
+    "mark": 9780
+  },
+  {
     "nameDetail": "Intel Xeon E5-2689 @ 2.60GHz",
-    "mark": 9738
+    "mark": 9734
   },
   {
     "nameDetail": "Intel Xeon E-2274G @ 4.00GHz",
@@ -3297,11 +3317,15 @@
   },
   {
     "nameDetail": "Intel Core i7-7700K @ 4.20GHz",
-    "mark": 9663
+    "mark": 9665
   },
   {
     "nameDetail": "AMD Ryzen 5 7520U",
     "mark": 9657
+  },
+  {
+    "nameDetail": "Intel Xeon E-2174G @ 3.80GHz",
+    "mark": 9648
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 3350GE",
@@ -3312,20 +3336,12 @@
     "mark": 9627
   },
   {
-    "nameDetail": "Intel Xeon E-2174G @ 3.80GHz",
-    "mark": 9627
-  },
-  {
     "nameDetail": "Intel Xeon D-1718T @ 2.60GHz",
     "mark": 9610
   },
   {
     "nameDetail": "Intel Core i5-8500 @ 3.00GHz",
-    "mark": 9585
-  },
-  {
-    "nameDetail": "Intel Xeon Gold 5222 @ 3.80GHz",
-    "mark": 9558
+    "mark": 9587
   },
   {
     "nameDetail": "Intel Xeon E5-4620 v2 @ 2.60GHz",
@@ -3333,7 +3349,7 @@
   },
   {
     "nameDetail": "Intel Core i5-9400F @ 2.90GHz",
-    "mark": 9527
+    "mark": 9529
   },
   {
     "nameDetail": "AMD Ryzen 5 2500X",
@@ -3341,43 +3357,43 @@
   },
   {
     "nameDetail": "Intel Core i5-9400 @ 2.90GHz",
-    "mark": 9453
+    "mark": 9455
   },
   {
     "nameDetail": "Intel Core i3-10300 @ 3.70GHz",
-    "mark": 9439
+    "mark": 9451
+  },
+  {
+    "nameDetail": "Intel Xeon Gold 5222 @ 3.80GHz",
+    "mark": 9436
   },
   {
     "nameDetail": "Intel Xeon E5-2680 @ 2.70GHz",
-    "mark": 9402
+    "mark": 9408
   },
   {
     "nameDetail": "Intel Core i5-9600T @ 2.30GHz",
     "mark": 9392
   },
   {
-    "nameDetail": "Intel Core i7-1265UE",
-    "mark": 9392
-  },
-  {
-    "nameDetail": "Intel Core i5-1038NG7 @ 2.00GHz",
-    "mark": 9387
-  },
-  {
     "nameDetail": "Intel Core i7-4930K @ 3.40GHz",
-    "mark": 9386
+    "mark": 9388
   },
   {
     "nameDetail": "Intel Xeon E5-4655 v3 @ 2.90GHz",
     "mark": 9377
   },
   {
-    "nameDetail": "AMD Ryzen 5 PRO 3350G",
-    "mark": 9354
+    "nameDetail": "Intel Core i5-1038NG7 @ 2.00GHz",
+    "mark": 9376
   },
   {
     "nameDetail": "Snapdragon 8 Gen2 Mobile Platform for Galaxy",
-    "mark": 9353
+    "mark": 9362
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 PRO 3350G",
+    "mark": 9347
   },
   {
     "nameDetail": "AMD Ryzen 5 3350GE",
@@ -3388,16 +3404,16 @@
     "mark": 9322
   },
   {
-    "nameDetail": "Intel Xeon E5-1650 v2 @ 3.50GHz",
-    "mark": 9320
-  },
-  {
     "nameDetail": "Intel Xeon E5-4627 v2 @ 3.30GHz",
     "mark": 9320
   },
   {
     "nameDetail": "AMD Ryzen 5 3400G",
-    "mark": 9315
+    "mark": 9316
+  },
+  {
+    "nameDetail": "Intel Xeon E5-1650 v2 @ 3.50GHz",
+    "mark": 9316
   },
   {
     "nameDetail": "AMD Ryzen 3 7320U",
@@ -3413,7 +3429,7 @@
   },
   {
     "nameDetail": "Intel Core i5-8400 @ 2.80GHz",
-    "mark": 9251
+    "mark": 9252
   },
   {
     "nameDetail": "Intel Xeon E5-2620 v4 @ 2.10GHz",
@@ -3425,7 +3441,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 3400G",
-    "mark": 9214
+    "mark": 9213
   },
   {
     "nameDetail": "Intel Xeon E3-1275 v6 @ 3.80GHz",
@@ -3473,15 +3489,15 @@
   },
   {
     "nameDetail": "Intel Core i5-8500B @ 3.00GHz",
-    "mark": 9087
+    "mark": 9096
+  },
+  {
+    "nameDetail": "Intel Core i3-10105F @ 3.70GHz",
+    "mark": 9078
   },
   {
     "nameDetail": "Intel Xeon D-1548 @ 2.00GHz",
     "mark": 9075
-  },
-  {
-    "nameDetail": "Intel Core i3-10105F @ 3.70GHz",
-    "mark": 9073
   },
   {
     "nameDetail": "Intel Xeon E5-4648 v3 @ 1.70GHz",
@@ -3504,6 +3520,10 @@
     "mark": 8960
   },
   {
+    "nameDetail": "Intel Xeon E5-2670 @ 2.60GHz",
+    "mark": 8943
+  },
+  {
     "nameDetail": "Intel Core i7-6700K @ 4.00GHz",
     "mark": 8942
   },
@@ -3512,12 +3532,8 @@
     "mark": 8940
   },
   {
-    "nameDetail": "Intel Xeon E5-2670 @ 2.60GHz",
-    "mark": 8936
-  },
-  {
-    "nameDetail": "Intel Core i5-1130G7 @ 1.10GHz",
-    "mark": 8930
+    "nameDetail": "Intel Pentium Gold 8505",
+    "mark": 8935
   },
   {
     "nameDetail": "Intel Xeon E3-1270 v6 @ 3.80GHz",
@@ -3532,12 +3548,16 @@
     "mark": 8882
   },
   {
+    "nameDetail": "Intel Core i5-1130G7 @ 1.10GHz",
+    "mark": 8870
+  },
+  {
     "nameDetail": "Intel Xeon E5-2630L v3 @ 1.80GHz",
     "mark": 8869
   },
   {
     "nameDetail": "Intel Core i3-10100F @ 3.60GHz",
-    "mark": 8843
+    "mark": 8840
   },
   {
     "nameDetail": "Intel Xeon E5-2648L v2 @ 1.90GHz",
@@ -3565,11 +3585,11 @@
   },
   {
     "nameDetail": "Intel Core i3-10100 @ 3.60GHz",
-    "mark": 8722
+    "mark": 8723
   },
   {
     "nameDetail": "Intel Core i7-8559U @ 2.70GHz",
-    "mark": 8705
+    "mark": 8709
   },
   {
     "nameDetail": "Intel Xeon E3-1240 v6 @ 3.70GHz",
@@ -3581,7 +3601,7 @@
   },
   {
     "nameDetail": "Intel Core i3-10105 @ 3.70GHz",
-    "mark": 8680
+    "mark": 8682
   },
   {
     "nameDetail": "Intel Xeon E3-1245 v6 @ 3.70GHz",
@@ -3593,7 +3613,7 @@
   },
   {
     "nameDetail": "Intel Core i7-7700 @ 3.60GHz",
-    "mark": 8657
+    "mark": 8658
   },
   {
     "nameDetail": "Intel Core i7-8809G @ 3.10GHz",
@@ -3609,11 +3629,11 @@
   },
   {
     "nameDetail": "Intel Core i5-10300H @ 2.50GHz",
-    "mark": 8590
+    "mark": 8584
   },
   {
     "nameDetail": "Intel Core i5-1035G7 @ 1.20GHz",
-    "mark": 8560
+    "mark": 8574
   },
   {
     "nameDetail": "AMD EPYC 3201",
@@ -3625,7 +3645,7 @@
   },
   {
     "nameDetail": "Apple A14 Bionic",
-    "mark": 8519
+    "mark": 8520
   },
   {
     "nameDetail": "Intel Xeon W-2123 @ 3.60GHz",
@@ -3633,7 +3653,7 @@
   },
   {
     "nameDetail": "Intel Core i7-1065G7 @ 1.30GHz",
-    "mark": 8494
+    "mark": 8492
   },
   {
     "nameDetail": "AMD Ryzen Embedded V1807B",
@@ -3644,6 +3664,10 @@
     "mark": 8472
   },
   {
+    "nameDetail": "Intel Core i7-3960X @ 3.30GHz",
+    "mark": 8453
+  },
+  {
     "nameDetail": "Intel Xeon E3-1275 v5 @ 3.60GHz",
     "mark": 8452
   },
@@ -3652,12 +3676,8 @@
     "mark": 8447
   },
   {
-    "nameDetail": "Intel Core i7-3960X @ 3.30GHz",
-    "mark": 8444
-  },
-  {
     "nameDetail": "Intel Core i7-8569U @ 2.80GHz",
-    "mark": 8442
+    "mark": 8431
   },
   {
     "nameDetail": "Intel Xeon E5-2665 @ 2.40GHz",
@@ -3677,27 +3697,23 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 2400G",
-    "mark": 8395
+    "mark": 8405
   },
   {
     "nameDetail": "Intel Xeon E3-1280 v5 @ 3.70GHz",
     "mark": 8377
   },
   {
+    "nameDetail": "Intel Core i7-1180G7 @ 1.30GHz",
+    "mark": 8352
+  },
+  {
     "nameDetail": "Intel Xeon E3-1270 v5 @ 3.60GHz",
-    "mark": 8338
+    "mark": 8342
   },
   {
     "nameDetail": "Intel Core i5-10200H @ 2.40GHz",
     "mark": 8334
-  },
-  {
-    "nameDetail": "Intel Core i7-1180G7 @ 1.30GHz",
-    "mark": 8332
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1240 v5 @ 3.50GHz",
-    "mark": 8329
   },
   {
     "nameDetail": "AMD Opteron 6386 SE",
@@ -3708,20 +3724,28 @@
     "mark": 8296
   },
   {
-    "nameDetail": "Intel Core i5-9400H @ 2.50GHz",
-    "mark": 8271
+    "nameDetail": "Intel Xeon E3-1240 v5 @ 3.50GHz",
+    "mark": 8284
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 3400GE",
-    "mark": 8267
+    "mark": 8272
+  },
+  {
+    "nameDetail": "Intel Xeon E-2314 @ 2.80GHz",
+    "mark": 8256
   },
   {
     "nameDetail": "Intel Core i7-3930K @ 3.20GHz",
-    "mark": 8252
+    "mark": 8253
+  },
+  {
+    "nameDetail": "Intel Core i5-9400H @ 2.50GHz",
+    "mark": 8247
   },
   {
     "nameDetail": "Intel Core i5-9500T @ 2.20GHz",
-    "mark": 8246
+    "mark": 8245
   },
   {
     "nameDetail": "Intel Core i3-10100E @ 3.20GHz",
@@ -3729,7 +3753,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 3750H",
-    "mark": 8225
+    "mark": 8226
   },
   {
     "nameDetail": "AMD Ryzen Embedded V1756B",
@@ -3752,12 +3776,16 @@
     "mark": 8194
   },
   {
-    "nameDetail": "Intel Xeon E-2314 @ 2.80GHz",
-    "mark": 8187
-  },
-  {
     "nameDetail": "Intel Xeon E-2276ME @ 2.80GHz",
     "mark": 8167
+  },
+  {
+    "nameDetail": "Intel Core i7-10810U @ 1.10GHz",
+    "mark": 8159
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1535M v6 @ 3.10GHz",
+    "mark": 8145
   },
   {
     "nameDetail": "Intel Xeon E5-2660 @ 2.20GHz",
@@ -3768,20 +3796,12 @@
     "mark": 8136
   },
   {
-    "nameDetail": "Intel Core i7-10810U @ 1.10GHz",
-    "mark": 8136
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1535M v6 @ 3.10GHz",
-    "mark": 8131
+    "nameDetail": "Intel Core i7-8706G @ 3.10GHz",
+    "mark": 8128
   },
   {
     "nameDetail": "Intel Core i5-9400T @ 1.80GHz",
-    "mark": 8129
-  },
-  {
-    "nameDetail": "Intel Core i7-8706G @ 3.10GHz",
-    "mark": 8128
+    "mark": 8117
   },
   {
     "nameDetail": "Intel Xeon E5-1650 @ 3.20GHz",
@@ -3789,11 +3809,11 @@
   },
   {
     "nameDetail": "Intel Core i7-6700 @ 3.40GHz",
-    "mark": 8091
+    "mark": 8081
   },
   {
     "nameDetail": "Intel Core i5-8259U @ 2.30GHz",
-    "mark": 8078
+    "mark": 8074
   },
   {
     "nameDetail": "Intel Xeon E3-1285L v4 @ 3.40GHz",
@@ -3805,27 +3825,27 @@
   },
   {
     "nameDetail": "Intel Core i5-1035G4 @ 1.10GHz",
-    "mark": 8066
-  },
-  {
-    "nameDetail": "Intel Core i7-4790K @ 4.00GHz",
-    "mark": 8058
+    "mark": 8055
   },
   {
     "nameDetail": "Intel Core i5-8269U @ 2.60GHz",
     "mark": 8055
   },
   {
-    "nameDetail": "Intel Xeon E3-1230 v5 @ 3.40GHz",
-    "mark": 8039
+    "nameDetail": "Intel Core i7-4790K @ 4.00GHz",
+    "mark": 8055
   },
   {
     "nameDetail": "Intel Xeon E3-1245 v5 @ 3.50GHz",
-    "mark": 8034
+    "mark": 8038
   },
   {
     "nameDetail": "AMD Opteron 6348",
     "mark": 8030
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1230 v5 @ 3.40GHz",
+    "mark": 8026
   },
   {
     "nameDetail": "Intel Xeon E3-1585L v5 @ 3.00GHz",
@@ -3833,7 +3853,7 @@
   },
   {
     "nameDetail": "Intel Core i7-8557U @ 1.70GHz",
-    "mark": 8012
+    "mark": 8003
   },
   {
     "nameDetail": "CentaurHauls @2500MHz",
@@ -3844,12 +3864,12 @@
     "mark": 7967
   },
   {
-    "nameDetail": "Intel Core i5-8400H @ 2.50GHz",
-    "mark": 7959
+    "nameDetail": "Intel Xeon E3-1545M v5 @ 2.90GHz",
+    "mark": 7961
   },
   {
-    "nameDetail": "Intel Xeon E3-1545M v5 @ 2.90GHz",
-    "mark": 7943
+    "nameDetail": "Intel Core i5-8400H @ 2.50GHz",
+    "mark": 7959
   },
   {
     "nameDetail": "Intel Xeon E3-1515M v5 @ 2.80GHz",
@@ -3861,7 +3881,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 3550H",
-    "mark": 7901
+    "mark": 7899
   },
   {
     "nameDetail": "AMD Ryzen 5 2600H",
@@ -3869,7 +3889,11 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2620 v3 @ 2.40GHz",
-    "mark": 7857
+    "mark": 7854
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1575M v5 @ 3.00GHz",
+    "mark": 7846
   },
   {
     "nameDetail": "Intel Xeon E5-2640 v2 @ 2.00GHz",
@@ -3878,10 +3902,6 @@
   {
     "nameDetail": "Intel Core i5-8260U @ 1.60GHz",
     "mark": 7808
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1575M v5 @ 3.00GHz",
-    "mark": 7802
   },
   {
     "nameDetail": "Intel Core i7-8705G @ 3.10GHz",
@@ -3893,11 +3913,11 @@
   },
   {
     "nameDetail": "Intel Core i5-8279U @ 2.40GHz",
-    "mark": 7768
+    "mark": 7774
   },
   {
     "nameDetail": "AMD Ryzen 5 1400",
-    "mark": 7752
+    "mark": 7755
   },
   {
     "nameDetail": "Intel Core i5-8500T @ 2.10GHz",
@@ -3909,7 +3929,7 @@
   },
   {
     "nameDetail": "Intel Core i5-9300H @ 2.40GHz",
-    "mark": 7713
+    "mark": 7712
   },
   {
     "nameDetail": "Intel Xeon E3-1285 v4 @ 3.50GHz",
@@ -3949,7 +3969,7 @@
   },
   {
     "nameDetail": "Intel Core i5-8257U @ 1.40GHz",
-    "mark": 7627
+    "mark": 7629
   },
   {
     "nameDetail": "Intel Xeon E-2224G @ 3.50GHz",
@@ -3960,16 +3980,12 @@
     "mark": 7612
   },
   {
-    "nameDetail": "Intel Pentium Gold 8505",
-    "mark": 7600
-  },
-  {
     "nameDetail": "Qualcomm Technologies, Inc KONA-IOT",
     "mark": 7592
   },
   {
     "nameDetail": "AMD Ryzen 3 2300X",
-    "mark": 7584
+    "mark": 7587
   },
   {
     "nameDetail": "MediaTek MT6983",
@@ -3977,14 +3993,6 @@
   },
   {
     "nameDetail": "Intel Core i5-1035G1 @ 1.00GHz",
-    "mark": 7553
-  },
-  {
-    "nameDetail": "Intel Core i5-9300HF @ 2.40GHz",
-    "mark": 7551
-  },
-  {
-    "nameDetail": "Intel Core i7-7700T @ 2.90GHz",
     "mark": 7551
   },
   {
@@ -3992,8 +4000,16 @@
     "mark": 7547
   },
   {
+    "nameDetail": "Intel Core i7-7700T @ 2.90GHz",
+    "mark": 7547
+  },
+  {
     "nameDetail": "Intel Xeon E3-1271 v3 @ 3.60GHz",
-    "mark": 7544
+    "mark": 7542
+  },
+  {
+    "nameDetail": "Intel Core i5-9300HF @ 2.40GHz",
+    "mark": 7534
   },
   {
     "nameDetail": "Intel Xeon E5-2450 @ 2.10GHz",
@@ -4005,19 +4021,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 4300U",
-    "mark": 7505
+    "mark": 7506
   },
   {
-    "nameDetail": "Intel Core i5-8300H @ 2.30GHz",
-    "mark": 7505
+    "nameDetail": "Intel Core i5-8400T @ 1.70GHz",
+    "mark": 7506
   },
   {
     "nameDetail": "Intel Core i7-7820HK @ 2.90GHz",
     "mark": 7505
   },
   {
-    "nameDetail": "Intel Core i5-8400T @ 1.70GHz",
-    "mark": 7502
+    "nameDetail": "Intel Core i5-8300H @ 2.30GHz",
+    "mark": 7503
   },
   {
     "nameDetail": "Intel Xeon D-1531 @ 2.20GHz",
@@ -4028,6 +4044,10 @@
     "mark": 7477
   },
   {
+    "nameDetail": "Intel Xeon E5-2630 v2 @ 2.60GHz",
+    "mark": 7473
+  },
+  {
     "nameDetail": "AMD Ryzen 5 2400GE",
     "mark": 7472
   },
@@ -4036,8 +4056,8 @@
     "mark": 7470
   },
   {
-    "nameDetail": "Intel Xeon E5-2630 v2 @ 2.60GHz",
-    "mark": 7468
+    "nameDetail": "AMD Ryzen 5 PRO 2400GE",
+    "mark": 7466
   },
   {
     "nameDetail": "Intel Xeon E3-1281 v3 @ 3.70GHz",
@@ -4054,10 +4074,6 @@
   {
     "nameDetail": "Intel Xeon E5-2650L v2 @ 1.70GHz",
     "mark": 7450
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 2400GE",
-    "mark": 7448
   },
   {
     "nameDetail": "Intel Xeon E5-2608L v4 @ 1.60GHz",
@@ -4077,11 +4093,15 @@
   },
   {
     "nameDetail": "Intel Core i7-7920HQ @ 3.10GHz",
-    "mark": 7400
+    "mark": 7409
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1276 v3 @ 3.60GHz",
+    "mark": 7408
   },
   {
     "nameDetail": "Intel Xeon E5-1620 v4 @ 3.50GHz",
-    "mark": 7397
+    "mark": 7396
   },
   {
     "nameDetail": "Intel Core i7-6920HQ @ 2.90GHz",
@@ -4090,10 +4110,6 @@
   {
     "nameDetail": "Intel Core i3-10100T @ 3.00GHz",
     "mark": 7365
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1276 v3 @ 3.60GHz",
-    "mark": 7364
   },
   {
     "nameDetail": "Intel Xeon @ 2.00GHz",
@@ -4112,15 +4128,15 @@
     "mark": 7353
   },
   {
+    "nameDetail": "Intel Xeon E5-2637 v4 @ 3.50GHz",
+    "mark": 7339
+  },
+  {
     "nameDetail": "AMD Ryzen 7 PRO 2700U",
     "mark": 7328
   },
   {
     "nameDetail": "Intel Xeon E3-1270 v3 @ 3.50GHz",
-    "mark": 7322
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2637 v4 @ 3.50GHz",
     "mark": 7322
   },
   {
@@ -4149,7 +4165,7 @@
   },
   {
     "nameDetail": "Intel Xeon E3-1246 v3 @ 3.50GHz",
-    "mark": 7274
+    "mark": 7277
   },
   {
     "nameDetail": "AMD Ryzen 5 3580U",
@@ -4161,10 +4177,14 @@
   },
   {
     "nameDetail": "Intel Core i7-6700T @ 2.80GHz",
-    "mark": 7241
+    "mark": 7240
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 1300",
+    "mark": 7234
+  },
+  {
+    "nameDetail": "Intel Xeon W3690 @ 3.47GHz",
     "mark": 7234
   },
   {
@@ -4172,16 +4192,12 @@
     "mark": 7229
   },
   {
-    "nameDetail": "Intel Xeon W3690 @ 3.47GHz",
-    "mark": 7229
-  },
-  {
     "nameDetail": "Intel Core i7-4790 @ 3.60GHz",
-    "mark": 7225
+    "mark": 7226
   },
   {
     "nameDetail": "AMD Ryzen 7 3700U",
-    "mark": 7224
+    "mark": 7223
   },
   {
     "nameDetail": "Intel Xeon E3-1275 v3 @ 3.50GHz",
@@ -4193,7 +4209,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 3200G",
-    "mark": 7178
+    "mark": 7177
   },
   {
     "nameDetail": "Intel Xeon D-1537 @ 1.70GHz",
@@ -4209,11 +4225,7 @@
   },
   {
     "nameDetail": "Intel Core i7-7820HQ @ 2.90GHz",
-    "mark": 7157
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2430 v2 @ 2.50GHz",
-    "mark": 7147
+    "mark": 7159
   },
   {
     "nameDetail": "AMD Ryzen 7 3700C",
@@ -4221,7 +4233,7 @@
   },
   {
     "nameDetail": "Intel Xeon E3-1241 v3 @ 3.50GHz",
-    "mark": 7124
+    "mark": 7126
   },
   {
     "nameDetail": "Intel Core i7-4940MX @ 3.10GHz",
@@ -4229,15 +4241,11 @@
   },
   {
     "nameDetail": "Intel Core i7-4770K @ 3.50GHz",
-    "mark": 7118
+    "mark": 7120
   },
   {
     "nameDetail": "Intel Xeon D-1557 @ 1.50GHz",
     "mark": 7118
-  },
-  {
-    "nameDetail": "Intel Core i7-6770HQ @ 2.60GHz",
-    "mark": 7105
   },
   {
     "nameDetail": "Intel Core i7-4771 @ 3.50GHz",
@@ -4252,20 +4260,24 @@
     "mark": 7093
   },
   {
+    "nameDetail": "Intel Core i7-6770HQ @ 2.60GHz",
+    "mark": 7093
+  },
+  {
     "nameDetail": "Intel Xeon E3-1240 v3 @ 3.40GHz",
     "mark": 7078
   },
   {
     "nameDetail": "Intel Core i7-4770 @ 3.40GHz",
-    "mark": 7073
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 PRO 3200GE",
-    "mark": 7071
+    "mark": 7069
   },
   {
     "nameDetail": "Intel Xeon E3-1505M v5 @ 2.80GHz",
     "mark": 7045
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2430 v2 @ 2.50GHz",
+    "mark": 7039
   },
   {
     "nameDetail": "Intel Core i7-5850EQ @ 2.70GHz",
@@ -4280,16 +4292,20 @@
     "mark": 7028
   },
   {
-    "nameDetail": "AMD Ryzen 5 3500U",
-    "mark": 7022
+    "nameDetail": "Intel Xeon E3-1231 v3 @ 3.40GHz",
+    "mark": 7025
   },
   {
-    "nameDetail": "Intel Xeon E3-1231 v3 @ 3.40GHz",
+    "nameDetail": "AMD Ryzen 5 3500U",
     "mark": 7022
   },
   {
     "nameDetail": "Intel Xeon E5-4640 @ 2.40GHz",
     "mark": 7012
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 PRO 3200GE",
+    "mark": 7009
   },
   {
     "nameDetail": "AMD Athlon Gold PRO 3150GE",
@@ -4301,11 +4317,11 @@
   },
   {
     "nameDetail": "Intel Xeon E-2124 @ 3.30GHz",
-    "mark": 6997
+    "mark": 6998
   },
   {
     "nameDetail": "Intel Core i7-4790S @ 3.20GHz",
-    "mark": 6992
+    "mark": 6993
   },
   {
     "nameDetail": "Intel Xeon E5-1620 v3 @ 3.50GHz",
@@ -4329,7 +4345,7 @@
   },
   {
     "nameDetail": "Intel Xeon X5690 @ 3.47GHz",
-    "mark": 6963
+    "mark": 6967
   },
   {
     "nameDetail": "AMD Ryzen 3 1300X",
@@ -4340,23 +4356,19 @@
     "mark": 6956
   },
   {
-    "nameDetail": "Intel Core i7-6820HK @ 2.70GHz",
-    "mark": 6956
-  },
-  {
-    "nameDetail": "Intel Core i7-7700HQ @ 2.80GHz",
-    "mark": 6956
-  },
-  {
     "nameDetail": "Intel Xeon E3-1265L v4 @ 2.30GHz",
     "mark": 6954
   },
   {
-    "nameDetail": "Intel Core i7-1060NG7 @ 1.20GHz",
-    "mark": 6927
+    "nameDetail": "Intel Core i7-7700HQ @ 2.80GHz",
+    "mark": 6953
   },
   {
-    "nameDetail": "Intel Core i7-4930MX @ 3.00GHz",
+    "nameDetail": "AMD Ryzen 7 2700U",
+    "mark": 6929
+  },
+  {
+    "nameDetail": "Intel Core i7-1060NG7 @ 1.20GHz",
     "mark": 6927
   },
   {
@@ -4372,11 +4384,15 @@
     "mark": 6923
   },
   {
-    "nameDetail": "Intel Core i7-980 @ 3.33GHz",
-    "mark": 6915
+    "nameDetail": "Intel Xeon W3680 @ 3.33GHz",
+    "mark": 6922
   },
   {
-    "nameDetail": "Intel Xeon W3680 @ 3.33GHz",
+    "nameDetail": "Intel Core i7-6820HK @ 2.70GHz",
+    "mark": 6919
+  },
+  {
+    "nameDetail": "Intel Core i7-980 @ 3.33GHz",
     "mark": 6915
   },
   {
@@ -4388,12 +4404,8 @@
     "mark": 6909
   },
   {
-    "nameDetail": "AMD Ryzen 7 2700U",
-    "mark": 6899
-  },
-  {
     "nameDetail": "Intel Core i7-6820HQ @ 2.70GHz",
-    "mark": 6890
+    "mark": 6891
   },
   {
     "nameDetail": "Intel Core i7-5850HQ @ 2.70GHz",
@@ -4405,7 +4417,7 @@
   },
   {
     "nameDetail": "Intel Core i5-7600K @ 3.80GHz",
-    "mark": 6842
+    "mark": 6845
   },
   {
     "nameDetail": "Intel Xeon D-2123IT @ 2.20GHz",
@@ -4424,12 +4436,16 @@
     "mark": 6827
   },
   {
+    "nameDetail": "Intel Core i7-4930MX @ 3.00GHz",
+    "mark": 6821
+  },
+  {
     "nameDetail": "Intel Xeon E3-1285L v3 @ 3.10GHz",
     "mark": 6819
   },
   {
     "nameDetail": "Intel Xeon E3-1230 v3 @ 3.30GHz",
-    "mark": 6812
+    "mark": 6804
   },
   {
     "nameDetail": "Intel Core i7-6700TE @ 2.40GHz",
@@ -4452,24 +4468,24 @@
     "mark": 6784
   },
   {
+    "nameDetail": "Intel Core i7-4770S @ 3.10GHz",
+    "mark": 6774
+  },
+  {
     "nameDetail": "Intel Xeon E5-2448L v2 @ 1.80GHz",
     "mark": 6774
   },
   {
     "nameDetail": "AMD Ryzen 3 2200G",
-    "mark": 6771
-  },
-  {
-    "nameDetail": "Intel Core i3-9100F @ 3.60GHz",
-    "mark": 6771
-  },
-  {
-    "nameDetail": "Intel Core i7-4770S @ 3.10GHz",
-    "mark": 6771
+    "mark": 6773
   },
   {
     "nameDetail": "Intel Pentium Gold G7400",
     "mark": 6771
+  },
+  {
+    "nameDetail": "Intel Core i3-9100F @ 3.60GHz",
+    "mark": 6770
   },
   {
     "nameDetail": "AMD FX-9590 Eight-Core",
@@ -4477,7 +4493,7 @@
   },
   {
     "nameDetail": "Intel Core i7-4980HQ @ 2.80GHz",
-    "mark": 6754
+    "mark": 6763
   },
   {
     "nameDetail": "AMD Opteron 6380",
@@ -4493,23 +4509,23 @@
   },
   {
     "nameDetail": "Intel Core i7-10510U @ 1.80GHz",
-    "mark": 6722
+    "mark": 6723
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2630L v2 @ 2.40GHz",
+    "mark": 6701
   },
   {
     "nameDetail": "Intel Core i3-9100 @ 3.60GHz",
-    "mark": 6682
+    "mark": 6685
   },
   {
     "nameDetail": "AMD Ryzen Embedded V1605B",
-    "mark": 6677
+    "mark": 6683
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 2500U",
     "mark": 6666
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2630L v2 @ 2.40GHz",
-    "mark": 6651
   },
   {
     "nameDetail": "Intel Xeon Platinum 8151 @ 3.40GHz",
@@ -4529,7 +4545,7 @@
   },
   {
     "nameDetail": "Intel Core i5-7600 @ 3.50GHz",
-    "mark": 6580
+    "mark": 6579
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc SA8195P",
@@ -4541,43 +4557,35 @@
   },
   {
     "nameDetail": "Intel Xeon E5-1620 v2 @ 3.70GHz",
-    "mark": 6536
+    "mark": 6538
   },
   {
     "nameDetail": "Intel Xeon E3-1280 V2 @ 3.60GHz",
     "mark": 6534
   },
   {
-    "nameDetail": "AMD Ryzen 5 2500U",
-    "mark": 6525
-  },
-  {
     "nameDetail": "Intel Core i7-6700HQ @ 2.60GHz",
-    "mark": 6522
+    "mark": 6523
   },
   {
-    "nameDetail": "Intel Core i5-10310U @ 1.70GHz",
-    "mark": 6515
+    "nameDetail": "AMD Ryzen 5 2500U",
+    "mark": 6520
+  },
+  {
+    "nameDetail": "Intel Core i7-970 @ 3.20GHz",
+    "mark": 6516
   },
   {
     "nameDetail": "Intel Xeon E3-1290 V2 @ 3.70GHz",
     "mark": 6513
   },
   {
+    "nameDetail": "Intel Core i5-10310U @ 1.70GHz",
+    "mark": 6512
+  },
+  {
     "nameDetail": "Intel Core i7-4820K @ 3.70GHz",
     "mark": 6506
-  },
-  {
-    "nameDetail": "Intel Core i7-970 @ 3.20GHz",
-    "mark": 6505
-  },
-  {
-    "nameDetail": "Intel Xeon W3670 @ 3.20GHz",
-    "mark": 6485
-  },
-  {
-    "nameDetail": "Odin based on Qualcomm Technologies, Inc SM8350",
-    "mark": 6478
   },
   {
     "nameDetail": "Snapdragon 8cx Gen 2 @ 3.15 GHz",
@@ -4588,16 +4596,24 @@
     "mark": 6460
   },
   {
+    "nameDetail": "Odin based on Qualcomm Technologies, Inc SM8350",
+    "mark": 6456
+  },
+  {
+    "nameDetail": "Intel Xeon W3670 @ 3.20GHz",
+    "mark": 6452
+  },
+  {
+    "nameDetail": "Intel Core i7-3770K @ 3.50GHz",
+    "mark": 6450
+  },
+  {
     "nameDetail": "Intel Xeon E3-1286L v3 @ 3.20GHz",
     "mark": 6450
   },
   {
     "nameDetail": "Snapdragon 8cx Gen 2 @ 3.0 GHz",
     "mark": 6448
-  },
-  {
-    "nameDetail": "Intel Core i7-3770K @ 3.50GHz",
-    "mark": 6447
   },
   {
     "nameDetail": "MT6893Z/CZA",
@@ -4609,7 +4625,7 @@
   },
   {
     "nameDetail": "Intel Core i7-4870HQ @ 2.50GHz",
-    "mark": 6420
+    "mark": 6425
   },
   {
     "nameDetail": "Virtual @ 2.99GHz",
@@ -4620,12 +4636,16 @@
     "mark": 6415
   },
   {
+    "nameDetail": "Qualcomm Technologies, Inc SM8250_AC",
+    "mark": 6408
+  },
+  {
     "nameDetail": "MT6893Z_Z/CZA",
     "mark": 6407
   },
   {
     "nameDetail": "Intel Core i7-3770 @ 3.40GHz",
-    "mark": 6402
+    "mark": 6403
   },
   {
     "nameDetail": "Intel Xeon D-1528 @ 1.90GHz",
@@ -4640,10 +4660,6 @@
     "mark": 6390
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SM8250_AC",
-    "mark": 6390
-  },
-  {
     "nameDetail": "AMD Opteron 6282 SE",
     "mark": 6385
   },
@@ -4653,7 +4669,7 @@
   },
   {
     "nameDetail": "Intel Xeon E3-1245 V2 @ 3.40GHz",
-    "mark": 6371
+    "mark": 6375
   },
   {
     "nameDetail": "taoyao based Qualcomm Technologies, Inc. Yupik IDP",
@@ -4665,11 +4681,11 @@
   },
   {
     "nameDetail": "Intel Core i5-6600K @ 3.50GHz",
-    "mark": 6346
+    "mark": 6349
   },
   {
     "nameDetail": "Intel Xeon E3-1240 V2 @ 3.40GHz",
-    "mark": 6338
+    "mark": 6341
   },
   {
     "nameDetail": "Intel Core i7-4790T @ 2.70GHz",
@@ -4678,6 +4694,10 @@
   {
     "nameDetail": "Intel Xeon E-2254ML @ 1.70GHz",
     "mark": 6333
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2430L v2 @ 2.40GHz",
+    "mark": 6332
   },
   {
     "nameDetail": "Intel Xeon E5-2420 v2 @ 2.20GHz",
@@ -4689,11 +4709,11 @@
   },
   {
     "nameDetail": "Intel Core i5-10210U @ 1.60GHz",
-    "mark": 6318
+    "mark": 6317
   },
   {
     "nameDetail": "AMD Ryzen 3 1200",
-    "mark": 6312
+    "mark": 6314
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 1200",
@@ -4716,16 +4736,16 @@
     "mark": 6289
   },
   {
-    "nameDetail": "Intel Core i5-8365U @ 1.60GHz",
+    "nameDetail": "Intel Xeon E5-2620 v2 @ 2.10GHz",
     "mark": 6269
   },
   {
-    "nameDetail": "Intel Xeon E5-2620 v2 @ 2.10GHz",
-    "mark": 6266
+    "nameDetail": "Intel Core i5-8365U @ 1.60GHz",
+    "mark": 6264
   },
   {
     "nameDetail": "Intel Core i7-8665U @ 1.90GHz",
-    "mark": 6260
+    "mark": 6262
   },
   {
     "nameDetail": "Intel Core i7-4910MQ @ 2.90GHz",
@@ -4737,7 +4757,7 @@
   },
   {
     "nameDetail": "Intel Core i5-8350U @ 1.70GHz",
-    "mark": 6246
+    "mark": 6251
   },
   {
     "nameDetail": "AMD Opteron 6276",
@@ -4761,11 +4781,11 @@
   },
   {
     "nameDetail": "Intel Core i7-8565U @ 1.80GHz",
-    "mark": 6213
+    "mark": 6212
   },
   {
     "nameDetail": "Intel Xeon E3-1230 V2 @ 3.30GHz",
-    "mark": 6207
+    "mark": 6206
   },
   {
     "nameDetail": "Intel Xeon D-1622 @ 2.60GHz",
@@ -4777,15 +4797,11 @@
   },
   {
     "nameDetail": "Intel Core i3-1115G4 @ 3.00GHz",
-    "mark": 6188
+    "mark": 6187
   },
   {
     "nameDetail": "Intel Core i7-8565UC @ 1.80GHz",
     "mark": 6187
-  },
-  {
-    "nameDetail": "Intel Core i7-4850HQ @ 2.30GHz",
-    "mark": 6183
   },
   {
     "nameDetail": "Intel Xeon E3-1265L v3 @ 2.50GHz",
@@ -4797,11 +4813,15 @@
   },
   {
     "nameDetail": "Intel Core i7-3770S @ 3.10GHz",
-    "mark": 6175
+    "mark": 6176
   },
   {
     "nameDetail": "Intel Xeon E3-1240L v5 @ 2.10GHz",
     "mark": 6173
+  },
+  {
+    "nameDetail": "Intel Core i7-4850HQ @ 2.30GHz",
+    "mark": 6171
   },
   {
     "nameDetail": "MT6891Z/CZA",
@@ -4809,7 +4829,7 @@
   },
   {
     "nameDetail": "Intel Core i3-8100 @ 3.60GHz",
-    "mark": 6166
+    "mark": 6168
   },
   {
     "nameDetail": "Intel Core i3-9300T @ 3.20GHz",
@@ -4829,15 +4849,19 @@
   },
   {
     "nameDetail": "Intel Core i7-4900MQ @ 2.80GHz",
-    "mark": 6134
+    "mark": 6129
   },
   {
     "nameDetail": "SM8350",
-    "mark": 6121
+    "mark": 6116
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 PRO 2200GE",
+    "mark": 6111
   },
   {
     "nameDetail": "Intel Core i7-4770HQ @ 2.20GHz",
-    "mark": 6116
+    "mark": 6111
   },
   {
     "nameDetail": "MT6893Z_B/CZA",
@@ -4849,7 +4873,7 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2630 @ 2.30GHz",
-    "mark": 6093
+    "mark": 6105
   },
   {
     "nameDetail": "Intel Core i7-5675C @ 3.10GHz",
@@ -4860,12 +4884,12 @@
     "mark": 6088
   },
   {
-    "nameDetail": "Intel Xeon E3-1268L v5 @ 2.40GHz",
-    "mark": 6079
+    "nameDetail": "Qualcomm Technologies, Inc SM8350",
+    "mark": 6088
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SM8350",
-    "mark": 6077
+    "nameDetail": "Intel Xeon E3-1268L v5 @ 2.40GHz",
+    "mark": 6079
   },
   {
     "nameDetail": "Intel Xeon E3-1275L v3 @ 2.70GHz",
@@ -4884,16 +4908,12 @@
     "mark": 6069
   },
   {
-    "nameDetail": "AMD Ryzen 3 PRO 2200GE",
-    "mark": 6066
-  },
-  {
     "nameDetail": "Intel Core i7-4810MQ @ 2.80GHz",
-    "mark": 6058
+    "mark": 6057
   },
   {
     "nameDetail": "Intel Core i5-8265U @ 1.60GHz",
-    "mark": 6056
+    "mark": 6055
   },
   {
     "nameDetail": "Intel Core i3-8100B @ 3.60GHz",
@@ -4908,6 +4928,10 @@
     "mark": 6050
   },
   {
+    "nameDetail": "Intel Core i5-6600 @ 3.30GHz",
+    "mark": 6045
+  },
+  {
     "nameDetail": "AMD FX-9370 Eight-Core",
     "mark": 6043
   },
@@ -4916,20 +4940,16 @@
     "mark": 6043
   },
   {
-    "nameDetail": "Intel Core i5-6600 @ 3.30GHz",
-    "mark": 6042
+    "nameDetail": "Intel Core i5-7500 @ 3.40GHz",
+    "mark": 6032
   },
   {
     "nameDetail": "AMD Ryzen 3 2200GE",
     "mark": 6031
   },
   {
-    "nameDetail": "Intel Core i5-7500 @ 3.40GHz",
-    "mark": 6031
-  },
-  {
     "nameDetail": "AMD FX-8350 Eight-Core",
-    "mark": 6024
+    "mark": 6026
   },
   {
     "nameDetail": "Intel Core i7-5700HQ @ 2.70GHz",
@@ -4940,20 +4960,16 @@
     "mark": 6007
   },
   {
-    "nameDetail": "Intel Core i7-3940XM @ 3.00GHz",
-    "mark": 6005
-  },
-  {
     "nameDetail": "Intel Xeon E5-2650L @ 1.80GHz",
     "mark": 6005
   },
   {
-    "nameDetail": "Intel Core i5-8265UC @ 1.60GHz",
-    "mark": 5988
+    "nameDetail": "Intel Core i5-1030NG7 @ 1.10GHz",
+    "mark": 6000
   },
   {
-    "nameDetail": "Intel Core i5-1030NG7 @ 1.10GHz",
-    "mark": 5984
+    "nameDetail": "Intel Core i5-8265UC @ 1.60GHz",
+    "mark": 5988
   },
   {
     "nameDetail": "Intel Core i7-8550U @ 1.80GHz",
@@ -4965,7 +4981,7 @@
   },
   {
     "nameDetail": "Intel Xeon E3-1225 v5 @ 3.30GHz",
-    "mark": 5934
+    "mark": 5933
   },
   {
     "nameDetail": "Intel Core i5-7600T @ 2.80GHz",
@@ -4974,10 +4990,6 @@
   {
     "nameDetail": "Intel Core i7-3840QM @ 2.80GHz",
     "mark": 5909
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2430L v2 @ 2.40GHz",
-    "mark": 5903
   },
   {
     "nameDetail": "Intel Xeon D-1521 @ 2.40GHz",
@@ -4989,6 +5001,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 3350U",
+    "mark": 5890
+  },
+  {
+    "nameDetail": "Intel Core i7-3940XM @ 3.00GHz",
     "mark": 5890
   },
   {
@@ -5017,7 +5033,11 @@
   },
   {
     "nameDetail": "Intel Xeon E5-1620 @ 3.60GHz",
-    "mark": 5855
+    "mark": 5856
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 PRO 2300U",
+    "mark": 5850
   },
   {
     "nameDetail": "Intel Core i7-4710MQ @ 2.50GHz",
@@ -5025,23 +5045,19 @@
   },
   {
     "nameDetail": "Intel Core i7-4800MQ @ 2.70GHz",
-    "mark": 5843
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 PRO 2300U",
-    "mark": 5836
+    "mark": 5840
   },
   {
     "nameDetail": "Intel Core i3-1115G4E @ 3.00GHz",
     "mark": 5826
   },
   {
-    "nameDetail": "Intel Pentium Gold G7400T",
-    "mark": 5816
+    "nameDetail": "Qualcomm Technologies, Inc SM8250",
+    "mark": 5820
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SM8250",
-    "mark": 5808
+    "nameDetail": "Intel Pentium Gold G7400T",
+    "mark": 5816
   },
   {
     "nameDetail": "Intel Core i7-5700EQ @ 2.60GHz",
@@ -5065,19 +5081,19 @@
   },
   {
     "nameDetail": "Intel Core i7-4720HQ @ 2.60GHz",
-    "mark": 5744
+    "mark": 5748
   },
   {
     "nameDetail": "MT8195AV/ZA",
     "mark": 5735
   },
   {
-    "nameDetail": "Intel Xeon E3-1220 v5 @ 3.00GHz",
+    "nameDetail": "Intel Core i7-3740QM @ 2.70GHz",
     "mark": 5732
   },
   {
-    "nameDetail": "Intel Core i7-3740QM @ 2.70GHz",
-    "mark": 5730
+    "nameDetail": "Intel Xeon E3-1220 v5 @ 3.00GHz",
+    "mark": 5732
   },
   {
     "nameDetail": "Intel Xeon W-2104 @ 3.20GHz",
@@ -5109,11 +5125,11 @@
   },
   {
     "nameDetail": "Intel Core i7-2700K @ 3.50GHz",
-    "mark": 5688
+    "mark": 5692
   },
   {
     "nameDetail": "Intel Core i7-3720QM @ 2.60GHz",
-    "mark": 5685
+    "mark": 5687
   },
   {
     "nameDetail": "Intel Xeon E3-1205 v6 @ 3.00GHz",
@@ -5128,12 +5144,12 @@
     "mark": 5660
   },
   {
-    "nameDetail": "Intel Core i5-6600T @ 2.70GHz",
-    "mark": 5659
+    "nameDetail": "Intel Core i5-4690K @ 3.50GHz",
+    "mark": 5660
   },
   {
-    "nameDetail": "Intel Core i5-4690K @ 3.50GHz",
-    "mark": 5658
+    "nameDetail": "Intel Core i5-6600T @ 2.70GHz",
+    "mark": 5659
   },
   {
     "nameDetail": "Intel Core i7-3920XM @ 2.90GHz",
@@ -5141,11 +5157,11 @@
   },
   {
     "nameDetail": "Intel Core i5-6500 @ 3.20GHz",
-    "mark": 5644
+    "mark": 5645
   },
   {
     "nameDetail": "Intel Core i7-4700HQ @ 2.40GHz",
-    "mark": 5642
+    "mark": 5641
   },
   {
     "nameDetail": "Intel Core i5-5675C @ 3.10GHz",
@@ -5156,16 +5172,16 @@
     "mark": 5625
   },
   {
-    "nameDetail": "Intel Core i7-4722HQ @ 2.40GHz",
-    "mark": 5620
-  },
-  {
     "nameDetail": "Intel Core i7-4750HQ @ 2.00GHz",
-    "mark": 5616
+    "mark": 5624
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc KONA",
-    "mark": 5616
+    "mark": 5621
+  },
+  {
+    "nameDetail": "Intel Core i7-4722HQ @ 2.40GHz",
+    "mark": 5620
   },
   {
     "nameDetail": "AMD Opteron 6366 HE",
@@ -5197,7 +5213,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4670K @ 3.40GHz",
-    "mark": 5542
+    "mark": 5543
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc SDM778G",
@@ -5208,32 +5224,32 @@
     "mark": 5540
   },
   {
+    "nameDetail": "Intel Core i3-9100T @ 3.10GHz",
+    "mark": 5531
+  },
+  {
     "nameDetail": "Intel Core i7-3615QE @ 2.30GHz",
     "mark": 5531
   },
   {
-    "nameDetail": "Intel Core i3-9100T @ 3.10GHz",
-    "mark": 5529
+    "nameDetail": "Snapdragon 7325",
+    "mark": 5520
   },
   {
     "nameDetail": "AMD Ryzen 3 2300U",
     "mark": 5518
   },
   {
-    "nameDetail": "Snapdragon 7325",
-    "mark": 5516
-  },
-  {
     "nameDetail": "Intel Core i7-4710HQ @ 2.50GHz",
-    "mark": 5514
+    "mark": 5513
   },
   {
     "nameDetail": "Intel Core i5-4670 @ 3.40GHz",
-    "mark": 5509
+    "mark": 5507
   },
   {
     "nameDetail": "Intel Core i5-7400 @ 3.00GHz",
-    "mark": 5506
+    "mark": 5503
   },
   {
     "nameDetail": "Intel Core i7-4702HQ @ 2.20GHz",
@@ -5253,11 +5269,11 @@
   },
   {
     "nameDetail": "Intel Core i7-2600K @ 3.40GHz",
-    "mark": 5485
+    "mark": 5486
   },
   {
     "nameDetail": "Intel Core i7-4785T @ 2.20GHz",
-    "mark": 5478
+    "mark": 5485
   },
   {
     "nameDetail": "Intel Xeon E3-1268L v3 @ 2.30GHz",
@@ -5268,16 +5284,12 @@
     "mark": 5470
   },
   {
+    "nameDetail": "Intel N95",
+    "mark": 5465
+  },
+  {
     "nameDetail": "Intel Xeon E3-1275 @ 3.40GHz",
     "mark": 5463
-  },
-  {
-    "nameDetail": "lisa based Qualcomm Technologies, Inc. SM7325",
-    "mark": 5449
-  },
-  {
-    "nameDetail": "Intel N95",
-    "mark": 5442
   },
   {
     "nameDetail": "Intel Core i5-760S @ 2.53GHz",
@@ -5289,23 +5301,27 @@
   },
   {
     "nameDetail": "Intel Core i5-6402P @ 2.80GHz",
-    "mark": 5433
+    "mark": 5435
   },
   {
     "nameDetail": "Intel Pentium Silver N6005 @ 2.00GHz",
-    "mark": 5430
+    "mark": 5427
   },
   {
     "nameDetail": "Intel Core i5-4690S @ 3.20GHz",
     "mark": 5424
   },
   {
-    "nameDetail": "Intel Core i5-6440EQ @ 2.70GHz",
-    "mark": 5419
+    "nameDetail": "lisa based Qualcomm Technologies, Inc. SM7325",
+    "mark": 5424
   },
   {
     "nameDetail": "AMD FX-8320 Eight-Core",
-    "mark": 5418
+    "mark": 5419
+  },
+  {
+    "nameDetail": "Intel Core i5-6440EQ @ 2.70GHz",
+    "mark": 5419
   },
   {
     "nameDetail": "AMD Ryzen Embedded V1500B Quad-core @ 2.20GHz",
@@ -5317,7 +5333,7 @@
   },
   {
     "nameDetail": "Intel Xeon E3-1270 @ 3.40GHz",
-    "mark": 5416
+    "mark": 5415
   },
   {
     "nameDetail": "Intel Xeon E3-1240 @ 3.30GHz",
@@ -5333,7 +5349,7 @@
   },
   {
     "nameDetail": "vendor Kirin980",
-    "mark": 5373
+    "mark": 5374
   },
   {
     "nameDetail": "Venus based on Qualcomm Technologies, Inc SM8350",
@@ -5344,16 +5360,16 @@
     "mark": 5359
   },
   {
-    "nameDetail": "Intel Core i7-4700MQ @ 2.40GHz",
-    "mark": 5354
-  },
-  {
     "nameDetail": "Intel Core i5-4590 @ 3.30GHz",
-    "mark": 5353
+    "mark": 5355
   },
   {
     "nameDetail": "Apple A13 Bionic",
-    "mark": 5346
+    "mark": 5351
+  },
+  {
+    "nameDetail": "Intel Core i7-4700MQ @ 2.40GHz",
+    "mark": 5349
   },
   {
     "nameDetail": "Intel Core i7-2600 @ 3.40GHz",
@@ -5369,11 +5385,11 @@
   },
   {
     "nameDetail": "Intel Core i3-8100T @ 3.10GHz",
-    "mark": 5317
+    "mark": 5318
   },
   {
     "nameDetail": "Intel Xeon E3-1225 v3 @ 3.20GHz",
-    "mark": 5314
+    "mark": 5316
   },
   {
     "nameDetail": "AMD Opteron 6328",
@@ -5404,6 +5420,10 @@
     "mark": 5288
   },
   {
+    "nameDetail": "AMD FX-8300 Eight-Core",
+    "mark": 5286
+  },
+  {
     "nameDetail": "AMD Opteron 6274",
     "mark": 5286
   },
@@ -5412,16 +5432,12 @@
     "mark": 5286
   },
   {
-    "nameDetail": "AMD FX-8300 Eight-Core",
-    "mark": 5285
-  },
-  {
     "nameDetail": "Intel Pentium Gold 7505 @ 2.00GHz",
     "mark": 5285
   },
   {
     "nameDetail": "Intel Core i5-7500T @ 2.70GHz",
-    "mark": 5275
+    "mark": 5281
   },
   {
     "nameDetail": "AMD FX-8370E Eight-Core",
@@ -5432,16 +5448,16 @@
     "mark": 5273
   },
   {
+    "nameDetail": "Samsung Exynos 2100",
+    "mark": 5269
+  },
+  {
     "nameDetail": "Intel Xeon E3-1230L v3 @ 1.80GHz",
     "mark": 5268
   },
   {
     "nameDetail": "Intel Core i7-8665UE @ 1.70GHz",
     "mark": 5261
-  },
-  {
-    "nameDetail": "Samsung Exynos 2100",
-    "mark": 5258
   },
   {
     "nameDetail": "Intel Xeon E5-1607 v4 @ 3.10GHz",
@@ -5465,6 +5481,10 @@
   },
   {
     "nameDetail": "AMD FX-8150 Eight-Core",
+    "mark": 5231
+  },
+  {
+    "nameDetail": "Mars based on Qualcomm Technologies, Inc SM8350",
     "mark": 5230
   },
   {
@@ -5477,7 +5497,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4570 @ 3.20GHz",
-    "mark": 5220
+    "mark": 5222
   },
   {
     "nameDetail": "AMD Ryzen 5 3500C",
@@ -5488,8 +5508,12 @@
     "mark": 5196
   },
   {
+    "nameDetail": "MT6877V/TTZA",
+    "mark": 5180
+  },
+  {
     "nameDetail": "Intel Core i5-6400 @ 2.70GHz",
-    "mark": 5173
+    "mark": 5172
   },
   {
     "nameDetail": "AMD FX-8310 Eight-Core",
@@ -5497,11 +5521,7 @@
   },
   {
     "nameDetail": "Intel Core i7-3615QM @ 2.30GHz",
-    "mark": 5153
-  },
-  {
-    "nameDetail": "MT6877V/TTZA",
-    "mark": 5152
+    "mark": 5165
   },
   {
     "nameDetail": "Intel Core i7-4702MQ @ 2.20GHz",
@@ -5509,7 +5529,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4590S @ 3.00GHz",
-    "mark": 5118
+    "mark": 5122
   },
   {
     "nameDetail": "Intel Xeon W-2102 @ 2.90GHz",
@@ -5520,12 +5540,12 @@
     "mark": 5114
   },
   {
-    "nameDetail": "Intel Core i7-3610QM @ 2.30GHz",
-    "mark": 5110
-  },
-  {
     "nameDetail": "Intel Core i5-6440HQ @ 2.60GHz",
     "mark": 5109
+  },
+  {
+    "nameDetail": "Intel Core i7-3610QM @ 2.30GHz",
+    "mark": 5105
   },
   {
     "nameDetail": "MT6893",
@@ -5545,7 +5565,7 @@
   },
   {
     "nameDetail": "Intel Core i5-7300HQ @ 2.50GHz",
-    "mark": 5096
+    "mark": 5095
   },
   {
     "nameDetail": "Hisilicon Kirin9000",
@@ -5561,11 +5581,11 @@
   },
   {
     "nameDetail": "Intel Core i5-5575R @ 2.80GHz",
-    "mark": 5073
+    "mark": 5071
   },
   {
     "nameDetail": "AMD FX-8320E Eight-Core",
-    "mark": 5064
+    "mark": 5065
   },
   {
     "nameDetail": "Intel Core i5-4670S @ 3.10GHz",
@@ -5574,6 +5594,10 @@
   {
     "nameDetail": "Intel Xeon X5677 @ 3.47GHz",
     "mark": 5055
+  },
+  {
+    "nameDetail": "Intel N100",
+    "mark": 5053
   },
   {
     "nameDetail": "Intel Core i5-4670K CPT @ 3.40GHz",
@@ -5592,12 +5616,8 @@
     "mark": 5026
   },
   {
-    "nameDetail": "Mars based on Qualcomm Technologies, Inc SM8350",
-    "mark": 5022
-  },
-  {
     "nameDetail": "Intel Core i3-1005G1 @ 1.20GHz",
-    "mark": 5020
+    "mark": 5021
   },
   {
     "nameDetail": "Intel Xeon E5645 @ 2.40GHz",
@@ -5617,7 +5637,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4570S @ 2.90GHz",
-    "mark": 4960
+    "mark": 4961
   },
   {
     "nameDetail": "Intel Core i5-3570K @ 3.40GHz",
@@ -5632,12 +5652,12 @@
     "mark": 4941
   },
   {
-    "nameDetail": "Intel Core i7-3612QE @ 2.10GHz",
-    "mark": 4929
+    "nameDetail": "Intel Core i3-7350K @ 4.20GHz",
+    "mark": 4930
   },
   {
-    "nameDetail": "Intel Core i3-7350K @ 4.20GHz",
-    "mark": 4922
+    "nameDetail": "Intel Core i7-3612QE @ 2.10GHz",
+    "mark": 4929
   },
   {
     "nameDetail": "Intel Core i5-3570 @ 3.40GHz",
@@ -5648,16 +5668,20 @@
     "mark": 4896
   },
   {
-    "nameDetail": "AMD FX-8140 Eight-Core",
-    "mark": 4860
+    "nameDetail": "Intel Core i5-4460 @ 3.20GHz",
+    "mark": 4862
   },
   {
-    "nameDetail": "Intel Core i5-4460 @ 3.20GHz",
+    "nameDetail": "AMD FX-8140 Eight-Core",
     "mark": 4860
   },
   {
     "nameDetail": "Intel Core i3-7320 @ 4.10GHz",
     "mark": 4853
+  },
+  {
+    "nameDetail": "MT6877V/TZA",
+    "mark": 4850
   },
   {
     "nameDetail": "Renoir based on Qualcomm Technologies, Inc SM7350",
@@ -5672,16 +5696,12 @@
     "mark": 4843
   },
   {
-    "nameDetail": "MT6877V/TZA",
-    "mark": 4838
-  },
-  {
     "nameDetail": "Intel Core i5-7442EQ @ 2.10GHz",
     "mark": 4834
   },
   {
     "nameDetail": "Apple A12 Bionic",
-    "mark": 4830
+    "mark": 4833
   },
   {
     "nameDetail": "Intel Xeon D-1518 @ 2.20GHz",
@@ -5697,7 +5717,7 @@
   },
   {
     "nameDetail": "Intel Core i5-3550 @ 3.30GHz",
-    "mark": 4785
+    "mark": 4781
   },
   {
     "nameDetail": "Intel Xeon E3-1225 V2 @ 3.20GHz",
@@ -5708,20 +5728,20 @@
     "mark": 4764
   },
   {
+    "nameDetail": "Intel Core i5-7400T @ 2.40GHz",
+    "mark": 4761
+  },
+  {
+    "nameDetail": "Intel Core i5-6500T @ 2.50GHz",
+    "mark": 4755
+  },
+  {
     "nameDetail": "AMD Opteron 6220",
     "mark": 4753
   },
   {
-    "nameDetail": "Intel Core i5-6500T @ 2.50GHz",
-    "mark": 4753
-  },
-  {
     "nameDetail": "Intel Core i5-4440 @ 3.10GHz",
-    "mark": 4752
-  },
-  {
-    "nameDetail": "Intel Core i5-7400T @ 2.40GHz",
-    "mark": 4752
+    "mark": 4753
   },
   {
     "nameDetail": "Intel Atom C3758 @ 2.20GHz",
@@ -5797,11 +5817,7 @@
   },
   {
     "nameDetail": "AMD FX-8120 Eight-Core",
-    "mark": 4655
-  },
-  {
-    "nameDetail": "Intel Core i5-3570S @ 3.10GHz",
-    "mark": 4637
+    "mark": 4657
   },
   {
     "nameDetail": "Intel Core i7-3632QM @ 2.20GHz",
@@ -5814,6 +5830,10 @@
   {
     "nameDetail": "Intel Core i7-3612QM @ 2.10GHz",
     "mark": 4628
+  },
+  {
+    "nameDetail": "Intel Core i5-3570S @ 3.10GHz",
+    "mark": 4625
   },
   {
     "nameDetail": "Snapdragon 8350",
@@ -5829,11 +5849,15 @@
   },
   {
     "nameDetail": "Intel Core i7-2860QM @ 2.50GHz",
-    "mark": 4593
+    "mark": 4589
   },
   {
     "nameDetail": "AMD Ryzen Embedded V1500B",
     "mark": 4584
+  },
+  {
+    "nameDetail": "Intel Xeon X5667 @ 3.07GHz",
+    "mark": 4579
   },
   {
     "nameDetail": "Intel Xeon Bronze 3104 @ 1.70GHz",
@@ -5841,7 +5865,7 @@
   },
   {
     "nameDetail": "Intel Core i7-2600S @ 2.80GHz",
-    "mark": 4562
+    "mark": 4574
   },
   {
     "nameDetail": "Intel Core i7-4770TE @ 2.30GHz",
@@ -5852,12 +5876,8 @@
     "mark": 4555
   },
   {
-    "nameDetail": "Intel Xeon X5667 @ 3.07GHz",
-    "mark": 4551
-  },
-  {
     "nameDetail": "Intel Core i5-4460S @ 2.90GHz",
-    "mark": 4547
+    "mark": 4551
   },
   {
     "nameDetail": "AMD Athlon Silver 3050GE",
@@ -5869,7 +5889,7 @@
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc SM8150",
-    "mark": 4532
+    "mark": 4533
   },
   {
     "nameDetail": "Rockchip RK3588",
@@ -5905,7 +5925,7 @@
   },
   {
     "nameDetail": "AMD Athlon 3000G",
-    "mark": 4480
+    "mark": 4481
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc SM8150P",
@@ -6012,6 +6032,10 @@
     "mark": 4360
   },
   {
+    "nameDetail": "Apple A11 Bionic",
+    "mark": 4354
+  },
+  {
     "nameDetail": "AMD FX-6130 Six-Core",
     "mark": 4353
   },
@@ -6024,16 +6048,12 @@
     "mark": 4350
   },
   {
-    "nameDetail": "Apple A11 Bionic",
-    "mark": 4349
-  },
-  {
     "nameDetail": "Intel Core i5-3450S @ 2.80GHz",
-    "mark": 4328
+    "mark": 4341
   },
   {
     "nameDetail": "Intel Core i5-6400T @ 2.20GHz",
-    "mark": 4318
+    "mark": 4319
   },
   {
     "nameDetail": "Hisilicon Kirin980",
@@ -6048,28 +6068,28 @@
     "mark": 4285
   },
   {
-    "nameDetail": "Intel Atom C3958 @ 2.00GHz",
-    "mark": 4281
+    "nameDetail": "Intel Core i3-8109U @ 3.00GHz",
+    "mark": 4282
   },
   {
-    "nameDetail": "Intel Core i3-8109U @ 3.00GHz",
-    "mark": 4279
+    "nameDetail": "Intel Atom C3958 @ 2.00GHz",
+    "mark": 4281
   },
   {
     "nameDetail": "Intel Xeon E5-1607 v2 @ 3.00GHz",
     "mark": 4277
   },
   {
+    "nameDetail": "MediaTek MT6789",
+    "mark": 4273
+  },
+  {
     "nameDetail": "Intel Celeron J6413 @ 1.80GHz",
-    "mark": 4276
+    "mark": 4269
   },
   {
     "nameDetail": "Intel Pentium Gold G6405 @ 4.10GHz",
-    "mark": 4267
-  },
-  {
-    "nameDetail": "MediaTek MT6789",
-    "mark": 4265
+    "mark": 4269
   },
   {
     "nameDetail": "Intel Core i7-7567U @ 3.50GHz",
@@ -6088,6 +6108,10 @@
     "mark": 4256
   },
   {
+    "nameDetail": "Intel Core i5-4430S @ 2.70GHz",
+    "mark": 4256
+  },
+  {
     "nameDetail": "Intel Core i5-6350HQ @ 2.30GHz",
     "mark": 4255
   },
@@ -6100,15 +6124,11 @@
     "mark": 4235
   },
   {
-    "nameDetail": "Intel Core i5-4430S @ 2.70GHz",
-    "mark": 4233
-  },
-  {
     "nameDetail": "Intel Core i3-8140U @ 2.10GHz",
     "mark": 4227
   },
   {
-    "nameDetail": "Intel Celeron N5095A @ 2.00GHz",
+    "nameDetail": "Qualcomm Technologies, Inc SM6375",
     "mark": 4217
   },
   {
@@ -6120,32 +6140,24 @@
     "mark": 4214
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SM6375",
-    "mark": 4205
-  },
-  {
-    "nameDetail": "Intel N100",
-    "mark": 4192
+    "nameDetail": "Intel Celeron N5095A @ 2.00GHz",
+    "mark": 4210
   },
   {
     "nameDetail": "AMD FX-6330 Six-Core",
     "mark": 4190
   },
   {
+    "nameDetail": "AMD FX-6300 Six-Core",
+    "mark": 4187
+  },
+  {
     "nameDetail": "AMD Ryzen Embedded R1606G",
     "mark": 4186
   },
   {
-    "nameDetail": "AMD FX-6300 Six-Core",
-    "mark": 4185
-  },
-  {
     "nameDetail": "Intel Core i5-2550K @ 3.40GHz",
     "mark": 4184
-  },
-  {
-    "nameDetail": "Intel Pentium J6426 @ 2.00GHz",
-    "mark": 4176
   },
   {
     "nameDetail": "Intel Core i5-2450P @ 3.20GHz",
@@ -6177,7 +6189,7 @@
   },
   {
     "nameDetail": "Intel Core i3-6100 @ 3.70GHz",
-    "mark": 4148
+    "mark": 4149
   },
   {
     "nameDetail": "AMD Athlon PRO 200GE",
@@ -6196,11 +6208,11 @@
     "mark": 4134
   },
   {
-    "nameDetail": "Intel Pentium Gold G6400 @ 4.00GHz",
-    "mark": 4134
+    "nameDetail": "Intel Core i5-7287U @ 3.30GHz",
+    "mark": 4132
   },
   {
-    "nameDetail": "Intel Core i5-7287U @ 3.30GHz",
+    "nameDetail": "Intel Pentium Gold G6400 @ 4.00GHz",
     "mark": 4132
   },
   {
@@ -6208,16 +6220,24 @@
     "mark": 4122
   },
   {
+    "nameDetail": "Intel Core i5-2500K @ 3.30GHz",
+    "mark": 4113
+  },
+  {
     "nameDetail": "Qualcomm Technologies, Inc SM8150_Plus",
     "mark": 4113
   },
   {
-    "nameDetail": "Intel Core i5-2500K @ 3.30GHz",
-    "mark": 4112
+    "nameDetail": "Intel Pentium J6426 @ 2.00GHz",
+    "mark": 4111
   },
   {
     "nameDetail": "Intel Core i5-2500 @ 3.30GHz",
-    "mark": 4109
+    "mark": 4110
+  },
+  {
+    "nameDetail": "AMD Athlon 200GE",
+    "mark": 4102
   },
   {
     "nameDetail": "Intel Pentium Gold G5620 @ 4.00GHz",
@@ -6228,12 +6248,8 @@
     "mark": 4102
   },
   {
-    "nameDetail": "AMD Athlon 200GE",
-    "mark": 4101
-  },
-  {
     "nameDetail": "Intel Core i5-3330 @ 3.00GHz",
-    "mark": 4089
+    "mark": 4091
   },
   {
     "nameDetail": "AMD FX-6200 Six-Core",
@@ -6244,12 +6260,16 @@
     "mark": 4088
   },
   {
-    "nameDetail": "Intel Celeron N5105 @ 2.00GHz",
-    "mark": 4084
-  },
-  {
     "nameDetail": "ARM - 8 Core 1766 MHz",
     "mark": 4080
+  },
+  {
+    "nameDetail": "Intel Celeron N5105 @ 2.00GHz",
+    "mark": 4079
+  },
+  {
+    "nameDetail": "AMD Athlon PRO 300U",
+    "mark": 4074
   },
   {
     "nameDetail": "Intel Core i3-8145UE @ 2.20GHz",
@@ -6300,20 +6320,20 @@
     "mark": 4029
   },
   {
+    "nameDetail": "MediaTek MT6873",
+    "mark": 4028
+  },
+  {
+    "nameDetail": "Intel Core i5-4590T @ 2.00GHz",
+    "mark": 4027
+  },
+  {
     "nameDetail": "Intel Celeron G6900T",
     "mark": 4024
   },
   {
-    "nameDetail": "Intel Core i5-4590T @ 2.00GHz",
-    "mark": 4023
-  },
-  {
     "nameDetail": "AMD Athlon Gold 3150U",
     "mark": 4015
-  },
-  {
-    "nameDetail": "MediaTek MT6873",
-    "mark": 4010
   },
   {
     "nameDetail": "AMD Opteron 6212",
@@ -6329,7 +6349,7 @@
   },
   {
     "nameDetail": "Intel Core i5-7360U @ 2.30GHz",
-    "mark": 3997
+    "mark": 3992
   },
   {
     "nameDetail": "Intel Core i5-3335S @ 2.70GHz",
@@ -6341,7 +6361,11 @@
   },
   {
     "nameDetail": "Intel Core i3-10110U @ 2.10GHz",
-    "mark": 3969
+    "mark": 3962
+  },
+  {
+    "nameDetail": "AMD PRO A12-8870",
+    "mark": 3957
   },
   {
     "nameDetail": "AMD Opteron 4334",
@@ -6364,12 +6388,12 @@
     "mark": 3925
   },
   {
-    "nameDetail": "Intel Core i5-3340S @ 2.80GHz",
-    "mark": 3918
+    "nameDetail": "MT6781",
+    "mark": 3920
   },
   {
-    "nameDetail": "MT6781",
-    "mark": 3917
+    "nameDetail": "Intel Core i5-3340S @ 2.80GHz",
+    "mark": 3918
   },
   {
     "nameDetail": "Intel Core i3-7101TE @ 3.40GHz",
@@ -6377,7 +6401,7 @@
   },
   {
     "nameDetail": "Intel Celeron J6412 @ 2.00GHz",
-    "mark": 3909
+    "mark": 3910
   },
   {
     "nameDetail": "AMD Opteron 4332 HE",
@@ -6385,15 +6409,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 3250U",
-    "mark": 3894
-  },
-  {
-    "nameDetail": "Intel Atom x6425E @ 2.00GHz",
     "mark": 3893
   },
   {
-    "nameDetail": "AMD PRO A12-8870",
-    "mark": 3887
+    "nameDetail": "Intel Atom x6425E @ 2.00GHz",
+    "mark": 3885
   },
   {
     "nameDetail": "Intel Core i7-2675QM @ 2.20GHz",
@@ -6408,15 +6428,15 @@
     "mark": 3877
   },
   {
-    "nameDetail": "Intel Core i5-7267U @ 3.10GHz",
-    "mark": 3861
-  },
-  {
     "nameDetail": "AMD Ryzen 3 3200U",
-    "mark": 3859
+    "mark": 3860
   },
   {
     "nameDetail": "Intel Core i3-8145U @ 2.10GHz",
+    "mark": 3858
+  },
+  {
+    "nameDetail": "Intel Core i5-7267U @ 3.10GHz",
     "mark": 3858
   },
   {
@@ -6425,7 +6445,7 @@
   },
   {
     "nameDetail": "Intel Core i5-2400 @ 3.10GHz",
-    "mark": 3853
+    "mark": 3855
   },
   {
     "nameDetail": "Intel Xeon E5640 @ 2.67GHz",
@@ -6452,16 +6472,12 @@
     "mark": 3829
   },
   {
+    "nameDetail": "Intel Xeon E3-1225 @ 3.10GHz",
+    "mark": 3826
+  },
+  {
     "nameDetail": "Intel Pentium Gold G5500 @ 3.80GHz",
     "mark": 3822
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1225 @ 3.10GHz",
-    "mark": 3820
-  },
-  {
-    "nameDetail": "Intel Core i3-1000NG4 @ 1.10GHz",
-    "mark": 3806
   },
   {
     "nameDetail": "Intel Core i5-2380P @ 3.10GHz",
@@ -6476,12 +6492,16 @@
     "mark": 3794
   },
   {
+    "nameDetail": "Intel Core i3-1000NG4 @ 1.10GHz",
+    "mark": 3793
+  },
+  {
     "nameDetail": "AMD Athlon X4 845",
     "mark": 3789
   },
   {
     "nameDetail": "AMD Phenom II X6 1100T",
-    "mark": 3785
+    "mark": 3788
   },
   {
     "nameDetail": "Samsung Exynos 9820",
@@ -6490,6 +6510,10 @@
   {
     "nameDetail": "Intel Xeon E5-2603 v3 @ 1.60GHz",
     "mark": 3774
+  },
+  {
+    "nameDetail": "Virtual @ 3.14GHz",
+    "mark": 3771
   },
   {
     "nameDetail": "ARM Cortex-A57 8 Core 1766 MHz",
@@ -6516,12 +6540,12 @@
     "mark": 3751
   },
   {
-    "nameDetail": "Intel Pentium Gold G6405T @ 3.50GHz",
-    "mark": 3746
+    "nameDetail": "MT6833",
+    "mark": 3751
   },
   {
-    "nameDetail": "MT6833",
-    "mark": 3745
+    "nameDetail": "Intel Pentium Gold G6405T @ 3.50GHz",
+    "mark": 3746
   },
   {
     "nameDetail": "Intel Pentium Gold G5400 @ 3.70GHz",
@@ -6556,16 +6580,16 @@
     "mark": 3720
   },
   {
-    "nameDetail": "Intel Core i7-7560U @ 2.40GHz",
-    "mark": 3716
+    "nameDetail": "AMD Phenom II X6 1090T",
+    "mark": 3719
   },
   {
     "nameDetail": "Intel Core i7-7600U @ 2.80GHz",
-    "mark": 3716
+    "mark": 3719
   },
   {
-    "nameDetail": "AMD Phenom II X6 1090T",
-    "mark": 3714
+    "nameDetail": "Intel Core i7-7560U @ 2.40GHz",
+    "mark": 3716
   },
   {
     "nameDetail": "Intel Xeon L5638 @ 2.00GHz",
@@ -6576,20 +6600,16 @@
     "mark": 3706
   },
   {
-    "nameDetail": "Virtual @ 3.14GHz",
-    "mark": 3703
-  },
-  {
-    "nameDetail": "Intel Core i5-7300U @ 2.60GHz",
-    "mark": 3698
-  },
-  {
     "nameDetail": "Intel Pentium Gold G6505T @ 3.60GHz",
     "mark": 3698
   },
   {
     "nameDetail": "AMD Opteron 6174",
     "mark": 3697
+  },
+  {
+    "nameDetail": "Intel Core i5-7300U @ 2.60GHz",
+    "mark": 3696
   },
   {
     "nameDetail": "AMD Ryzen 3 2200U",
@@ -6601,7 +6621,7 @@
   },
   {
     "nameDetail": "Samsung Exynos 9825",
-    "mark": 3682
+    "mark": 3684
   },
   {
     "nameDetail": "AMD PRO A10-9700",
@@ -6616,20 +6636,20 @@
     "mark": 3662
   },
   {
+    "nameDetail": "Samsung Exynos 9810",
+    "mark": 3661
+  },
+  {
     "nameDetail": "Intel Core i7-7500U @ 2.70GHz",
-    "mark": 3658
+    "mark": 3655
   },
   {
     "nameDetail": "Intel Core i5-2320 @ 3.00GHz",
-    "mark": 3657
-  },
-  {
-    "nameDetail": "Samsung Exynos 9810",
-    "mark": 3654
+    "mark": 3652
   },
   {
     "nameDetail": "Intel Core i5-2310 @ 2.90GHz",
-    "mark": 3642
+    "mark": 3640
   },
   {
     "nameDetail": "Intel Pentium Gold G5420 @ 3.80GHz",
@@ -6637,7 +6657,7 @@
   },
   {
     "nameDetail": "Intel Core i3-6100T @ 3.20GHz",
-    "mark": 3625
+    "mark": 3626
   },
   {
     "nameDetail": "DG1301SML87HY",
@@ -6645,7 +6665,7 @@
   },
   {
     "nameDetail": "Intel Core i3-8130U @ 2.20GHz",
-    "mark": 3617
+    "mark": 3618
   },
   {
     "nameDetail": "Intel Pentium G4600 @ 3.60GHz",
@@ -6657,7 +6677,7 @@
   },
   {
     "nameDetail": "MT6833V/NZA",
-    "mark": 3609
+    "mark": 3606
   },
   {
     "nameDetail": "MT6853V/TNZA",
@@ -6680,12 +6700,12 @@
     "mark": 3587
   },
   {
-    "nameDetail": "MT6853V/ZA",
-    "mark": 3577
+    "nameDetail": "Intel Core i3-4170 @ 3.70GHz",
+    "mark": 3582
   },
   {
-    "nameDetail": "Intel Core i3-4170 @ 3.70GHz",
-    "mark": 3576
+    "nameDetail": "MT6853V/ZA",
+    "mark": 3577
   },
   {
     "nameDetail": "AMD Embedded R-Series RX-421ND",
@@ -6701,7 +6721,7 @@
   },
   {
     "nameDetail": "AMD Athlon X4 950",
-    "mark": 3558
+    "mark": 3563
   },
   {
     "nameDetail": "Snapdragon 7c Gen 2 @ 2.55 GHz",
@@ -6717,43 +6737,43 @@
   },
   {
     "nameDetail": "Intel Core i3-4330 @ 3.50GHz",
-    "mark": 3537
+    "mark": 3541
   },
   {
     "nameDetail": "MT6785",
     "mark": 3537
   },
   {
+    "nameDetail": "AMD A8-7680",
+    "mark": 3535
+  },
+  {
+    "nameDetail": "Intel Core i7-2630QM @ 2.00GHz",
+    "mark": 3533
+  },
+  {
     "nameDetail": "AMD Ryzen Embedded V1202B",
     "mark": 3532
   },
   {
-    "nameDetail": "Intel Core i7-2630QM @ 2.00GHz",
-    "mark": 3528
+    "nameDetail": "MediaTek MT6785V/CD",
+    "mark": 3527
   },
   {
     "nameDetail": "AMD PRO A10-8770",
     "mark": 3524
   },
   {
-    "nameDetail": "MediaTek MT6785V/CD",
-    "mark": 3523
-  },
-  {
     "nameDetail": "Intel Xeon E5-2418L @ 2.00GHz",
     "mark": 3518
   },
   {
+    "nameDetail": "Intel Pentium G4560 @ 3.50GHz",
+    "mark": 3517
+  },
+  {
     "nameDetail": "Intel Core i3-4160 @ 3.60GHz",
     "mark": 3515
-  },
-  {
-    "nameDetail": "Intel Pentium G4560 @ 3.50GHz",
-    "mark": 3515
-  },
-  {
-    "nameDetail": "AMD A8-7680",
-    "mark": 3514
   },
   {
     "nameDetail": "Intel Pentium Gold G5420T @ 3.20GHz",
@@ -6772,11 +6792,11 @@
     "mark": 3491
   },
   {
-    "nameDetail": "AMD Opteron 4365 EE",
-    "mark": 3485
+    "nameDetail": "Intel Core i5-6267U @ 2.90GHz",
+    "mark": 3489
   },
   {
-    "nameDetail": "Intel Core i5-6267U @ 2.90GHz",
+    "nameDetail": "AMD Opteron 4365 EE",
     "mark": 3485
   },
   {
@@ -6784,16 +6804,16 @@
     "mark": 3478
   },
   {
+    "nameDetail": "Intel Core i7-6600U @ 2.60GHz",
+    "mark": 3472
+  },
+  {
     "nameDetail": "AMD A12-9800",
     "mark": 3470
   },
   {
-    "nameDetail": "Intel Core i7-6600U @ 2.60GHz",
-    "mark": 3469
-  },
-  {
     "nameDetail": "Qualcomm Technologies, Inc ATOLL-AB",
-    "mark": 3468
+    "mark": 3470
   },
   {
     "nameDetail": "Intel Xeon E5-2609 v2 @ 2.50GHz",
@@ -6817,10 +6837,14 @@
   },
   {
     "nameDetail": "AMD A10-7870K",
-    "mark": 3449
+    "mark": 3450
   },
   {
     "nameDetail": "AMD A12-9800E",
+    "mark": 3447
+  },
+  {
+    "nameDetail": "Intel Core i5-L16G7 @ 1.40GHz",
     "mark": 3447
   },
   {
@@ -6830,10 +6854,6 @@
   {
     "nameDetail": "Intel Pentium Silver J5040 @ 2.00GHz",
     "mark": 3443
-  },
-  {
-    "nameDetail": "Intel Core i5-L16G7 @ 1.40GHz",
-    "mark": 3441
   },
   {
     "nameDetail": "Intel Core i3-7100H @ 3.00GHz",
@@ -6848,12 +6868,12 @@
     "mark": 3420
   },
   {
-    "nameDetail": "AMD Athlon X4 860K",
-    "mark": 3415
-  },
-  {
     "nameDetail": "Intel Xeon E3-1265L @ 2.40GHz",
     "mark": 3411
+  },
+  {
+    "nameDetail": "AMD Athlon X4 860K",
+    "mark": 3409
   },
   {
     "nameDetail": "Intel Pentium Silver N5020 @ 1.10GHz",
@@ -6876,11 +6896,11 @@
     "mark": 3398
   },
   {
-    "nameDetail": "Intel Core i3-4360T @ 3.20GHz",
-    "mark": 3393
+    "nameDetail": "Intel Core i5-7200U @ 2.50GHz",
+    "mark": 3394
   },
   {
-    "nameDetail": "Intel Core i5-7200U @ 2.50GHz",
+    "nameDetail": "Intel Core i3-4360T @ 3.20GHz",
     "mark": 3393
   },
   {
@@ -6893,7 +6913,7 @@
   },
   {
     "nameDetail": "AMD A10-7850K APU",
-    "mark": 3390
+    "mark": 3386
   },
   {
     "nameDetail": "Intel Xeon W5580 @ 3.20GHz",
@@ -6901,7 +6921,7 @@
   },
   {
     "nameDetail": "Intel Core i5-2300 @ 2.80GHz",
-    "mark": 3383
+    "mark": 3382
   },
   {
     "nameDetail": "AMD Opteron 6136",
@@ -6920,6 +6940,10 @@
     "mark": 3370
   },
   {
+    "nameDetail": "Intel Core i5-2500S @ 2.70GHz",
+    "mark": 3370
+  },
+  {
     "nameDetail": "AMD FX-B4150 Quad-Core",
     "mark": 3369
   },
@@ -6928,12 +6952,12 @@
     "mark": 3368
   },
   {
-    "nameDetail": "Intel Core i5-2500S @ 2.70GHz",
-    "mark": 3365
+    "nameDetail": "Intel Celeron N5100 @ 1.10GHz",
+    "mark": 3364
   },
   {
     "nameDetail": "Intel Core i3-4150 @ 3.50GHz",
-    "mark": 3362
+    "mark": 3364
   },
   {
     "nameDetail": "Intel Core i3-4370T @ 3.30GHz",
@@ -6941,23 +6965,27 @@
   },
   {
     "nameDetail": "Intel Xeon W3565 @ 3.20GHz",
-    "mark": 3350
+    "mark": 3356
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc SM7225",
+    "mark": 3352
   },
   {
     "nameDetail": "Intel Core i7-965 @ 3.20GHz",
     "mark": 3341
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SM7225",
-    "mark": 3341
-  },
-  {
-    "nameDetail": "Intel Celeron N5100 @ 1.10GHz",
-    "mark": 3340
-  },
-  {
     "nameDetail": "AMD Phenom II X6 1075T",
     "mark": 3339
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc KHAJE",
+    "mark": 3339
+  },
+  {
+    "nameDetail": "AMD A10 PRO-7800B APU",
+    "mark": 3336
   },
   {
     "nameDetail": "AMD Phenom II X6 1405T",
@@ -6972,10 +7000,6 @@
     "mark": 3332
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc KHAJE",
-    "mark": 3331
-  },
-  {
     "nameDetail": "AMD FX-4150 Quad-Core",
     "mark": 3327
   },
@@ -6988,10 +7012,6 @@
     "mark": 3322
   },
   {
-    "nameDetail": "AMD A10 PRO-7800B APU",
-    "mark": 3317
-  },
-  {
     "nameDetail": "Intel Core i3-6100E @ 2.70GHz",
     "mark": 3315
   },
@@ -7001,7 +7021,7 @@
   },
   {
     "nameDetail": "Intel Core i3-4130 @ 3.40GHz",
-    "mark": 3309
+    "mark": 3310
   },
   {
     "nameDetail": "MediaTek MT6853T",
@@ -7040,11 +7060,11 @@
     "mark": 3294
   },
   {
-    "nameDetail": "AMD Athlon Gold 3150C",
-    "mark": 3292
+    "nameDetail": "Qualcomm Technologies, Inc LITO",
+    "mark": 3294
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc LITO",
+    "nameDetail": "AMD Athlon Gold 3150C",
     "mark": 3292
   },
   {
@@ -7053,7 +7073,7 @@
   },
   {
     "nameDetail": "Intel Core i7-6500U @ 2.50GHz",
-    "mark": 3279
+    "mark": 3278
   },
   {
     "nameDetail": "Intel Core i7-960 @ 3.20GHz",
@@ -7064,24 +7084,32 @@
     "mark": 3269
   },
   {
+    "nameDetail": "MediaTek MT6785V/CC",
+    "mark": 3264
+  },
+  {
+    "nameDetail": "Rockchip RK3399",
+    "mark": 3264
+  },
+  {
+    "nameDetail": "AMD Phenom II X6 1055T",
+    "mark": 3263
+  },
+  {
     "nameDetail": "AMD A10-7860K",
     "mark": 3262
   },
   {
     "nameDetail": "AMD FX-4350 Quad-Core",
-    "mark": 3259
-  },
-  {
-    "nameDetail": "AMD Phenom II X6 1055T",
-    "mark": 3259
+    "mark": 3261
   },
   {
     "nameDetail": "Intel Pentium Gold G5500T @ 3.20GHz",
     "mark": 3259
   },
   {
-    "nameDetail": "MediaTek MT6785V/CC",
-    "mark": 3259
+    "nameDetail": "Qualcomm Technologies, Inc SDM845",
+    "mark": 3256
   },
   {
     "nameDetail": "Intel Xeon X3480 @ 3.07GHz",
@@ -7092,23 +7120,19 @@
     "mark": 3251
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SDM845",
-    "mark": 3248
+    "nameDetail": "Qualcomm Technologies, Inc SDM720G",
+    "mark": 3251
   },
   {
     "nameDetail": "Intel Xeon X5570 @ 2.93GHz",
     "mark": 3246
   },
   {
-    "nameDetail": "Intel Core i3-4570T @ 2.90GHz",
-    "mark": 3244
-  },
-  {
     "nameDetail": "Intel Core i5-6300U @ 2.40GHz",
-    "mark": 3244
+    "mark": 3245
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SDM720G",
+    "nameDetail": "Intel Core i3-4570T @ 2.90GHz",
     "mark": 3244
   },
   {
@@ -7124,8 +7148,8 @@
     "mark": 3239
   },
   {
-    "nameDetail": "Rockchip RK3399",
-    "mark": 3238
+    "nameDetail": "Intel Core i7-2635QM @ 2.00GHz",
+    "mark": 3231
   },
   {
     "nameDetail": "ZHAOXIN KaiXian KX-U6580@2.5GHz",
@@ -7138,10 +7162,6 @@
   {
     "nameDetail": "Qualcomm Technologies, Inc SM7150",
     "mark": 3225
-  },
-  {
-    "nameDetail": "AMD PRO A8-8650B",
-    "mark": 3221
   },
   {
     "nameDetail": "Intel Core i7-2715QE @ 2.10GHz",
@@ -7157,7 +7177,15 @@
   },
   {
     "nameDetail": "AMD A8-7600 APU",
-    "mark": 3213
+    "mark": 3214
+  },
+  {
+    "nameDetail": "AMD PRO A8-8650B",
+    "mark": 3214
+  },
+  {
+    "nameDetail": "Intel Core i7-4600M @ 2.90GHz",
+    "mark": 3212
   },
   {
     "nameDetail": "Intel Xeon W3550 @ 3.07GHz",
@@ -7165,19 +7193,15 @@
   },
   {
     "nameDetail": "Intel Core i5-6260U @ 1.80GHz",
-    "mark": 3207
-  },
-  {
-    "nameDetail": "Intel Core i7-4600M @ 2.90GHz",
-    "mark": 3202
+    "mark": 3205
   },
   {
     "nameDetail": "AMD FX-870K Quad Core",
     "mark": 3199
   },
   {
-    "nameDetail": "Intel Core i7-2635QM @ 2.00GHz",
-    "mark": 3194
+    "nameDetail": "Intel Core i7-5557U @ 3.10GHz",
+    "mark": 3190
   },
   {
     "nameDetail": "Intel Core i3-4170T @ 3.20GHz",
@@ -7190,10 +7214,6 @@
   {
     "nameDetail": "Intel Xeon W3570 @ 3.20GHz",
     "mark": 3185
-  },
-  {
-    "nameDetail": "Intel Core i7-5557U @ 3.10GHz",
-    "mark": 3184
   },
   {
     "nameDetail": "AMD A8-7670K",
@@ -7209,11 +7229,7 @@
   },
   {
     "nameDetail": "AMD A10-7800 APU",
-    "mark": 3177
-  },
-  {
-    "nameDetail": "Unisoc T616",
-    "mark": 3177
+    "mark": 3178
   },
   {
     "nameDetail": "AMD A10-7700K APU",
@@ -7221,7 +7237,11 @@
   },
   {
     "nameDetail": "Intel Core i5-4570T @ 2.90GHz",
-    "mark": 3173
+    "mark": 3171
+  },
+  {
+    "nameDetail": "Intel Pentium Silver N6000 @ 1.10GHz",
+    "mark": 3170
   },
   {
     "nameDetail": "Intel Core i5-6198DU @ 2.30GHz",
@@ -7237,14 +7257,10 @@
   },
   {
     "nameDetail": "Intel Core i5-6360U @ 2.00GHz",
-    "mark": 3164
+    "mark": 3163
   },
   {
     "nameDetail": "Intel Core i5-2400S @ 2.50GHz",
-    "mark": 3162
-  },
-  {
-    "nameDetail": "Intel Pentium Silver N6000 @ 1.10GHz",
     "mark": 3160
   },
   {
@@ -7260,32 +7276,36 @@
     "mark": 3155
   },
   {
+    "nameDetail": "Intel Pentium G4600T @ 3.00GHz",
+    "mark": 3152
+  },
+  {
     "nameDetail": "AMD Ryzen Embedded R1600",
     "mark": 3147
   },
   {
+    "nameDetail": "Unisoc T616",
+    "mark": 3143
+  },
+  {
     "nameDetail": "Intel Core i5-5287U @ 2.90GHz",
-    "mark": 3134
+    "mark": 3138
+  },
+  {
+    "nameDetail": "Intel Core i5-4200H @ 2.80GHz",
+    "mark": 3132
   },
   {
     "nameDetail": "vendor Kirin970",
     "mark": 3132
   },
   {
-    "nameDetail": "Intel Core i5-4200H @ 2.80GHz",
-    "mark": 3131
-  },
-  {
-    "nameDetail": "Intel Pentium G4600T @ 3.00GHz",
-    "mark": 3130
+    "nameDetail": "Qualcomm Technologies, Inc SDMMAGPIE",
+    "mark": 3128
   },
   {
     "nameDetail": "Intel Xeon X5560 @ 2.80GHz",
     "mark": 3124
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc SDMMAGPIE",
-    "mark": 3122
   },
   {
     "nameDetail": "AMD A10-6700 APU",
@@ -7293,7 +7313,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4310M @ 2.70GHz",
-    "mark": 3110
+    "mark": 3114
   },
   {
     "nameDetail": "AMD FX-4200 Quad-Core",
@@ -7308,12 +7328,8 @@
     "mark": 3106
   },
   {
-    "nameDetail": "AMD PRO A10-8770E",
-    "mark": 3104
-  },
-  {
     "nameDetail": "Intel Core i7-870 @ 2.93GHz",
-    "mark": 3101
+    "mark": 3106
   },
   {
     "nameDetail": "Intel Core i3-4330T @ 3.00GHz",
@@ -7338,6 +7354,10 @@
   {
     "nameDetail": "Qualcomm Technologies, Inc BENGALP-IOT",
     "mark": 3084
+  },
+  {
+    "nameDetail": "AMD PRO A10-8770E",
+    "mark": 3082
   },
   {
     "nameDetail": "Intel Core i7-880 @ 3.07GHz",
@@ -7392,16 +7412,12 @@
     "mark": 3061
   },
   {
+    "nameDetail": "Intel Core i7-5650U @ 2.20GHz",
+    "mark": 3054
+  },
+  {
     "nameDetail": "Intel Core i7-4578U @ 3.00GHz",
     "mark": 3052
-  },
-  {
-    "nameDetail": "Intel Core i5-4300M @ 2.60GHz",
-    "mark": 3051
-  },
-  {
-    "nameDetail": "Intel Core i7-5650U @ 2.20GHz",
-    "mark": 3050
   },
   {
     "nameDetail": "AMD A10-9700E",
@@ -7409,6 +7425,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 3250C",
+    "mark": 3044
+  },
+  {
+    "nameDetail": "Samsung Exynos 8895",
     "mark": 3044
   },
   {
@@ -7420,6 +7440,10 @@
     "mark": 3043
   },
   {
+    "nameDetail": "Intel Core i5-4300M @ 2.60GHz",
+    "mark": 3042
+  },
+  {
     "nameDetail": "Intel Core i3-6100H @ 2.70GHz",
     "mark": 3041
   },
@@ -7428,20 +7452,16 @@
     "mark": 3041
   },
   {
-    "nameDetail": "Samsung Exynos 8895",
-    "mark": 3040
+    "nameDetail": "Intel Core i5-4210H @ 2.90GHz",
+    "mark": 3038
   },
   {
     "nameDetail": "Intel Core i5-5257U @ 2.70GHz",
-    "mark": 3039
+    "mark": 3036
   },
   {
     "nameDetail": "Intel Core i7-4558U @ 2.80GHz",
     "mark": 3033
-  },
-  {
-    "nameDetail": "Intel Core i5-4210H @ 2.90GHz",
-    "mark": 3032
   },
   {
     "nameDetail": "Intel Xeon W3540 @ 2.93GHz",
@@ -7461,7 +7481,7 @@
   },
   {
     "nameDetail": "Intel Core i5-6200U @ 2.30GHz",
-    "mark": 3004
+    "mark": 3003
   },
   {
     "nameDetail": "Intel Core i5-4308U @ 2.80GHz",
@@ -7473,7 +7493,7 @@
   },
   {
     "nameDetail": "AMD Athlon Silver 3050U",
-    "mark": 2996
+    "mark": 2995
   },
   {
     "nameDetail": "AMD PRO A8-8670E",
@@ -7493,7 +7513,7 @@
   },
   {
     "nameDetail": "AMD A8-6600K APU",
-    "mark": 2984
+    "mark": 2982
   },
   {
     "nameDetail": "AMD FX-670K Quad-Core",
@@ -7512,16 +7532,16 @@
     "mark": 2978
   },
   {
+    "nameDetail": "Intel Pentium GOLD 6500Y @ 1.10GHz",
+    "mark": 2976
+  },
+  {
     "nameDetail": "Intel Xeon X5550 @ 2.67GHz",
     "mark": 2974
   },
   {
     "nameDetail": "AMD FX-4300 Quad-Core",
-    "mark": 2971
-  },
-  {
-    "nameDetail": "Intel Pentium GOLD 6500Y @ 1.10GHz",
-    "mark": 2970
+    "mark": 2972
   },
   {
     "nameDetail": "AMD PRO A10-9700E",
@@ -7541,7 +7561,7 @@
   },
   {
     "nameDetail": "Intel Core i7-860 @ 2.80GHz",
-    "mark": 2954
+    "mark": 2956
   },
   {
     "nameDetail": "Intel Pentium G4520 @ 3.60GHz",
@@ -7558,6 +7578,10 @@
   {
     "nameDetail": "AMD Phenom II X6 1035T",
     "mark": 2949
+  },
+  {
+    "nameDetail": "Unisoc ums9230T",
+    "mark": 2947
   },
   {
     "nameDetail": "Hisilicon Kirin810",
@@ -7588,20 +7612,20 @@
     "mark": 2932
   },
   {
-    "nameDetail": "Intel Core i7-3540M @ 3.00GHz",
-    "mark": 2931
+    "nameDetail": "AMD A10-9630P",
+    "mark": 2929
   },
   {
-    "nameDetail": "AMD A10-9630P",
+    "nameDetail": "AMD Athlon X4 760K Quad Core",
+    "mark": 2929
+  },
+  {
+    "nameDetail": "Intel Core i7-3540M @ 3.00GHz",
     "mark": 2929
   },
   {
     "nameDetail": "Intel Pentium G4560T @ 2.90GHz",
     "mark": 2929
-  },
-  {
-    "nameDetail": "AMD Athlon X4 760K Quad Core",
-    "mark": 2927
   },
   {
     "nameDetail": "AMD A8 PRO-7600B APU",
@@ -7636,10 +7660,6 @@
     "mark": 2908
   },
   {
-    "nameDetail": "Unisoc ums9230T",
-    "mark": 2906
-  },
-  {
     "nameDetail": "Intel Celeron J4105 @ 1.50GHz",
     "mark": 2905
   },
@@ -7660,6 +7680,10 @@
     "mark": 2901
   },
   {
+    "nameDetail": "Intel Xeon X3460 @ 2.80GHz",
+    "mark": 2898
+  },
+  {
     "nameDetail": "Intel Core i3-4350T @ 3.10GHz",
     "mark": 2888
   },
@@ -7669,7 +7693,7 @@
   },
   {
     "nameDetail": "Intel Core i3-4130T @ 2.90GHz",
-    "mark": 2882
+    "mark": 2883
   },
   {
     "nameDetail": "AMD FX-770K Quad-Core",
@@ -7684,16 +7708,12 @@
     "mark": 2872
   },
   {
-    "nameDetail": "Intel Xeon X3460 @ 2.80GHz",
+    "nameDetail": "Intel Core i5-4210M @ 2.60GHz",
     "mark": 2870
   },
   {
     "nameDetail": "AMD A8-6500B APU",
     "mark": 2868
-  },
-  {
-    "nameDetail": "Intel Core i5-4210M @ 2.60GHz",
-    "mark": 2866
   },
   {
     "nameDetail": "Intel Core i7-3520M @ 2.90GHz",
@@ -7708,10 +7728,6 @@
     "mark": 2851
   },
   {
-    "nameDetail": "Intel Celeron G5905 @ 3.50GHz",
-    "mark": 2849
-  },
-  {
     "nameDetail": "MT8788",
     "mark": 2849
   },
@@ -7721,11 +7737,19 @@
   },
   {
     "nameDetail": "Intel Core i5-4278U @ 2.60GHz",
-    "mark": 2838
+    "mark": 2839
   },
   {
     "nameDetail": "MT6768G",
     "mark": 2838
+  },
+  {
+    "nameDetail": "Intel Celeron G5905 @ 3.50GHz",
+    "mark": 2828
+  },
+  {
+    "nameDetail": "Unisoc T610",
+    "mark": 2828
   },
   {
     "nameDetail": "AMD Opteron 6128",
@@ -7736,10 +7760,6 @@
     "mark": 2825
   },
   {
-    "nameDetail": "Unisoc T610",
-    "mark": 2824
-  },
-  {
     "nameDetail": "Intel Xeon W3520 @ 2.67GHz",
     "mark": 2818
   },
@@ -7748,16 +7768,16 @@
     "mark": 2818
   },
   {
-    "nameDetail": "Intel Core i5-8210Y @ 1.60GHz",
-    "mark": 2816
-  },
-  {
     "nameDetail": "AMD A8-5600K APU",
     "mark": 2815
   },
   {
     "nameDetail": "AMD FX-8800P",
     "mark": 2813
+  },
+  {
+    "nameDetail": "Intel Core i5-8210Y @ 1.60GHz",
+    "mark": 2812
   },
   {
     "nameDetail": "HiSilicon Kirin 960",
@@ -7769,10 +7789,14 @@
   },
   {
     "nameDetail": "Intel Core i7-920 @ 2.67GHz",
-    "mark": 2799
+    "mark": 2800
   },
   {
     "nameDetail": "Intel Core i3-6157U @ 2.40GHz",
+    "mark": 2796
+  },
+  {
+    "nameDetail": "Intel Core i5-4200M @ 2.50GHz",
     "mark": 2796
   },
   {
@@ -7780,12 +7804,8 @@
     "mark": 2796
   },
   {
-    "nameDetail": "Intel Core i5-4200M @ 2.50GHz",
-    "mark": 2795
-  },
-  {
-    "nameDetail": "Intel Core i5-7Y54 @ 1.20GHz",
-    "mark": 2786
+    "nameDetail": "Intel Xeon E5-2609 @ 2.40GHz",
+    "mark": 2794
   },
   {
     "nameDetail": "Intel Core i7-870S @ 2.67GHz",
@@ -7816,20 +7836,28 @@
     "mark": 2774
   },
   {
+    "nameDetail": "Intel Core i5-7Y54 @ 1.20GHz",
+    "mark": 2772
+  },
+  {
+    "nameDetail": "vendor Kirin710",
+    "mark": 2770
+  },
+  {
+    "nameDetail": "Intel Core i7-5500U @ 2.40GHz",
+    "mark": 2761
+  },
+  {
     "nameDetail": "Intel Pentium G4500 @ 3.50GHz",
     "mark": 2761
   },
   {
-    "nameDetail": "vendor Kirin710",
-    "mark": 2761
-  },
-  {
-    "nameDetail": "Intel Core i7-5500U @ 2.40GHz",
-    "mark": 2760
-  },
-  {
     "nameDetail": "Intel Xeon X5470 @ 3.33GHz",
     "mark": 2757
+  },
+  {
+    "nameDetail": "Intel Xeon X5482 @ 3.20GHz",
+    "mark": 2755
   },
   {
     "nameDetail": "Intel Core 860 @ 2.80GHz",
@@ -7845,23 +7873,23 @@
   },
   {
     "nameDetail": "AMD A10-5700 APU",
-    "mark": 2748
+    "mark": 2744
   },
   {
     "nameDetail": "Intel Core i5-5300U @ 2.30GHz",
-    "mark": 2745
+    "mark": 2742
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc MSM8998",
+    "mark": 2742
   },
   {
     "nameDetail": "AMD PRO A12-9800B",
     "mark": 2741
   },
   {
-    "nameDetail": "Intel Xeon E5-2609 @ 2.40GHz",
+    "nameDetail": "Intel Core i5-7Y57 @ 1.20GHz",
     "mark": 2741
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc MSM8998",
-    "mark": 2739
   },
   {
     "nameDetail": "Intel Xeon E5540 @ 2.53GHz",
@@ -7870,10 +7898,6 @@
   {
     "nameDetail": "T618",
     "mark": 2737
-  },
-  {
-    "nameDetail": "Intel Core i5-7Y57 @ 1.20GHz",
-    "mark": 2732
   },
   {
     "nameDetail": "Intel Xeon X3440 @ 2.53GHz",
@@ -7897,7 +7921,7 @@
   },
   {
     "nameDetail": "Intel Core i3-7100U @ 2.40GHz",
-    "mark": 2718
+    "mark": 2719
   },
   {
     "nameDetail": "AMD A6-9400",
@@ -7928,12 +7952,12 @@
     "mark": 2700
   },
   {
-    "nameDetail": "MT6769V/CZ",
-    "mark": 2697
+    "nameDetail": "Intel Core i7-4600U @ 2.10GHz",
+    "mark": 2698
   },
   {
-    "nameDetail": "Intel Core i7-4600U @ 2.10GHz",
-    "mark": 2696
+    "nameDetail": "MT6769V/CZ",
+    "mark": 2697
   },
   {
     "nameDetail": "AMD 3015e",
@@ -7964,16 +7988,20 @@
     "mark": 2681
   },
   {
-    "nameDetail": "Intel Core i3-4110M @ 2.60GHz",
-    "mark": 2678
+    "nameDetail": "Intel Core i5-3340M @ 2.70GHz",
+    "mark": 2680
   },
   {
-    "nameDetail": "Intel Core i5-3340M @ 2.70GHz",
+    "nameDetail": "Intel Core i3-4110M @ 2.60GHz",
     "mark": 2678
   },
   {
     "nameDetail": "ARM D2000/8 8 Core 2300 MHz",
     "mark": 2674
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc SM6225",
+    "mark": 2671
   },
   {
     "nameDetail": "ARM Phytium,D2000/8 8 Core 2300 MHz",
@@ -8004,24 +8032,12 @@
     "mark": 2649
   },
   {
-    "nameDetail": "AMD A8-5500B APU",
-    "mark": 2643
-  },
-  {
     "nameDetail": "AMD FX-4130 Quad-Core",
     "mark": 2643
   },
   {
     "nameDetail": "Intel Core i5-3320M @ 2.60GHz",
-    "mark": 2640
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc SM6225",
-    "mark": 2637
-  },
-  {
-    "nameDetail": "Intel Xeon X5482 @ 3.20GHz",
-    "mark": 2636
+    "mark": 2642
   },
   {
     "nameDetail": "AMD PRO A10-9700B",
@@ -8033,19 +8049,23 @@
   },
   {
     "nameDetail": "AMD A12-9720P",
-    "mark": 2628
+    "mark": 2630
   },
   {
     "nameDetail": "Intel Core i5-5350U @ 1.80GHz",
     "mark": 2628
   },
   {
-    "nameDetail": "Intel Core i7-3687U @ 2.10GHz",
-    "mark": 2628
-  },
-  {
     "nameDetail": "Intel Xeon E5530 @ 2.40GHz",
     "mark": 2624
+  },
+  {
+    "nameDetail": "Intel Core i7-3687U @ 2.10GHz",
+    "mark": 2623
+  },
+  {
+    "nameDetail": "AMD A8-5500B APU",
+    "mark": 2620
   },
   {
     "nameDetail": "Intel Celeron G5900T @ 3.20GHz",
@@ -8056,8 +8076,8 @@
     "mark": 2615
   },
   {
-    "nameDetail": "Intel Core m3-7Y30 @ 1.00GHz",
-    "mark": 2612
+    "nameDetail": "MediaTek MT6771V/CT",
+    "mark": 2614
   },
   {
     "nameDetail": "AMD FX-7600P",
@@ -8068,16 +8088,12 @@
     "mark": 2611
   },
   {
-    "nameDetail": "MediaTek MT6771V/CT",
-    "mark": 2609
-  },
-  {
     "nameDetail": "Intel Core i5-3610ME @ 2.70GHz",
     "mark": 2608
   },
   {
     "nameDetail": "Intel Core i5-760 @ 2.80GHz",
-    "mark": 2606
+    "mark": 2608
   },
   {
     "nameDetail": "AMD Athlon II X4 559",
@@ -8085,7 +8101,7 @@
   },
   {
     "nameDetail": "Intel Pentium G4400 @ 3.30GHz",
-    "mark": 2598
+    "mark": 2599
   },
   {
     "nameDetail": "AMD A10-9620P",
@@ -8104,12 +8120,20 @@
     "mark": 2588
   },
   {
+    "nameDetail": "Intel Core m3-7Y30 @ 1.00GHz",
+    "mark": 2586
+  },
+  {
     "nameDetail": "AMD Phenom II X4 965",
+    "mark": 2584
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc SDM710",
     "mark": 2583
   },
   {
     "nameDetail": "AMD FX-4100 Quad-Core",
-    "mark": 2580
+    "mark": 2582
   },
   {
     "nameDetail": "AMD PRO A12-8800B",
@@ -8120,7 +8144,7 @@
     "mark": 2580
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SDM710",
+    "nameDetail": "Intel Core i5-4258U @ 2.40GHz",
     "mark": 2578
   },
   {
@@ -8132,24 +8156,16 @@
     "mark": 2576
   },
   {
-    "nameDetail": "Intel Core i5-4258U @ 2.40GHz",
-    "mark": 2574
-  },
-  {
     "nameDetail": "Unisoc T606",
     "mark": 2574
   },
   {
-    "nameDetail": "Intel Celeron G4930 @ 3.20GHz",
+    "nameDetail": "AMD A8-5500 APU",
     "mark": 2571
   },
   {
-    "nameDetail": "Intel Xeon X5460 @ 3.16GHz",
-    "mark": 2568
-  },
-  {
-    "nameDetail": "AMD A8-5500 APU",
-    "mark": 2567
+    "nameDetail": "Intel Celeron G4930 @ 3.20GHz",
+    "mark": 2571
   },
   {
     "nameDetail": "AMD Athlon II X4 557",
@@ -8157,6 +8173,10 @@
   },
   {
     "nameDetail": "Intel Core i3-7020U @ 2.30GHz",
+    "mark": 2566
+  },
+  {
+    "nameDetail": "Intel Xeon X5460 @ 3.16GHz",
     "mark": 2566
   },
   {
@@ -8184,12 +8204,12 @@
     "mark": 2533
   },
   {
-    "nameDetail": "Intel Celeron N4120 @ 1.10GHz",
+    "nameDetail": "Intel Core i5-3230M @ 2.60GHz",
     "mark": 2530
   },
   {
-    "nameDetail": "Intel Core i5-3230M @ 2.60GHz",
-    "mark": 2529
+    "nameDetail": "Intel Celeron N4120 @ 1.10GHz",
+    "mark": 2528
   },
   {
     "nameDetail": "Intel Core i5-4310U @ 2.00GHz",
@@ -8213,7 +8233,7 @@
   },
   {
     "nameDetail": "Intel Core i5-750 @ 2.67GHz",
-    "mark": 2511
+    "mark": 2513
   },
   {
     "nameDetail": "Apple A9X",
@@ -8224,11 +8244,11 @@
     "mark": 2503
   },
   {
-    "nameDetail": "AMD Phenom II X4 B55",
-    "mark": 2501
+    "nameDetail": "Intel Core i5-5200U @ 2.20GHz",
+    "mark": 2502
   },
   {
-    "nameDetail": "Intel Core i5-5200U @ 2.20GHz",
+    "nameDetail": "AMD Phenom II X4 B55",
     "mark": 2501
   },
   {
@@ -8249,7 +8269,7 @@
   },
   {
     "nameDetail": "Intel Core i5-5250U @ 1.60GHz",
-    "mark": 2497
+    "mark": 2495
   },
   {
     "nameDetail": "Intel Xeon L7455 @ 2.13GHz",
@@ -8265,19 +8285,19 @@
   },
   {
     "nameDetail": "MT6769V/CT",
-    "mark": 2488
+    "mark": 2483
+  },
+  {
+    "nameDetail": "Samsung Exynos 8890",
+    "mark": 2483
   },
   {
     "nameDetail": "Intel Celeron G5920 @ 3.50GHz",
     "mark": 2482
   },
   {
-    "nameDetail": "Samsung Exynos 8890",
-    "mark": 2481
-  },
-  {
     "nameDetail": "Intel Core i7-4500U @ 1.80GHz",
-    "mark": 2480
+    "mark": 2482
   },
   {
     "nameDetail": "AMD Opteron 8439 SE",
@@ -8285,7 +8305,7 @@
   },
   {
     "nameDetail": "AMD Phenom II X4 955",
-    "mark": 2477
+    "mark": 2479
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc BENGALP",
@@ -8293,11 +8313,11 @@
   },
   {
     "nameDetail": "Intel Core i5-3210M @ 2.50GHz",
-    "mark": 2472
+    "mark": 2474
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc SDM670",
-    "mark": 2462
+    "mark": 2465
   },
   {
     "nameDetail": "AMD Athlon X4 750 Quad Core",
@@ -8345,7 +8365,7 @@
   },
   {
     "nameDetail": "AMD 3020e",
-    "mark": 2445
+    "mark": 2443
   },
   {
     "nameDetail": "Intel Celeron N4100 @ 1.10GHz",
@@ -8360,6 +8380,10 @@
     "mark": 2437
   },
   {
+    "nameDetail": "Unisoc T618",
+    "mark": 2436
+  },
+  {
     "nameDetail": "AMD FX-9800P",
     "mark": 2434
   },
@@ -8372,8 +8396,12 @@
     "mark": 2433
   },
   {
+    "nameDetail": "Virtual @ 2.55GHz",
+    "mark": 2430
+  },
+  {
     "nameDetail": "Intel Core i7-2620M @ 2.70GHz",
-    "mark": 2433
+    "mark": 2429
   },
   {
     "nameDetail": "Intel Pentium G3470 @ 3.60GHz",
@@ -8400,10 +8428,6 @@
     "mark": 2418
   },
   {
-    "nameDetail": "Unisoc T618",
-    "mark": 2418
-  },
-  {
     "nameDetail": "Intel Atom C3558 @ 2.20GHz",
     "mark": 2417
   },
@@ -8412,12 +8436,12 @@
     "mark": 2417
   },
   {
-    "nameDetail": "Intel Celeron G3950 @ 3.00GHz",
-    "mark": 2412
+    "nameDetail": "MediaTek MT6769Z",
+    "mark": 2415
   },
   {
-    "nameDetail": "MediaTek MT6769Z",
-    "mark": 2411
+    "nameDetail": "Intel Celeron G3950 @ 3.00GHz",
+    "mark": 2412
   },
   {
     "nameDetail": "Snapdragon 662",
@@ -8432,28 +8456,24 @@
     "mark": 2408
   },
   {
+    "nameDetail": "MediaTek MT6769T",
+    "mark": 2407
+  },
+  {
     "nameDetail": "Intel Celeron G4920 @ 3.20GHz",
     "mark": 2406
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc BENGAL",
-    "mark": 2404
+    "mark": 2406
   },
   {
     "nameDetail": "Intel Core2 Extreme X9650 @ 3.00GHz",
     "mark": 2403
   },
   {
-    "nameDetail": "MediaTek MT6769T",
-    "mark": 2400
-  },
-  {
     "nameDetail": "AMD PRO A10-8730B",
     "mark": 2392
-  },
-  {
-    "nameDetail": "Virtual @ 2.55GHz",
-    "mark": 2391
   },
   {
     "nameDetail": "AMD PRO A8-9600B",
@@ -8480,11 +8500,11 @@
     "mark": 2378
   },
   {
-    "nameDetail": "AMD Phenom II X4 977",
-    "mark": 2377
+    "nameDetail": "Qualcomm Technologies, Inc TRINKET",
+    "mark": 2378
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc TRINKET",
+    "nameDetail": "AMD Phenom II X4 977",
     "mark": 2377
   },
   {
@@ -8493,7 +8513,7 @@
   },
   {
     "nameDetail": "AMD Phenom II X4 840",
-    "mark": 2373
+    "mark": 2374
   },
   {
     "nameDetail": "MediaTek MT6771V/W",
@@ -8502,10 +8522,6 @@
   {
     "nameDetail": "Intel Core i7-4650U @ 1.70GHz",
     "mark": 2372
-  },
-  {
-    "nameDetail": "Intel Xeon X5472 @ 3.00GHz",
-    "mark": 2366
   },
   {
     "nameDetail": "Intel Xeon E5606 @ 2.13GHz",
@@ -8528,6 +8544,10 @@
     "mark": 2353
   },
   {
+    "nameDetail": "Intel Core i5-4260U @ 1.40GHz",
+    "mark": 2352
+  },
+  {
     "nameDetail": "Intel Core m5-6Y57 @ 1.10GHz",
     "mark": 2351
   },
@@ -8542,10 +8562,6 @@
   {
     "nameDetail": "Intel Xeon X3360 @ 2.83GHz",
     "mark": 2351
-  },
-  {
-    "nameDetail": "Intel Core i5-4260U @ 1.40GHz",
-    "mark": 2350
   },
   {
     "nameDetail": "Intel Core i3-6102E @ 1.90GHz",
@@ -8613,7 +8629,7 @@
   },
   {
     "nameDetail": "Intel Core i5-2540M @ 2.60GHz",
-    "mark": 2324
+    "mark": 2325
   },
   {
     "nameDetail": "AMD Athlon II X4 645",
@@ -8636,10 +8652,6 @@
     "mark": 2315
   },
   {
-    "nameDetail": "Intel Core i5-4210U @ 1.70GHz",
-    "mark": 2308
-  },
-  {
     "nameDetail": "Intel Xeon X3380 @ 3.16GHz",
     "mark": 2308
   },
@@ -8656,11 +8668,11 @@
     "mark": 2307
   },
   {
-    "nameDetail": "Intel Xeon X3363 @ 2.83GHz",
+    "nameDetail": "Intel Core i5-4210U @ 1.70GHz",
     "mark": 2307
   },
   {
-    "nameDetail": "Intel Xeon X3430 @ 2.40GHz",
+    "nameDetail": "Intel Xeon X3363 @ 2.83GHz",
     "mark": 2307
   },
   {
@@ -8712,6 +8724,10 @@
     "mark": 2297
   },
   {
+    "nameDetail": "Intel Xeon X3430 @ 2.40GHz",
+    "mark": 2296
+  },
+  {
     "nameDetail": "Intel Core i3-3245 @ 3.40GHz",
     "mark": 2295
   },
@@ -8756,6 +8772,10 @@
     "mark": 2280
   },
   {
+    "nameDetail": "AMD A10-9600P",
+    "mark": 2276
+  },
+  {
     "nameDetail": "Intel Xeon E3-1220L @ 2.20GHz",
     "mark": 2274
   },
@@ -8768,16 +8788,12 @@
     "mark": 2272
   },
   {
-    "nameDetail": "AMD A10-9600P",
-    "mark": 2270
-  },
-  {
     "nameDetail": "Intel Core i5-8200Y @ 1.30GHz",
     "mark": 2270
   },
   {
     "nameDetail": "Intel Pentium 5405U @ 2.30GHz",
-    "mark": 2268
+    "mark": 2269
   },
   {
     "nameDetail": "AArch64 rev 2 (aarch64)",
@@ -8796,16 +8812,16 @@
     "mark": 2258
   },
   {
+    "nameDetail": "Intel Celeron G3930 @ 2.90GHz",
+    "mark": 2255
+  },
+  {
     "nameDetail": "mt6779",
     "mark": 2255
   },
   {
     "nameDetail": "Intel Celeron J3455 @ 1.50GHz",
     "mark": 2254
-  },
-  {
-    "nameDetail": "Intel Celeron G3930 @ 2.90GHz",
-    "mark": 2253
   },
   {
     "nameDetail": "MediaTek MT6768V/CA",
@@ -8816,11 +8832,11 @@
     "mark": 2250
   },
   {
-    "nameDetail": "Intel Core i3-3220 @ 3.30GHz",
-    "mark": 2247
+    "nameDetail": "Intel Celeron N6211 @ 1.20GHz",
+    "mark": 2245
   },
   {
-    "nameDetail": "Intel Celeron N6211 @ 1.20GHz",
+    "nameDetail": "Intel Core i3-3220 @ 3.30GHz",
     "mark": 2245
   },
   {
@@ -8840,16 +8856,12 @@
     "mark": 2235
   },
   {
-    "nameDetail": "AMD Phenom II X4 925",
-    "mark": 2234
-  },
-  {
     "nameDetail": "AMD Phenom II X4 B45",
     "mark": 2233
   },
   {
     "nameDetail": "Intel Core i5-2520M @ 2.50GHz",
-    "mark": 2233
+    "mark": 2232
   },
   {
     "nameDetail": "Intel Core i5-650 @ 3.20GHz",
@@ -8868,12 +8880,16 @@
     "mark": 2228
   },
   {
+    "nameDetail": "AMD Phenom II X4 925",
+    "mark": 2227
+  },
+  {
     "nameDetail": "AMD A10-8700P",
     "mark": 2226
   },
   {
     "nameDetail": "Intel Core i5-3427U @ 1.80GHz",
-    "mark": 2225
+    "mark": 2223
   },
   {
     "nameDetail": "Intel Celeron G3930TE @ 2.70GHz",
@@ -8881,15 +8897,15 @@
   },
   {
     "nameDetail": "Samsung Exynos 9610",
-    "mark": 2218
+    "mark": 2217
+  },
+  {
+    "nameDetail": "AMD Athlon II X4 640",
+    "mark": 2211
   },
   {
     "nameDetail": "Intel Core i7-940XM @ 2.13GHz",
     "mark": 2211
-  },
-  {
-    "nameDetail": "AMD Athlon II X4 640",
-    "mark": 2210
   },
   {
     "nameDetail": "Intel Xeon E5430 @ 2.66GHz",
@@ -8901,7 +8917,11 @@
   },
   {
     "nameDetail": "Intel Pentium 4415U @ 2.30GHz",
-    "mark": 2202
+    "mark": 2204
+  },
+  {
+    "nameDetail": "Intel Xeon X5472 @ 3.00GHz",
+    "mark": 2197
   },
   {
     "nameDetail": "Intel Core i3-21050 @ 3.10GHz",
@@ -8912,12 +8932,12 @@
     "mark": 2192
   },
   {
-    "nameDetail": "Intel Pentium G3460 @ 3.50GHz",
+    "nameDetail": "Intel Core i5-4200U @ 1.60GHz",
     "mark": 2191
   },
   {
-    "nameDetail": "Intel Core i5-4200U @ 1.60GHz",
-    "mark": 2190
+    "nameDetail": "Intel Pentium G3460 @ 3.50GHz",
+    "mark": 2191
   },
   {
     "nameDetail": "Intel Pentium G4400TE @ 2.40GHz",
@@ -8940,12 +8960,12 @@
     "mark": 2185
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc APQ8094",
-    "mark": 2182
+    "nameDetail": "Intel Core i3-3210 @ 3.20GHz",
+    "mark": 2183
   },
   {
-    "nameDetail": "Intel Core i3-3210 @ 3.20GHz",
-    "mark": 2176
+    "nameDetail": "Qualcomm Technologies, Inc APQ8094",
+    "mark": 2182
   },
   {
     "nameDetail": "Intel Core i3-5010U @ 2.10GHz",
@@ -8956,7 +8976,15 @@
     "mark": 2175
   },
   {
+    "nameDetail": "AMD Athlon II X4 635",
+    "mark": 2174
+  },
+  {
     "nameDetail": "Intel Atom C2750 @ 2.41GHz",
+    "mark": 2174
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc SM6125",
     "mark": 2174
   },
   {
@@ -8966,14 +8994,6 @@
   {
     "nameDetail": "AMD A8-3820 APU",
     "mark": 2164
-  },
-  {
-    "nameDetail": "AMD Athlon II X4 635",
-    "mark": 2163
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc SM6125",
-    "mark": 2161
   },
   {
     "nameDetail": "Intel Core m3-6Y30 @ 0.90GHz",
@@ -8992,6 +9012,10 @@
     "mark": 2153
   },
   {
+    "nameDetail": "Intel Core2 Quad Q9450 @ 2.66GHz",
+    "mark": 2152
+  },
+  {
     "nameDetail": "Intel Xeon X3350 @ 2.66GHz",
     "mark": 2151
   },
@@ -9001,11 +9025,7 @@
   },
   {
     "nameDetail": "Intel Pentium N4200 @ 1.10GHz",
-    "mark": 2150
-  },
-  {
-    "nameDetail": "Intel Core2 Quad Q9450 @ 2.66GHz",
-    "mark": 2148
+    "mark": 2147
   },
   {
     "nameDetail": "Intel Core2 Extreme Q6800 @ 2.93GHz",
@@ -9024,16 +9044,16 @@
     "mark": 2136
   },
   {
+    "nameDetail": "AMD Athlon II X4 630",
+    "mark": 2134
+  },
+  {
     "nameDetail": "Intel Core i5-2560M @ 2.70GHz",
     "mark": 2131
   },
   {
     "nameDetail": "MediaTek MT6763V/CE",
     "mark": 2130
-  },
-  {
-    "nameDetail": "AMD Athlon II X4 630",
-    "mark": 2129
   },
   {
     "nameDetail": "Intel Pentium G3440 @ 3.30GHz",
@@ -9088,6 +9108,10 @@
     "mark": 2103
   },
   {
+    "nameDetail": "AMD Phenom II X4 830",
+    "mark": 2102
+  },
+  {
     "nameDetail": "Qualcomm Technologies, Inc SDM636",
     "mark": 2101
   },
@@ -9096,11 +9120,11 @@
     "mark": 2093
   },
   {
-    "nameDetail": "Intel Core i5-3337U @ 1.80GHz",
-    "mark": 2093
+    "nameDetail": "AMD A6-3670 APU",
+    "mark": 2092
   },
   {
-    "nameDetail": "AMD A6-3670 APU",
+    "nameDetail": "Intel Core i5-3337U @ 1.80GHz",
     "mark": 2092
   },
   {
@@ -9112,16 +9136,8 @@
     "mark": 2089
   },
   {
-    "nameDetail": "AMD 3015Ce",
-    "mark": 2088
-  },
-  {
     "nameDetail": "Intel Core2 Quad Q9400 @ 2.66GHz",
-    "mark": 2084
-  },
-  {
-    "nameDetail": "AMD Phenom II X4 830",
-    "mark": 2082
+    "mark": 2086
   },
   {
     "nameDetail": "MediaTek MT6797X",
@@ -9132,10 +9148,6 @@
     "mark": 2081
   },
   {
-    "nameDetail": "Intel Pentium G3258 @ 3.20GHz",
-    "mark": 2080
-  },
-  {
     "nameDetail": "AMD Opteron 1389",
     "mark": 2079
   },
@@ -9144,12 +9156,12 @@
     "mark": 2078
   },
   {
-    "nameDetail": "AMD Opteron 2384",
-    "mark": 2074
+    "nameDetail": "Intel Xeon L5420 @ 2.50GHz",
+    "mark": 2076
   },
   {
-    "nameDetail": "Intel Xeon L5420 @ 2.50GHz",
-    "mark": 2073
+    "nameDetail": "AMD Opteron 2384",
+    "mark": 2074
   },
   {
     "nameDetail": "AMD Phenom II X4 910e",
@@ -9176,8 +9188,16 @@
     "mark": 2068
   },
   {
+    "nameDetail": "AMD 3015Ce",
+    "mark": 2067
+  },
+  {
     "nameDetail": "Intel Xeon E5462 @ 2.80GHz",
     "mark": 2067
+  },
+  {
+    "nameDetail": "Intel Pentium G3258 @ 3.20GHz",
+    "mark": 2066
   },
   {
     "nameDetail": "AMD Phenom II X4 820",
@@ -9196,16 +9216,12 @@
     "mark": 2058
   },
   {
-    "nameDetail": "Intel Core i7-3517U @ 1.90GHz",
-    "mark": 2056
-  },
-  {
     "nameDetail": "Apple A9",
     "mark": 2053
   },
   {
     "nameDetail": "Intel Core i5-2450M @ 2.50GHz",
-    "mark": 2053
+    "mark": 2052
   },
   {
     "nameDetail": "Intel Xeon X3230 @ 2.66GHz",
@@ -9221,11 +9237,15 @@
   },
   {
     "nameDetail": "Intel Core i7-640M @ 2.80GHz",
-    "mark": 2041
+    "mark": 2040
+  },
+  {
+    "nameDetail": "Intel Core i7-3517U @ 1.90GHz",
+    "mark": 2039
   },
   {
     "nameDetail": "Intel Core2 Quad Q8400 @ 2.66GHz",
-    "mark": 2035
+    "mark": 2038
   },
   {
     "nameDetail": "Intel Celeron G3900E @ 2.40GHz",
@@ -9252,6 +9272,10 @@
     "mark": 2025
   },
   {
+    "nameDetail": "Intel Core M-5Y71 @ 1.20GHz",
+    "mark": 2024
+  },
+  {
     "nameDetail": "Intel Core i3-5005U @ 2.00GHz",
     "mark": 2022
   },
@@ -9268,10 +9292,6 @@
     "mark": 2016
   },
   {
-    "nameDetail": "Intel Core M-5Y71 @ 1.20GHz",
-    "mark": 2013
-  },
-  {
     "nameDetail": "High Performance Datacenter v",
     "mark": 2012
   },
@@ -9284,8 +9304,8 @@
     "mark": 2011
   },
   {
-    "nameDetail": "Intel Core i7-620M @ 2.67GHz",
-    "mark": 2009
+    "nameDetail": "Intel Core2 Quad Q9505 @ 2.83GHz",
+    "mark": 2011
   },
   {
     "nameDetail": "AMD A6-3650 APU",
@@ -9296,16 +9316,12 @@
     "mark": 2005
   },
   {
-    "nameDetail": "Intel Xeon E5420 @ 2.50GHz",
+    "nameDetail": "Intel Core i5-2430M @ 2.40GHz",
     "mark": 2005
   },
   {
-    "nameDetail": "Intel Core i5-2430M @ 2.40GHz",
-    "mark": 2004
-  },
-  {
-    "nameDetail": "Intel Celeron N4500 @ 1.10GHz",
-    "mark": 2001
+    "nameDetail": "Intel Xeon E5420 @ 2.50GHz",
+    "mark": 2005
   },
   {
     "nameDetail": "AMD Athlon II X4 615e",
@@ -9316,12 +9332,20 @@
     "mark": 1999
   },
   {
-    "nameDetail": "Intel Core2 Quad Q9505 @ 2.83GHz",
-    "mark": 1998
-  },
-  {
     "nameDetail": "AMD Opteron 2427",
     "mark": 1995
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc SDM632",
+    "mark": 1995
+  },
+  {
+    "nameDetail": "Intel Celeron N4500 @ 1.10GHz",
+    "mark": 1992
+  },
+  {
+    "nameDetail": "Intel Core i7-620M @ 2.67GHz",
+    "mark": 1992
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc APQ8053",
@@ -9329,7 +9353,11 @@
   },
   {
     "nameDetail": "Intel Core i5-3317U @ 1.70GHz",
-    "mark": 1989
+    "mark": 1990
+  },
+  {
+    "nameDetail": "Intel Xeon E5410 @ 2.33GHz",
+    "mark": 1990
   },
   {
     "nameDetail": "Intel Core i5-4302Y @ 1.60GHz",
@@ -9345,11 +9373,7 @@
   },
   {
     "nameDetail": "Intel Celeron N3450 @ 1.10GHz",
-    "mark": 1984
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc SDM632",
-    "mark": 1982
+    "mark": 1985
   },
   {
     "nameDetail": "Intel Core M-5Y31 @ 0.90GHz",
@@ -9364,16 +9388,16 @@
     "mark": 1978
   },
   {
+    "nameDetail": "SAMSUNG Exynos7420",
+    "mark": 1975
+  },
+  {
     "nameDetail": "Intel Atom E3940 @ 1.60GHz",
     "mark": 1973
   },
   {
     "nameDetail": "AMD A8-3800 APU",
     "mark": 1971
-  },
-  {
-    "nameDetail": "SAMSUNG Exynos7420",
-    "mark": 1970
   },
   {
     "nameDetail": "Intel Core i5-580M @ 2.67GHz",
@@ -9436,19 +9460,15 @@
     "mark": 1951
   },
   {
-    "nameDetail": "Intel Core2 Quad Q9300 @ 2.50GHz",
-    "mark": 1951
+    "nameDetail": "Intel Core i3-2120 @ 3.30GHz",
+    "mark": 1948
   },
   {
     "nameDetail": "Intel Core i3-4120U @ 2.00GHz",
     "mark": 1948
   },
   {
-    "nameDetail": "Intel Core i3-2120 @ 3.30GHz",
-    "mark": 1947
-  },
-  {
-    "nameDetail": "Intel Xeon E5410 @ 2.33GHz",
+    "nameDetail": "Intel Pentium G3240 @ 3.10GHz",
     "mark": 1947
   },
   {
@@ -9460,7 +9480,7 @@
     "mark": 1946
   },
   {
-    "nameDetail": "Intel Pentium G3240 @ 3.10GHz",
+    "nameDetail": "Intel Core2 Quad Q9300 @ 2.50GHz",
     "mark": 1944
   },
   {
@@ -9525,6 +9545,10 @@
   },
   {
     "nameDetail": "Intel Pentium G3420T @ 2.70GHz",
+    "mark": 1912
+  },
+  {
+    "nameDetail": "Qualcomm Technologies, Inc BENGAL-IOT",
     "mark": 1912
   },
   {
@@ -9593,14 +9617,10 @@
   },
   {
     "nameDetail": "MediaTek MT8768WT",
-    "mark": 1893
+    "mark": 1895
   },
   {
     "nameDetail": "Intel Core i5-2510E @ 2.50GHz",
-    "mark": 1889
-  },
-  {
-    "nameDetail": "Intel Pentium G3220 @ 3.00GHz",
     "mark": 1889
   },
   {
@@ -9610,6 +9630,10 @@
   {
     "nameDetail": "Intel Pentium G2120 @ 3.10GHz",
     "mark": 1887
+  },
+  {
+    "nameDetail": "Intel Pentium G3220 @ 3.00GHz",
+    "mark": 1886
   },
   {
     "nameDetail": "AMD PRO A6-8550B",
@@ -9629,6 +9653,10 @@
   },
   {
     "nameDetail": "Intel Core i5-560M @ 2.67GHz",
+    "mark": 1882
+  },
+  {
+    "nameDetail": "MT6797M",
     "mark": 1882
   },
   {
@@ -9721,7 +9749,7 @@
   },
   {
     "nameDetail": "Intel Core i3-2100 @ 3.10GHz",
-    "mark": 1839
+    "mark": 1840
   },
   {
     "nameDetail": "Intel Xeon X3323 @ 2.50GHz",
@@ -9732,16 +9760,16 @@
     "mark": 1836
   },
   {
+    "nameDetail": "MT6765V/WB",
+    "mark": 1836
+  },
+  {
     "nameDetail": "Intel Atom x6211E @ 1.30GHz",
     "mark": 1833
   },
   {
     "nameDetail": "AMD Phenom 9750 Quad-Core",
     "mark": 1830
-  },
-  {
-    "nameDetail": "MT6765V/WB",
-    "mark": 1829
   },
   {
     "nameDetail": "MT8169A",
@@ -9756,27 +9784,31 @@
     "mark": 1823
   },
   {
+    "nameDetail": "AMD Phenom 9600B Quad-Core",
+    "mark": 1822
+  },
+  {
+    "nameDetail": "AArch64 rev 4 (aarch64)",
+    "mark": 1819
+  },
+  {
     "nameDetail": "Intel Core i7-610E @ 2.53GHz",
     "mark": 1818
+  },
+  {
+    "nameDetail": "AMD A8-7410 APU",
+    "mark": 1817
   },
   {
     "nameDetail": "AMD A8-6500T APU",
     "mark": 1816
   },
   {
-    "nameDetail": "AMD A8-7410 APU",
-    "mark": 1816
-  },
-  {
-    "nameDetail": "AArch64 rev 4 (aarch64)",
-    "mark": 1815
+    "nameDetail": "AMD Athlon II X3 450",
+    "mark": 1811
   },
   {
     "nameDetail": "Intel Core i7-740QM @ 1.73GHz",
-    "mark": 1815
-  },
-  {
-    "nameDetail": "AMD Athlon II X3 450",
     "mark": 1811
   },
   {
@@ -9792,10 +9824,6 @@
     "mark": 1806
   },
   {
-    "nameDetail": "Samsung Exynos 7904",
-    "mark": 1806
-  },
-  {
     "nameDetail": "Intel Core i5-540M @ 2.53GHz",
     "mark": 1805
   },
@@ -9804,16 +9832,20 @@
     "mark": 1805
   },
   {
+    "nameDetail": "AMD Athlon II X3 445",
+    "mark": 1804
+  },
+  {
     "nameDetail": "P22",
     "mark": 1802
   },
   {
-    "nameDetail": "AMD A6-7470K",
-    "mark": 1799
+    "nameDetail": "Samsung Exynos 7904",
+    "mark": 1801
   },
   {
-    "nameDetail": "AMD Athlon II X3 445",
-    "mark": 1797
+    "nameDetail": "AMD A6-7470K",
+    "mark": 1799
   },
   {
     "nameDetail": "AMD Opteron 1381",
@@ -9864,16 +9896,16 @@
     "mark": 1783
   },
   {
+    "nameDetail": "Intel Core2 Quad Q8200 @ 2.33GHz",
+    "mark": 1783
+  },
+  {
     "nameDetail": "AMD Athlon X3 435",
     "mark": 1781
   },
   {
-    "nameDetail": "Intel Core2 Quad Q8200 @ 2.33GHz",
-    "mark": 1781
-  },
-  {
     "nameDetail": "MediaTek MT6765V/CB",
-    "mark": 1777
+    "mark": 1780
   },
   {
     "nameDetail": "AMD Phenom II X4 910",
@@ -9900,10 +9932,6 @@
     "mark": 1771
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc BENGAL-IOT",
-    "mark": 1771
-  },
-  {
     "nameDetail": "Intel Xeon L5408 @ 2.13GHz",
     "mark": 1769
   },
@@ -9912,12 +9940,12 @@
     "mark": 1768
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc MSM8953",
+    "nameDetail": "AMD GX-424CC SOC",
     "mark": 1766
   },
   {
-    "nameDetail": "AMD Phenom 9600B Quad-Core",
-    "mark": 1764
+    "nameDetail": "Qualcomm Technologies, Inc MSM8953",
+    "mark": 1766
   },
   {
     "nameDetail": "Intel Core2 Quad Q9100 @ 2.26GHz",
@@ -9926,10 +9954,6 @@
   {
     "nameDetail": "Intel Celeron G1840 @ 2.80GHz",
     "mark": 1762
-  },
-  {
-    "nameDetail": "AMD GX-424CC SOC",
-    "mark": 1761
   },
   {
     "nameDetail": "AMD A10-4657M APU",
@@ -9944,8 +9968,20 @@
     "mark": 1755
   },
   {
+    "nameDetail": "AMD Athlon 5350 APU",
+    "mark": 1754
+  },
+  {
     "nameDetail": "AMD PRO A6-9500",
     "mark": 1754
+  },
+  {
+    "nameDetail": "Intel Pentium G3250T @ 2.80GHz",
+    "mark": 1754
+  },
+  {
+    "nameDetail": "AMD A10-5745M APU",
+    "mark": 1753
   },
   {
     "nameDetail": "MediaTek MT6765V/CA",
@@ -9956,24 +9992,8 @@
     "mark": 1750
   },
   {
-    "nameDetail": "AMD Athlon 5350 APU",
-    "mark": 1749
-  },
-  {
     "nameDetail": "AMD A6-9500E",
     "mark": 1747
-  },
-  {
-    "nameDetail": "AMD A10-5745M APU",
-    "mark": 1746
-  },
-  {
-    "nameDetail": "MT6797M",
-    "mark": 1745
-  },
-  {
-    "nameDetail": "Intel Pentium G3250T @ 2.80GHz",
-    "mark": 1742
   },
   {
     "nameDetail": "HP Hexa-Core 2.0GHz",
@@ -9985,10 +10005,14 @@
   },
   {
     "nameDetail": "AMD A6-7310 APU",
-    "mark": 1737
+    "mark": 1739
   },
   {
     "nameDetail": "Intel Celeron 3965U @ 2.20GHz",
+    "mark": 1735
+  },
+  {
+    "nameDetail": "MT6762",
     "mark": 1735
   },
   {
@@ -10040,15 +10064,15 @@
     "mark": 1718
   },
   {
+    "nameDetail": "Intel Core i5-520M @ 2.40GHz",
+    "mark": 1716
+  },
+  {
     "nameDetail": "Intel Pentium 4425Y @ 1.70GHz",
     "mark": 1715
   },
   {
     "nameDetail": "AMD Phenom 9650 Quad-Core",
-    "mark": 1713
-  },
-  {
-    "nameDetail": "Intel Core i5-520M @ 2.40GHz",
     "mark": 1713
   },
   {
@@ -10096,6 +10120,10 @@
     "mark": 1691
   },
   {
+    "nameDetail": "AMD Phenom 9850 Quad-Core",
+    "mark": 1689
+  },
+  {
     "nameDetail": "Intel Core i7-2617M @ 1.50GHz",
     "mark": 1687
   },
@@ -10113,11 +10141,7 @@
   },
   {
     "nameDetail": "Intel Core i3-3120M @ 2.50GHz",
-    "mark": 1674
-  },
-  {
-    "nameDetail": "AMD Phenom 9850 Quad-Core",
-    "mark": 1673
+    "mark": 1675
   },
   {
     "nameDetail": "AMD Athlon II X3 435",
@@ -10128,12 +10152,12 @@
     "mark": 1672
   },
   {
-    "nameDetail": "AMD Phenom II X920 Quad-Core",
+    "nameDetail": "AMD A6-6310 APU",
     "mark": 1669
   },
   {
-    "nameDetail": "AMD A6-6310 APU",
-    "mark": 1668
+    "nameDetail": "AMD Phenom II X920 Quad-Core",
+    "mark": 1669
   },
   {
     "nameDetail": "AMD A8-4500M APU",
@@ -10164,6 +10188,10 @@
     "mark": 1656
   },
   {
+    "nameDetail": "Intel Core i7-720QM @ 1.60GHz",
+    "mark": 1655
+  },
+  {
     "nameDetail": "AMD A6 PRO-7400B",
     "mark": 1654
   },
@@ -10172,24 +10200,16 @@
     "mark": 1654
   },
   {
+    "nameDetail": "Intel Core i3-4005U @ 1.70GHz",
+    "mark": 1653
+  },
+  {
     "nameDetail": "ARM Falkor V1/Kryo 8 Core 1900 MHz",
     "mark": 1652
   },
   {
     "nameDetail": "Intel Celeron N6210 @ 1.20GHz",
     "mark": 1652
-  },
-  {
-    "nameDetail": "Intel Core i3-4005U @ 1.70GHz",
-    "mark": 1652
-  },
-  {
-    "nameDetail": "MT6762",
-    "mark": 1652
-  },
-  {
-    "nameDetail": "Intel Core i7-720QM @ 1.60GHz",
-    "mark": 1651
   },
   {
     "nameDetail": "AMD Phenom X4 Quad-Core GP-9600",
@@ -10212,16 +10232,16 @@
     "mark": 1644
   },
   {
+    "nameDetail": "Intel Core i3-4010U @ 1.70GHz",
+    "mark": 1643
+  },
+  {
     "nameDetail": "AMD A10-4655M APU",
     "mark": 1642
   },
   {
     "nameDetail": "MT6755V/W",
     "mark": 1640
-  },
-  {
-    "nameDetail": "Intel Core i3-4010U @ 1.70GHz",
-    "mark": 1638
   },
   {
     "nameDetail": "Qualcomm Technologies, Inc APQ8076",
@@ -10236,12 +10256,12 @@
     "mark": 1635
   },
   {
-    "nameDetail": "Intel Core i3-3110M @ 2.40GHz",
+    "nameDetail": "Unisoc UIS8581A",
     "mark": 1633
   },
   {
-    "nameDetail": "Unisoc UIS8581A",
-    "mark": 1633
+    "nameDetail": "Intel Core i3-3110M @ 2.40GHz",
+    "mark": 1632
   },
   {
     "nameDetail": "AMD Embedded R-Series RX-216GD",
@@ -10316,6 +10336,10 @@
     "mark": 1600
   },
   {
+    "nameDetail": "Intel Core i3-550 @ 3.20GHz",
+    "mark": 1600
+  },
+  {
     "nameDetail": "AMD Phenom FX-5000 Quad-Core",
     "mark": 1599
   },
@@ -10324,8 +10348,8 @@
     "mark": 1599
   },
   {
-    "nameDetail": "Intel Core i3-550 @ 3.20GHz",
-    "mark": 1597
+    "nameDetail": "Qualcomm MSM8996PRO-AB",
+    "mark": 1594
   },
   {
     "nameDetail": "Intel Core i5-4220Y @ 1.60GHz",
@@ -10333,10 +10357,6 @@
   },
   {
     "nameDetail": "Qualcomm MSM8953",
-    "mark": 1589
-  },
-  {
-    "nameDetail": "Qualcomm MSM8996PRO-AB",
     "mark": 1589
   },
   {
@@ -10396,6 +10416,10 @@
     "mark": 1571
   },
   {
+    "nameDetail": "Intel Core i5-4210Y @ 1.50GHz",
+    "mark": 1571
+  },
+  {
     "nameDetail": "Intel Pentium G3320TE @ 2.30GHz",
     "mark": 1570
   },
@@ -10434,10 +10458,6 @@
   {
     "nameDetail": "AMD Embedded G-Series GX-420GI Radeon R7E",
     "mark": 1554
-  },
-  {
-    "nameDetail": "Intel Core i5-4210Y @ 1.50GHz",
-    "mark": 1553
   },
   {
     "nameDetail": "AMD PRO A4-8350B",
@@ -10484,10 +10504,6 @@
     "mark": 1547
   },
   {
-    "nameDetail": "MediaTek MT6765G",
-    "mark": 1545
-  },
-  {
     "nameDetail": "AMD A4 PRO-7350B",
     "mark": 1544
   },
@@ -10497,6 +10513,10 @@
   },
   {
     "nameDetail": "Intel Core2 Quad Q9000 @ 2.00GHz",
+    "mark": 1543
+  },
+  {
+    "nameDetail": "MediaTek MT6765G",
     "mark": 1543
   },
   {
@@ -10520,12 +10540,12 @@
     "mark": 1536
   },
   {
-    "nameDetail": "Apple A8",
+    "nameDetail": "MediaTek MT6763V/V",
     "mark": 1533
   },
   {
-    "nameDetail": "MediaTek MT6763V/V",
-    "mark": 1533
+    "nameDetail": "Apple A8",
+    "mark": 1531
   },
   {
     "nameDetail": "AMD A4-7300 APU",
@@ -10549,7 +10569,7 @@
   },
   {
     "nameDetail": "AMD E2-7110 APU",
-    "mark": 1521
+    "mark": 1522
   },
   {
     "nameDetail": "AMD A9-9410",
@@ -10588,10 +10608,6 @@
     "mark": 1517
   },
   {
-    "nameDetail": "AMD A9-9420",
-    "mark": 1516
-  },
-  {
     "nameDetail": "AMD Athlon X3 425",
     "mark": 1516
   },
@@ -10608,15 +10624,19 @@
     "mark": 1509
   },
   {
+    "nameDetail": "AMD A9-9420",
+    "mark": 1508
+  },
+  {
+    "nameDetail": "Intel Celeron G1610 @ 2.60GHz",
+    "mark": 1508
+  },
+  {
     "nameDetail": "AMD Phenom II X4 900e",
     "mark": 1505
   },
   {
     "nameDetail": "AMD Athlon X2 370K Dual Core",
-    "mark": 1504
-  },
-  {
-    "nameDetail": "Intel Celeron G1610 @ 2.60GHz",
     "mark": 1504
   },
   {
@@ -10708,6 +10728,10 @@
     "mark": 1455
   },
   {
+    "nameDetail": "Intel Core i5-2467M @ 1.60GHz",
+    "mark": 1454
+  },
+  {
     "nameDetail": "Intel Core i5-4202Y @ 1.60GHz",
     "mark": 1453
   },
@@ -10728,8 +10752,16 @@
     "mark": 1451
   },
   {
+    "nameDetail": "Qualcomm Technologies, Inc MSM8956",
+    "mark": 1451
+  },
+  {
     "nameDetail": "Intel Pentium G860 @ 3.00GHz",
     "mark": 1450
+  },
+  {
+    "nameDetail": "MediaTek MT6762V/WA",
+    "mark": 1449
   },
   {
     "nameDetail": "AMD A6-3430MX APU",
@@ -10756,14 +10788,6 @@
     "mark": 1445
   },
   {
-    "nameDetail": "MediaTek MT6762V/WA",
-    "mark": 1445
-  },
-  {
-    "nameDetail": "Intel Core i5-2467M @ 1.60GHz",
-    "mark": 1444
-  },
-  {
     "nameDetail": "Intel Pentium 4410Y @ 1.50GHz",
     "mark": 1444
   },
@@ -10776,12 +10800,12 @@
     "mark": 1439
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc MSM8956",
-    "mark": 1439
-  },
-  {
     "nameDetail": "AMD Athlon X3 440",
     "mark": 1438
+  },
+  {
+    "nameDetail": "AMD Phenom II X2 565",
+    "mark": 1435
   },
   {
     "nameDetail": "AMD A8-3520M APU",
@@ -10808,11 +10832,11 @@
     "mark": 1428
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SDM439",
-    "mark": 1427
+    "nameDetail": "AMD A10 Micro-6700T APU",
+    "mark": 1426
   },
   {
-    "nameDetail": "AMD A10 Micro-6700T APU",
+    "nameDetail": "Qualcomm Technologies, Inc SDM439",
     "mark": 1426
   },
   {
@@ -10832,20 +10856,12 @@
     "mark": 1424
   },
   {
-    "nameDetail": "Intel Core i7-620LM @ 2.00GHz",
+    "nameDetail": "Intel Celeron N4000 @ 1.10GHz",
     "mark": 1423
   },
   {
     "nameDetail": "Intel Atom C2550 @ 2.40GHz",
     "mark": 1422
-  },
-  {
-    "nameDetail": "Intel Celeron N4000 @ 1.10GHz",
-    "mark": 1422
-  },
-  {
-    "nameDetail": "AMD Phenom II X2 565",
-    "mark": 1418
   },
   {
     "nameDetail": "AMD Phenom II X2 560",
@@ -10858,6 +10874,10 @@
   {
     "nameDetail": "AMD Phenom 9150e Quad-Core",
     "mark": 1414
+  },
+  {
+    "nameDetail": "Intel Core i7-620LM @ 2.00GHz",
+    "mark": 1413
   },
   {
     "nameDetail": "Intel Celeron N4000C @ 1.10GHz",
@@ -10900,12 +10920,12 @@
     "mark": 1390
   },
   {
-    "nameDetail": "MT6755V/WS",
-    "mark": 1389
+    "nameDetail": "Unisoc SC9863a",
+    "mark": 1390
   },
   {
-    "nameDetail": "Unisoc SC9863a",
-    "mark": 1388
+    "nameDetail": "MT6755V/WS",
+    "mark": 1389
   },
   {
     "nameDetail": "AMD Phenom II P960 Quad-Core",
@@ -10932,8 +10952,16 @@
     "mark": 1379
   },
   {
+    "nameDetail": "Qualcomm Technologies, Inc MSM8996",
+    "mark": 1377
+  },
+  {
     "nameDetail": "MT6750V/C",
     "mark": 1375
+  },
+  {
+    "nameDetail": "Intel Pentium N3710 @ 1.60GHz",
+    "mark": 1374
   },
   {
     "nameDetail": "AMD Athlon 5150 APU",
@@ -10948,23 +10976,11 @@
     "mark": 1373
   },
   {
-    "nameDetail": "Intel Pentium N3710 @ 1.60GHz",
-    "mark": 1373
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc MSM8996",
-    "mark": 1373
-  },
-  {
     "nameDetail": "AMD A4-5300 APU",
     "mark": 1371
   },
   {
     "nameDetail": "AMD PRO A6-9500B",
-    "mark": 1371
-  },
-  {
-    "nameDetail": "Unisoc T310",
     "mark": 1371
   },
   {
@@ -10977,7 +10993,7 @@
   },
   {
     "nameDetail": "Intel Core i3-2370M @ 2.40GHz",
-    "mark": 1362
+    "mark": 1366
   },
   {
     "nameDetail": "Intel Core i3-3217UE @ 1.60GHz",
@@ -11076,6 +11092,10 @@
     "mark": 1327
   },
   {
+    "nameDetail": "Unisoc T310",
+    "mark": 1327
+  },
+  {
     "nameDetail": "Intel Core i5 750S @ 2.40GHz",
     "mark": 1326
   },
@@ -11136,15 +11156,19 @@
     "mark": 1305
   },
   {
+    "nameDetail": "AMD Phenom II X2 555",
+    "mark": 1302
+  },
+  {
     "nameDetail": "AMD Athlon X2 340 Dual Core",
     "mark": 1301
   },
   {
-    "nameDetail": "AMD Phenom II X2 555",
-    "mark": 1300
+    "nameDetail": "AMD Phenom X4 Quad-Core GP-9500",
+    "mark": 1297
   },
   {
-    "nameDetail": "AMD Phenom X4 Quad-Core GP-9500",
+    "nameDetail": "Intel Pentium G630 @ 2.70GHz",
     "mark": 1297
   },
   {
@@ -11160,8 +11184,8 @@
     "mark": 1295
   },
   {
-    "nameDetail": "Intel Pentium G630 @ 2.70GHz",
-    "mark": 1295
+    "nameDetail": "AMD A4-5000 APU",
+    "mark": 1293
   },
   {
     "nameDetail": "Intel Pentium G6960 @ 2.93GHz",
@@ -11176,10 +11200,6 @@
     "mark": 1291
   },
   {
-    "nameDetail": "AMD A4-5000 APU",
-    "mark": 1290
-  },
-  {
     "nameDetail": "MT6795",
     "mark": 1290
   },
@@ -11192,11 +11212,11 @@
     "mark": 1286
   },
   {
-    "nameDetail": "Intel Core i7-660UM @ 1.33GHz",
-    "mark": 1284
+    "nameDetail": "Qualcomm Technologies, Inc SDM450",
+    "mark": 1285
   },
   {
-    "nameDetail": "Qualcomm Technologies, Inc SDM450",
+    "nameDetail": "Intel Core i7-660UM @ 1.33GHz",
     "mark": 1284
   },
   {
@@ -11288,10 +11308,6 @@
     "mark": 1260
   },
   {
-    "nameDetail": "AMD A6-9210",
-    "mark": 1260
-  },
-  {
     "nameDetail": "Intel Core i3-330E @ 2.13GHz",
     "mark": 1260
   },
@@ -11333,7 +11349,7 @@
   },
   {
     "nameDetail": "Intel Core i3-2350M @ 2.30GHz",
-    "mark": 1252
+    "mark": 1251
   },
   {
     "nameDetail": "Intel Pentium A1020 @ 2.41GHz",
@@ -11341,7 +11357,7 @@
   },
   {
     "nameDetail": "Intel Pentium N3700 @ 1.60GHz",
-    "mark": 1244
+    "mark": 1243
   },
   {
     "nameDetail": "Intel Xeon E3110 @ 3.00GHz",
@@ -11376,6 +11392,10 @@
     "mark": 1231
   },
   {
+    "nameDetail": "Intel Pentium G620 @ 2.60GHz",
+    "mark": 1230
+  },
+  {
     "nameDetail": "Samsung A13 EUR OPEN REV02B board based on EXYNOS8",
     "mark": 1230
   },
@@ -11389,10 +11409,6 @@
   },
   {
     "nameDetail": "Intel Core i3-2328M @ 2.20GHz",
-    "mark": 1228
-  },
-  {
-    "nameDetail": "Intel Pentium G620 @ 2.60GHz",
     "mark": 1228
   },
   {
@@ -11440,27 +11456,31 @@
     "mark": 1214
   },
   {
-    "nameDetail": "AMD A4-9125",
+    "nameDetail": "Intel Core i3-2310M @ 2.10GHz",
     "mark": 1213
   },
   {
-    "nameDetail": "Intel Core i3-2310M @ 2.10GHz",
-    "mark": 1213
+    "nameDetail": "AMD A4-9125",
+    "mark": 1212
   },
   {
     "nameDetail": "Intel Pentium N3540 @ 2.16GHz",
     "mark": 1212
   },
   {
+    "nameDetail": "AMD A6-9210",
+    "mark": 1211
+  },
+  {
     "nameDetail": "AMD Phenom 8600 Triple-Core",
     "mark": 1210
   },
   {
-    "nameDetail": "AMD A4-9120",
-    "mark": 1209
+    "nameDetail": "Intel Core i5-450M @ 2.40GHz",
+    "mark": 1210
   },
   {
-    "nameDetail": "Intel Core i5-450M @ 2.40GHz",
+    "nameDetail": "AMD A4-9120",
     "mark": 1209
   },
   {
@@ -11469,7 +11489,7 @@
   },
   {
     "nameDetail": "Intel Core i3-3217U @ 1.80GHz",
-    "mark": 1205
+    "mark": 1206
   },
   {
     "nameDetail": "AMD Phenom II N830 Triple-Core",
@@ -11488,12 +11508,12 @@
     "mark": 1199
   },
   {
-    "nameDetail": "AMD Opteron 2222",
+    "nameDetail": "AMD A6-3400M APU",
     "mark": 1198
   },
   {
-    "nameDetail": "AMD A6-3400M APU",
-    "mark": 1197
+    "nameDetail": "AMD Opteron 2222",
+    "mark": 1198
   },
   {
     "nameDetail": "Intel Atom Z3795 @ 1.60GHz",
@@ -11520,16 +11540,16 @@
     "mark": 1189
   },
   {
+    "nameDetail": "Intel Pentium N3530 @ 2.16GHz",
+    "mark": 1189
+  },
+  {
     "nameDetail": "Rockchip RK3568 EVB1 DDR4 V10 Board",
     "mark": 1189
   },
   {
     "nameDetail": "AMD Phenom 8750B Triple-Core",
     "mark": 1188
-  },
-  {
-    "nameDetail": "Intel Pentium N3530 @ 2.16GHz",
-    "mark": 1187
   },
   {
     "nameDetail": "Intel Core2 Duo E8335 @ 2.66GHz",
@@ -11552,16 +11572,16 @@
     "mark": 1183
   },
   {
+    "nameDetail": "Intel Core i3-380M @ 2.53GHz",
+    "mark": 1183
+  },
+  {
     "nameDetail": "Intel Core2 Duo T9900 @ 3.06GHz",
     "mark": 1183
   },
   {
     "nameDetail": "Intel Celeron 3755U @ 1.70GHz",
     "mark": 1182
-  },
-  {
-    "nameDetail": "Intel Core i3-380M @ 2.53GHz",
-    "mark": 1180
   },
   {
     "nameDetail": "Intel Core i5-4470 @ 3.30GHz",
@@ -11668,6 +11688,10 @@
     "mark": 1155
   },
   {
+    "nameDetail": "Intel Pentium E5800 @ 3.20GHz",
+    "mark": 1154
+  },
+  {
     "nameDetail": "AMD Sempron 3850 APU",
     "mark": 1153
   },
@@ -11682,10 +11706,6 @@
   {
     "nameDetail": "AMD Phenom II X2 B55",
     "mark": 1151
-  },
-  {
-    "nameDetail": "Intel Pentium E5800 @ 3.20GHz",
-    "mark": 1150
   },
   {
     "nameDetail": "MediaTek MT6753T",
@@ -11709,7 +11729,7 @@
   },
   {
     "nameDetail": "Intel Celeron J1900 @ 1.99GHz",
-    "mark": 1143
+    "mark": 1144
   },
   {
     "nameDetail": "Intel Pentium N3520 @ 2.16GHz",
@@ -11808,12 +11828,12 @@
     "mark": 1116
   },
   {
-    "nameDetail": "Intel Celeron G1820TE @ 2.20GHz",
+    "nameDetail": "AMD Athlon II X2 250",
     "mark": 1115
   },
   {
-    "nameDetail": "AMD Athlon II X2 250",
-    "mark": 1114
+    "nameDetail": "Intel Celeron G1820TE @ 2.20GHz",
+    "mark": 1115
   },
   {
     "nameDetail": "AMD Athlon II X2 260",
@@ -11838,6 +11858,10 @@
   {
     "nameDetail": "MediaTek MT6750V/WT",
     "mark": 1112
+  },
+  {
+    "nameDetail": "AMD A9-9420e",
+    "mark": 1109
   },
   {
     "nameDetail": "AMD PRO A4-4350B",
@@ -11866,10 +11890,6 @@
   {
     "nameDetail": "Samsung EXYNOS5433",
     "mark": 1105
-  },
-  {
-    "nameDetail": "AMD A9-9420e",
-    "mark": 1103
   },
   {
     "nameDetail": "Intel Celeron G550T @ 2.20GHz",
@@ -11977,7 +11997,7 @@
   },
   {
     "nameDetail": "Intel Celeron 1000M @ 1.80GHz",
-    "mark": 1071
+    "mark": 1072
   },
   {
     "nameDetail": "Intel Xeon 3085 @ 3.00GHz",
@@ -12152,6 +12172,10 @@
     "mark": 1022
   },
   {
+    "nameDetail": "Intel Pentium E5500 @ 2.80GHz",
+    "mark": 1021
+  },
+  {
     "nameDetail": "Qualcomm MSM8937",
     "mark": 1020
   },
@@ -12168,10 +12192,6 @@
     "mark": 1019
   },
   {
-    "nameDetail": "Intel Pentium E5500 @ 2.80GHz",
-    "mark": 1018
-  },
-  {
     "nameDetail": "AMD Turion II Ultra Dual-Core Mobile M640",
     "mark": 1016
   },
@@ -12185,6 +12205,10 @@
   },
   {
     "nameDetail": "Intel Core i5-560UM @ 1.33GHz",
+    "mark": 1015
+  },
+  {
+    "nameDetail": "Intel Core2 Duo P9500 @ 2.53GHz",
     "mark": 1015
   },
   {
@@ -12204,15 +12228,15 @@
     "mark": 1011
   },
   {
+    "nameDetail": "Intel Core i3-330M @ 2.13GHz",
+    "mark": 1011
+  },
+  {
     "nameDetail": "AMD A6-7000 ",
     "mark": 1010
   },
   {
     "nameDetail": "AMD Phenom X2 Dual-Core GE-7060",
-    "mark": 1010
-  },
-  {
-    "nameDetail": "Intel Core i3-330M @ 2.13GHz",
     "mark": 1010
   },
   {
@@ -12244,6 +12268,10 @@
     "mark": 1003
   },
   {
+    "nameDetail": "AMD A6-4400M APU",
+    "mark": 1002
+  },
+  {
     "nameDetail": "AMD Athlon II X2 240e",
     "mark": 1002
   },
@@ -12256,12 +12284,12 @@
     "mark": 1002
   },
   {
-    "nameDetail": "AMD A6-4400M APU",
+    "nameDetail": "Intel Pentium B950 @ 2.10GHz",
     "mark": 998
   },
   {
-    "nameDetail": "Intel Pentium B950 @ 2.10GHz",
-    "mark": 998
+    "nameDetail": "Intel Celeron N2930 @ 1.83GHz",
+    "mark": 997
   },
   {
     "nameDetail": "Intel Core2 Duo E7400 @ 2.80GHz",
@@ -12270,14 +12298,6 @@
   {
     "nameDetail": "AMD Athlon X2 215",
     "mark": 996
-  },
-  {
-    "nameDetail": "Intel Celeron N2930 @ 1.83GHz",
-    "mark": 994
-  },
-  {
-    "nameDetail": "Intel Core2 Duo P9500 @ 2.53GHz",
-    "mark": 993
   },
   {
     "nameDetail": "AMD E2-9010",
@@ -12292,8 +12312,12 @@
     "mark": 990
   },
   {
+    "nameDetail": "AMD Athlon II X2 240",
+    "mark": 989
+  },
+  {
     "nameDetail": "Snapdragon 435",
-    "mark": 990
+    "mark": 989
   },
   {
     "nameDetail": "Intel Core2 Duo E6700 @ 2.66GHz",
@@ -12344,14 +12368,6 @@
     "mark": 978
   },
   {
-    "nameDetail": "AMD Athlon II X2 240",
-    "mark": 976
-  },
-  {
-    "nameDetail": "Intel Celeron 1037U @ 1.80GHz",
-    "mark": 976
-  },
-  {
     "nameDetail": "Intel Core i3-2340UE @ 1.30GHz",
     "mark": 976
   },
@@ -12380,16 +12396,20 @@
     "mark": 967
   },
   {
-    "nameDetail": "AMD Phenom II N640 Dual-Core",
-    "mark": 965
+    "nameDetail": "Intel Core2 Duo P8700 @ 2.53GHz",
+    "mark": 966
   },
   {
-    "nameDetail": "Intel Core2 Duo P8700 @ 2.53GHz",
+    "nameDetail": "AMD Phenom II N640 Dual-Core",
     "mark": 965
   },
   {
     "nameDetail": "Intel Xeon 5160 @ 3.00GHz",
     "mark": 963
+  },
+  {
+    "nameDetail": "Intel Celeron 1037U @ 1.80GHz",
+    "mark": 961
   },
   {
     "nameDetail": "Intel Core2 Duo T9300 @ 2.50GHz",
@@ -12452,11 +12472,11 @@
     "mark": 952
   },
   {
-    "nameDetail": "Intel Pentium E5400 @ 2.70GHz",
-    "mark": 951
+    "nameDetail": "Samsung Exynos 7870",
+    "mark": 952
   },
   {
-    "nameDetail": "Samsung Exynos 7870",
+    "nameDetail": "Intel Pentium E5400 @ 2.70GHz",
     "mark": 951
   },
   {
@@ -12516,6 +12536,10 @@
     "mark": 935
   },
   {
+    "nameDetail": "Intel Pentium B960 @ 2.20GHz",
+    "mark": 934
+  },
+  {
     "nameDetail": "AMD Phenom II P650 Dual-Core",
     "mark": 933
   },
@@ -12544,10 +12568,6 @@
     "mark": 929
   },
   {
-    "nameDetail": "Intel Pentium B960 @ 2.20GHz",
-    "mark": 929
-  },
-  {
     "nameDetail": "Intel Atom x5-E3930 @ 1.30GHz",
     "mark": 928
   },
@@ -12560,16 +12580,16 @@
     "mark": 926
   },
   {
+    "nameDetail": "AMD Athlon 64 X2 Dual Core 5600+",
+    "mark": 921
+  },
+  {
     "nameDetail": "AMD Athlon X2 240",
     "mark": 921
   },
   {
     "nameDetail": "Pentium Dual-Core T4500 @ 2.30GHz",
     "mark": 921
-  },
-  {
-    "nameDetail": "AMD Athlon 64 X2 Dual Core 5600+",
-    "mark": 917
   },
   {
     "nameDetail": "MT8165",
@@ -12592,19 +12612,19 @@
     "mark": 910
   },
   {
+    "nameDetail": "Intel Pentium E5300 @ 2.60GHz",
+    "mark": 910
+  },
+  {
     "nameDetail": "AMD Opteron 2220 SE",
     "mark": 909
   },
   {
     "nameDetail": "Intel Atom x5-Z8350 @ 1.44GHz",
-    "mark": 909
+    "mark": 908
   },
   {
     "nameDetail": "AMD Athlon 64 X2 Dual Core 5400+",
-    "mark": 907
-  },
-  {
-    "nameDetail": "Intel Pentium E5300 @ 2.60GHz",
     "mark": 907
   },
   {
@@ -12692,6 +12712,14 @@
     "mark": 875
   },
   {
+    "nameDetail": "AMD E2-9000e",
+    "mark": 874
+  },
+  {
+    "nameDetail": "Intel Core2 Duo E6550 @ 2.33GHz",
+    "mark": 873
+  },
+  {
     "nameDetail": "AMD Athlon 5000 Dual-Core",
     "mark": 872
   },
@@ -12701,10 +12729,6 @@
   },
   {
     "nameDetail": "Intel Celeron P4600 @ 2.00GHz",
-    "mark": 870
-  },
-  {
-    "nameDetail": "Intel Core2 Duo E6550 @ 2.33GHz",
     "mark": 870
   },
   {
@@ -12728,10 +12752,6 @@
     "mark": 867
   },
   {
-    "nameDetail": "AMD E2-9000e",
-    "mark": 866
-  },
-  {
     "nameDetail": "AMD Turion 64 X2 Mobile TL-68",
     "mark": 866
   },
@@ -12741,7 +12761,7 @@
   },
   {
     "nameDetail": "Intel Pentium P6100 @ 2.00GHz",
-    "mark": 863
+    "mark": 865
   },
   {
     "nameDetail": "Intel Celeron 2955U @ 1.40GHz",
@@ -12812,6 +12832,10 @@
     "mark": 847
   },
   {
+    "nameDetail": "Intel Celeron 2957U @ 1.40GHz",
+    "mark": 846
+  },
+  {
     "nameDetail": "MT6761V/CBB",
     "mark": 846
   },
@@ -12848,10 +12872,6 @@
     "mark": 839
   },
   {
-    "nameDetail": "Intel Celeron 2957U @ 1.40GHz",
-    "mark": 839
-  },
-  {
     "nameDetail": "Intel Celeron E3200 @ 2.40GHz",
     "mark": 839
   },
@@ -12872,23 +12892,23 @@
     "mark": 836
   },
   {
-    "nameDetail": "AMD Turion II Dual-Core Mobile M520",
-    "mark": 835
+    "nameDetail": "Intel Core2 Duo P8400 @ 2.26GHz",
+    "mark": 836
   },
   {
-    "nameDetail": "Intel Core2 Duo P8400 @ 2.26GHz",
-    "mark": 834
+    "nameDetail": "AMD Turion II Dual-Core Mobile M520",
+    "mark": 835
   },
   {
     "nameDetail": "Intel Pentium P6300 @ 2.27GHz",
     "mark": 834
   },
   {
-    "nameDetail": "Intel Celeron 1007U @ 1.50GHz",
-    "mark": 829
+    "nameDetail": "Intel Core2 Duo T7600 @ 2.33GHz",
+    "mark": 833
   },
   {
-    "nameDetail": "Intel Core2 Duo T7500 @ 2.20GHz",
+    "nameDetail": "Intel Celeron 1007U @ 1.50GHz",
     "mark": 829
   },
   {
@@ -12905,6 +12925,10 @@
   },
   {
     "nameDetail": "AMD Sempron X2 180",
+    "mark": 826
+  },
+  {
+    "nameDetail": "Intel Core2 Duo T7500 @ 2.20GHz",
     "mark": 826
   },
   {
@@ -12944,6 +12968,10 @@
     "mark": 818
   },
   {
+    "nameDetail": "Intel Celeron B830 @ 1.80GHz",
+    "mark": 817
+  },
+  {
     "nameDetail": "Qualcomm Technologies, Inc MSM8992",
     "mark": 817
   },
@@ -12960,10 +12988,6 @@
     "mark": 815
   },
   {
-    "nameDetail": "Intel Core2 Duo T7600 @ 2.33GHz",
-    "mark": 815
-  },
-  {
     "nameDetail": "AMD Turion II Ultra Dual-Core Mobile M620",
     "mark": 814
   },
@@ -12974,10 +12998,6 @@
   {
     "nameDetail": "Intel Pentium T4500 @ 2.30GHz",
     "mark": 811
-  },
-  {
-    "nameDetail": "Intel Celeron B830 @ 1.80GHz",
-    "mark": 810
   },
   {
     "nameDetail": "AMD Athlon Dual Core 5050e",
@@ -13088,10 +13108,6 @@
     "mark": 785
   },
   {
-    "nameDetail": "Intel Core2 Duo P7450 @ 2.13GHz",
-    "mark": 784
-  },
-  {
     "nameDetail": "MT6761V/CD",
     "mark": 784
   },
@@ -13101,7 +13117,7 @@
   },
   {
     "nameDetail": "ARM Cortex-A72 4 Core 1800 MHz",
-    "mark": 783
+    "mark": 782
   },
   {
     "nameDetail": "Intel Core2 Duo SL9400 @ 1.86GHz",
@@ -13122,6 +13138,10 @@
   {
     "nameDetail": "Intel Core2 Duo T6670 @ 2.20GHz",
     "mark": 778
+  },
+  {
+    "nameDetail": "Intel Core2 Duo P7450 @ 2.13GHz",
+    "mark": 776
   },
   {
     "nameDetail": "Intel Celeron B810 @ 1.60GHz",
@@ -13232,7 +13252,15 @@
     "mark": 754
   },
   {
+    "nameDetail": "Intel Celeron 887 @ 1.50GHz",
+    "mark": 754
+  },
+  {
     "nameDetail": "AMD A4-3330MX APU",
+    "mark": 752
+  },
+  {
+    "nameDetail": "Intel Pentium T4400 @ 2.20GHz",
     "mark": 752
   },
   {
@@ -13242,10 +13270,6 @@
   {
     "nameDetail": "Intel Atom Z3560 @ 1.00GHz",
     "mark": 749
-  },
-  {
-    "nameDetail": "ARM Cortex-A72 4 Core 2000 MHz",
-    "mark": 748
   },
   {
     "nameDetail": "Dual-Core AMD Opteron 1220 SE",
@@ -13264,12 +13288,8 @@
     "mark": 746
   },
   {
-    "nameDetail": "Intel Pentium T4400 @ 2.20GHz",
+    "nameDetail": "ARM Cortex-A72 4 Core 2000 MHz",
     "mark": 746
-  },
-  {
-    "nameDetail": "Intel Celeron 887 @ 1.50GHz",
-    "mark": 745
   },
   {
     "nameDetail": "Intel Core2 Duo E4500 @ 2.20GHz",
@@ -13372,16 +13392,16 @@
     "mark": 726
   },
   {
+    "nameDetail": "Intel Celeron B815 @ 1.60GHz",
+    "mark": 724
+  },
+  {
     "nameDetail": "MT3561S",
     "mark": 723
   },
   {
     "nameDetail": "Intel Pentium T4200 @ 2.00GHz",
     "mark": 722
-  },
-  {
-    "nameDetail": "Intel Celeron B815 @ 1.60GHz",
-    "mark": 720
   },
   {
     "nameDetail": "AMD Athlon Dual Core 4450B",
@@ -13584,10 +13604,6 @@
     "mark": 677
   },
   {
-    "nameDetail": "Intel Core2 Duo T7300 @ 2.00GHz",
-    "mark": 677
-  },
-  {
     "nameDetail": "AMD Athlon II Dual-Core M340",
     "mark": 676
   },
@@ -13600,6 +13616,10 @@
     "mark": 675
   },
   {
+    "nameDetail": "Intel Core2 Duo T7300 @ 2.00GHz",
+    "mark": 675
+  },
+  {
     "nameDetail": "AMD Athlon X2 Dual Core BE-2400",
     "mark": 674
   },
@@ -13609,6 +13629,10 @@
   },
   {
     "nameDetail": "AMD E2-7015 APU",
+    "mark": 672
+  },
+  {
+    "nameDetail": "Qualcomm MSM8974PRO-AA",
     "mark": 672
   },
   {
@@ -13644,6 +13668,10 @@
     "mark": 665
   },
   {
+    "nameDetail": "ARM Cortex-A72 4 Core 1500 MHz",
+    "mark": 664
+  },
+  {
     "nameDetail": "Intel Celeron 877 @ 1.40GHz",
     "mark": 664
   },
@@ -13656,8 +13684,8 @@
     "mark": 663
   },
   {
-    "nameDetail": "ARM Cortex-A72 4 Core 1500 MHz",
-    "mark": 662
+    "nameDetail": "AMD Athlon 64 X2 Dual Core 4400+",
+    "mark": 660
   },
   {
     "nameDetail": "AMD Turion Dual-Core RM-75",
@@ -13672,16 +13700,8 @@
     "mark": 658
   },
   {
-    "nameDetail": "Intel Core2 Duo T5600 @ 1.83GHz",
-    "mark": 657
-  },
-  {
     "nameDetail": "Intel Celeron N3060 @ 1.60GHz",
-    "mark": 656
-  },
-  {
-    "nameDetail": "AMD Athlon 64 X2 Dual Core 4400+",
-    "mark": 654
+    "mark": 655
   },
   {
     "nameDetail": "Intel Core2 Duo T5900 @ 2.20GHz",
@@ -13697,6 +13717,10 @@
   },
   {
     "nameDetail": "AMD Turion Dual-Core RM-72",
+    "mark": 649
+  },
+  {
+    "nameDetail": "Intel Core2 Duo T5600 @ 1.83GHz",
     "mark": 649
   },
   {
@@ -13772,10 +13796,6 @@
     "mark": 630
   },
   {
-    "nameDetail": "AMD GX-212JC SOC ",
-    "mark": 629
-  },
-  {
     "nameDetail": "Qualcomm APQ 8084 (Flattened Device Tree)",
     "mark": 628
   },
@@ -13836,6 +13856,10 @@
     "mark": 614
   },
   {
+    "nameDetail": "AMD Turion 64 X2 Mobile TL-60",
+    "mark": 613
+  },
+  {
     "nameDetail": "AMD Turion X2 Dual-Core Mobile RM-74",
     "mark": 613
   },
@@ -13864,7 +13888,7 @@
     "mark": 607
   },
   {
-    "nameDetail": "AMD Turion 64 X2 Mobile TL-60",
+    "nameDetail": "Intel Core2 Duo T7100 @ 1.80GHz",
     "mark": 606
   },
   {
@@ -13892,10 +13916,6 @@
     "mark": 600
   },
   {
-    "nameDetail": "Intel Core2 Duo T7100 @ 1.80GHz",
-    "mark": 600
-  },
-  {
     "nameDetail": "Intel Xeon 5110 @ 1.60GHz",
     "mark": 600
   },
@@ -13912,7 +13932,11 @@
     "mark": 599
   },
   {
-    "nameDetail": "Intel Pentium T2410 @ 2.00GHz",
+    "nameDetail": "AMD GX-212JC SOC ",
+    "mark": 598
+  },
+  {
+    "nameDetail": "MediaTek MT8163",
     "mark": 598
   },
   {
@@ -13929,10 +13953,6 @@
   },
   {
     "nameDetail": "AMD Athlon 64 X2 Dual Core BE-2300",
-    "mark": 594
-  },
-  {
-    "nameDetail": "MediaTek MT8163",
     "mark": 594
   },
   {
@@ -13964,15 +13984,7 @@
     "mark": 588
   },
   {
-    "nameDetail": "Intel Core2 Duo T5670 @ 1.80GHz",
-    "mark": 587
-  },
-  {
     "nameDetail": "Intel Pentium 2129Y @ 1.10GHz",
-    "mark": 587
-  },
-  {
-    "nameDetail": "Qualcomm MSM8974PRO-AA",
     "mark": 587
   },
   {
@@ -13985,10 +13997,14 @@
   },
   {
     "nameDetail": "Intel Celeron N2840 @ 2.16GHz",
-    "mark": 583
+    "mark": 584
   },
   {
     "nameDetail": "AMD Athlon 64 X2 QL-67",
+    "mark": 582
+  },
+  {
+    "nameDetail": "AMD E1-7010 APU",
     "mark": 582
   },
   {
@@ -14020,7 +14036,7 @@
     "mark": 576
   },
   {
-    "nameDetail": "AMD E1-7010 APU",
+    "nameDetail": "Intel Core2 Duo T5670 @ 1.80GHz",
     "mark": 574
   },
   {
@@ -14036,6 +14052,10 @@
     "mark": 572
   },
   {
+    "nameDetail": "Amlogic",
+    "mark": 571
+  },
+  {
     "nameDetail": "AMD Athlon X2 Dual Core BE-2300",
     "mark": 570
   },
@@ -14044,7 +14064,15 @@
     "mark": 570
   },
   {
+    "nameDetail": "Intel Pentium T2390 @ 1.86GHz",
+    "mark": 570
+  },
+  {
     "nameDetail": "MT8765WA",
+    "mark": 570
+  },
+  {
+    "nameDetail": "Qualcomm APQ8084",
     "mark": 570
   },
   {
@@ -14072,11 +14100,11 @@
     "mark": 565
   },
   {
-    "nameDetail": "AMD Athlon X2 Dual Core 6850e",
-    "mark": 564
+    "nameDetail": "Intel Pentium T2410 @ 2.00GHz",
+    "mark": 565
   },
   {
-    "nameDetail": "Amlogic",
+    "nameDetail": "AMD Athlon X2 Dual Core 6850e",
     "mark": 564
   },
   {
@@ -14092,15 +14120,15 @@
     "mark": 562
   },
   {
-    "nameDetail": "Intel Pentium T2390 @ 1.86GHz",
-    "mark": 562
-  },
-  {
     "nameDetail": "AMD Sempron 2650 APU",
     "mark": 561
   },
   {
     "nameDetail": "AMD Turion Dual-Core RM-70",
+    "mark": 561
+  },
+  {
+    "nameDetail": "MediaTek MT6762V/CN",
     "mark": 561
   },
   {
@@ -14112,16 +14140,8 @@
     "mark": 560
   },
   {
-    "nameDetail": "Qualcomm APQ8084",
-    "mark": 558
-  },
-  {
     "nameDetail": "Intel Atom Z3735E @ 1.33GHz",
     "mark": 557
-  },
-  {
-    "nameDetail": "MediaTek MT6762V/CN",
-    "mark": 556
   },
   {
     "nameDetail": "AMD Sempron Dual Core 2300",
@@ -14492,6 +14512,10 @@
     "mark": 465
   },
   {
+    "nameDetail": "QCT APQ8064 FLO",
+    "mark": 462
+  },
+  {
     "nameDetail": "Intel Atom D2700 @ 2.13GHz",
     "mark": 461
   },
@@ -14522,10 +14546,6 @@
   {
     "nameDetail": "QCT APQ8064 DEB",
     "mark": 453
-  },
-  {
-    "nameDetail": "QCT APQ8064 FLO",
-    "mark": 452
   },
   {
     "nameDetail": "AMD Opteron 254",
@@ -14592,16 +14612,16 @@
     "mark": 432
   },
   {
+    "nameDetail": "AMD E-450 APU",
+    "mark": 431
+  },
+  {
     "nameDetail": "AMD Athlon LE-1640",
     "mark": 430
   },
   {
     "nameDetail": "Intel Pentium D 915 @ 2.80GHz",
     "mark": 430
-  },
-  {
-    "nameDetail": "AMD E-450 APU",
-    "mark": 429
   },
   {
     "nameDetail": "AMD Opteron 152",
@@ -14644,11 +14664,11 @@
     "mark": 420
   },
   {
-    "nameDetail": "AMD E-350",
-    "mark": 418
+    "nameDetail": "AMD Athlon II Neo K325 Dual-Core",
+    "mark": 417
   },
   {
-    "nameDetail": "AMD Athlon II Neo K325 Dual-Core",
+    "nameDetail": "AMD E-350",
     "mark": 417
   },
   {
@@ -14672,12 +14692,12 @@
     "mark": 412
   },
   {
-    "nameDetail": "MT8765WB",
+    "nameDetail": "AMD A4-1250 APU",
     "mark": 411
   },
   {
-    "nameDetail": "AMD A4-1250 APU",
-    "mark": 410
+    "nameDetail": "MT8765WB",
+    "mark": 411
   },
   {
     "nameDetail": "Intel Celeron 450 @ 2.20GHz",
@@ -14896,15 +14916,15 @@
     "mark": 364
   },
   {
+    "nameDetail": "Qualcomm Technologies, Inc APQ8016",
+    "mark": 364
+  },
+  {
     "nameDetail": "AMD Turion 64 Mobile MK-38",
     "mark": 362
   },
   {
     "nameDetail": "Intel Core Duo T2400 @ 1.83GHz",
-    "mark": 361
-  },
-  {
-    "nameDetail": "Qualcomm Technologies, Inc APQ8016",
     "mark": 361
   },
   {
@@ -15044,6 +15064,10 @@
     "mark": 335
   },
   {
+    "nameDetail": "AMD Athlon 64 3000+",
+    "mark": 334
+  },
+  {
     "nameDetail": "AMD Turion 64 Mobile MK-36",
     "mark": 334
   },
@@ -15068,12 +15092,12 @@
     "mark": 333
   },
   {
-    "nameDetail": "Qualcomm MSM8228",
-    "mark": 332
+    "nameDetail": "Unisoc SC7731e",
+    "mark": 333
   },
   {
-    "nameDetail": "Unisoc SC7731e",
-    "mark": 331
+    "nameDetail": "Qualcomm MSM8228",
+    "mark": 332
   },
   {
     "nameDetail": "Intel Pentium T2060 @ 1.60GHz",
@@ -15086,10 +15110,6 @@
   {
     "nameDetail": "Rockchip rk3326 evb board",
     "mark": 328
-  },
-  {
-    "nameDetail": "AMD Athlon 64 3000+",
-    "mark": 326
   },
   {
     "nameDetail": "ARM Cortex-A53 4 Core 1400 MHz",
@@ -15165,6 +15185,10 @@
   },
   {
     "nameDetail": "AMD C-70 APU",
+    "mark": 314
+  },
+  {
+    "nameDetail": "Intel Celeron 540 @ 1.86GHz",
     "mark": 314
   },
   {
@@ -15320,10 +15344,6 @@
     "mark": 290
   },
   {
-    "nameDetail": "ARM Cortex-A53 4 Core 1200 MHz",
-    "mark": 290
-  },
-  {
     "nameDetail": "AMD G-T40E",
     "mark": 289
   },
@@ -15344,7 +15364,7 @@
     "mark": 285
   },
   {
-    "nameDetail": "Intel Celeron 540 @ 1.86GHz",
+    "nameDetail": "ARM Cortex-A53 4 Core 1200 MHz",
     "mark": 283
   },
   {
@@ -15864,6 +15884,10 @@
     "mark": 195
   },
   {
+    "nameDetail": "AMD E-240",
+    "mark": 195
+  },
+  {
     "nameDetail": "Intel Core Solo T1350 @ 1.86GHz",
     "mark": 194
   },
@@ -15882,10 +15906,6 @@
   {
     "nameDetail": "Mobile AMD Athlon XP-M 1800+",
     "mark": 193
-  },
-  {
-    "nameDetail": "AMD E-240",
-    "mark": 192
   },
   {
     "nameDetail": "Mobile AMD Athlon MP-M 2400+",
