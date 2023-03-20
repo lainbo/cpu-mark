@@ -57,11 +57,11 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年3月13日',
+  date: '2023年3月20日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 5,
+      addNum: 8,
       totalNum: cpuMData.length,
     },
     {
@@ -71,7 +71,7 @@ const updateObj = reactive({
     },
     {
       label: '显卡',
-      addNum: 8,
+      addNum: 1,
       totalNum: gpuData.length,
     },
     {
