@@ -12,8 +12,10 @@
             <a-divider orientation="center">较上次新增数据</a-divider>
             <section class="space-y-10px">
               <div v-for="(item, index) in updateObj.updateArr" :key="index">
-                <h2 class="text-blue-700">{{ item.label }}:</h2>
-                <h2> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
+                <template v-if="item.addNum > 0">
+                  <h2 class="text-blue-700">{{ item.label }}:</h2>
+                  <h2> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
+                </template>
               </div>
             </section>
           </template>
@@ -57,21 +59,21 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年3月20日',
+  date: '2023年4月3日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 8,
+      addNum: 15,
       totalNum: cpuMData.length,
     },
     {
       label: 'CPU单核',
-      addNum: 5,
+      addNum: 15,
       totalNum: cpuSData.length,
     },
     {
       label: '显卡',
-      addNum: 1,
+      addNum: 7,
       totalNum: gpuData.length,
     },
     {
