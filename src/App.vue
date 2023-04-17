@@ -12,10 +12,8 @@
             <a-divider orientation="center">较上次新增数据</a-divider>
             <section class="space-y-10px">
               <div v-for="(item, index) in updateObj.updateArr" :key="index">
-                <template v-if="item.addNum > 0">
-                  <h2 class="text-blue-700">{{ item.label }}:</h2>
-                  <h2> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
-                </template>
+                <h2 class="text-blue-700">{{ item.label }}:</h2>
+                <h2> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
               </div>
             </section>
           </template>
@@ -63,17 +61,17 @@ const updateObj = reactive({
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 15,
+      addNum: 19,
       totalNum: cpuMData.length,
     },
     {
       label: 'CPU单核',
-      addNum: 15,
+      addNum: 19,
       totalNum: cpuSData.length,
     },
     {
       label: '显卡',
-      addNum: 7,
+      addNum: 4,
       totalNum: gpuData.length,
     },
     {
