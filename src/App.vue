@@ -57,38 +57,39 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年4月17日',
+  date: '2023年5月5日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 19,
+      addNum: 94,
       totalNum: cpuMData.length,
     },
     {
       label: 'CPU单核',
-      addNum: 19,
+      addNum: 82,
       totalNum: cpuSData.length,
     },
     {
       label: '显卡',
-      addNum: 4,
+      addNum: 9,
       totalNum: gpuData.length,
     },
     {
       label: '硬盘',
-      addNum: 0,
+      addNum: 345,
       totalNum: hardDriveData.length,
     },
   ],
 })
 onMounted(() => {
-  if (!window?.utools) return
-  utoolsInit()
+  if (window?.utools) {
+    utoolsInit()
+  }
 })
 
 const utoolsInit = () => {
   window.utools.onPluginEnter(({ payload }) => {
-    if (['显卡', 'gpu', 'GPU'].includes(payload)) {
+    if (['显卡', 'gpu'].includes(payload)) {
       activeName.value = 4
     } else if (['硬盘', 'hdd', 'ssd', 'disk'].includes(payload)) {
       activeName.value = 5
