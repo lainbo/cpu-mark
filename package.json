@@ -15,12 +15,12 @@
     "dayjs": "^1.11.7",
     "lodash-es": "^4.17.21",
     "vue": "^3.3.4",
-    "vxe-table": "4.3.14",
+    "vxe-table": "4.4.1",
     "xe-utils": "3.5.7"
   },
   "devDependencies": {
-    "@arco-design/web-vue": "^2.46.0",
-    "@iconify/json": "^2.2.67",
+    "@arco-design/web-vue": "^2.46.1",
+    "@iconify/json": "^2.2.70",
     "@unocss/preset-rem-to-px": "^0.52.0",
     "@unocss/preset-web-fonts": "^0.52.0",
     "@unocss/reset": "^0.52.0",
@@ -29,15 +29,15 @@
     "consola": "^3.1.0",
     "eslint": "^8.41.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-vue": "^9.13.0",
+    "eslint-plugin-vue": "^9.14.1",
     "prettier": "^2.8.8",
     "sass": "^1.62.1",
     "taze": "^0.10.1",
-    "terser": "^5.17.4",
+    "terser": "^5.17.6",
     "unocss": "^0.52.0",
-    "unplugin-auto-import": "^0.16.1",
+    "unplugin-auto-import": "^0.16.2",
     "unplugin-vue-components": "^0.24.1",
-    "vite": "^4.3.8",
+    "vite": "^4.3.9",
     "vite-plugin-style-import": "^2.0.0"
   }
 }
