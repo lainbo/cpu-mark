@@ -20,10 +20,10 @@
         </a-popover>
       </template>
       <a-tab-pane :key="1" :title="pageConfig.cpuM.title">
-        <MainView :table-data="cpuMData" :page-config="pageConfig.cpuM" />
+        <MainView :page-data="cpuMData" :page-config="pageConfig.cpuM" />
       </a-tab-pane>
       <a-tab-pane :key="2" :title="pageConfig.cpuS.title">
-        <MainView :table-data="cpuSData" :page-config="pageConfig.cpuS" />
+        <MainView :page-data="cpuSData" :page-config="pageConfig.cpuS" />
       </a-tab-pane>
       <a-tab-pane :key="3" title="CPU综合对比">
         <MainView
@@ -33,10 +33,10 @@
         />
       </a-tab-pane>
       <a-tab-pane :key="4" :title="pageConfig.gpu.title">
-        <MainView :table-data="gpuData" :page-config="pageConfig.gpu" />
+        <MainView :page-data="gpuData" :page-config="pageConfig.gpu" />
       </a-tab-pane>
       <a-tab-pane :key="5" :title="pageConfig.drive.title">
-        <MainView :table-data="hardDriveData" :page-config="pageConfig.drive" />
+        <MainView :page-data="hardDriveData" :page-config="pageConfig.drive" />
       </a-tab-pane>
     </a-tabs>
   </div>
@@ -57,26 +57,26 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(1) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年5月28日',
+  date: '2023年6月4日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 6,
+      addNum: 14,
       totalNum: cpuMData.length,
     },
     {
       label: 'CPU单核',
-      addNum: 3,
+      addNum: 9,
       totalNum: cpuSData.length,
     },
     {
       label: '显卡',
-      addNum: 2,
+      addNum: 4,
       totalNum: gpuData.length,
     },
     {
       label: '硬盘',
-      addNum: 24,
+      addNum: 2,
       totalNum: hardDriveData.length,
     },
   ],

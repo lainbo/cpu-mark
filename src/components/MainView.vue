@@ -162,7 +162,7 @@ import { isNumber } from '@/utils/isNumber.js'
 import { cloneDeep, throttle } from 'lodash-es'
 
 const props = defineProps({
-  tableData: {
+  pageData: {
     type: Array,
     default: () => [],
   },
@@ -231,7 +231,7 @@ if (isCpuCompared.value) {
     i.key = index
   })
 } else {
-  tempArr = cloneDeep(props.tableData)
+  tempArr = cloneDeep(props.pageData)
   // mark不是数字的直接不要
   tempArr = tempArr.filter(i => isNumber(i.mark))
 
