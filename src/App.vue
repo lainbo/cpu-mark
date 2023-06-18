@@ -13,7 +13,10 @@
             <section class="space-y-10px">
               <div v-for="(item, index) in updateObj.updateArr" :key="index">
                 <h2 class="text-blue-700">{{ item.label }}:</h2>
-                <h2> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
+                <h2 v-if="item.flag === 'cpuS'">
+                  持续更新常见的市售的游戏性能前300名的CPU
+                </h2>
+                <h2 v-else> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
               </div>
             </section>
           </template>
@@ -65,9 +68,8 @@ const updateObj = reactive({
       totalNum: cpuMData.length,
     },
     {
-      label: 'CPU游戏',
-      addNum: 8,
-      totalNum: cpuSData.length,
+      label: 'CPU游戏性能',
+      flag: 'cpuS',
     },
     {
       label: '显卡',
