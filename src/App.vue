@@ -94,7 +94,7 @@ const utoolsInit = () => {
     } else if (['硬盘', 'hdd', 'ssd', 'disk'].includes(payload)) {
       activeName.value = 5
     } else {
-      activeName.value = 1
+      activeName.value = 2
     }
   })
   window.utools.subInputBlur()
