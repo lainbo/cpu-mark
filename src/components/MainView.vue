@@ -49,7 +49,7 @@
                   />
                 </section>
                 <section class="w-1/2">
-                  <span>单核：{{ formatNum(item.sCoreMark) }}</span>
+                  <span>游戏：{{ formatNum(item.sCoreMark) }}</span>
                   <span>（排名：第{{ item.sRank }}）</span>
                   <a-progress
                     :percent="item.sPercentage || 0"
@@ -121,7 +121,7 @@
           <vxe-column field="nameDetail" title="型号" />
 
           <template v-if="isCpuCompared">
-            <vxe-column field="sCoreMark" title="单核性能" width="100" sortable>
+            <vxe-column field="sCoreMark" title="游戏性能" width="100" sortable>
               <template #default="{ row }">
                 <span>{{ formatNum(row.sCoreMark) }}</span>
               </template>
@@ -193,7 +193,7 @@ let tempArr = []
 // 如果是CPU对比页面
 if (isCpuCompared.value) {
   const [cpuMData, cpuSData] = cloneDeep(props.allData)
-  // 单核数据Map
+  // 游戏数据Map
   const cpuSDataMap = new Map()
   cpuSData.forEach(i => {
     cpuSDataMap.set(i.nameDetail, i.mark)
@@ -207,7 +207,7 @@ if (isCpuCompared.value) {
       sCoreMark: cpuSDataMap.get(i.nameDetail) || 0,
     })
   })
-  // 计算单核性能最大值
+  // 计算游戏性能最大值
   const sMaxRank = Math.max(
     ...tempArr.filter(i => isNumber(i.sCoreMark)).map(i => i.sCoreMark)
   )
@@ -224,7 +224,7 @@ if (isCpuCompared.value) {
     i.sPercentage = parseFloat((i.sCoreMark / sMaxRank).toFixed(3))
   })
 
-  // 根据单核性能降序排序,并设置单核排名和key
+  // 根据游戏性能降序排序,并设置游戏排名和key
   timSort(tempArr, (a, b) => b.sCoreMark - a.sCoreMark)
   tempArr.forEach((i, index) => {
     i.sRank = index + 1

@@ -19,11 +19,11 @@
           </template>
         </a-popover>
       </template>
-      <a-tab-pane :key="1" :title="pageConfig.cpuM.title">
-        <MainView :page-data="cpuMData" :page-config="pageConfig.cpuM" />
-      </a-tab-pane>
       <a-tab-pane :key="2" :title="pageConfig.cpuS.title">
         <MainView :page-data="cpuSData" :page-config="pageConfig.cpuS" />
+      </a-tab-pane>
+      <a-tab-pane :key="1" :title="pageConfig.cpuM.title">
+        <MainView :page-data="cpuMData" :page-config="pageConfig.cpuM" />
       </a-tab-pane>
       <a-tab-pane :key="3" title="CPU综合对比">
         <MainView
@@ -55,18 +55,18 @@ const cpuSData = uniqArr(cpuSingleCoreData)
 const gpuData = uniqArr(gpuOriginData)
 const hardDriveData = uniqArr(hardDriveOriginData)
 
-const activeName = ref(1) // 默认选中的tab
+const activeName = ref(2) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年6月12日',
+  date: '2023年6月19日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 10,
+      addNum: 11,
       totalNum: cpuMData.length,
     },
     {
-      label: 'CPU单核',
-      addNum: 7,
+      label: 'CPU游戏',
+      addNum: 8,
       totalNum: cpuSData.length,
     },
     {
@@ -76,7 +76,7 @@ const updateObj = reactive({
     },
     {
       label: '硬盘',
-      addNum: 42,
+      addNum: 0,
       totalNum: hardDriveData.length,
     },
   ],
@@ -105,17 +105,17 @@ function uniqArr(arr) {
   return uniqBy(arr, 'nameDetail')
 }
 const cpuAnswer =
-  '就像搬砖一样，一个核心就是一个人，核心强弱就像这个人力气大小。A这边有1个人，但是力气很大，一次搬10块砖。B这边有4个人，但是这4个人力气都小，一个人一次搬3块砖。四个人一次一共搬12块，看起来B这边更强，但是，人越多配合的难度越高，可能有人在工作，有人在偷懒，这时要考验监工的能力（也就是软件对多核心的优化程度）。在实际当中，大部分办公软件、网游、小型软件都更看重单核性能，例如腾讯的绝大部分网游，或轻负载低上限的软件；而专业软件（如：代码编辑器、视频渲染剪辑、直播、图片处理软件）和一些3A大作会对多核心进行优化'
+  '就像搬砖一样，一个核心就是一个人，核心强弱就像这个人力气大小。A这边有1个人，但是力气很大，一次搬10块砖。B这边有4个人，但是这4个人力气都小，一个人一次搬3块砖。四个人一次一共搬12块，看起来B这边更强，但是，人越多配合的难度越高，可能有人在工作，有人在偷懒，这时要考验监工的能力（也就是软件对多核心的优化程度）。在实际当中，大部分办公软件、网游、小型软件都更看重单核性能，单核性能强的CPU，往往拥有更好的游戏性能，例如腾讯的绝大部分网游，或轻负载低上限的软件；而专业软件（如：代码编辑器、视频渲染剪辑、直播、图片处理软件）和一些3A大作会对多核心进行优化'
 const pageConfig = {
   cpuM: {
     title: 'CPU多核天梯',
-    question: '单核、多核性能的区别？',
+    question: '多核性能与游戏性能的区别？',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如12700K',
   },
   cpuS: {
-    title: 'CPU单核天梯',
-    question: '单核、多核性能的区别？',
+    title: '游戏性能天梯',
+    question: '多核性能与游戏性能的区别？',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如12700K',
   },
@@ -123,7 +123,7 @@ const pageConfig = {
     title: '显卡天梯',
     question: '显卡得分解释',
     answer:
-      '得分融合了PerformanceTest，微软DirectX API中的DirectCompute，Khronos的OpenCL中的各项数据，各项数据的权重也各不相同，最终得分是由成千上万的同型号显卡平均得出，不完全反映其游戏性能，数据仅供参考。',
+      '得分融合了PerformanceTest，微软DirectX API中的DirectCompute，Khronos的OpenCL中的各项数据，各项数据的权重也各不相同，最终得分是由成千上万的同型号显卡平均得出。新型号可能由于样本容量问题出现很高的分或很低的分，请过几周再看，不完全反映其游戏性能，数据仅供参考。',
     placeholder: '请输入显卡型号，如4090',
   },
   drive: {
@@ -137,7 +137,7 @@ const pageConfig = {
     title: 'CPU综合对比',
     question: '如何知道一款CPU是否适合我？',
     answer:
-      '数据的排名靠前，并不代表这个CPU真的适合你，比如你需要一个打游戏的电脑，不知道如何CPU超频，还希望有着优秀的性价比，那么5800X 3D可能是你最好的选择，因为它有更大的CPU三级缓存，这让它在大部分游戏下的表现，和比他贵了2000多元的12900KS相当，甚至可以和Ryzen9 7950X掰腕子，但是仅从表格中可以得到的数据来看，他的单核、多核都不是特别的出彩，但是如果你会超频，你肯定知道去买一个散片12900KF超频可以爆杀5800X 3D。另一方面，除非你知道自己在做什么，否则不要去只依靠表格排名，去做你的购买参考，排名不能代表实际体验，数据仅供参考，所以如果对CPU只有一知半解，建议去网上多方综合了解后再购买',
+      '排名不能代表实际体验，性能得分仅供参考，游戏性能得分高的不一定在所有游戏中都强，不同的游戏由于一些合作方的原因可能会对一些品牌的CPU有神秘优化。所以如果对CPU只有一知半解，建议去网上多方综合了解后再购买',
     placeholder: '请输入CPU型号，如12700K',
   },
 }
