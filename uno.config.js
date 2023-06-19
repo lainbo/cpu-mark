@@ -4,10 +4,13 @@ import {
   presetIcons,
   presetUno,
   transformerDirectives,
-  transformerVariantGroup
+  transformerVariantGroup,
 } from 'unocss'
 import presetRemToPx from '@unocss/preset-rem-to-px'
 import presetWebFonts from '@unocss/preset-web-fonts'
+import axios from 'axios'
+
+import { HttpsProxyAgent } from 'https-proxy-agent'
 export default defineConfig({
   shortcuts: [
     {
@@ -15,9 +18,8 @@ export default defineConfig({
       'grid-c': 'grid place-items-center',
       'absolute-x-center': 'absolute left-1/2 -translate-x-1/2',
       'absolute-y-center': 'absolute top-1/2 -translate-y-1/2',
-      'absolute-center':
-        'absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2'
-    }
+      'absolute-center': 'absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2',
+    },
   ],
   presets: [
     presetUno(),
@@ -26,22 +28,27 @@ export default defineConfig({
     presetWebFonts({
       fonts: {
         provider: 'bunny',
+        customFetch: url => {
+          return axios
+            .get(url, { httpsAgent: new HttpsProxyAgent('http://127.0.0.1:7890') })
+            .then(it => it.data)
+        },
         Inter: [{ name: 'Inter', weights: ['500'] }],
       },
     }),
     presetIcons({
       warn: true,
       extraProperties: {
-        display: 'inline-block',
+        'display': 'inline-block',
         'vertical-align': 'middle',
-        'margin-top': '-1px'
-      }
-    })
+        'margin-top': '-1px',
+      },
+    }),
   ],
   theme: {
     colors: {
-      primary: '#165dff'
-    }
+      primary: '#165dff',
+    },
   },
   transformers: [transformerDirectives(), transformerVariantGroup()],
   variants: [
@@ -56,8 +63,8 @@ export default defineConfig({
             if (v[1]) v[1] += ' !important'
           })
           return body
-        }
+        },
       }
-    }
-  ]
+    },
+  ],
 })
