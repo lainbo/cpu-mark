@@ -60,11 +60,11 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(2) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年6月25日',
+  date: '2023年7月2日',
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 10,
+      addNum: 6,
       totalNum: cpuMData.length,
     },
     {
@@ -73,12 +73,12 @@ const updateObj = reactive({
     },
     {
       label: '显卡',
-      addNum: 2,
+      addNum: 1,
       totalNum: gpuData.length,
     },
     {
       label: '硬盘',
-      addNum: 52,
+      addNum: 26,
       totalNum: hardDriveData.length,
     },
   ],
@@ -107,7 +107,7 @@ function uniqArr(arr) {
   return uniqBy(arr, 'nameDetail')
 }
 const cpuAnswer =
-  '就像搬砖一样，一个核心就是一个人，核心强弱就像这个人力气大小。A这边有1个人，但是力气很大，一次搬10块砖。B这边有4个人，但是这4个人力气都小，一个人一次搬3块砖。四个人一次一共搬12块，看起来B这边更强，但是，人越多配合的难度越高，可能有人在工作，有人在偷懒，这时要考验监工的能力（也就是软件对多核心的优化程度）。在实际当中，大部分办公软件、网游、小型软件都更看重单核性能，单核性能强的CPU，往往拥有更好的游戏性能，例如腾讯的绝大部分网游，或轻负载低上限的软件；而专业软件（如：代码编辑器、视频渲染剪辑、直播、图片处理软件）和一些3A大作会对多核心进行优化'
+  '就像搬砖一样，一个核心就是一个人，核心强弱就像这个人力气大小。A这边有1个人，但是力气很大，一次搬10块砖。B这边有4个人，但是这4个人力气都小，一个人一次搬3块砖。四个人一次一共搬12块，看起来B这边更强，但是，人越多配合的难度越高，可能有人在工作，有人在偷懒，这时要考验监工的能力（也就是软件对多核心的优化程度）。在实际当中，大部分办公软件、网游、小型软件都更看重单核性能，单核性能强的CPU，往往拥有更好的游戏性能（不绝对，比如AMD的3D系列就不是靠单核能力才排名靠前），例如腾讯的绝大部分网游，或轻负载低上限的软件；而专业软件（如：代码编辑器、视频渲染剪辑、直播、图片处理软件）和一些3A大作会对多核心进行优化'
 const pageConfig = {
   cpuM: {
     title: 'CPU多核天梯',
