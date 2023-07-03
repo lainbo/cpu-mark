@@ -102,7 +102,7 @@
           :height="innerHeight - 80"
           :data="tableData"
           :row-config="{ isHover: true }"
-          :checkbox-config="{ showHeader: false, checkField: 'checked', trigger: 'row' }"
+          :checkbox-config="{ showHeader: false, trigger: 'row' }"
           :tooltip-config="{
             theme: isDark ? 'light' : 'dark',
             enterDelay: 0,
