@@ -60,7 +60,7 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 
 const activeName = ref(2) // 默认选中的tab
 const updateObj = reactive({
-  date: '2023年7月2日',
+  date: '2023年7月3日',
   updateArr: [
     {
       label: 'CPU多核',
@@ -73,7 +73,7 @@ const updateObj = reactive({
     },
     {
       label: '显卡',
-      addNum: 1,
+      addNum: 1026,
       totalNum: gpuData.length,
     },
     {
@@ -114,19 +114,22 @@ const pageConfig = {
     question: '多核性能与游戏性能的区别？',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如12700K',
+    flag: 'cpuM',
   },
   cpuS: {
     title: '游戏性能天梯',
     question: '多核性能与游戏性能的区别？',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如12700K',
+    flag: 'cpuS',
   },
   gpu: {
     title: '显卡天梯',
     question: '显卡得分解释',
     answer:
-      '得分融合了PerformanceTest，微软DirectX API中的DirectCompute，Khronos的OpenCL中的各项数据，各项数据的权重也各不相同，最终得分是由成千上万的同型号显卡平均得出。新型号可能由于样本容量问题出现很高的分或很低的分，请过几周再看，不完全反映其游戏性能，数据仅供参考。',
-    placeholder: '请输入显卡型号，如4090',
+      '得分为G3D Mark得分，也就是3D Graphics Mark。该得分包含了多个测试环节，如DirectX 9到DirectX 12的性能测试、复杂的游戏引擎渲染测试、GPU计算能力测试等。每个环节都会得到一个分数，这些分数会被总结为一个总的G3D Mark分数，这个分数反映了显卡的整体3D渲染性能。G3D Mark的分数只是一个参考，它不完全决定一款显卡在所有应用和游戏中的性能。如显存容量、显存带宽、驱动程序的优化等，也会影响显卡的实际性能',
+    placeholder: '请输入显卡型号，如4080',
+    flag: 'gpu',
   },
   drive: {
     title: '硬盘天梯',
@@ -134,6 +137,7 @@ const pageConfig = {
     answer:
       '硬盘的性能和容量也是相关的，固态硬盘中，一般1T、2T的性能大于500G，大于250G，所以需要知道具体容量对应的型号才能得到准确的信息。机械硬盘容量与性能关系更加明显，某些情况下可能是完全两个不同硬盘的感觉，如：查询“希捷酷鱼 1TB”的性能数据，建议到京东的对应商品的页面，商品图文详情的上方，“规格与包装”里面会有这款硬盘的具体型号，得到具体型号“ST1000DM010”，同型号的2TB版本“ST2000DM005”，是一个“叠瓦式”硬盘，两者性能差距较大',
     placeholder: '请输入硬盘型号，如980Pro',
+    flag: 'disk',
   },
   synthesis: {
     title: 'CPU综合对比',

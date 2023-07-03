@@ -31,13 +31,13 @@ const sites = [
     fileName: 'cpuSData',
   },
   {
-    url: 'https://www.videocardbenchmark.net/directCompute.html',
+    url: 'https://www.videocardbenchmark.net/gpu_list.php',
     code: () => {
-      const name = Array.from(document.querySelectorAll('li[id^=rk]')).map(
-        i => i.children[1].children[0].textContent
+      const name = Array.from(document.querySelectorAll('tr[id^=gpu]')).map(
+        i => i.children[0].textContent
       )
-      const mark = Array.from(document.querySelectorAll('li[id^=rk]')).map(
-        i => i.childNodes[3].childNodes[5].textContent
+      const mark = Array.from(document.querySelectorAll('tr[id^=gpu]')).map(
+        i => i.children[1].textContent
       )
       return { name, mark }
     },

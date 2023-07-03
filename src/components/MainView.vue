@@ -102,7 +102,7 @@
           :height="innerHeight - 80"
           :data="tableData"
           :row-config="{ isHover: true }"
-          :checkbox-config="{ showHeader: false }"
+          :checkbox-config="{ showHeader: false, checkField: 'checked', trigger: 'row' }"
           :tooltip-config="{
             theme: isDark ? 'light' : 'dark',
             enterDelay: 0,
@@ -134,7 +134,7 @@
           </template>
 
           <template v-else>
-            <vxe-column field="mark" title="性能" width="250" sortable>
+            <vxe-column field="mark" :title="calcMarkTitle" width="250" sortable>
               <template #default="{ row }">
                 <div class="space-x-6px">
                   <a-progress
@@ -186,6 +186,14 @@ const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分
 // 返回是否是CPU综合对比
 const isCpuCompared = computed(() => {
   return props.cpuCompared
+})
+
+const calcMarkTitle = computed(() => {
+  if (props.pageConfig.flag === 'gpu') {
+    return 'G3D Mark得分'
+  } else {
+    return '性能'
+  }
 })
 
 // 数据处理
