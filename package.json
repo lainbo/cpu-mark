@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.48.0",
-    "@iconify/json": "^2.2.85",
+    "@iconify/json": "^2.2.86",
     "@unocss/preset-rem-to-px": "^0.53.4",
     "@unocss/preset-web-fonts": "^0.53.4",
     "@unocss/reset": "^0.53.4",
@@ -34,6 +34,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.15.1",
     "https-proxy-agent": "^7.0.0",
+    "pnpm": "^8.6.6",
     "prettier": "^2.8.8",
     "puppeteer": "^20.7.4",
     "sass": "^1.63.6",
