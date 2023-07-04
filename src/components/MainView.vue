@@ -190,7 +190,7 @@ const isCpuCompared = computed(() => {
 
 const calcMarkTitle = computed(() => {
   if (props.pageConfig.flag === 'gpu') {
-    return 'G3D Mark得分'
+    return 'G3D Mark 得分'
   } else {
     return '性能'
   }
