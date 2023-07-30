@@ -20,8 +20,8 @@
     "xe-utils": "3.5.11"
   },
   "devDependencies": {
-    "@arco-design/web-vue": "^2.49.1",
-    "@iconify/json": "^2.2.94",
+    "@arco-design/web-vue": "^2.49.2",
+    "@iconify/json": "^2.2.95",
     "@unocss/preset-rem-to-px": "^0.53.6",
     "@unocss/preset-web-fonts": "^0.53.6",
     "@unocss/reset": "^0.53.6",
@@ -30,9 +30,9 @@
     "axios": "^1.4.0",
     "chalk": "^5.3.0",
     "consola": "^3.2.3",
-    "eslint": "^8.45.0",
+    "eslint": "^8.46.0",
     "eslint-plugin-prettier": "^5.0.0",
-    "eslint-plugin-vue": "^9.15.1",
+    "eslint-plugin-vue": "^9.16.0",
     "https-proxy-agent": "^7.0.1",
     "pnpm": "^8.6.10",
     "prettier": "^3.0.0",
