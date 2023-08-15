@@ -1,5 +1,5 @@
 /**
- * 格式化数字(3位加逗号)1
+ * 格式化数字(3位加逗号)
  *  @param { number } num
  */
 export function formatNum(num) {
