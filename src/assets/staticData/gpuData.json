@@ -1,11 +1,11 @@
 [
   {
     "nameDetail": "GeForce RTX 4090",
-    "mark": 39096
+    "mark": 39089
   },
   {
     "nameDetail": "GeForce RTX 4080",
-    "mark": 34935
+    "mark": 34881
   },
   {
     "nameDetail": "Radeon PRO W7800",
@@ -13,11 +13,11 @@
   },
   {
     "nameDetail": "GeForce RTX 4070 Ti",
-    "mark": 31694
+    "mark": 31688
   },
   {
     "nameDetail": "Radeon RX 7900 XTX",
-    "mark": 31511
+    "mark": 31387
   },
   {
     "nameDetail": "Radeon PRO W7900",
@@ -25,55 +25,55 @@
   },
   {
     "nameDetail": "GeForce RTX 3090 Ti",
-    "mark": 29854
+    "mark": 29860
   },
   {
     "nameDetail": "GeForce RTX 4090 Laptop GPU",
-    "mark": 29511
+    "mark": 29239
   },
   {
     "nameDetail": "Radeon RX 7900 XT",
-    "mark": 29113
+    "mark": 29224
   },
   {
     "nameDetail": "Radeon RX 6950 XT",
-    "mark": 28751
+    "mark": 28669
   },
   {
     "nameDetail": "GeForce RTX 3080 Ti",
-    "mark": 27401
+    "mark": 27396
   },
   {
     "nameDetail": "Radeon RX 6900 XT",
-    "mark": 26989
+    "mark": 26980
   },
   {
     "nameDetail": "GeForce RTX 3090",
-    "mark": 26957
+    "mark": 26938
   },
   {
     "nameDetail": "GeForce RTX 4070",
-    "mark": 26924
-  },
-  {
-    "nameDetail": "GeForce RTX 3080 12GB",
-    "mark": 26815
+    "mark": 26832
   },
   {
     "nameDetail": "GeForce RTX 4080 Laptop GPU",
-    "mark": 26796
+    "mark": 26811
+  },
+  {
+    "nameDetail": "GeForce RTX 3080 12GB",
+    "mark": 26807
   },
   {
     "nameDetail": "GeForce RTX 3080",
-    "mark": 25404
+    "mark": 25393
   },
   {
     "nameDetail": "Radeon RX 6800 XT",
-    "mark": 25166
+    "mark": 25192
   },
   {
     "nameDetail": "GeForce RTX 3070 Ti",
-    "mark": 23787
+    "mark": 23776
   },
   {
     "nameDetail": "RTX 6000 Ada Generation",
@@ -81,27 +81,31 @@
   },
   {
     "nameDetail": "RTX A5000",
-    "mark": 23076
+    "mark": 23087
+  },
+  {
+    "nameDetail": "GeForce RTX 4060 Ti 16GB",
+    "mark": 22908
   },
   {
     "nameDetail": "RTX A6000",
-    "mark": 22670
-  },
-  {
-    "nameDetail": "GeForce RTX 3070",
-    "mark": 22492
-  },
-  {
-    "nameDetail": "Radeon RX 6800",
-    "mark": 22485
+    "mark": 22692
   },
   {
     "nameDetail": "GeForce RTX 4060 Ti",
-    "mark": 22483
+    "mark": 22636
+  },
+  {
+    "nameDetail": "GeForce RTX 3070",
+    "mark": 22490
+  },
+  {
+    "nameDetail": "Radeon RX 6800",
+    "mark": 22412
   },
   {
     "nameDetail": "RTX 4000 Ada Generation Laptop GPU",
-    "mark": 22267
+    "mark": 22330
   },
   {
     "nameDetail": "NVIDIA A10",
@@ -109,11 +113,11 @@
   },
   {
     "nameDetail": "GeForce RTX 2080 Ti",
-    "mark": 21874
+    "mark": 21866
   },
   {
     "nameDetail": "RTX A4500",
-    "mark": 21660
+    "mark": 21631
   },
   {
     "nameDetail": "RTX 4000 SFF Ada Generation",
@@ -125,15 +129,19 @@
   },
   {
     "nameDetail": "Radeon RX 6750 XT",
-    "mark": 21203
+    "mark": 21201
   },
   {
     "nameDetail": "RTX A5500",
     "mark": 20816
   },
   {
+    "nameDetail": "RTX 3500 Ada Generation Laptop GPU",
+    "mark": 20722
+  },
+  {
     "nameDetail": "GeForce RTX 3060 Ti",
-    "mark": 20615
+    "mark": 20601
   },
   {
     "nameDetail": "Quadro GV100",
@@ -141,19 +149,15 @@
   },
   {
     "nameDetail": "GeForce RTX 3080 Ti Laptop GPU",
-    "mark": 20398
-  },
-  {
-    "nameDetail": "RTX 3500 Ada Generation Laptop GPU",
-    "mark": 20056
-  },
-  {
-    "nameDetail": "GeForce RTX 4060",
-    "mark": 19935
+    "mark": 20379
   },
   {
     "nameDetail": "Radeon PRO W6800",
     "mark": 19922
+  },
+  {
+    "nameDetail": "GeForce RTX 4070 Laptop GPU",
+    "mark": 19920
   },
   {
     "nameDetail": "TITAN V",
@@ -161,23 +165,23 @@
   },
   {
     "nameDetail": "Radeon RX 6700 XT",
-    "mark": 19888
+    "mark": 19889
   },
   {
     "nameDetail": "TITAN RTX",
     "mark": 19883
   },
   {
-    "nameDetail": "GeForce RTX 4070 Laptop GPU",
-    "mark": 19855
-  },
-  {
     "nameDetail": "GeForce RTX 2080 SUPER",
-    "mark": 19594
+    "mark": 19592
   },
   {
     "nameDetail": "Radeon PRO W7600",
     "mark": 19589
+  },
+  {
+    "nameDetail": "GeForce RTX 4060",
+    "mark": 19519
   },
   {
     "nameDetail": "Quadro RTX 8000",
@@ -185,43 +189,43 @@
   },
   {
     "nameDetail": "TITAN Xp COLLECTORS EDITION",
-    "mark": 19313
+    "mark": 19352
   },
   {
     "nameDetail": "RTX A4000",
-    "mark": 19243
+    "mark": 19262
   },
   {
     "nameDetail": "Quadro RTX 6000",
-    "mark": 19204
+    "mark": 19116
   },
   {
     "nameDetail": "Radeon RX 6700",
-    "mark": 18951
+    "mark": 18941
   },
   {
     "nameDetail": "GeForce RTX 2080",
-    "mark": 18804
+    "mark": 18811
   },
   {
     "nameDetail": "NVIDIA TITAN Xp",
-    "mark": 18794
+    "mark": 18690
   },
   {
     "nameDetail": "GeForce GTX 1080 Ti",
-    "mark": 18517
+    "mark": 18520
   },
   {
     "nameDetail": "GeForce RTX 4060 Laptop GPU",
-    "mark": 18494
-  },
-  {
-    "nameDetail": "GeForce RTX 3070 Ti Laptop GPU",
-    "mark": 18413
+    "mark": 18450
   },
   {
     "nameDetail": "NVIDIA A10G",
     "mark": 18407
+  },
+  {
+    "nameDetail": "GeForce RTX 3070 Ti Laptop GPU",
+    "mark": 18401
   },
   {
     "nameDetail": "Radeon RX 6850M XT",
@@ -233,15 +237,15 @@
   },
   {
     "nameDetail": "RTX A5500 Laptop GPU",
-    "mark": 17880
+    "mark": 17811
   },
   {
     "nameDetail": "RTX A4500 Laptop GPU",
-    "mark": 17622
+    "mark": 17657
   },
   {
     "nameDetail": "Radeon RX 6650 XT",
-    "mark": 17609
+    "mark": 17597
   },
   {
     "nameDetail": "Radeon RX 7700S",
@@ -249,7 +253,7 @@
   },
   {
     "nameDetail": "GeForce RTX 3060",
-    "mark": 17168
+    "mark": 17169
   },
   {
     "nameDetail": "TITAN V CEO Edition",
@@ -257,31 +261,31 @@
   },
   {
     "nameDetail": "Radeon RX 5700 XT",
-    "mark": 16889
-  },
-  {
-    "nameDetail": "Radeon RX 7600",
-    "mark": 16838
+    "mark": 16880
   },
   {
     "nameDetail": "Radeon VII",
-    "mark": 16789
-  },
-  {
-    "nameDetail": "GeForce RTX 3080 Laptop GPU",
-    "mark": 16645
+    "mark": 16771
   },
   {
     "nameDetail": "Radeon RX 5700 XT 50th Anniversary",
     "mark": 16640
   },
   {
+    "nameDetail": "Radeon RX 7600",
+    "mark": 16638
+  },
+  {
+    "nameDetail": "GeForce RTX 3080 Laptop GPU",
+    "mark": 16630
+  },
+  {
     "nameDetail": "GeForce RTX 2060 SUPER",
-    "mark": 16584
+    "mark": 16585
   },
   {
     "nameDetail": "Radeon RX 6600 XT",
-    "mark": 16464
+    "mark": 16466
   },
   {
     "nameDetail": "Radeon PRO W6600",
@@ -289,35 +293,35 @@
   },
   {
     "nameDetail": "GeForce RTX 2070",
-    "mark": 16174
+    "mark": 16170
   },
   {
     "nameDetail": "Quadro RTX 5000",
     "mark": 16103
   },
   {
-    "nameDetail": "GeForce RTX 2060 12GB",
-    "mark": 15865
-  },
-  {
     "nameDetail": "RTX A5000 Laptop GPU",
-    "mark": 15862
+    "mark": 15856
   },
   {
     "nameDetail": "Radeon PRO W7500",
     "mark": 15830
   },
   {
+    "nameDetail": "GeForce RTX 2060 12GB",
+    "mark": 15829
+  },
+  {
+    "nameDetail": "RTX A4000 Laptop GPU",
+    "mark": 15699
+  },
+  {
     "nameDetail": "Radeon Pro Vega II",
     "mark": 15667
   },
   {
-    "nameDetail": "RTX A4000 Laptop GPU",
-    "mark": 15657
-  },
-  {
     "nameDetail": "Quadro P6000",
-    "mark": 15619
+    "mark": 15652
   },
   {
     "nameDetail": "Quadro GP100",
@@ -326,6 +330,10 @@
   {
     "nameDetail": "GeForce RTX 3070 Laptop GPU",
     "mark": 15543
+  },
+  {
+    "nameDetail": "RTX 2000 Ada Generation Laptop GPU",
+    "mark": 15525
   },
   {
     "nameDetail": "Radeon Pro W5700",
@@ -337,15 +345,11 @@
   },
   {
     "nameDetail": "GeForce GTX 1080",
-    "mark": 15487
-  },
-  {
-    "nameDetail": "RTX 2000 Ada Generation Laptop GPU",
-    "mark": 15474
+    "mark": 15486
   },
   {
     "nameDetail": "Quadro RTX 4000",
-    "mark": 15456
+    "mark": 15444
   },
   {
     "nameDetail": "Radeon Pro VII",
@@ -353,15 +357,15 @@
   },
   {
     "nameDetail": "Radeon RX 6600",
-    "mark": 15151
-  },
-  {
-    "nameDetail": "GeForce RTX 4050 Laptop GPU",
-    "mark": 15150
+    "mark": 15149
   },
   {
     "nameDetail": "GeForce RTX 2080 (Mobile)",
     "mark": 15107
+  },
+  {
+    "nameDetail": "GeForce RTX 4050 Laptop GPU",
+    "mark": 15082
   },
   {
     "nameDetail": "Radeon RX 6600S",
@@ -372,36 +376,36 @@
     "mark": 14832
   },
   {
-    "nameDetail": "GeForce GTX 1070 Ti",
-    "mark": 14710
-  },
-  {
     "nameDetail": "Radeon RX 6700S",
-    "mark": 14693
+    "mark": 14712
   },
   {
-    "nameDetail": "Radeon RX 5700",
-    "mark": 14676
+    "nameDetail": "GeForce GTX 1070 Ti",
+    "mark": 14707
   },
   {
     "nameDetail": "RTX A3000 12GB Laptop GPU",
-    "mark": 14670
+    "mark": 14684
   },
   {
-    "nameDetail": "Radeon RX Vega 64",
-    "mark": 14561
+    "nameDetail": "Radeon RX 5700",
+    "mark": 14670
   },
   {
     "nameDetail": "Radeon RX 7600S",
     "mark": 14553
   },
   {
+    "nameDetail": "Radeon RX Vega 64",
+    "mark": 14538
+  },
+  {
     "nameDetail": "GeForce RTX 2060",
-    "mark": 14110
+    "mark": 14115
   },
   {
     "nameDetail": "GeForce RTX 2070 Super with Max-Q Design",
-    "mark": 13982
+    "mark": 13953
   },
   {
     "nameDetail": "Radeon Pro WX 8200",
@@ -409,51 +413,51 @@
   },
   {
     "nameDetail": "GeForce GTX 980 Ti",
-    "mark": 13862
+    "mark": 13845
+  },
+  {
+    "nameDetail": "GeForce RTX 2080 Super with Max-Q Design",
+    "mark": 13811
   },
   {
     "nameDetail": "Tesla P40",
     "mark": 13809
   },
   {
-    "nameDetail": "GeForce RTX 2080 Super with Max-Q Design",
-    "mark": 13806
+    "nameDetail": "RTX A2000",
+    "mark": 13801
   },
   {
     "nameDetail": "Radeon RX 5600 XT",
-    "mark": 13804
-  },
-  {
-    "nameDetail": "RTX A2000",
-    "mark": 13791
+    "mark": 13797
   },
   {
     "nameDetail": "NVIDIA TITAN X",
     "mark": 13659
   },
   {
-    "nameDetail": "Quadro RTX 5000 with Max-Q Design",
-    "mark": 13617
+    "nameDetail": "RTX A2000 12GB",
+    "mark": 13590
   },
   {
-    "nameDetail": "RTX A2000 12GB",
-    "mark": 13605
+    "nameDetail": "Quadro RTX 5000 with Max-Q Design",
+    "mark": 13582
   },
   {
     "nameDetail": "Radeon RX 6600M",
-    "mark": 13597
+    "mark": 13563
   },
   {
     "nameDetail": "GeForce GTX 1070",
-    "mark": 13505
+    "mark": 13503
   },
   {
     "nameDetail": "Radeon RX Vega 56",
-    "mark": 13480
+    "mark": 13468
   },
   {
     "nameDetail": "Radeon Vega Frontier Edition",
-    "mark": 13463
+    "mark": 13416
   },
   {
     "nameDetail": "Radeon RX 6650M",
@@ -461,7 +465,7 @@
   },
   {
     "nameDetail": "GeForce RTX 3060 Laptop GPU",
-    "mark": 13386
+    "mark": 13388
   },
   {
     "nameDetail": "Radeon RX 6700M",
@@ -473,7 +477,11 @@
   },
   {
     "nameDetail": "GeForce RTX 2080 with Max-Q Design",
-    "mark": 13155
+    "mark": 13176
+  },
+  {
+    "nameDetail": "Intel d gfx-driver-ci-master-14429 DCH RI",
+    "mark": 13174
   },
   {
     "nameDetail": "Radeon PRO W6600X",
@@ -481,19 +489,19 @@
   },
   {
     "nameDetail": "GeForce GTX TITAN X",
-    "mark": 13069
+    "mark": 13081
   },
   {
     "nameDetail": "Radeon RX 6800M",
-    "mark": 13039
+    "mark": 13037
   },
   {
     "nameDetail": "GeForce RTX 3050",
-    "mark": 12980
+    "mark": 12977
   },
   {
     "nameDetail": "GeForce GTX 1660 Ti",
-    "mark": 12958
+    "mark": 12959
   },
   {
     "nameDetail": "Radeon Pro Vega 64",
@@ -501,7 +509,7 @@
   },
   {
     "nameDetail": "GeForce GTX 1660 SUPER",
-    "mark": 12801
+    "mark": 12799
   },
   {
     "nameDetail": "Radeon Pro 5700 XT",
@@ -521,15 +529,15 @@
   },
   {
     "nameDetail": "RTX A3000 Laptop GPU",
-    "mark": 12552
-  },
-  {
-    "nameDetail": "Quadro RTX 4000 with Max-Q Design",
-    "mark": 12500
+    "mark": 12533
   },
   {
     "nameDetail": "Quadro RTX 4000 (Mobile)",
     "mark": 12485
+  },
+  {
+    "nameDetail": "Quadro RTX 4000 with Max-Q Design",
+    "mark": 12473
   },
   {
     "nameDetail": "GeForce RTX 2070 (Mobile)",
@@ -541,7 +549,7 @@
   },
   {
     "nameDetail": "Quadro P5000",
-    "mark": 12276
+    "mark": 12275
   },
   {
     "nameDetail": "Radeon RX 6850M",
@@ -553,7 +561,7 @@
   },
   {
     "nameDetail": "GeForce RTX 3050 OEM",
-    "mark": 12061
+    "mark": 12072
   },
   {
     "nameDetail": "GeForce RTX 2070 with Max-Q Design",
@@ -601,23 +609,23 @@
   },
   {
     "nameDetail": "Quadro RTX 3000",
-    "mark": 11134
+    "mark": 11125
   },
   {
     "nameDetail": "GeForce GTX 980",
-    "mark": 11128
+    "mark": 11123
+  },
+  {
+    "nameDetail": "CMP 40HX",
+    "mark": 11071
   },
   {
     "nameDetail": "RTX A2000 8GB Laptop GPU",
-    "mark": 10945
+    "mark": 10947
   },
   {
     "nameDetail": "Tesla T4",
     "mark": 10847
-  },
-  {
-    "nameDetail": "RTX A1000 6GB Laptop GPU",
-    "mark": 10574
   },
   {
     "nameDetail": "Radeon Pro SSG",
@@ -632,6 +640,14 @@
     "mark": 10465
   },
   {
+    "nameDetail": "RTX A1000 6GB Laptop GPU",
+    "mark": 10463
+  },
+  {
+    "nameDetail": "GeForce RTX 3050 6GB Laptop GPU",
+    "mark": 10439
+  },
+  {
     "nameDetail": "Quadro P4200",
     "mark": 10265
   },
@@ -641,35 +657,31 @@
   },
   {
     "nameDetail": "GeForce GTX 1660 Ti (Mobile)",
-    "mark": 10190
-  },
-  {
-    "nameDetail": "GeForce RTX 3050 6GB Laptop GPU",
-    "mark": 10188
+    "mark": 10196
   },
   {
     "nameDetail": "GeForce RTX 3050 Ti Laptop GPU",
-    "mark": 10134
+    "mark": 10140
   },
   {
     "nameDetail": "GeForce GTX 1650 SUPER",
-    "mark": 10107
+    "mark": 10110
   },
   {
     "nameDetail": "GeForce GTX 1060",
-    "mark": 10072
+    "mark": 10075
+  },
+  {
+    "nameDetail": "Radeon R9 Fury X",
+    "mark": 10061
   },
   {
     "nameDetail": "GeForce GTX 1070 with Max-Q Design",
     "mark": 10052
   },
   {
-    "nameDetail": "Radeon R9 Fury X",
-    "mark": 10041
-  },
-  {
     "nameDetail": "RTX A2000 Laptop GPU",
-    "mark": 10020
+    "mark": 10005
   },
   {
     "nameDetail": "NVIDIA A40",
@@ -677,11 +689,11 @@
   },
   {
     "nameDetail": "GeForce RTX 2060 with Max-Q Design",
-    "mark": 9801
+    "mark": 9798
   },
   {
     "nameDetail": "GeForce GTX 1060 3GB",
-    "mark": 9747
+    "mark": 9749
   },
   {
     "nameDetail": "Radeon R9 Fury + Fury X",
@@ -689,7 +701,7 @@
   },
   {
     "nameDetail": "GeForce GTX 970",
-    "mark": 9641
+    "mark": 9640
   },
   {
     "nameDetail": "Radeon R9 Fury",
@@ -697,31 +709,31 @@
   },
   {
     "nameDetail": "Radeon RX 590",
-    "mark": 9543
+    "mark": 9544
   },
   {
     "nameDetail": "Radeon RX 6500 XT",
-    "mark": 9509
+    "mark": 9511
   },
   {
     "nameDetail": "RTX A1000 Laptop GPU",
-    "mark": 9503
+    "mark": 9506
   },
   {
     "nameDetail": "GeForce GTX 780 Ti",
-    "mark": 9468
+    "mark": 9476
   },
   {
     "nameDetail": "Radeon R9 390X",
-    "mark": 9444
+    "mark": 9446
   },
   {
     "nameDetail": "GeForce RTX 3050 Laptop GPU",
-    "mark": 9384
+    "mark": 9385
   },
   {
     "nameDetail": "Quadro P2200",
-    "mark": 9373
+    "mark": 9374
   },
   {
     "nameDetail": "Quadro M5000",
@@ -737,11 +749,11 @@
   },
   {
     "nameDetail": "Radeon RX 5500 XT",
-    "mark": 9180
+    "mark": 9181
   },
   {
     "nameDetail": "Radeon Pro W5500",
-    "mark": 9112
+    "mark": 9121
   },
   {
     "nameDetail": "Quadro P4000 with Max-Q Design",
@@ -752,20 +764,20 @@
     "mark": 9032
   },
   {
-    "nameDetail": "Radeon R9 390",
-    "mark": 9016
-  },
-  {
     "nameDetail": "GeForce GTX TITAN Black",
     "mark": 9010
   },
   {
-    "nameDetail": "Quadro P3200",
-    "mark": 8995
+    "nameDetail": "Radeon R9 390",
+    "mark": 9009
   },
   {
     "nameDetail": "GeForce GTX TITAN Z",
     "mark": 8986
+  },
+  {
+    "nameDetail": "Quadro P3200",
+    "mark": 8985
   },
   {
     "nameDetail": "GRID P40-8Q",
@@ -773,7 +785,7 @@
   },
   {
     "nameDetail": "GeForce GTX 1060 5GB",
-    "mark": 8917
+    "mark": 8946
   },
   {
     "nameDetail": "Radeon RX 580",
@@ -781,35 +793,35 @@
   },
   {
     "nameDetail": "Radeon RX 5500",
-    "mark": 8852
-  },
-  {
-    "nameDetail": "Radeon RX 480",
-    "mark": 8685
-  },
-  {
-    "nameDetail": "Radeon R9 290X",
-    "mark": 8671
-  },
-  {
-    "nameDetail": "GeForce GTX 1660 Ti with Max-Q Design",
-    "mark": 8666
+    "mark": 8853
   },
   {
     "nameDetail": "Intel Arc A770",
-    "mark": 8639
+    "mark": 8686
+  },
+  {
+    "nameDetail": "Radeon RX 480",
+    "mark": 8683
+  },
+  {
+    "nameDetail": "Radeon R9 290X",
+    "mark": 8677
+  },
+  {
+    "nameDetail": "GeForce GTX 1660 Ti with Max-Q Design",
+    "mark": 8658
   },
   {
     "nameDetail": "Radeon R9 295X2",
     "mark": 8637
   },
   {
-    "nameDetail": "Radeon RX590 GME",
-    "mark": 8580
+    "nameDetail": "Quadro RTX 3000 with Max-Q Design",
+    "mark": 8575
   },
   {
-    "nameDetail": "Quadro RTX 3000 with Max-Q Design",
-    "mark": 8579
+    "nameDetail": "Radeon RX590 GME",
+    "mark": 8566
   },
   {
     "nameDetail": "GRID RTX6000-1B",
@@ -821,7 +833,7 @@
   },
   {
     "nameDetail": "Radeon R9 290",
-    "mark": 8388
+    "mark": 8377
   },
   {
     "nameDetail": "Ryzen 5 4600HS with Radeon Graphics",
@@ -849,23 +861,23 @@
   },
   {
     "nameDetail": "Intel Arc A750",
-    "mark": 8145
+    "mark": 8143
   },
   {
     "nameDetail": "Radeon RX 470/570",
-    "mark": 8061
-  },
-  {
-    "nameDetail": "Radeon RX 6500M",
-    "mark": 8038
+    "mark": 8058
   },
   {
     "nameDetail": "Quadro K6000",
-    "mark": 8021
+    "mark": 8038
   },
   {
     "nameDetail": "GeForce GTX 780",
-    "mark": 8019
+    "mark": 8020
+  },
+  {
+    "nameDetail": "Radeon RX 5600M",
+    "mark": 8005
   },
   {
     "nameDetail": "Ryzen 9 6900HS",
@@ -876,32 +888,28 @@
     "mark": 7991
   },
   {
-    "nameDetail": "Radeon RX 5600M",
-    "mark": 7983
+    "nameDetail": "Radeon RX 6500M",
+    "mark": 7988
   },
   {
     "nameDetail": "FirePro W9100",
     "mark": 7927
   },
   {
-    "nameDetail": "Radeon Pro WX 7100",
-    "mark": 7917
+    "nameDetail": "GeForce GTX 1060 with Max-Q Design",
+    "mark": 7922
   },
   {
     "nameDetail": "Quadro M5500",
     "mark": 7915
   },
   {
-    "nameDetail": "GeForce GTX 1060 with Max-Q Design",
-    "mark": 7913
+    "nameDetail": "Radeon Pro WX 7100",
+    "mark": 7912
   },
   {
     "nameDetail": "GeForce GTX 1650",
-    "mark": 7855
-  },
-  {
-    "nameDetail": "T1200 Laptop GPU",
-    "mark": 7802
+    "mark": 7854
   },
   {
     "nameDetail": "Radeon RX 580X",
@@ -912,20 +920,24 @@
     "mark": 7770
   },
   {
-    "nameDetail": "Radeon RX 580 2048SP",
-    "mark": 7763
+    "nameDetail": "T1200 Laptop GPU",
+    "mark": 7764
   },
   {
     "nameDetail": "Radeon Pro 580",
     "mark": 7753
   },
   {
+    "nameDetail": "Radeon RX 580 2048SP",
+    "mark": 7753
+  },
+  {
     "nameDetail": "T1000",
-    "mark": 7701
+    "mark": 7708
   },
   {
     "nameDetail": "T1000 8GB",
-    "mark": 7691
+    "mark": 7697
   },
   {
     "nameDetail": "Radeon RX 5300",
@@ -933,7 +945,7 @@
   },
   {
     "nameDetail": "GeForce GTX 1650 Ti",
-    "mark": 7545
+    "mark": 7548
   },
   {
     "nameDetail": "Radeon Pro 580X",
@@ -945,27 +957,31 @@
   },
   {
     "nameDetail": "Radeon RX 6400",
-    "mark": 7475
+    "mark": 7466
   },
   {
     "nameDetail": "GeForce GTX 980M",
-    "mark": 7371
+    "mark": 7376
   },
   {
     "nameDetail": "FirePro W8100",
     "mark": 7279
   },
   {
+    "nameDetail": "RadeonT 780M",
+    "mark": 7273
+  },
+  {
+    "nameDetail": "Radeon 780M",
+    "mark": 7271
+  },
+  {
     "nameDetail": "Radeon Pro 5300",
-    "mark": 7256
+    "mark": 7229
   },
   {
     "nameDetail": "Tesla P100-PCIE-16GB",
     "mark": 7225
-  },
-  {
-    "nameDetail": "Radeon 780M",
-    "mark": 7222
   },
   {
     "nameDetail": "Radeon Ryzen 9 4900HS",
@@ -973,15 +989,11 @@
   },
   {
     "nameDetail": "Quadro T2000",
-    "mark": 7122
-  },
-  {
-    "nameDetail": "GeForce RTX 3050 4GB Laptop GPU",
-    "mark": 7109
+    "mark": 7132
   },
   {
     "nameDetail": "Intel Arc A770M",
-    "mark": 7090
+    "mark": 7064
   },
   {
     "nameDetail": "T600 Laptop GPU",
@@ -996,24 +1008,28 @@
     "mark": 7016
   },
   {
+    "nameDetail": "GeForce RTX 3050 4GB Laptop GPU",
+    "mark": 7011
+  },
+  {
     "nameDetail": "GeForce GTX 1650 (Mobile)",
     "mark": 6968
   },
   {
-    "nameDetail": "Quadro P2000",
-    "mark": 6960
+    "nameDetail": "GeForce RTX 2050",
+    "mark": 6944
   },
   {
-    "nameDetail": "GeForce RTX 2050",
-    "mark": 6926
+    "nameDetail": "Quadro P2000",
+    "mark": 6927
   },
   {
     "nameDetail": "Quadro T2000 with Max-Q Design",
-    "mark": 6896
+    "mark": 6915
   },
   {
     "nameDetail": "RTX A500 Laptop GPU",
-    "mark": 6873
+    "mark": 6870
   },
   {
     "nameDetail": "Ryzen 7 6800HS with Radeon Graphics",
@@ -1021,7 +1037,7 @@
   },
   {
     "nameDetail": "Radeon Pro 5500M",
-    "mark": 6825
+    "mark": 6828
   },
   {
     "nameDetail": "Radeon RX 6500",
@@ -1032,12 +1048,12 @@
     "mark": 6706
   },
   {
-    "nameDetail": "Quadro T1000 with Max-Q Design",
-    "mark": 6658
+    "nameDetail": "Quadro M4000",
+    "mark": 6659
   },
   {
-    "nameDetail": "Quadro M4000",
-    "mark": 6656
+    "nameDetail": "Quadro T1000 with Max-Q Design",
+    "mark": 6658
   },
   {
     "nameDetail": "Radeon Ryzen 7 6800HS",
@@ -1049,7 +1065,7 @@
   },
   {
     "nameDetail": "Quadro T1000",
-    "mark": 6593
+    "mark": 6604
   },
   {
     "nameDetail": "Radeon Pro WX 7130",
@@ -1057,19 +1073,19 @@
   },
   {
     "nameDetail": "Radeon RX Vega M GH",
-    "mark": 6570
+    "mark": 6572
   },
   {
     "nameDetail": "T600",
-    "mark": 6524
+    "mark": 6520
   },
   {
     "nameDetail": "Radeon Ryzen 9 6900HS",
-    "mark": 6438
+    "mark": 6499
   },
   {
     "nameDetail": "GeForce GTX 1650 Ti with Max-Q Design",
-    "mark": 6386
+    "mark": 6394
   },
   {
     "nameDetail": "Radeon Pro 570",
@@ -1080,24 +1096,24 @@
     "mark": 6331
   },
   {
-    "nameDetail": "Radeon Ryzen 9 7950X 16-Core",
-    "mark": 6308
-  },
-  {
     "nameDetail": "GeForce GTX 1050 Ti",
     "mark": 6299
   },
   {
-    "nameDetail": "Radeon R9 380X",
-    "mark": 6265
+    "nameDetail": "Radeon Ryzen 9 7950X 16-Core",
+    "mark": 6257
   },
   {
-    "nameDetail": "Radeon R9 280X",
+    "nameDetail": "Radeon R9 380X",
     "mark": 6242
   },
   {
+    "nameDetail": "Radeon R9 280X",
+    "mark": 6241
+  },
+  {
     "nameDetail": "Radeon R9 380",
-    "mark": 6238
+    "mark": 6234
   },
   {
     "nameDetail": "Quadro M4000M",
@@ -1117,15 +1133,11 @@
   },
   {
     "nameDetail": "GeForce GTX 1650 with Max-Q Design",
-    "mark": 6088
+    "mark": 6094
   },
   {
     "nameDetail": "GeForce GTX 960",
-    "mark": 6034
-  },
-  {
-    "nameDetail": "Radeon Ryzen 7 4800HS",
-    "mark": 5979
+    "mark": 6036
   },
   {
     "nameDetail": "Radeon Pro 5300M",
@@ -1149,7 +1161,7 @@
   },
   {
     "nameDetail": "GeForce GTX 770",
-    "mark": 5895
+    "mark": 5897
   },
   {
     "nameDetail": "GeForce MX570",
@@ -1164,10 +1176,6 @@
     "mark": 5758
   },
   {
-    "nameDetail": "Radeon PRO Ryzen 7 PRO 6850U",
-    "mark": 5740
-  },
-  {
     "nameDetail": "GeForce GTX 970M",
     "mark": 5724
   },
@@ -1180,12 +1188,16 @@
     "mark": 5721
   },
   {
-    "nameDetail": "Radeon Ryzen 7 6800H",
-    "mark": 5659
+    "nameDetail": "Radeon PRO Ryzen 7 PRO 6850U",
+    "mark": 5716
+  },
+  {
+    "nameDetail": "Radeon Ryzen 7 7736U",
+    "mark": 5688
   },
   {
     "nameDetail": "Radeon Pro WX 5100",
-    "mark": 5652
+    "mark": 5659
   },
   {
     "nameDetail": "Radeon Ryzen 7 7735H",
@@ -1194,6 +1206,10 @@
   {
     "nameDetail": "Radeon R9 280",
     "mark": 5601
+  },
+  {
+    "nameDetail": "Radeon Ryzen 7 6800H",
+    "mark": 5595
   },
   {
     "nameDetail": "Ryzen 7 PRO 6850U",
@@ -1213,7 +1229,7 @@
   },
   {
     "nameDetail": "GeForce GTX 680",
-    "mark": 5536
+    "mark": 5537
   },
   {
     "nameDetail": "GRID M60-8A",
@@ -1221,7 +1237,7 @@
   },
   {
     "nameDetail": "Quadro M3000M",
-    "mark": 5479
+    "mark": 5503
   },
   {
     "nameDetail": "Radeon Pro Vega 20",
@@ -1232,48 +1248,56 @@
     "mark": 5427
   },
   {
+    "nameDetail": "Radeon Ryzen 7 4800HS",
+    "mark": 5416
+  },
+  {
     "nameDetail": "Ryzen 9 6900HX",
     "mark": 5415
   },
   {
     "nameDetail": "FirePro W7100",
-    "mark": 5391
+    "mark": 5376
+  },
+  {
+    "nameDetail": "Radeon Ryzen 7 6800HS Creator Edition",
+    "mark": 5373
   },
   {
     "nameDetail": "GeForce GTX 1050 Ti with Max-Q Design",
-    "mark": 5372
+    "mark": 5366
   },
   {
     "nameDetail": "GRID P40-4Q",
     "mark": 5364
   },
   {
-    "nameDetail": "Radeon Ryzen 7 6800HS Creator Edition",
-    "mark": 5348
-  },
-  {
-    "nameDetail": "GeForce GTX 950",
-    "mark": 5345
-  },
-  {
     "nameDetail": "Ryzen 7 6800HS Creator Edition",
     "mark": 5345
   },
   {
+    "nameDetail": "GeForce GTX 950",
+    "mark": 5343
+  },
+  {
+    "nameDetail": "Radeon RX 5500M",
+    "mark": 5323
+  },
+  {
     "nameDetail": "GeForce GTX 670",
-    "mark": 5306
+    "mark": 5307
   },
   {
     "nameDetail": "Ryzen 7 7735HS with Radeon Graphics",
     "mark": 5306
   },
   {
-    "nameDetail": "Radeon RX 5500M",
-    "mark": 5303
+    "nameDetail": "Radeon Ryzen 7 7735HS",
+    "mark": 5294
   },
   {
-    "nameDetail": "Radeon Ryzen 7 7735HS",
-    "mark": 5280
+    "nameDetail": "Radeon Ryzen 9 6900HX",
+    "mark": 5257
   },
   {
     "nameDetail": "Radeon HD 7970 / R9 280X",
@@ -1282,10 +1306,6 @@
   {
     "nameDetail": "Ryzen 7 6800H",
     "mark": 5247
-  },
-  {
-    "nameDetail": "Radeon Ryzen 9 6900HX",
-    "mark": 5242
   },
   {
     "nameDetail": "Ryzen 7 6800HS",
@@ -1317,19 +1337,15 @@
   },
   {
     "nameDetail": "Radeon Ryzen 7 PRO 6850U",
-    "mark": 5144
-  },
-  {
-    "nameDetail": "GeForce GTX 1050 3GB",
-    "mark": 5122
+    "mark": 5137
   },
   {
     "nameDetail": "Quadro P2000 with Max-Q Design",
-    "mark": 5109
+    "mark": 5131
   },
   {
-    "nameDetail": "GeForce GTX 1630",
-    "mark": 5084
+    "nameDetail": "GeForce GTX 1050 3GB",
+    "mark": 5118
   },
   {
     "nameDetail": "Ryzen 7 PRO 6860Z",
@@ -1338,6 +1354,10 @@
   {
     "nameDetail": "Ryzen 9 PRO 6950HS with Radeon Graphics",
     "mark": 5067
+  },
+  {
+    "nameDetail": "GeForce GTX 1630",
+    "mark": 5061
   },
   {
     "nameDetail": "FirePro S9000",
@@ -1352,20 +1372,24 @@
     "mark": 5048
   },
   {
+    "nameDetail": "Radeon Ryzen 7 7735U",
+    "mark": 5047
+  },
+  {
     "nameDetail": "GeForce GTX 1050",
-    "mark": 5044
+    "mark": 5043
   },
   {
     "nameDetail": "Ryzen 7 PRO 6850U with Radeon Graphics",
     "mark": 5042
   },
   {
-    "nameDetail": "Radeon R9 M395",
-    "mark": 5023
+    "nameDetail": "Radeon R9 M395X",
+    "mark": 5037
   },
   {
-    "nameDetail": "Radeon Ryzen 7 7735U",
-    "mark": 5013
+    "nameDetail": "Radeon R9 M395",
+    "mark": 5023
   },
   {
     "nameDetail": "Ryzen 7 6800U",
@@ -1400,15 +1424,11 @@
     "mark": 4788
   },
   {
-    "nameDetail": "GeForce GTX 760",
-    "mark": 4778
-  },
-  {
     "nameDetail": "GRID RTX6000P-6Q",
     "mark": 4777
   },
   {
-    "nameDetail": "Radeon R9 M395X",
+    "nameDetail": "GeForce GTX 760",
     "mark": 4775
   },
   {
@@ -1416,12 +1436,12 @@
     "mark": 4768
   },
   {
-    "nameDetail": "Radeon HD 7950 / R9 280",
-    "mark": 4764
+    "nameDetail": "T550 Laptop GPU",
+    "mark": 4768
   },
   {
-    "nameDetail": "T550 Laptop GPU",
-    "mark": 4746
+    "nameDetail": "Radeon HD 7950 / R9 280",
+    "mark": 4764
   },
   {
     "nameDetail": "Radeon Sky 500",
@@ -1453,15 +1473,7 @@
   },
   {
     "nameDetail": "Radeon HD 7870",
-    "mark": 4635
-  },
-  {
-    "nameDetail": "Radeon Ryzen 7 6800U",
-    "mark": 4612
-  },
-  {
-    "nameDetail": "GeForce MX550",
-    "mark": 4567
+    "mark": 4636
   },
   {
     "nameDetail": "Matrox LUMA A310F",
@@ -1472,12 +1484,20 @@
     "mark": 4557
   },
   {
+    "nameDetail": "Radeon Ryzen 7 6800U",
+    "mark": 4557
+  },
+  {
+    "nameDetail": "GeForce GTX 580",
+    "mark": 4538
+  },
+  {
     "nameDetail": "Radeon Pro 465",
     "mark": 4537
   },
   {
-    "nameDetail": "GeForce GTX 580",
-    "mark": 4535
+    "nameDetail": "GeForce MX550",
+    "mark": 4524
   },
   {
     "nameDetail": "FirePro S7000",
@@ -1516,16 +1536,12 @@
     "mark": 4429
   },
   {
-    "nameDetail": "Quadro P1000",
-    "mark": 4419
-  },
-  {
     "nameDetail": "Radeon RX 5300M",
     "mark": 4418
   },
   {
-    "nameDetail": "Radeon Ryzen 9 7900 12-Core",
-    "mark": 4376
+    "nameDetail": "Quadro P1000",
+    "mark": 4417
   },
   {
     "nameDetail": "GeForce GTX 660 Ti",
@@ -1536,32 +1552,24 @@
     "mark": 4361
   },
   {
-    "nameDetail": "Radeon Ryzen 5 7535HS",
-    "mark": 4343
-  },
-  {
     "nameDetail": "GRID GTX P40-6",
     "mark": 4340
-  },
-  {
-    "nameDetail": "Quadro M2200",
-    "mark": 4336
   },
   {
     "nameDetail": "Tesla K20m",
     "mark": 4330
   },
   {
+    "nameDetail": "Quadro M2200",
+    "mark": 4327
+  },
+  {
     "nameDetail": "Quadro K4200",
-    "mark": 4312
+    "mark": 4314
   },
   {
     "nameDetail": "Radeon R9 270",
     "mark": 4306
-  },
-  {
-    "nameDetail": "P104-100",
-    "mark": 4290
   },
   {
     "nameDetail": "Radeon R9 270 / R7 370",
@@ -1584,6 +1592,14 @@
     "mark": 4220
   },
   {
+    "nameDetail": "Radeon Ryzen 9 7900 12-Core",
+    "mark": 4189
+  },
+  {
+    "nameDetail": "Radeon Ryzen 5 7535HS",
+    "mark": 4179
+  },
+  {
     "nameDetail": "GRID V100D-8Q",
     "mark": 4155
   },
@@ -1593,23 +1609,23 @@
   },
   {
     "nameDetail": "Intel Arc A380",
-    "mark": 4125
+    "mark": 4120
   },
   {
     "nameDetail": "Radeon RX 460",
-    "mark": 4116
+    "mark": 4117
   },
   {
     "nameDetail": "FirePro W8000",
     "mark": 4095
   },
   {
-    "nameDetail": "Radeon PRO Ryzen 5 PRO 6650U",
-    "mark": 4066
+    "nameDetail": "Radeon 660M Ryzen 5 7535HS",
+    "mark": 4078
   },
   {
-    "nameDetail": "RadeonT 660M Ryzen 5 7535HS",
-    "mark": 4042
+    "nameDetail": "Radeon PRO Ryzen 5 PRO 6650U",
+    "mark": 4066
   },
   {
     "nameDetail": "GeForce GTX 480",
@@ -1629,11 +1645,15 @@
   },
   {
     "nameDetail": "GeForce GTX 660",
-    "mark": 3993
+    "mark": 3995
+  },
+  {
+    "nameDetail": "P104-100",
+    "mark": 3995
   },
   {
     "nameDetail": "Quadro K5000",
-    "mark": 3957
+    "mark": 3968
   },
   {
     "nameDetail": "Quadro M2000",
@@ -1645,7 +1665,11 @@
   },
   {
     "nameDetail": "GeForce GTX 570",
-    "mark": 3922
+    "mark": 3916
+  },
+  {
+    "nameDetail": "GeForce GTX 1050 with Max-Q Design",
+    "mark": 3902
   },
   {
     "nameDetail": "Radeon Ryzen 9 PRO 6950HS",
@@ -1653,11 +1677,7 @@
   },
   {
     "nameDetail": "GeForce GTX 750 Ti",
-    "mark": 3899
-  },
-  {
-    "nameDetail": "GeForce GTX 1050 with Max-Q Design",
-    "mark": 3887
+    "mark": 3900
   },
   {
     "nameDetail": "GRID M60-8Q",
@@ -1672,16 +1692,12 @@
     "mark": 3876
   },
   {
-    "nameDetail": "Intel Arc A310",
-    "mark": 3875
-  },
-  {
     "nameDetail": "Radeon Ryzen 5 6600HS Creator Edition",
     "mark": 3851
   },
   {
     "nameDetail": "Radeon HD 7850",
-    "mark": 3847
+    "mark": 3849
   },
   {
     "nameDetail": "Radeon HD 7970M",
@@ -1705,7 +1721,7 @@
   },
   {
     "nameDetail": "Radeon Pro WX 4100",
-    "mark": 3763
+    "mark": 3768
   },
   {
     "nameDetail": "Barco MXRT 7500",
@@ -1717,7 +1733,7 @@
   },
   {
     "nameDetail": "GeForce MX450",
-    "mark": 3724
+    "mark": 3725
   },
   {
     "nameDetail": "GeForce GTX 965M",
@@ -1732,32 +1748,32 @@
     "mark": 3685
   },
   {
-    "nameDetail": "Radeon Pro 560X",
-    "mark": 3677
+    "nameDetail": "T400 4GB",
+    "mark": 3684
   },
   {
-    "nameDetail": "T400 4GB",
-    "mark": 3672
+    "nameDetail": "Radeon Pro 560X",
+    "mark": 3677
   },
   {
     "nameDetail": "Radeon R9 M485X",
     "mark": 3660
   },
   {
+    "nameDetail": "Radeon Ryzen 5 PRO 6650U",
+    "mark": 3652
+  },
+  {
     "nameDetail": "T500",
-    "mark": 3643
+    "mark": 3648
   },
   {
     "nameDetail": "Radeon RX 560",
     "mark": 3636
   },
   {
-    "nameDetail": "Radeon Ryzen 5 PRO 6650U",
-    "mark": 3635
-  },
-  {
     "nameDetail": "T400",
-    "mark": 3628
+    "mark": 3617
   },
   {
     "nameDetail": "Radeon RX Vega M GL",
@@ -1765,7 +1781,7 @@
   },
   {
     "nameDetail": "Quadro P620",
-    "mark": 3583
+    "mark": 3584
   },
   {
     "nameDetail": "Ryzen 5 PRO 6650U with Radeon Graphics",
@@ -1781,7 +1797,7 @@
   },
   {
     "nameDetail": "Quadro K2200",
-    "mark": 3541
+    "mark": 3542
   },
   {
     "nameDetail": "Ryzen 5 7535U with Radeon Graphics",
@@ -1813,11 +1829,15 @@
   },
   {
     "nameDetail": "GeForce GTX 870M",
-    "mark": 3457
+    "mark": 3456
   },
   {
     "nameDetail": "Radeon Pro 460",
     "mark": 3452
+  },
+  {
+    "nameDetail": "Quadro M2000M",
+    "mark": 3451
   },
   {
     "nameDetail": "Radeon Ryzen 9 7900X 12-Core",
@@ -1826,10 +1846,6 @@
   {
     "nameDetail": "GRID T4-2Q",
     "mark": 3450
-  },
-  {
-    "nameDetail": "Quadro M2000M",
-    "mark": 3447
   },
   {
     "nameDetail": "Quadro K2200M",
@@ -1848,6 +1864,10 @@
     "mark": 3400
   },
   {
+    "nameDetail": "GeForce GTX 775M",
+    "mark": 3399
+  },
+  {
     "nameDetail": "GeForce GTX 960M",
     "mark": 3396
   },
@@ -1861,7 +1881,7 @@
   },
   {
     "nameDetail": "GeForce GTX 750",
-    "mark": 3358
+    "mark": 3355
   },
   {
     "nameDetail": "GRID P40-2B",
@@ -1881,11 +1901,7 @@
   },
   {
     "nameDetail": "GeForce GTX 650 Ti BOOST",
-    "mark": 3335
-  },
-  {
-    "nameDetail": "GeForce GTX 775M",
-    "mark": 3332
+    "mark": 3341
   },
   {
     "nameDetail": "Tesla C2050",
@@ -1896,12 +1912,12 @@
     "mark": 3281
   },
   {
-    "nameDetail": "GRID T4-4Q",
-    "mark": 3260
+    "nameDetail": "Quadro M1200",
+    "mark": 3271
   },
   {
-    "nameDetail": "Quadro M1200",
-    "mark": 3259
+    "nameDetail": "GRID T4-4Q",
+    "mark": 3260
   },
   {
     "nameDetail": "GeForce 770M",
@@ -1909,7 +1925,7 @@
   },
   {
     "nameDetail": "Quadro P600",
-    "mark": 3240
+    "mark": 3244
   },
   {
     "nameDetail": "Ryzen 5 6600U with Radeon Graphics",
@@ -1941,7 +1957,7 @@
   },
   {
     "nameDetail": "Radeon R7 260X",
-    "mark": 3157
+    "mark": 3159
   },
   {
     "nameDetail": "Radeon R9 M290X",
@@ -1977,19 +1993,19 @@
   },
   {
     "nameDetail": "Radeon R7 360",
-    "mark": 3065
+    "mark": 3066
   },
   {
     "nameDetail": "GeForce GTX 860M",
-    "mark": 3057
+    "mark": 3058
+  },
+  {
+    "nameDetail": "GeForce GTX 560 Ti",
+    "mark": 3031
   },
   {
     "nameDetail": "Radeon R9 360",
     "mark": 3031
-  },
-  {
-    "nameDetail": "GeForce GTX 560 Ti",
-    "mark": 3028
   },
   {
     "nameDetail": "Radeon HD 6990",
@@ -2017,23 +2033,23 @@
   },
   {
     "nameDetail": "Quadro M1000M",
-    "mark": 2927
+    "mark": 2928
   },
   {
     "nameDetail": "Tesla K20Xm",
     "mark": 2917
   },
   {
+    "nameDetail": "Ryzen 9 5900HX with Radeon Graphics",
+    "mark": 2913
+  },
+  {
     "nameDetail": "Radeon R7 260",
     "mark": 2891
   },
   {
-    "nameDetail": "Ryzen 9 5900HX with Radeon Graphics",
-    "mark": 2890
-  },
-  {
     "nameDetail": "Quadro K1200",
-    "mark": 2880
+    "mark": 2878
   },
   {
     "nameDetail": "Eng Sample: 100-000000261-50_Y",
@@ -2053,7 +2069,7 @@
   },
   {
     "nameDetail": "GeForce MX350",
-    "mark": 2835
+    "mark": 2836
   },
   {
     "nameDetail": "Radeon HD 6970",
@@ -2061,7 +2077,7 @@
   },
   {
     "nameDetail": "Quadro M620",
-    "mark": 2818
+    "mark": 2821
   },
   {
     "nameDetail": "FirePro 3D V9800",
@@ -2069,15 +2085,15 @@
   },
   {
     "nameDetail": "Ryzen 7 5700G with Radeon Graphics",
-    "mark": 2803
-  },
-  {
-    "nameDetail": "GeForce GTX 770M",
-    "mark": 2801
+    "mark": 2806
   },
   {
     "nameDetail": "FirePro W4300",
     "mark": 2792
+  },
+  {
+    "nameDetail": "GeForce GTX 770M",
+    "mark": 2787
   },
   {
     "nameDetail": "Radeon R9 M380",
@@ -2086,6 +2102,10 @@
   {
     "nameDetail": "Quadro K5000M",
     "mark": 2763
+  },
+  {
+    "nameDetail": "Custom GPU 0405",
+    "mark": 2754
   },
   {
     "nameDetail": "FirePro M6100 FireGL V",
@@ -2100,10 +2120,6 @@
     "mark": 2747
   },
   {
-    "nameDetail": "Custom GPU 0405",
-    "mark": 2742
-  },
-  {
     "nameDetail": "GRID K2",
     "mark": 2736
   },
@@ -2114,10 +2130,6 @@
   {
     "nameDetail": "FirePro V9800",
     "mark": 2726
-  },
-  {
-    "nameDetail": "Radeon Ryzen 7 PRO 7730U",
-    "mark": 2724
   },
   {
     "nameDetail": "Radeon Pro 450",
@@ -2132,28 +2144,28 @@
     "mark": 2702
   },
   {
-    "nameDetail": "Quadro K4000",
-    "mark": 2702
-  },
-  {
     "nameDetail": "Barco MXRT 5500",
     "mark": 2701
   },
   {
+    "nameDetail": "Quadro K4000",
+    "mark": 2701
+  },
+  {
     "nameDetail": "Radeon RX 550",
-    "mark": 2696
+    "mark": 2698
   },
   {
     "nameDetail": "Quadro 6000",
     "mark": 2695
   },
   {
-    "nameDetail": "GRID M10-2Q",
-    "mark": 2691
+    "nameDetail": "Radeon Ryzen 7 5800H",
+    "mark": 2692
   },
   {
-    "nameDetail": "Radeon Ryzen 7 5800H",
-    "mark": 2688
+    "nameDetail": "GRID M10-2Q",
+    "mark": 2691
   },
   {
     "nameDetail": "Radeon Ryzen 7 4700GE",
@@ -2161,7 +2173,7 @@
   },
   {
     "nameDetail": "Intel Iris Xe",
-    "mark": 2684
+    "mark": 2685
   },
   {
     "nameDetail": "GeForce GTX 465",
@@ -2174,6 +2186,10 @@
   {
     "nameDetail": "Radeon Eng Sample: 100-000000300-40_Y",
     "mark": 2670
+  },
+  {
+    "nameDetail": "Radeon Ryzen 7 PRO 7730U",
+    "mark": 2662
   },
   {
     "nameDetail": "Ryzen 7 5700GE with Radeon Graphics",
@@ -2200,16 +2216,12 @@
     "mark": 2631
   },
   {
-    "nameDetail": "Radeon Ryzen 7 PRO 4750G",
-    "mark": 2607
+    "nameDetail": "Radeon HD 8950",
+    "mark": 2622
   },
   {
     "nameDetail": "GRID M10-8Q",
     "mark": 2606
-  },
-  {
-    "nameDetail": "Radeon HD 8950",
-    "mark": 2602
   },
   {
     "nameDetail": "GRID T4-2B",
@@ -2220,20 +2232,28 @@
     "mark": 2601
   },
   {
-    "nameDetail": "GeForce GTX 950M",
-    "mark": 2596
+    "nameDetail": "Radeon Ryzen 7 PRO 4750G",
+    "mark": 2598
   },
   {
     "nameDetail": "Radeon Ryzen 7 4700G",
     "mark": 2596
   },
   {
+    "nameDetail": "GeForce GTX 950M",
+    "mark": 2594
+  },
+  {
+    "nameDetail": "Radeon Ryzen 9 4900H",
+    "mark": 2579
+  },
+  {
     "nameDetail": "Ryzen 5 5600G with Radeon Graphics",
     "mark": 2578
   },
   {
-    "nameDetail": "Radeon Ryzen 9 4900H",
-    "mark": 2577
+    "nameDetail": "GeForce GTX 950A",
+    "mark": 2568
   },
   {
     "nameDetail": "Ryzen 7 PRO 4750GE with Radeon Graphics",
@@ -2252,12 +2272,12 @@
     "mark": 2534
   },
   {
-    "nameDetail": "Radeon HD 6850 X2",
+    "nameDetail": "GeForce GTX 850M",
     "mark": 2534
   },
   {
-    "nameDetail": "GeForce GTX 850M",
-    "mark": 2533
+    "nameDetail": "Radeon HD 6850 X2",
+    "mark": 2534
   },
   {
     "nameDetail": "FireStream 9370",
@@ -2269,11 +2289,7 @@
   },
   {
     "nameDetail": "Radeon Ryzen 7 7700X 8-Core",
-    "mark": 2519
-  },
-  {
-    "nameDetail": "GeForce GTX 950A",
-    "mark": 2503
+    "mark": 2502
   },
   {
     "nameDetail": "Ryzen 5 PRO 5650G with Radeon Graphics",
@@ -2289,11 +2305,11 @@
   },
   {
     "nameDetail": "GeForce MX330",
-    "mark": 2477
+    "mark": 2475
   },
   {
     "nameDetail": "Radeon Pro WX 3100",
-    "mark": 2467
+    "mark": 2474
   },
   {
     "nameDetail": "Barco MXRT 5600",
@@ -2308,11 +2324,11 @@
     "mark": 2452
   },
   {
-    "nameDetail": "GeForce MX250",
-    "mark": 2445
+    "nameDetail": "Radeon Ryzen 7 7730U",
+    "mark": 2449
   },
   {
-    "nameDetail": "Radeon Ryzen 7 7730U",
+    "nameDetail": "GeForce MX250",
     "mark": 2441
   },
   {
@@ -2369,7 +2385,11 @@
   },
   {
     "nameDetail": "Radeon Ryzen 7 5800U",
-    "mark": 2378
+    "mark": 2385
+  },
+  {
+    "nameDetail": "Radeon Ryzen 7 5825U",
+    "mark": 2363
   },
   {
     "nameDetail": "GeForce GTX 485M",
@@ -2388,12 +2408,8 @@
     "mark": 2355
   },
   {
-    "nameDetail": "Radeon Ryzen 7 5825U",
-    "mark": 2353
-  },
-  {
     "nameDetail": "Radeon Pro",
-    "mark": 2346
+    "mark": 2344
   },
   {
     "nameDetail": "Ryzen 7 4800U with Radeon Graphics",
@@ -2436,16 +2452,16 @@
     "mark": 2297
   },
   {
-    "nameDetail": "Ryzen 7 PRO 5850U with Radeon Graphics",
+    "nameDetail": "Ryzen 3 PRO 5350G with Radeon Graphics",
     "mark": 2290
   },
   {
     "nameDetail": "Radeon Ryzen 7 4800U",
-    "mark": 2286
+    "mark": 2288
   },
   {
-    "nameDetail": "Ryzen 3 PRO 5350G with Radeon Graphics",
-    "mark": 2282
+    "nameDetail": "Ryzen 7 PRO 5850U with Radeon Graphics",
+    "mark": 2286
   },
   {
     "nameDetail": "FirePro V8800",
@@ -2453,22 +2469,18 @@
   },
   {
     "nameDetail": "GeForce MX150",
-    "mark": 2279
+    "mark": 2280
   },
   {
-    "nameDetail": "Radeon Ryzen 5 7530U",
-    "mark": 2279
-  },
-  {
-    "nameDetail": "Ryzen 5 4600H with Radeon Graphics",
-    "mark": 2278
-  },
-  {
-    "nameDetail": "Quadro K3100M",
-    "mark": 2276
+    "nameDetail": "Radeon Ryzen 5 PRO 5650GE",
+    "mark": 2273
   },
   {
     "nameDetail": "Radeon Ryzen 7 Microsoft Surface Edition",
+    "mark": 2273
+  },
+  {
+    "nameDetail": "Ryzen 5 4600H with Radeon Graphics",
     "mark": 2273
   },
   {
@@ -2484,6 +2496,10 @@
     "mark": 2267
   },
   {
+    "nameDetail": "Quadro K3100M",
+    "mark": 2264
+  },
+  {
     "nameDetail": "Intel HD 5600",
     "mark": 2263
   },
@@ -2492,19 +2508,15 @@
     "mark": 2256
   },
   {
-    "nameDetail": "Radeon Ryzen 5 PRO 5650GE",
-    "mark": 2253
-  },
-  {
     "nameDetail": "Radeon Ryzen 7 5700U",
-    "mark": 2253
+    "mark": 2255
   },
   {
-    "nameDetail": "Ryzen 3 4300GE with Radeon Graphics",
+    "nameDetail": "Radeon Ryzen 5 7530U",
     "mark": 2251
   },
   {
-    "nameDetail": "Ryzen 3 PRO 5350GE with Radeon Graphics",
+    "nameDetail": "Ryzen 3 4300GE with Radeon Graphics",
     "mark": 2251
   },
   {
@@ -2513,7 +2525,11 @@
   },
   {
     "nameDetail": "Quadro K620",
-    "mark": 2238
+    "mark": 2237
+  },
+  {
+    "nameDetail": "Ryzen 3 PRO 5350GE with Radeon Graphics",
+    "mark": 2232
   },
   {
     "nameDetail": "Intel Iris Pro P580",
@@ -2528,24 +2544,20 @@
     "mark": 2223
   },
   {
-    "nameDetail": "Radeon HD 5870",
-    "mark": 2220
-  },
-  {
     "nameDetail": "Radeon HD 6870",
-    "mark": 2217
+    "mark": 2215
   },
   {
     "nameDetail": "Ryzen 7 Extreme Edition",
     "mark": 2215
   },
   {
-    "nameDetail": "FirePro M6100",
-    "mark": 2206
+    "nameDetail": "Radeon HD 5870",
+    "mark": 2213
   },
   {
-    "nameDetail": "Radeon Ryzen 5 7600 6-Core",
-    "mark": 2192
+    "nameDetail": "FirePro M6100",
+    "mark": 2206
   },
   {
     "nameDetail": "Ryzen 7 4700G with Radeon Graphics",
@@ -2557,43 +2569,55 @@
   },
   {
     "nameDetail": "Radeon HD 7770",
-    "mark": 2169
+    "mark": 2171
   },
   {
     "nameDetail": "Radeon Ryzen 5 5625U",
-    "mark": 2155
+    "mark": 2162
+  },
+  {
+    "nameDetail": "Radeon Ryzen 5 7600 6-Core",
+    "mark": 2161
+  },
+  {
+    "nameDetail": "Radeon Ryzen 5 PRO 5650G",
+    "mark": 2158
   },
   {
     "nameDetail": "GeForce GTX 745",
-    "mark": 2152
-  },
-  {
-    "nameDetail": "Ryzen 3 Pro 4350G with Radeon Graphics",
-    "mark": 2150
+    "mark": 2148
   },
   {
     "nameDetail": "Quadro M600M",
     "mark": 2145
   },
   {
-    "nameDetail": "Radeon RX Vega 11",
-    "mark": 2126
+    "nameDetail": "Ryzen 3 Pro 4350G with Radeon Graphics",
+    "mark": 2144
+  },
+  {
+    "nameDetail": "Radeon RX Vega 11 Ryzen 5 3400G",
+    "mark": 2134
   },
   {
     "nameDetail": "Radeon Ryzen 3 PRO 7330U",
     "mark": 2126
   },
   {
-    "nameDetail": "Radeon Ryzen 5 5500U",
-    "mark": 2125
+    "nameDetail": "Radeon RX Vega 11",
+    "mark": 2124
   },
   {
-    "nameDetail": "Radeon RX Vega 11 Ryzen 5 3400G",
-    "mark": 2116
+    "nameDetail": "Radeon Ryzen 5 5500U",
+    "mark": 2122
   },
   {
     "nameDetail": "Ryzen 5 5560U with Radeon Graphics",
     "mark": 2114
+  },
+  {
+    "nameDetail": "Radeon Ryzen 7 PRO 5875U",
+    "mark": 2113
   },
   {
     "nameDetail": "Ryzen 7 4800H with Radeon Graphics",
@@ -2605,7 +2629,7 @@
   },
   {
     "nameDetail": "Quadro P520",
-    "mark": 2103
+    "mark": 2104
   },
   {
     "nameDetail": "FirePro M5100",
@@ -2613,14 +2637,10 @@
   },
   {
     "nameDetail": "Radeon Ryzen 5 Microsoft Surface Edition",
-    "mark": 2097
+    "mark": 2090
   },
   {
-    "nameDetail": "Radeon Ryzen 5 PRO 5650G",
-    "mark": 2088
-  },
-  {
-    "nameDetail": "Radeon Ryzen 5 PRO 4500U",
+    "nameDetail": "Ryzen 5 PRO 4650GE with Radeon Graphics",
     "mark": 2078
   },
   {
@@ -2628,16 +2648,12 @@
     "mark": 2074
   },
   {
-    "nameDetail": "Radeon Ryzen 7 PRO 5875U",
-    "mark": 2073
-  },
-  {
     "nameDetail": "GRID M6-1Q",
     "mark": 2069
   },
   {
     "nameDetail": "Radeon Ryzen 5 5600U",
-    "mark": 2069
+    "mark": 2067
   },
   {
     "nameDetail": "Ryzen 7 PRO 5875U with Radeon Graphics",
@@ -2646,10 +2662,6 @@
   {
     "nameDetail": "GeForce 945M",
     "mark": 2063
-  },
-  {
-    "nameDetail": "Ryzen 5 PRO 4650GE with Radeon Graphics",
-    "mark": 2061
   },
   {
     "nameDetail": "Quadro 5000M",
@@ -2661,19 +2673,19 @@
   },
   {
     "nameDetail": "Radeon Ryzen 7 4700U",
-    "mark": 2050
-  },
-  {
-    "nameDetail": "Ryzen 5 PRO 5650U with Radeon Graphics",
-    "mark": 2037
+    "mark": 2051
   },
   {
     "nameDetail": "Radeon Ryzen 7 PRO 4750U",
-    "mark": 2036
+    "mark": 2034
   },
   {
     "nameDetail": "Ryzen 7 4700U with Radeon Graphics",
     "mark": 2034
+  },
+  {
+    "nameDetail": "Ryzen 5 PRO 5650U with Radeon Graphics",
+    "mark": 2029
   },
   {
     "nameDetail": "Ryzen 7 PRO 4750U with Radeon Graphics",
@@ -2708,10 +2720,6 @@
     "mark": 2007
   },
   {
-    "nameDetail": "Radeon Vega 8 Ryzen 3 3200G",
-    "mark": 2006
-  },
-  {
     "nameDetail": "GeForce GT 645",
     "mark": 2005
   },
@@ -2721,7 +2729,7 @@
   },
   {
     "nameDetail": "GeForce GTX 765M",
-    "mark": 1995
+    "mark": 1997
   },
   {
     "nameDetail": "Radeon R9 M385X",
@@ -2733,7 +2741,7 @@
   },
   {
     "nameDetail": "Intel Iris Pro 580",
-    "mark": 1988
+    "mark": 1987
   },
   {
     "nameDetail": "Ryzen 3 PRO 7330U with Radeon Graphics",
@@ -2749,6 +2757,10 @@
   },
   {
     "nameDetail": "Radeon HD 5850",
+    "mark": 1978
+  },
+  {
+    "nameDetail": "Radeon Vega 8 Ryzen 3 3200G",
     "mark": 1978
   },
   {
@@ -2773,7 +2785,7 @@
   },
   {
     "nameDetail": "Radeon R7 450",
-    "mark": 1947
+    "mark": 1949
   },
   {
     "nameDetail": "Ryzen 3 5300G with Radeon Graphics",
@@ -2812,16 +2824,16 @@
     "mark": 1914
   },
   {
+    "nameDetail": "Qualcomm Adreno 8cx Gen 3",
+    "mark": 1907
+  },
+  {
     "nameDetail": "Matrox C680 PCIe x16",
     "mark": 1903
   },
   {
     "nameDetail": "Ryzen 3 4300G with Radeon Graphics",
     "mark": 1900
-  },
-  {
-    "nameDetail": "Qualcomm Adreno 8cx Gen 3",
-    "mark": 1899
   },
   {
     "nameDetail": "Radeon HD 7700-serie",
@@ -2836,12 +2848,12 @@
     "mark": 1892
   },
   {
-    "nameDetail": "GeForce GTX 645",
+    "nameDetail": "Radeon Pro WX 4130",
     "mark": 1877
   },
   {
-    "nameDetail": "Radeon Pro WX 4130",
-    "mark": 1877
+    "nameDetail": "Ryzen 3 PRO 4350GE with Radeon Graphics",
+    "mark": 1875
   },
   {
     "nameDetail": "GeForce GTX 570M",
@@ -2860,6 +2872,14 @@
     "mark": 1867
   },
   {
+    "nameDetail": "Quadro K4000M",
+    "mark": 1867
+  },
+  {
+    "nameDetail": "GeForce GTX 645",
+    "mark": 1866
+  },
+  {
     "nameDetail": "Radeon RX 640",
     "mark": 1865
   },
@@ -2868,16 +2888,12 @@
     "mark": 1863
   },
   {
-    "nameDetail": "GeForce MX130",
-    "mark": 1862
-  },
-  {
     "nameDetail": "Radeon Eng Sample: 100-000000287-40_Y",
     "mark": 1861
   },
   {
-    "nameDetail": "Quadro K4000M",
-    "mark": 1860
+    "nameDetail": "GeForce MX130",
+    "mark": 1859
   },
   {
     "nameDetail": "Radeon R9 M385",
@@ -2901,19 +2917,11 @@
   },
   {
     "nameDetail": "GeForce MX230",
-    "mark": 1835
+    "mark": 1836
   },
   {
     "nameDetail": "Radeon HD 8570D + HD 7700 Dual",
     "mark": 1834
-  },
-  {
-    "nameDetail": "Ryzen 3 PRO 4350GE with Radeon Graphics",
-    "mark": 1834
-  },
-  {
-    "nameDetail": "Intel Iris Plus",
-    "mark": 1826
   },
   {
     "nameDetail": "MxGPU",
@@ -2921,11 +2929,11 @@
   },
   {
     "nameDetail": "Radeon Vega 11",
-    "mark": 1825
+    "mark": 1826
   },
   {
-    "nameDetail": "Radeon Ryzen 5 PRO 5675U",
-    "mark": 1822
+    "nameDetail": "Intel Iris Plus",
+    "mark": 1824
   },
   {
     "nameDetail": "FirePro M6000",
@@ -2937,6 +2945,10 @@
   },
   {
     "nameDetail": "Intel UHD Graphics 770",
+    "mark": 1819
+  },
+  {
+    "nameDetail": "Radeon Ryzen 5 PRO 5675U",
     "mark": 1816
   },
   {
@@ -2976,10 +2988,6 @@
     "mark": 1779
   },
   {
-    "nameDetail": "Radeon RX Vega 10 Ryzen 5 3500U",
-    "mark": 1778
-  },
-  {
     "nameDetail": "Quadro 5010M",
     "mark": 1771
   },
@@ -2992,24 +3000,20 @@
     "mark": 1766
   },
   {
-    "nameDetail": "Firepro W5170M",
-    "mark": 1763
-  },
-  {
     "nameDetail": "Ryzen 3 7330U with Radeon Graphics",
     "mark": 1758
-  },
-  {
-    "nameDetail": "GeForce GTX 650",
-    "mark": 1754
   },
   {
     "nameDetail": "FirePro M6000 Mobility Pro",
     "mark": 1750
   },
   {
+    "nameDetail": "GeForce GTX 650",
+    "mark": 1750
+  },
+  {
     "nameDetail": "Intel Iris Plus 655",
-    "mark": 1749
+    "mark": 1748
   },
   {
     "nameDetail": "Ryzen 3 PRO 4200GE with Radeon Graphics",
@@ -3036,6 +3040,10 @@
     "mark": 1728
   },
   {
+    "nameDetail": "Firepro W5170M",
+    "mark": 1727
+  },
+  {
     "nameDetail": "Intel Iris Plus 645",
     "mark": 1727
   },
@@ -3048,11 +3056,11 @@
     "mark": 1726
   },
   {
-    "nameDetail": "Radeon 550",
-    "mark": 1723
+    "nameDetail": "Radeon Ryzen 5 7600X 6-Core",
+    "mark": 1724
   },
   {
-    "nameDetail": "Radeon Ryzen 5 7600X 6-Core",
+    "nameDetail": "Radeon 550",
     "mark": 1723
   },
   {
@@ -3061,7 +3069,7 @@
   },
   {
     "nameDetail": "Ryzen 5 PRO 4650U with Radeon Graphics",
-    "mark": 1714
+    "mark": 1712
   },
   {
     "nameDetail": "Radeon Vega 8 Ryzen 3 PRO 3200G",
@@ -3069,7 +3077,7 @@
   },
   {
     "nameDetail": "Radeon HD 6900M",
-    "mark": 1707
+    "mark": 1709
   },
   {
     "nameDetail": "Radeon Ryzen 7 7800X3D 8-Core",
@@ -3077,11 +3085,11 @@
   },
   {
     "nameDetail": "Radeon HD 7750",
-    "mark": 1700
+    "mark": 1701
   },
   {
     "nameDetail": "GeForce GTX 760M",
-    "mark": 1691
+    "mark": 1696
   },
   {
     "nameDetail": "Radeon E8860",
@@ -3089,7 +3097,7 @@
   },
   {
     "nameDetail": "Radeon RX Vega 10 Ryzen 7 3750H",
-    "mark": 1684
+    "mark": 1686
   },
   {
     "nameDetail": "PCI\\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C2 Ryzen",
@@ -3100,10 +3108,6 @@
     "mark": 1677
   },
   {
-    "nameDetail": "GeForce GT 755M",
-    "mark": 1669
-  },
-  {
     "nameDetail": "Radeon R7 M380",
     "mark": 1668
   },
@@ -3112,16 +3116,20 @@
     "mark": 1665
   },
   {
+    "nameDetail": "GeForce GT 755M",
+    "mark": 1654
+  },
+  {
     "nameDetail": "Radeon HD HD7850M",
     "mark": 1651
   },
   {
     "nameDetail": "Radeon RX Vega 10",
-    "mark": 1651
+    "mark": 1649
   },
   {
     "nameDetail": "Intel UHD Graphics 730",
-    "mark": 1646
+    "mark": 1644
   },
   {
     "nameDetail": "FirePro W600",
@@ -3164,12 +3172,12 @@
     "mark": 1610
   },
   {
-    "nameDetail": "Radeon Vega 10 Ryzen 7 PRO 3700U w/",
-    "mark": 1606
-  },
-  {
     "nameDetail": "Radeon RX Vega11",
     "mark": 1605
+  },
+  {
+    "nameDetail": "Radeon Ryzen 3 5425U",
+    "mark": 1603
   },
   {
     "nameDetail": "Seria Radeon HD 7700",
@@ -3180,16 +3188,16 @@
     "mark": 1601
   },
   {
+    "nameDetail": "Radeon Vega 10 Ryzen 7 PRO 3700U w/",
+    "mark": 1601
+  },
+  {
     "nameDetail": "Ryzen 3 PRO 5450U with Radeon Graphics",
     "mark": 1601
   },
   {
     "nameDetail": "Quadro P400",
     "mark": 1596
-  },
-  {
-    "nameDetail": "Radeon Ryzen 3 5425U",
-    "mark": 1585
   },
   {
     "nameDetail": "Radeon Vega 8",
@@ -3225,19 +3233,19 @@
   },
   {
     "nameDetail": "Quadro K2000",
-    "mark": 1562
+    "mark": 1566
   },
   {
     "nameDetail": "Radeon Vega 10",
     "mark": 1560
   },
   {
-    "nameDetail": "Quadro P500",
+    "nameDetail": "Radeon HD 7560D + HD 6670 Dual",
     "mark": 1554
   },
   {
-    "nameDetail": "Radeon HD 7560D + HD 6670 Dual",
-    "mark": 1554
+    "nameDetail": "Quadro P500",
+    "mark": 1552
   },
   {
     "nameDetail": "FirePro W4100",
@@ -3256,10 +3264,6 @@
     "mark": 1542
   },
   {
-    "nameDetail": "Radeon Ryzen 9 7950X3D 16-Core",
-    "mark": 1540
-  },
-  {
     "nameDetail": "FirePro V8700",
     "mark": 1538
   },
@@ -3276,6 +3280,10 @@
     "mark": 1533
   },
   {
+    "nameDetail": "Radeon Ryzen 3 5300U",
+    "mark": 1517
+  },
+  {
     "nameDetail": "GeForce GTX 285",
     "mark": 1515
   },
@@ -3284,16 +3292,12 @@
     "mark": 1515
   },
   {
-    "nameDetail": "Radeon Ryzen 3 5300U",
-    "mark": 1515
-  },
-  {
     "nameDetail": "Radeon HD 4890",
-    "mark": 1512
+    "mark": 1514
   },
   {
     "nameDetail": "GeForce 940MX",
-    "mark": 1510
+    "mark": 1509
   },
   {
     "nameDetail": "Radeon HD 7870M",
@@ -3312,20 +3316,24 @@
     "mark": 1503
   },
   {
-    "nameDetail": "GeForce GT 740",
-    "mark": 1494
+    "nameDetail": "Radeon R9 M370X",
+    "mark": 1497
   },
   {
-    "nameDetail": "Radeon R9 M370X",
+    "nameDetail": "Radeon Ryzen 9 7950X3D 16-Core",
+    "mark": 1497
+  },
+  {
+    "nameDetail": "Radeon RX Vega 10 Ryzen 7 3700U",
+    "mark": 1495
+  },
+  {
+    "nameDetail": "GeForce GT 740",
     "mark": 1493
   },
   {
     "nameDetail": "Radeon HD 6670 + 7660D Dual",
     "mark": 1492
-  },
-  {
-    "nameDetail": "Radeon RX Vega 10 Ryzen 7 3700U",
-    "mark": 1487
   },
   {
     "nameDetail": "Radeon Ryzen 7 PRO 7745 8-Core",
@@ -3369,7 +3377,15 @@
   },
   {
     "nameDetail": "GeForce MX110",
-    "mark": 1452
+    "mark": 1453
+  },
+  {
+    "nameDetail": "Intel Iris Pro Graphics 6200",
+    "mark": 1443
+  },
+  {
+    "nameDetail": "GeForce GTX 660M",
+    "mark": 1441
   },
   {
     "nameDetail": "Ryzen 5 PRO 4400GE with Radeon Graphics",
@@ -3378,14 +3394,6 @@
   {
     "nameDetail": "Radeon Eng Sample: 100-000000085-40_35/24_Y",
     "mark": 1440
-  },
-  {
-    "nameDetail": "GeForce GTX 660M",
-    "mark": 1438
-  },
-  {
-    "nameDetail": "Intel Iris Pro Graphics 6200",
-    "mark": 1438
   },
   {
     "nameDetail": "Radeon HD 8470D + HD 6670 Dual",
@@ -3432,19 +3440,19 @@
     "mark": 1409
   },
   {
+    "nameDetail": "Intel Iris 550",
+    "mark": 1401
+  },
+  {
     "nameDetail": "Radeon Ryzen 7 3700U",
     "mark": 1400
   },
   {
-    "nameDetail": "Intel Iris 550",
-    "mark": 1399
+    "nameDetail": "Radeon HD 4870",
+    "mark": 1396
   },
   {
     "nameDetail": "Radeon Vega 8 Ryzen 5 3500U",
-    "mark": 1397
-  },
-  {
-    "nameDetail": "Radeon HD 4870",
     "mark": 1396
   },
   {
@@ -3464,6 +3472,10 @@
     "mark": 1372
   },
   {
+    "nameDetail": "Radeon Vega 8 Ryzen 5 PRO 3500U w/",
+    "mark": 1370
+  },
+  {
     "nameDetail": "FirePro M40003",
     "mark": 1364
   },
@@ -3473,19 +3485,15 @@
   },
   {
     "nameDetail": "Quadro K2100M",
-    "mark": 1355
+    "mark": 1356
+  },
+  {
+    "nameDetail": "Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition",
+    "mark": 1356
   },
   {
     "nameDetail": "Radeon 540",
     "mark": 1352
-  },
-  {
-    "nameDetail": "Radeon Vega 8 Ryzen 5 PRO 3500U w/",
-    "mark": 1350
-  },
-  {
-    "nameDetail": "Intel Iris Plus 640",
-    "mark": 1347
   },
   {
     "nameDetail": "Radeon HD 7560D + HD 7700 Dual",
@@ -3496,16 +3504,20 @@
     "mark": 1344
   },
   {
+    "nameDetail": "Intel Iris Plus 640",
+    "mark": 1343
+  },
+  {
     "nameDetail": "FireStream 9270",
     "mark": 1341
   },
   {
     "nameDetail": "Ryzen 3 4300U with Radeon Graphics",
-    "mark": 1338
+    "mark": 1339
   },
   {
-    "nameDetail": "Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition",
-    "mark": 1329
+    "nameDetail": "GeForce 930A",
+    "mark": 1325
   },
   {
     "nameDetail": "Radeon RX Vega 10 Ryzen 7 PRO 3700U w/",
@@ -3513,7 +3525,7 @@
   },
   {
     "nameDetail": "GeForce GTS 450",
-    "mark": 1322
+    "mark": 1318
   },
   {
     "nameDetail": "Radeon HD 8670D + HD 7600 Dual",
@@ -3537,7 +3549,7 @@
   },
   {
     "nameDetail": "Radeon Vega 6",
-    "mark": 1306
+    "mark": 1308
   },
   {
     "nameDetail": "Radeon HD 8790M",
@@ -3549,7 +3561,7 @@
   },
   {
     "nameDetail": "GeForce GT 750M",
-    "mark": 1302
+    "mark": 1304
   },
   {
     "nameDetail": "TENSOR 1.0 Driver Intel HD 630",
@@ -3570,6 +3582,10 @@
   {
     "nameDetail": "Radeon R7 A370",
     "mark": 1281
+  },
+  {
+    "nameDetail": "RadeonT 610M",
+    "mark": 1277
   },
   {
     "nameDetail": "FirePro 3D V8750",
@@ -3593,11 +3609,15 @@
   },
   {
     "nameDetail": "Intel UHD Graphics 630",
-    "mark": 1255
+    "mark": 1256
   },
   {
     "nameDetail": "Intel Iris 540",
     "mark": 1250
+  },
+  {
+    "nameDetail": "Radeon 610M",
+    "mark": 1249
   },
   {
     "nameDetail": "Radeon 630",
@@ -3641,19 +3661,19 @@
   },
   {
     "nameDetail": "GeForce GTX 260",
-    "mark": 1230
+    "mark": 1229
   },
   {
     "nameDetail": "GeForce GTX 760A",
     "mark": 1226
   },
   {
-    "nameDetail": "Radeon HD 8670D + HD 6670 Dual",
+    "nameDetail": "GeForce GTX 560M",
     "mark": 1221
   },
   {
-    "nameDetail": "GeForce GTX 560M",
-    "mark": 1219
+    "nameDetail": "Radeon HD 8670D + HD 6670 Dual",
+    "mark": 1221
   },
   {
     "nameDetail": "Radeon HD 7730",
@@ -3673,7 +3693,7 @@
   },
   {
     "nameDetail": "GeForce GT 650M",
-    "mark": 1206
+    "mark": 1205
   },
   {
     "nameDetail": "N16P-GX",
@@ -3697,11 +3717,11 @@
   },
   {
     "nameDetail": "Radeon Vega 8 Ryzen 5 3450U",
-    "mark": 1198
+    "mark": 1200
   },
   {
     "nameDetail": "GeForce GPU",
-    "mark": 1197
+    "mark": 1196
   },
   {
     "nameDetail": "Radeon HD 7750M",
@@ -3730,10 +3750,6 @@
   {
     "nameDetail": "Radeon R7 Opteron X3421",
     "mark": 1168
-  },
-  {
-    "nameDetail": "GeForce 930A",
-    "mark": 1167
   },
   {
     "nameDetail": "Quadro M500M",
@@ -3768,12 +3784,12 @@
     "mark": 1161
   },
   {
-    "nameDetail": "Intel HD P630",
-    "mark": 1160
-  },
-  {
     "nameDetail": "Intel Coffee Lake UHD",
     "mark": 1158
+  },
+  {
+    "nameDetail": "Intel HD P630",
+    "mark": 1157
   },
   {
     "nameDetail": "Intel HD P530",
@@ -3782,10 +3798,6 @@
   {
     "nameDetail": "Radeon R7 M465",
     "mark": 1150
-  },
-  {
-    "nameDetail": "Radeon R7 A10-7870K",
-    "mark": 1145
   },
   {
     "nameDetail": "GeForce 940A",
@@ -3800,6 +3812,10 @@
     "mark": 1138
   },
   {
+    "nameDetail": "Radeon R7 A10-7870K",
+    "mark": 1137
+  },
+  {
     "nameDetail": "Radeon R7 A10-9700E RADEON",
     "mark": 1137
   },
@@ -3810,10 +3826,6 @@
   {
     "nameDetail": "Radeon HD 7560D + 6670 Dual",
     "mark": 1130
-  },
-  {
-    "nameDetail": "Radeon R7 + R7 200 Dual",
-    "mark": 1128
   },
   {
     "nameDetail": "Radeon HD 8650G + 7700M Dual",
@@ -3832,6 +3844,10 @@
     "mark": 1118
   },
   {
+    "nameDetail": "Radeon Ryzen 5 3450U",
+    "mark": 1116
+  },
+  {
     "nameDetail": "GeForce 940M",
     "mark": 1115
   },
@@ -3848,8 +3864,8 @@
     "mark": 1112
   },
   {
-    "nameDetail": "Intel UHD Graphics 710",
-    "mark": 1101
+    "nameDetail": "Radeon R7 M460",
+    "mark": 1106
   },
   {
     "nameDetail": "Quadro 2100M",
@@ -3858,10 +3874,6 @@
   {
     "nameDetail": "Radeon HD 7660D + 6570 Dual",
     "mark": 1100
-  },
-  {
-    "nameDetail": "Radeon R7 M460",
-    "mark": 1099
   },
   {
     "nameDetail": "GeForce GT 545",
@@ -3876,6 +3888,10 @@
     "mark": 1096
   },
   {
+    "nameDetail": "Intel UHD Graphics 710",
+    "mark": 1093
+  },
+  {
     "nameDetail": "GeForce GTX 850M - MODDED",
     "mark": 1091
   },
@@ -3884,16 +3900,20 @@
     "mark": 1091
   },
   {
-    "nameDetail": "Radeon R7 250",
+    "nameDetail": "GeForce GT 745M",
     "mark": 1090
   },
   {
-    "nameDetail": "GeForce GT 745M",
+    "nameDetail": "Radeon R7 250",
     "mark": 1088
   },
   {
     "nameDetail": "GeForce 920MX",
-    "mark": 1084
+    "mark": 1086
+  },
+  {
+    "nameDetail": "Quadro K1100M",
+    "mark": 1081
   },
   {
     "nameDetail": "GeForce 840M",
@@ -3908,8 +3928,12 @@
     "mark": 1079
   },
   {
-    "nameDetail": "Quadro K1100M",
-    "mark": 1079
+    "nameDetail": "Radeon R7 + R7 200 Dual",
+    "mark": 1077
+  },
+  {
+    "nameDetail": "Radeon R9 M265X",
+    "mark": 1074
   },
   {
     "nameDetail": "Radeon 535",
@@ -3920,15 +3944,15 @@
     "mark": 1070
   },
   {
-    "nameDetail": "Radeon R9 M265X",
-    "mark": 1065
-  },
-  {
     "nameDetail": "Radeon HD 7660D + 7670 Dual",
     "mark": 1061
   },
   {
     "nameDetail": "Radeon HD 7520G + 7700M Dual",
+    "mark": 1060
+  },
+  {
+    "nameDetail": "Radeon Ryzen Embedded R2514",
     "mark": 1060
   },
   {
@@ -3956,12 +3980,12 @@
     "mark": 1047
   },
   {
-    "nameDetail": "Radeon R7 340",
+    "nameDetail": "Radeon R7 + R7 240 Dual",
     "mark": 1045
   },
   {
-    "nameDetail": "Radeon R7 + R7 240 Dual",
-    "mark": 1045
+    "nameDetail": "Radeon Vega 3 Athlon 300GE",
+    "mark": 1044
   },
   {
     "nameDetail": "Radeon HD 8570D + 6670 Dual",
@@ -3969,7 +3993,7 @@
   },
   {
     "nameDetail": "Intel UHD Graphics 620",
-    "mark": 1037
+    "mark": 1038
   },
   {
     "nameDetail": "Radeon HD 8570D + HD 8570 Dual",
@@ -3988,12 +4012,16 @@
     "mark": 1028
   },
   {
-    "nameDetail": "Radeon Vega 3 Mobile",
-    "mark": 1025
+    "nameDetail": "Radeon HD 6750",
+    "mark": 1027
   },
   {
-    "nameDetail": "Radeon HD 6750",
-    "mark": 1024
+    "nameDetail": "Radeon R7 340",
+    "mark": 1027
+  },
+  {
+    "nameDetail": "Radeon Vega 3 Mobile",
+    "mark": 1025
   },
   {
     "nameDetail": "FirePro W4170M",
@@ -4004,16 +4032,16 @@
     "mark": 1020
   },
   {
-    "nameDetail": "Quadro 3000M",
-    "mark": 1017
-  },
-  {
     "nameDetail": "Quadro K2000M",
     "mark": 1017
   },
   {
     "nameDetail": "Radeon HD 6700M",
     "mark": 1016
+  },
+  {
+    "nameDetail": "Quadro 3000M",
+    "mark": 1015
   },
   {
     "nameDetail": "GeForce 930M",
@@ -4056,12 +4084,12 @@
     "mark": 999
   },
   {
-    "nameDetail": "Radeon HD 7640G + HD 8750M Dual",
+    "nameDetail": "Intel HD 530",
     "mark": 996
   },
   {
-    "nameDetail": "Intel HD 530",
-    "mark": 995
+    "nameDetail": "Radeon HD 7640G + HD 8750M Dual",
+    "mark": 996
   },
   {
     "nameDetail": "Radeon R7 A265",
@@ -4152,16 +4180,12 @@
     "mark": 962
   },
   {
+    "nameDetail": "Radeon HD 8750M",
+    "mark": 957
+  },
+  {
     "nameDetail": "Radeon R6 Opteron X3418",
     "mark": 955
-  },
-  {
-    "nameDetail": "Radeon HD 8750M",
-    "mark": 954
-  },
-  {
-    "nameDetail": "Radeon R7 M445",
-    "mark": 954
   },
   {
     "nameDetail": "Radeon HD 8570 + HD 7660D Dual",
@@ -4172,15 +4196,11 @@
     "mark": 949
   },
   {
-    "nameDetail": "Radeon Ryzen 5 3450U",
-    "mark": 949
+    "nameDetail": "Quadro CX",
+    "mark": 947
   },
   {
     "nameDetail": "Radeon R5 430",
-    "mark": 948
-  },
-  {
-    "nameDetail": "Quadro CX",
     "mark": 947
   },
   {
@@ -4197,7 +4217,7 @@
   },
   {
     "nameDetail": "Quadro 2000",
-    "mark": 943
+    "mark": 942
   },
   {
     "nameDetail": "Radeon HD 7660D + R7 240 Dual",
@@ -4208,8 +4228,12 @@
     "mark": 940
   },
   {
-    "nameDetail": "Radeon HD 4850",
-    "mark": 937
+    "nameDetail": "Radeon R9 M375",
+    "mark": 940
+  },
+  {
+    "nameDetail": "Radeon R7 M445",
+    "mark": 939
   },
   {
     "nameDetail": "Radeon HD 6750M",
@@ -4224,8 +4248,8 @@
     "mark": 935
   },
   {
-    "nameDetail": "Radeon R9 M375",
-    "mark": 935
+    "nameDetail": "Radeon HD 4850",
+    "mark": 933
   },
   {
     "nameDetail": "Radeon R7 PRO A12-9800",
@@ -4244,16 +4268,16 @@
     "mark": 928
   },
   {
-    "nameDetail": "Radeon R7 A10-9700 RADEON",
-    "mark": 928
-  },
-  {
     "nameDetail": "Intel HD Graphics 620",
     "mark": 927
   },
   {
     "nameDetail": "Intel Iris Pro 6100",
     "mark": 925
+  },
+  {
+    "nameDetail": "Radeon R7 A10-9700 RADEON",
+    "mark": 922
   },
   {
     "nameDetail": "GeForce GT 645M",
@@ -4340,10 +4364,6 @@
     "mark": 892
   },
   {
-    "nameDetail": "Radeon R7 A10-8750",
-    "mark": 892
-  },
-  {
     "nameDetail": "FirePro W2100",
     "mark": 891
   },
@@ -4404,16 +4424,20 @@
     "mark": 862
   },
   {
+    "nameDetail": "Radeon Vega 3 Athlon 300U",
+    "mark": 861
+  },
+  {
     "nameDetail": "Intel HD 6000",
     "mark": 859
   },
   {
-    "nameDetail": "Radeon R7 PRO A12-8870",
+    "nameDetail": "Radeon 520",
     "mark": 857
   },
   {
-    "nameDetail": "Radeon 520",
-    "mark": 855
+    "nameDetail": "Radeon R7 PRO A12-8870",
+    "mark": 857
   },
   {
     "nameDetail": "Radeon HD 8550G + HD 7600M Dual",
@@ -4432,15 +4456,15 @@
     "mark": 853
   },
   {
+    "nameDetail": "Radeon R7 A10-8750",
+    "mark": 853
+  },
+  {
     "nameDetail": "Radeon HD 8500M/8700M",
     "mark": 852
   },
   {
     "nameDetail": "GeForce 920A",
-    "mark": 849
-  },
-  {
-    "nameDetail": "Radeon Vega 3 Athlon 300U",
     "mark": 849
   },
   {
@@ -4450,10 +4474,6 @@
   {
     "nameDetail": "Radeon R5 PRO A6-8570 2C+6G",
     "mark": 847
-  },
-  {
-    "nameDetail": "Radeon HD 4830",
-    "mark": 845
   },
   {
     "nameDetail": "Radeon Vega 3 Athlon Silver 3050U",
@@ -4492,7 +4512,15 @@
     "mark": 836
   },
   {
+    "nameDetail": "Radeon HD 4830",
+    "mark": 835
+  },
+  {
     "nameDetail": "Radeon HD 6650A",
+    "mark": 835
+  },
+  {
+    "nameDetail": "Radeon R7 A10 PRO-7800B",
     "mark": 835
   },
   {
@@ -4500,15 +4528,7 @@
     "mark": 834
   },
   {
-    "nameDetail": "Radeon Vega 3 Ryzen 3 3250U",
-    "mark": 834
-  },
-  {
     "nameDetail": "Radeon HD 7560D + 6570 Dual",
-    "mark": 833
-  },
-  {
-    "nameDetail": "Radeon Vega 3 Ryzen 3 3200U",
     "mark": 833
   },
   {
@@ -4528,6 +4548,10 @@
     "mark": 831
   },
   {
+    "nameDetail": "Radeon Vega 3 Ryzen 3 3200U",
+    "mark": 831
+  },
+  {
     "nameDetail": "Intel HD 5200",
     "mark": 830
   },
@@ -4537,7 +4561,7 @@
   },
   {
     "nameDetail": "GeForce GT 730",
-    "mark": 825
+    "mark": 826
   },
   {
     "nameDetail": "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C",
@@ -4584,11 +4608,15 @@
     "mark": 816
   },
   {
-    "nameDetail": "Radeon R7 A10 PRO-7800B",
-    "mark": 815
+    "nameDetail": "Radeon R7 PRO A10-8770E",
+    "mark": 813
   },
   {
     "nameDetail": "Radeon R9 M280X",
+    "mark": 813
+  },
+  {
+    "nameDetail": "Radeon Vega 3 Ryzen 3 3250U",
     "mark": 813
   },
   {
@@ -4601,11 +4629,7 @@
   },
   {
     "nameDetail": "Radeon R7 PRO A10-9700",
-    "mark": 804
-  },
-  {
-    "nameDetail": "Radeon R7 PRO A10-8770E",
-    "mark": 803
+    "mark": 806
   },
   {
     "nameDetail": "Radeon HD 8550G + 8600/8700M Dual",
@@ -4652,11 +4676,11 @@
     "mark": 792
   },
   {
-    "nameDetail": "Quadro K1000M",
-    "mark": 790
+    "nameDetail": "GeForce GT 740M",
+    "mark": 789
   },
   {
-    "nameDetail": "GeForce GT 740M",
+    "nameDetail": "Quadro K1000M",
     "mark": 789
   },
   {
@@ -4664,20 +4688,16 @@
     "mark": 787
   },
   {
+    "nameDetail": "Quadro 2000M",
+    "mark": 786
+  },
+  {
     "nameDetail": "Radeon HD 8650G + 8750M Dual",
     "mark": 786
   },
   {
-    "nameDetail": "Radeon Vega 3 Ryzen Embedded R1505G",
-    "mark": 784
-  },
-  {
     "nameDetail": "GeForce 825M",
     "mark": 783
-  },
-  {
-    "nameDetail": "Quadro 2000M",
-    "mark": 781
   },
   {
     "nameDetail": "Radeon R7 A365",
@@ -4688,11 +4708,15 @@
     "mark": 781
   },
   {
-    "nameDetail": "Radeon R7 A8-7600",
-    "mark": 779
+    "nameDetail": "Radeon RX Vega 6 Ryzen 3 3200U",
+    "mark": 780
   },
   {
     "nameDetail": "Radeon HD 8650G + HD 8750M Dual",
+    "mark": 778
+  },
+  {
+    "nameDetail": "Radeon R7 A8-7600",
     "mark": 778
   },
   {
@@ -4705,7 +4729,7 @@
   },
   {
     "nameDetail": "GeForce GT 440",
-    "mark": 775
+    "mark": 776
   },
   {
     "nameDetail": "Radeon HD 7640G + 7500M/7600M Dual",
@@ -4741,6 +4765,10 @@
   },
   {
     "nameDetail": "Radeon HD 4810",
+    "mark": 769
+  },
+  {
+    "nameDetail": "Radeon Vega 3 Ryzen Embedded R1505G",
     "mark": 769
   },
   {
@@ -4796,12 +4824,12 @@
     "mark": 755
   },
   {
-    "nameDetail": "Quadro K600",
+    "nameDetail": "Radeon HD 7640G + 7450M Dual",
     "mark": 754
   },
   {
-    "nameDetail": "Radeon HD 7640G + 7450M Dual",
-    "mark": 754
+    "nameDetail": "Quadro K600",
+    "mark": 753
   },
   {
     "nameDetail": "Radeon HD 8570D + HD 7000 Dual",
@@ -4809,10 +4837,6 @@
   },
   {
     "nameDetail": "IncrediblE HD 4600",
-    "mark": 749
-  },
-  {
-    "nameDetail": "Intel Iris 5100",
     "mark": 749
   },
   {
@@ -4836,11 +4860,11 @@
     "mark": 746
   },
   {
-    "nameDetail": "Radeon HD 7660G + 7610M Dual",
+    "nameDetail": "Intel Iris 5100",
     "mark": 745
   },
   {
-    "nameDetail": "Radeon R7 A12-9720P RADEON",
+    "nameDetail": "Radeon HD 7660G + 7610M Dual",
     "mark": 745
   },
   {
@@ -4856,12 +4880,20 @@
     "mark": 743
   },
   {
+    "nameDetail": "Radeon R7 A12-9720P RADEON",
+    "mark": 743
+  },
+  {
     "nameDetail": "GeForce GT 730A",
     "mark": 742
   },
   {
     "nameDetail": "Radeon HD 8650G + 7600M Dual",
     "mark": 741
+  },
+  {
+    "nameDetail": "Radeon R7 A12-9700P RADEON",
+    "mark": 740
   },
   {
     "nameDetail": "Radeon R7 FX-9800P RADEON",
@@ -4884,28 +4916,12 @@
     "mark": 737
   },
   {
-    "nameDetail": "Radeon R7 A12-9700P RADEON",
-    "mark": 736
-  },
-  {
-    "nameDetail": "Radeon R7 PRO A10-8750B",
-    "mark": 733
-  },
-  {
     "nameDetail": "Radeon HD 6670",
     "mark": 731
   },
   {
     "nameDetail": "Radeon R5 A10-9620P 4C+6G",
     "mark": 731
-  },
-  {
-    "nameDetail": "Radeon R7 PRO A8-8650B",
-    "mark": 729
-  },
-  {
-    "nameDetail": "Intel HD 615",
-    "mark": 728
   },
   {
     "nameDetail": "Radeon HD 7550M/7650M",
@@ -4920,16 +4936,24 @@
     "mark": 726
   },
   {
+    "nameDetail": "Intel HD 615",
+    "mark": 726
+  },
+  {
+    "nameDetail": "Quadro K610M",
+    "mark": 723
+  },
+  {
+    "nameDetail": "Radeon R7 PRO A8-8650B",
+    "mark": 723
+  },
+  {
     "nameDetail": "Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D",
     "mark": 722
   },
   {
     "nameDetail": "Radeon HD 8650G + R5 M200 Dual",
     "mark": 722
-  },
-  {
-    "nameDetail": "Quadro K610M",
-    "mark": 721
   },
   {
     "nameDetail": "Radeon HD 8730M",
@@ -4980,6 +5004,10 @@
     "mark": 711
   },
   {
+    "nameDetail": "Radeon R7 PRO A10-8750B",
+    "mark": 711
+  },
+  {
     "nameDetail": "Radeon HD 3870 X2",
     "mark": 708
   },
@@ -5012,10 +5040,6 @@
     "mark": 699
   },
   {
-    "nameDetail": "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",
-    "mark": 699
-  },
-  {
     "nameDetail": "TRINITY DEVASTATOR MOBILE",
     "mark": 699
   },
@@ -5026,6 +5050,10 @@
   {
     "nameDetail": "Radeon R5 PRO A10-8730B 4C+6G",
     "mark": 695
+  },
+  {
+    "nameDetail": "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",
+    "mark": 693
   },
   {
     "nameDetail": "Radeon R5 PRO A6-9500B 2C+4G",
@@ -5048,10 +5076,6 @@
     "mark": 688
   },
   {
-    "nameDetail": "Radeon Athlon Silver 3050U",
-    "mark": 686
-  },
-  {
     "nameDetail": "Radeon HD 8650G + R5 M230 Dual",
     "mark": 686
   },
@@ -5065,6 +5089,10 @@
   },
   {
     "nameDetail": "GeForce GT 630",
+    "mark": 683
+  },
+  {
+    "nameDetail": "Radeon Athlon Silver 3050U",
     "mark": 683
   },
   {
@@ -5140,11 +5168,11 @@
     "mark": 664
   },
   {
-    "nameDetail": "Radeon R7 M340",
-    "mark": 662
+    "nameDetail": "GeForce GT 555M",
+    "mark": 661
   },
   {
-    "nameDetail": "GeForce GT 555M",
+    "nameDetail": "Radeon R7 M340",
     "mark": 661
   },
   {
@@ -5241,7 +5269,7 @@
   },
   {
     "nameDetail": "Intel HD P4600/P4700",
-    "mark": 640
+    "mark": 639
   },
   {
     "nameDetail": "Radeon HD 7640G + 7400M Dual",
@@ -5280,12 +5308,16 @@
     "mark": 631
   },
   {
-    "nameDetail": "Intel HD 4600",
+    "nameDetail": "NVS 5400M",
     "mark": 631
   },
   {
-    "nameDetail": "NVS 5400M",
-    "mark": 631
+    "nameDetail": "Intel HD 515",
+    "mark": 630
+  },
+  {
+    "nameDetail": "Intel HD 4600",
+    "mark": 630
   },
   {
     "nameDetail": "Radeon HD 7640G + HD 7700M N HD 7700M Dual",
@@ -5294,10 +5326,6 @@
   {
     "nameDetail": "Radeon HD 7660G + 7470M Dual",
     "mark": 630
-  },
-  {
-    "nameDetail": "Intel HD 515",
-    "mark": 629
   },
   {
     "nameDetail": "Radeon HD 8510G + HD 8500M Dual",
@@ -5325,7 +5353,7 @@
   },
   {
     "nameDetail": "GeForce GT 735M",
-    "mark": 624
+    "mark": 625
   },
   {
     "nameDetail": "Radeon HD 7570",
@@ -5360,6 +5388,10 @@
     "mark": 619
   },
   {
+    "nameDetail": "Qualcomm Adreno 680 GPU",
+    "mark": 618
+  },
+  {
     "nameDetail": "Radeon HD 8550G + 8600M Dual",
     "mark": 617
   },
@@ -5380,16 +5412,16 @@
     "mark": 614
   },
   {
-    "nameDetail": "GeForce GTS 250",
-    "mark": 613
-  },
-  {
     "nameDetail": "Radeon HD 8650G + 8600M Dual",
     "mark": 613
   },
   {
     "nameDetail": "Radeon Vega 3 Athlon Gold 3150U",
     "mark": 612
+  },
+  {
+    "nameDetail": "GeForce GT 720",
+    "mark": 611
   },
   {
     "nameDetail": "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D",
@@ -5404,15 +5436,11 @@
     "mark": 610
   },
   {
-    "nameDetail": "GeForce GT 720",
+    "nameDetail": "GeForce GTS 250",
     "mark": 610
   },
   {
     "nameDetail": "Quadro K510M",
-    "mark": 610
-  },
-  {
-    "nameDetail": "Qualcomm Adreno 680 GPU",
     "mark": 610
   },
   {
@@ -5457,7 +5485,7 @@
   },
   {
     "nameDetail": "GeForce GT 430",
-    "mark": 600
+    "mark": 601
   },
   {
     "nameDetail": "GeForce GT 720A",
@@ -5497,6 +5525,10 @@
   },
   {
     "nameDetail": "Radeon HD 8550G + HD 8600M Dual",
+    "mark": 593
+  },
+  {
+    "nameDetail": "Radeon R7 PRO A12-8830B",
     "mark": 593
   },
   {
@@ -5540,16 +5572,16 @@
     "mark": 586
   },
   {
+    "nameDetail": "Intel HD 5500",
+    "mark": 585
+  },
+  {
     "nameDetail": "Radeon HD 7640G + 8500M Dual",
     "mark": 585
   },
   {
     "nameDetail": "Radeon HD 8650G + HD 8670M Dual",
     "mark": 585
-  },
-  {
-    "nameDetail": "Intel HD 5500",
-    "mark": 584
   },
   {
     "nameDetail": "GeForce GT 550M",
@@ -5624,11 +5656,11 @@
     "mark": 573
   },
   {
-    "nameDetail": "Quadro 1000M",
-    "mark": 571
+    "nameDetail": "Quadro 500M",
+    "mark": 570
   },
   {
-    "nameDetail": "Quadro 500M",
+    "nameDetail": "Quadro 1000M",
     "mark": 570
   },
   {
@@ -5637,10 +5669,6 @@
   },
   {
     "nameDetail": "GeForce GTS 250M",
-    "mark": 569
-  },
-  {
-    "nameDetail": "Radeon R7 PRO A12-8830B",
     "mark": 569
   },
   {
@@ -5668,8 +5696,8 @@
     "mark": 562
   },
   {
-    "nameDetail": "Radeon HD 6570",
-    "mark": 560
+    "nameDetail": "Radeon R7 M360",
+    "mark": 561
   },
   {
     "nameDetail": "Radeon HD 3870",
@@ -5680,8 +5708,8 @@
     "mark": 559
   },
   {
-    "nameDetail": "Radeon R7 M360",
-    "mark": 559
+    "nameDetail": "Radeon HD 6570",
+    "mark": 558
   },
   {
     "nameDetail": "Radeon HD 7640G + 8570M Dual",
@@ -5697,15 +5725,15 @@
   },
   {
     "nameDetail": "GeForce 820A",
-    "mark": 557
-  },
-  {
-    "nameDetail": "Radeon HD 8650G",
-    "mark": 555
+    "mark": 554
   },
   {
     "nameDetail": "GF117",
     "mark": 554
+  },
+  {
+    "nameDetail": "Radeon HD 8650G",
+    "mark": 551
   },
   {
     "nameDetail": "Radeon R7 7850A10-7850K",
@@ -5776,16 +5804,16 @@
     "mark": 542
   },
   {
+    "nameDetail": "Radeon R6 A10-8700P",
+    "mark": 541
+  },
+  {
     "nameDetail": "Qualcomm Adreno 675 GPU",
     "mark": 539
   },
   {
     "nameDetail": "Radeon R6 PRO A10-8700B 4C+6G",
     "mark": 538
-  },
-  {
-    "nameDetail": "Radeon R6 A10-8700P",
-    "mark": 537
   },
   {
     "nameDetail": "Radeon R7 M265",
@@ -5810,6 +5838,10 @@
   {
     "nameDetail": "Radeon R6 PRO A8-8600B 4C+6G",
     "mark": 531
+  },
+  {
+    "nameDetail": "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G",
+    "mark": 530
   },
   {
     "nameDetail": "Radeon HD 8550G + HD 8570M Dual",
@@ -5854,10 +5886,6 @@
   {
     "nameDetail": "Radeon R5 M255",
     "mark": 522
-  },
-  {
-    "nameDetail": "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G",
-    "mark": 521
   },
   {
     "nameDetail": "Intel HD 4400",
@@ -5920,16 +5948,16 @@
     "mark": 507
   },
   {
+    "nameDetail": "GeForce 820M",
+    "mark": 506
+  },
+  {
     "nameDetail": "GeForce 9800 GTX+",
     "mark": 506
   },
   {
     "nameDetail": "Radeon Vega 2",
     "mark": 506
-  },
-  {
-    "nameDetail": "GeForce 820M",
-    "mark": 505
   },
   {
     "nameDetail": "GeForce GTS 150M",
@@ -5984,10 +6012,6 @@
     "mark": 490
   },
   {
-    "nameDetail": "GeForce GT 540M",
-    "mark": 488
-  },
-  {
     "nameDetail": "Radeon HD 8670D N HD 8670D + HD 8670D Dual",
     "mark": 488
   },
@@ -6000,12 +6024,16 @@
     "mark": 487
   },
   {
+    "nameDetail": "GeForce GT 540M",
+    "mark": 486
+  },
+  {
     "nameDetail": "Radeon HD 7520G + 7400M Dual",
     "mark": 486
   },
   {
     "nameDetail": "Radeon HD 8690A",
-    "mark": 485
+    "mark": 486
   },
   {
     "nameDetail": "Radeon R7 M260",
@@ -6042,6 +6070,10 @@
   {
     "nameDetail": "Radeon HD 7600G + HD 7500M/7600M Dual",
     "mark": 476
+  },
+  {
+    "nameDetail": "GeForce 710A",
+    "mark": 475
   },
   {
     "nameDetail": "Radeon HD 7670M",
@@ -6082,10 +6114,6 @@
   {
     "nameDetail": "Radeon HD 8570D + R5 235 Dual",
     "mark": 470
-  },
-  {
-    "nameDetail": "GeForce 710A",
-    "mark": 466
   },
   {
     "nameDetail": "GeForce GT 720M",
@@ -6236,10 +6264,6 @@
     "mark": 439
   },
   {
-    "nameDetail": "GeForce 8800 GTS",
-    "mark": 438
-  },
-  {
     "nameDetail": "Radeon HD 7600G + HD Dual",
     "mark": 435
   },
@@ -6266,6 +6290,10 @@
   {
     "nameDetail": "Radeon HD 8610G",
     "mark": 428
+  },
+  {
+    "nameDetail": "GeForce 8800 GTS",
+    "mark": 426
   },
   {
     "nameDetail": "Surface Duo Adreno 640 GPU",
@@ -6320,6 +6348,10 @@
     "mark": 413
   },
   {
+    "nameDetail": "Radeon HD 8550G",
+    "mark": 412
+  },
+  {
     "nameDetail": "GeForce 810M",
     "mark": 410
   },
@@ -6333,10 +6365,6 @@
   },
   {
     "nameDetail": "Radeon HD 7470M",
-    "mark": 407
-  },
-  {
-    "nameDetail": "Radeon HD 8550G",
     "mark": 407
   },
   {
@@ -6424,6 +6452,10 @@
     "mark": 381
   },
   {
+    "nameDetail": "Quadro FX 3700",
+    "mark": 380
+  },
+  {
     "nameDetail": "Radeon HD 4670",
     "mark": 380
   },
@@ -6448,16 +6480,12 @@
     "mark": 374
   },
   {
-    "nameDetail": "Quadro FX 3700",
-    "mark": 374
-  },
-  {
     "nameDetail": "Radeon HD 8570D + HD8490 Dual",
     "mark": 374
   },
   {
     "nameDetail": "Radeon HD 5550",
-    "mark": 371
+    "mark": 370
   },
   {
     "nameDetail": "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT",
@@ -6469,7 +6497,7 @@
   },
   {
     "nameDetail": "GeForce GT 620",
-    "mark": 366
+    "mark": 367
   },
   {
     "nameDetail": "Matrox Millennium P690 PCIe x16",
@@ -6537,7 +6565,7 @@
   },
   {
     "nameDetail": "Intel HD 505",
-    "mark": 347
+    "mark": 349
   },
   {
     "nameDetail": "GeForce 7950 GT",
@@ -6625,7 +6653,7 @@
   },
   {
     "nameDetail": "Intel UHD Graphics 600",
-    "mark": 326
+    "mark": 325
   },
   {
     "nameDetail": "GeForce GT 120 / 9500 GT",
@@ -6661,7 +6689,7 @@
   },
   {
     "nameDetail": "Radeon HD 7520G",
-    "mark": 314
+    "mark": 315
   },
   {
     "nameDetail": "Radeon HD 7520G + 8600/8700M Dual",
@@ -6696,16 +6724,16 @@
     "mark": 304
   },
   {
-    "nameDetail": "NVS 315",
-    "mark": 301
-  },
-  {
     "nameDetail": "Radeon R1E",
     "mark": 301
   },
   {
     "nameDetail": "Radeon R3",
     "mark": 300
+  },
+  {
+    "nameDetail": "NVS 315",
+    "mark": 299
   },
   {
     "nameDetail": "Radeon HD 6520G",
@@ -6788,15 +6816,19 @@
     "mark": 282
   },
   {
+    "nameDetail": "Qualcomm Adreno 630 GPU",
+    "mark": 282
+  },
+  {
     "nameDetail": "Radeon HD 2600 XT",
     "mark": 282
   },
   {
-    "nameDetail": "Radeon HD 7480D",
-    "mark": 282
+    "nameDetail": "GeForce 9600 GS",
+    "mark": 281
   },
   {
-    "nameDetail": "GeForce 9600 GS",
+    "nameDetail": "Radeon HD 7480D",
     "mark": 281
   },
   {
@@ -6810,10 +6842,6 @@
   {
     "nameDetail": "Radeon HD 6370M",
     "mark": 275
-  },
-  {
-    "nameDetail": "Qualcomm Adreno 630 GPU",
-    "mark": 273
   },
   {
     "nameDetail": "GeForce 9650M GS",
@@ -6836,15 +6864,19 @@
     "mark": 268
   },
   {
-    "nameDetail": "NVS 4200M",
-    "mark": 267
-  },
-  {
     "nameDetail": "Radeon HD 7400G",
     "mark": 267
   },
   {
     "nameDetail": "Mobility Radeon HD 550v",
+    "mark": 266
+  },
+  {
+    "nameDetail": "NVS 4200M",
+    "mark": 266
+  },
+  {
+    "nameDetail": "Radeon HD 8330E",
     "mark": 266
   },
   {
@@ -6877,7 +6909,7 @@
   },
   {
     "nameDetail": "Intel HD 3000",
-    "mark": 255
+    "mark": 256
   },
   {
     "nameDetail": "Radeon HD 6370D",
@@ -6896,16 +6928,12 @@
     "mark": 251
   },
   {
-    "nameDetail": "Radeon HD 8330E",
-    "mark": 251
-  },
-  {
     "nameDetail": "Radeon HD 8470",
     "mark": 251
   },
   {
     "nameDetail": "GeForce 410M",
-    "mark": 249
+    "mark": 250
   },
   {
     "nameDetail": "Radeon HD 7640G + 8600M Dual",
@@ -6936,11 +6964,11 @@
     "mark": 242
   },
   {
-    "nameDetail": "Radeon HD4650",
-    "mark": 239
+    "nameDetail": "Radeon R2",
+    "mark": 241
   },
   {
-    "nameDetail": "Radeon R2",
+    "nameDetail": "Radeon HD4650",
     "mark": 239
   },
   {
@@ -7032,15 +7060,15 @@
     "mark": 215
   },
   {
-    "nameDetail": "Intel Q45/Q43 Express Chipset",
-    "mark": 214
-  },
-  {
     "nameDetail": "Mobility Radeon HD 5450",
     "mark": 214
   },
   {
     "nameDetail": "Intel HD 2000",
+    "mark": 213
+  },
+  {
+    "nameDetail": "Intel Q45/Q43 Express Chipset",
     "mark": 213
   },
   {
@@ -7188,10 +7216,6 @@
     "mark": 183
   },
   {
-    "nameDetail": "Quadro FX 3450/4000 SDI",
-    "mark": 182
-  },
-  {
     "nameDetail": "Mobility Radeon HD 5430",
     "mark": 181
   },
@@ -7205,6 +7229,10 @@
   },
   {
     "nameDetail": "FireGL V3600",
+    "mark": 179
+  },
+  {
+    "nameDetail": "Quadro FX 3450/4000 SDI",
     "mark": 179
   },
   {
@@ -7392,6 +7420,10 @@
     "mark": 144
   },
   {
+    "nameDetail": "GeForce 8400 GS",
+    "mark": 143
+  },
+  {
     "nameDetail": "GeForce 9200M GE",
     "mark": 143
   },
@@ -7422,10 +7454,6 @@
   {
     "nameDetail": "Radeon X1800 GTO",
     "mark": 140
-  },
-  {
-    "nameDetail": "GeForce 8400 GS",
-    "mark": 139
   },
   {
     "nameDetail": "Intel Haswell HD - GT2",
@@ -7596,15 +7624,15 @@
     "mark": 123
   },
   {
-    "nameDetail": "Qualcomm Adreno 618 GPU",
-    "mark": 123
-  },
-  {
     "nameDetail": "Radeon HD 7290M",
     "mark": 123
   },
   {
     "nameDetail": "NVS 300",
+    "mark": 122
+  },
+  {
+    "nameDetail": "Qualcomm Adreno 618 GPU",
     "mark": 122
   },
   {
@@ -7628,10 +7656,6 @@
     "mark": 120
   },
   {
-    "nameDetail": "GeForce 310",
-    "mark": 120
-  },
-  {
     "nameDetail": "GeForce 405",
     "mark": 120
   },
@@ -7642,6 +7666,10 @@
   {
     "nameDetail": "Radeon HD 2400",
     "mark": 120
+  },
+  {
+    "nameDetail": "GeForce 310",
+    "mark": 119
   },
   {
     "nameDetail": "GeForce 505",
@@ -7724,7 +7752,15 @@
     "mark": 114
   },
   {
+    "nameDetail": "GeForce 9400 GT",
+    "mark": 113
+  },
+  {
     "nameDetail": "Quadro FX 560",
+    "mark": 113
+  },
+  {
+    "nameDetail": "Quadro NVS 160M",
     "mark": 113
   },
   {
@@ -7836,10 +7872,6 @@
     "mark": 105
   },
   {
-    "nameDetail": "GeForce 9400 GT",
-    "mark": 104
-  },
-  {
     "nameDetail": "GeForce 9450",
     "mark": 104
   },
@@ -7916,10 +7948,6 @@
     "mark": 100
   },
   {
-    "nameDetail": "Quadro NVS 160M",
-    "mark": 99
-  },
-  {
     "nameDetail": "GeForce 9400",
     "mark": 98
   },
@@ -7972,7 +8000,7 @@
     "mark": 95
   },
   {
-    "nameDetail": "Intel Q35 Express",
+    "nameDetail": "Intel G41 Express Chipset",
     "mark": 94
   },
   {
@@ -8004,7 +8032,7 @@
     "mark": 92
   },
   {
-    "nameDetail": "Intel G41 Express Chipset",
+    "nameDetail": "Intel Q35 Express",
     "mark": 92
   },
   {
@@ -8065,7 +8093,7 @@
   },
   {
     "nameDetail": "Intel G45/G43 Express Chipset",
-    "mark": 87
+    "mark": 88
   },
   {
     "nameDetail": "Quadro FX 360M",
@@ -8456,10 +8484,6 @@
     "mark": 56
   },
   {
-    "nameDetail": "Intel G33/G31 Express",
-    "mark": 56
-  },
-  {
     "nameDetail": "RADEON 9800 XT",
     "mark": 56
   },
@@ -8470,6 +8494,10 @@
   {
     "nameDetail": "RADEON X600 256MB HyperMemory",
     "mark": 56
+  },
+  {
+    "nameDetail": "Intel G33/G31 Express",
+    "mark": 55
   },
   {
     "nameDetail": "GeForce 6200 TurboCache",
@@ -8497,10 +8525,6 @@
   },
   {
     "nameDetail": "GeForce 6600 LE",
-    "mark": 51
-  },
-  {
-    "nameDetail": "GeForce 7100 GS",
     "mark": 51
   },
   {
@@ -8550,6 +8574,10 @@
   {
     "nameDetail": "Radeon X1600",
     "mark": 49
+  },
+  {
+    "nameDetail": "GeForce 7100 GS",
+    "mark": 48
   },
   {
     "nameDetail": "Mobility Radeon X2300",
