@@ -64,7 +64,7 @@ const updateObj = reactive({
   updateArr: [
     {
       label: 'CPU多核',
-      addNum: 10,
+      addNum: 19,
       totalNum: cpuMData.length,
     },
     {
@@ -73,7 +73,7 @@ const updateObj = reactive({
     },
     {
       label: '显卡',
-      addNum: 7,
+      addNum: 4,
       totalNum: gpuData.length,
     },
     {
