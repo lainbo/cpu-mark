@@ -5,6 +5,13 @@ import chalk from 'chalk'
 
 const OUTPUT_PATH = './src/assets/staticData'
 
+const proxyInfo = {
+  url: 'http://127.0.0.1',
+  port: '7890',
+  userName: '',
+  password: '',
+}
+
 const sites = [
   {
     url: 'https://www.cpubenchmark.net/cpu_list.php',
@@ -61,9 +68,14 @@ const sites = [
 async function fetchData(site) {
   const browser = await puppeteer.launch({
     headless: 'new',
-    args: ['--proxy-server=http://127.0.0.1:7890'],
+    args: [`--proxy-server=${proxyInfo.url}:${proxyInfo.port}`],
   })
   const page = await browser.newPage()
+
+  await page.authenticate({
+    username: proxyInfo.userName || '',
+    password: proxyInfo.password || '',
+  })
 
   await page.goto(site.url, { timeout: 60000 })
 
