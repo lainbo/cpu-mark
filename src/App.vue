@@ -53,12 +53,12 @@ onMounted(() => {
 const utoolsInit = () => {
   const payloadMap = {
     r23: 3,
-    显卡: 4,
-    gpu: 4,
-    硬盘: 5,
-    hdd: 5,
-    ssd: 5,
-    disk: 5,
+    显卡: 7,
+    gpu: 7,
+    硬盘: 8,
+    hdd: 8,
+    ssd: 8,
+    disk: 8,
     安兔兔: 6,
   }
 
