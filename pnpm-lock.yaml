@@ -19,10 +19,10 @@ dependencies:
     version: 3.3.8
   vxe-table:
     specifier: 4.4.1
-    version: 4.4.1(vue@3.3.8)(xe-utils@3.5.13)
+    version: 4.4.1(vue@3.3.8)(xe-utils@3.5.14)
   xe-utils:
-    specifier: 3.5.13
-    version: 3.5.13
+    specifier: 3.5.14
+    version: 3.5.14
 
 devDependencies:
   '@arco-design/web-vue':
@@ -4499,14 +4499,14 @@ packages:
       '@vue/server-renderer': 3.3.8(vue@3.3.8)
       '@vue/shared': 3.3.8
 
-  /vxe-table@4.4.1(vue@3.3.8)(xe-utils@3.5.13):
+  /vxe-table@4.4.1(vue@3.3.8)(xe-utils@3.5.14):
     resolution: {integrity: sha512-yq19+sds2Av625YiS3vpYjdXUN2BFTAyboOT+v5yhi6sroR7WwOnH7jkJ7/Q4U6ZhCDT59u0UOGAPVT27/4OWQ==}
     peerDependencies:
       vue: ^3.2.28
       xe-utils: ^3.5.0
     dependencies:
       vue: 3.3.8
-      xe-utils: 3.5.13
+      xe-utils: 3.5.14
     dev: false
 
   /walk-up-path@3.0.1:
@@ -4590,8 +4590,8 @@ packages:
         optional: true
     dev: true
 
-  /xe-utils@3.5.13:
-    resolution: {integrity: sha512-ORT6ghCRk0mUVavMBxetcPzUPskS6NGfntzpWazJ86e+XU0uK4HwHfDhN/jKATiyInrOH5RwQo9SO/+DB8XeBw==}
+  /xe-utils@3.5.14:
+    resolution: {integrity: sha512-Xq6mS8dWwHBQsQUEBXcZYSaBV0KnNLoVWd0vRRDI3nKpbNxfs/LSCK0W21g1edLFnXYfKqg7hh5dakr3RtYY0A==}
     dev: false
 
   /xml-name-validator@4.0.0:
