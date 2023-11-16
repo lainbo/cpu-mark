@@ -1,27 +1,6 @@
 <template>
   <div class="main_app">
     <a-tabs v-model:active-key="activeName" lazy-load>
-      <template #extra>
-        <a-popover :title="`数据更新时间：${updateObj.date}`" position="br">
-          <div
-            class="mr-16px p-6px flex items-center rounded-4px transition-all hover:bg-#777:30"
-          >
-            <i class="i-lucide-clock-3 text-18px dark:text-white"></i>
-          </div>
-          <template #content>
-            <a-divider orientation="center">较上次新增数据</a-divider>
-            <section class="space-y-10px">
-              <div v-for="(item, index) in updateObj.updateArr" :key="index">
-                <h2 class="text-blue-700">{{ item.label }}:</h2>
-                <h2 v-if="item.flag === 'cpuS'">
-                  持续更新常见的市售的游戏性能前300名的CPU
-                </h2>
-                <h2 v-else> 新增{{ item.addNum }}个型号 (共计:{{ item.totalNum }}个) </h2>
-              </div>
-            </section>
-          </template>
-        </a-popover>
-      </template>
       <a-tab-pane :key="2" :title="pageConfig.cpuS.title">
         <MainView :page-data="cpuSData" :page-config="pageConfig.cpuS" />
       </a-tab-pane>
@@ -61,27 +40,6 @@ const hardDriveData = uniqArr(hardDriveOriginData)
 const activeName = ref(2) // 默认选中的tab
 const updateObj = reactive({
   date: '2023年10月29日',
-  updateArr: [
-    {
-      label: 'CPU多核',
-      addNum: 30,
-      totalNum: cpuMData.length,
-    },
-    {
-      label: 'CPU游戏性能',
-      flag: 'cpuS',
-    },
-    {
-      label: '显卡',
-      addNum: 11,
-      totalNum: gpuData.length,
-    },
-    {
-      label: '硬盘',
-      addNum: 63,
-      totalNum: hardDriveData.length,
-    },
-  ],
 })
 onMounted(() => {
   if (window?.utools) {
@@ -106,19 +64,25 @@ const utoolsInit = () => {
 function uniqArr(arr) {
   return uniqBy(arr, 'nameDetail')
 }
-const cpuAnswer =
-  '就像搬砖一样，一个核心就是一个人，核心强弱就像这个人力气大小。A这边有1个人，但是力气很大，一次搬10块砖。B这边有4个人，但是这4个人力气都小，一个人一次搬3块砖。四个人一次一共搬12块，看起来B这边更强，但是，人越多配合的难度越高，可能有人在工作，有人在偷懒，这时要考验监工的能力（也就是软件对多核心的优化程度）。在实际当中，大部分办公软件、网游、小型软件都更看重单核性能，单核性能强的CPU，往往拥有更好的游戏性能（不绝对，比如AMD的3D系列就不是靠单核能力才排名靠前），例如腾讯的绝大部分网游，或轻负载低上限的软件；而专业软件（如：代码编辑器、视频渲染剪辑、直播、图片处理软件）和一些3A大作会对多核心进行优化'
+const cpuAnswer = `
+<ul class="list-disc pl-16px">
+  <li>这是一款多功能CPU性能测试工具，它模拟日常计算任务来测试性能。</li>
+  <li>在“单核”性能测试中，它测量CPU处理单个任务时的效率，这反映了处理器在执行单线程任务时的能力，对于大多数日常应用、游戏来说，单核性能更为关键。</li>
+  <li>而“多核”性能测试评估了CPU在同时处理多个任务时的效率，这对于需要大量并行处理的应用，如视频编辑、3D渲染和复杂的科学计算，更为重要。</li>
+</ul>
+
+`
 const pageConfig = {
   cpuM: {
-    title: 'CPU多核天梯',
-    question: '多核性能与游戏性能的区别？',
+    title: 'Geekbench6 多核',
+    question: 'Geekbench6能体现什么?',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如12700K',
     flag: 'cpuM',
   },
   cpuS: {
-    title: '游戏性能天梯',
-    question: '多核性能与游戏性能的区别？',
+    title: 'Geekbench6 单核',
+    question: 'Geekbench6能体现什么?',
     answer: cpuAnswer,
     placeholder: '请输入CPU型号，如12700K',
     flag: 'cpuS',
@@ -143,7 +107,7 @@ const pageConfig = {
     title: 'CPU综合对比',
     question: '如何知道一款CPU是否适合我？',
     answer:
-      '排名不能代表实际体验，性能得分仅供参考，游戏性能得分高的不一定在所有游戏中都强，不同的游戏由于一些合作方的原因可能会对一些品牌的CPU有神秘优化。所以如果对CPU只有一知半解，建议去网上多方综合了解后再购买',
+      'CPU排名只是一个参考点，不能全面代表实际体验。性能分数虽有指导作用，但不代表游戏中的实际表现。由于不同游戏可能针对特定品牌CPU有特别优化，同一CPU在不同游戏中的表现可能会有差异，还有5600X3D、5800X3D这种单核性能低但游戏性能极高的CPU。因此，在选购CPU前，建议综合网上多方信息，全面了解后再做决定。',
     placeholder: '请输入CPU型号，如12700K',
   },
 }

@@ -77,7 +77,7 @@
             <a-popover position="bottom" :title="pageConfig.question">
               <a-link class="truncate">{{ pageConfig.question }}</a-link>
               <template #content>
-                <p>{{ pageConfig.answer }}</p>
+                <div v-html="pageConfig.answer"></div>
               </template>
             </a-popover>
           </div>
@@ -121,12 +121,12 @@
           <vxe-column field="nameDetail" title="型号" />
 
           <template v-if="isCpuCompared">
-            <vxe-column field="sCoreMark" title="游戏性能" width="100" sortable>
+            <vxe-column field="sCoreMark" title="单核" width="100" sortable>
               <template #default="{ row }">
                 <span>{{ formatNum(row.sCoreMark) }}</span>
               </template>
             </vxe-column>
-            <vxe-column field="mCoreMark" title="多核性能" width="100" sortable>
+            <vxe-column field="mCoreMark" title="多核" width="100" sortable>
               <template #default="{ row }">
                 <span>{{ formatNum(row.mCoreMark) }}</span>
               </template>

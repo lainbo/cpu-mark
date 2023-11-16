@@ -7,32 +7,34 @@ const OUTPUT_PATH = './src/assets/staticData'
 
 const proxyInfo = {
   url: 'http://127.0.0.1',
-  port: '7890',
-  userName: '',
-  password: '',
+  port: '43999',
+  userName: 'admin',
+  password: 'TpGk6QwiBM8wPaja5X',
 }
 
 const sites = [
   {
-    url: 'https://www.cpubenchmark.net/cpu_list.php',
+    url: 'https://www.topcpu.net/cpu-r/geekbench-6-multi-core',
     code: () => {
-      const name = Array.from(document.querySelectorAll('tr[id^=cpu][class]')).map(
-        i => i.childNodes[0].childNodes[0].textContent
-      )
-      const mark = Array.from(document.querySelectorAll('tr[id^=cpu][class]')).map(
-        i => i.childNodes[1].childNodes[0].textContent
-      )
+      const name = Array.from(
+        document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
+      ).map(i => i.innerText)
+      const mark = Array.from(
+        document.querySelectorAll('span.ml-2.text-slate-900.text-sm.font-semibold')
+      ).map(i => i.innerText)
       return { name, mark }
     },
     fileName: 'cpuMData',
   },
   {
-    url: 'https://www.cpubenchmark.net/top-gaming-cpus.html',
+    url: 'https://www.topcpu.net/cpu-r/geekbench-6-single-core',
     code: () => {
-      const name = Array.from(document.querySelectorAll('.prdname')).map(
-        i => i.textContent
-      )
-      const mark = Array.from(document.querySelectorAll('.count')).map(i => i.textContent)
+      const name = Array.from(
+        document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
+      ).map(i => i.innerText)
+      const mark = Array.from(
+        document.querySelectorAll('span.ml-2.text-slate-900.text-sm.font-semibold')
+      ).map(i => i.innerText)
       return { name, mark }
     },
     fileName: 'cpuSData',
