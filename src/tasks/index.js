@@ -7,9 +7,9 @@ const OUTPUT_PATH = './src/assets/staticData'
 
 const proxyInfo = {
   url: 'http://127.0.0.1',
-  port: '43999',
+  port: '28168',
   userName: 'admin',
-  password: 'TpGk6QwiBM8wPaja5X',
+  password: 'hS3fnZZ4MHk28Z6t58nx',
 }
 
 const sites = [
@@ -24,7 +24,7 @@ const sites = [
       ).map(i => i.innerText)
       return { name, mark }
     },
-    fileName: 'cpuMData',
+    fileName: 'gb6MData',
   },
   {
     url: 'https://www.topcpu.net/cpu-r/geekbench-6-single-core',
@@ -37,7 +37,46 @@ const sites = [
       ).map(i => i.innerText)
       return { name, mark }
     },
-    fileName: 'cpuSData',
+    fileName: 'gb6SData',
+  },
+  {
+    url: 'https://www.topcpu.net/cpu-r/cinebench-r23-multi-core',
+    code: () => {
+      const name = Array.from(
+        document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
+      ).map(i => i.innerText)
+      const mark = Array.from(
+        document.querySelectorAll('span.ml-2.text-slate-900.text-sm.font-semibold')
+      ).map(i => i.innerText)
+      return { name, mark }
+    },
+    fileName: 'r23MData',
+  },
+  {
+    url: 'https://www.topcpu.net/cpu-r/cinebench-r23-single-core',
+    code: () => {
+      const name = Array.from(
+        document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
+      ).map(i => i.innerText)
+      const mark = Array.from(
+        document.querySelectorAll('span.ml-2.text-slate-900.text-sm.font-semibold')
+      ).map(i => i.innerText)
+      return { name, mark }
+    },
+    fileName: 'r23SData',
+  },
+  {
+    url: 'https://www.topcpu.net/soc-r',
+    code: () => {
+      const name = Array.from(
+        document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
+      ).map(i => i.innerText)
+      const mark = Array.from(
+        document.querySelectorAll('span.ml-2.text-slate-900.text-sm.font-semibold')
+      ).map(i => i.innerText)
+      return { name, mark }
+    },
+    fileName: 'socData',
   },
   {
     url: 'https://www.videocardbenchmark.net/gpu_list.php',

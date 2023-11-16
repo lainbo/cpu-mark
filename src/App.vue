@@ -1,46 +1,49 @@
 <template>
   <div class="main_app">
     <a-tabs v-model:active-key="activeName" lazy-load>
-      <a-tab-pane :key="2" :title="pageConfig.cpuS.title">
-        <MainView :page-data="cpuSData" :page-config="pageConfig.cpuS" />
+      <a-tab-pane :key="1" :title="pageConfig.gb6cpuM.title">
+        <MainView :page-data="gb6MData" :page-config="pageConfig.gb6cpuM" />
       </a-tab-pane>
-      <a-tab-pane :key="1" :title="pageConfig.cpuM.title">
-        <MainView :page-data="cpuMData" :page-config="pageConfig.cpuM" />
+      <a-tab-pane :key="2" :title="pageConfig.gb6cpuS.title">
+        <MainView :page-data="gb6SData" :page-config="pageConfig.gb6cpuS" />
       </a-tab-pane>
-      <a-tab-pane :key="3" title="CPU综合对比">
+      <a-tab-pane :key="3" :title="pageConfig.r23cpuM.title">
+        <MainView :page-data="r23MData" :page-config="pageConfig.r23cpuM" />
+      </a-tab-pane>
+      <a-tab-pane :key="4" :title="pageConfig.r23cpuS.title">
+        <MainView :page-data="r23SData" :page-config="pageConfig.r23cpuS" />
+      </a-tab-pane>
+      <!-- <a-tab-pane :key="5" title="CPU综合对比">
         <MainView
-          :all-data="[cpuMData, cpuSData]"
+          :all-data="[gb6MData, gb6SData]"
           :page-config="pageConfig.synthesis"
           :cpu-compared="true"
         />
+      </a-tab-pane> -->
+      <a-tab-pane :key="6" :title="pageConfig.soc.title">
+        <MainView :page-data="socData" :page-config="pageConfig.soc" />
       </a-tab-pane>
-      <a-tab-pane :key="4" :title="pageConfig.gpu.title">
+      <a-tab-pane :key="7" :title="pageConfig.gpu.title">
         <MainView :page-data="gpuData" :page-config="pageConfig.gpu" />
       </a-tab-pane>
-      <a-tab-pane :key="5" :title="pageConfig.drive.title">
+
+      <a-tab-pane :key="8" :title="pageConfig.drive.title">
         <MainView :page-data="hardDriveData" :page-config="pageConfig.drive" />
       </a-tab-pane>
     </a-tabs>
   </div>
 </template>
 <script setup>
-import { uniqBy } from 'lodash-es'
 import MainView from './components/MainView.vue'
-import cpuData from '@/assets/staticData/cpuMData.json'
-import cpuSingleCoreData from '@/assets/staticData/cpuSData.json'
-import gpuOriginData from '@/assets/staticData/gpuData.json'
-import hardDriveOriginData from '@/assets/staticData/hardDriveData.json'
+import gb6MData from '@/assets/staticData/gb6MData.json'
+import gb6SData from '@/assets/staticData/gb6SData.json'
+import r23MData from '@/assets/staticData/r23MData.json'
+import r23SData from '@/assets/staticData/r23SData.json'
+import socData from '@/assets/staticData/socData.json'
+import gpuData from '@/assets/staticData/gpuData.json'
+import hardDriveData from '@/assets/staticData/hardDriveData.json'
 
-// 原数据有重复的，这里进行去重
-const cpuMData = uniqArr(cpuData)
-const cpuSData = uniqArr(cpuSingleCoreData)
-const gpuData = uniqArr(gpuOriginData)
-const hardDriveData = uniqArr(hardDriveOriginData)
-
-const activeName = ref(2) // 默认选中的tab
-const updateObj = reactive({
-  date: '2023年10月29日',
-})
+const activeName = ref(1) // 默认选中的tab
 onMounted(() => {
   if (window?.utools) {
     utoolsInit()
@@ -48,44 +51,75 @@ onMounted(() => {
 })
 
 const utoolsInit = () => {
+  const payloadMap = {
+    r23: 3,
+    显卡: 4,
+    gpu: 4,
+    硬盘: 5,
+    hdd: 5,
+    ssd: 5,
+    disk: 5,
+    安兔兔: 6,
+  }
+
   window.utools.onPluginEnter(({ payload }) => {
-    if (['显卡', 'gpu'].includes(payload)) {
-      activeName.value = 4
-    } else if (['硬盘', 'hdd', 'ssd', 'disk'].includes(payload)) {
-      activeName.value = 5
-    } else {
-      activeName.value = 2
-    }
+    activeName.value = payloadMap[payload] || 1
   })
+
   window.utools.subInputBlur()
 }
 
-// 去重函数
-function uniqArr(arr) {
-  return uniqBy(arr, 'nameDetail')
-}
-const cpuAnswer = `
+const gb6Answer = `
 <ul class="list-disc pl-16px">
   <li>这是一款多功能CPU性能测试工具，它模拟日常计算任务来测试性能。</li>
-  <li>在“单核”性能测试中，它测量CPU处理单个任务时的效率，这反映了处理器在执行单线程任务时的能力，对于大多数日常应用、游戏来说，单核性能更为关键。</li>
-  <li>而“多核”性能测试评估了CPU在同时处理多个任务时的效率，这对于需要大量并行处理的应用，如视频编辑、3D渲染和复杂的科学计算，更为重要。</li>
+  <li>单核性能测试中，它测量CPU处理单个任务时的效率，这反映了处理器在执行单线程任务时的能力，对于大多数日常应用、游戏来说，单核性能更为关键。</li>
+  <li>多核性能测试评估了CPU在同时处理多个任务时的效率，这对于需要大量并行处理的应用，如视频编辑、3D渲染和复杂的科学计算，更为重要。</li>
 </ul>
-
+`
+const r23Answer = `
+<ul class="list-disc pl-16px">
+  <li>这是一款专注于评估CPU图形渲染能力的性能测试软件，广泛用于测试和比较不同CPU在3D图形和高强度视觉效果处理方面的性能。</li>
+  <li>单核测试反映了CPU在处理需要连续计算的单线程任务时的性能，适用于评估处理器在不依赖多核优势的场景中的表现。</li>
+  <li>多核测试则测量CPU在执行多线程、高强度的渲染任务时的能力，对于专业的视频编辑、3D建模和渲染等高负载工作场景尤为重要。</li>
+  <li>它的测试结果是衡量CPU在专业级图形处理任务中性能的重要指标。</li>
+</ul>
 `
 const pageConfig = {
-  cpuM: {
-    title: 'Geekbench6 多核',
+  gb6cpuM: {
+    title: 'Geekbench 6多核',
     question: 'Geekbench6能体现什么?',
-    answer: cpuAnswer,
+    answer: gb6Answer,
     placeholder: '请输入CPU型号，如12700K',
-    flag: 'cpuM',
+    flag: 'gb6cpu',
   },
-  cpuS: {
-    title: 'Geekbench6 单核',
+  gb6cpuS: {
+    title: 'Geekbench 6单核',
     question: 'Geekbench6能体现什么?',
-    answer: cpuAnswer,
+    answer: gb6Answer,
     placeholder: '请输入CPU型号，如12700K',
-    flag: 'cpuS',
+    flag: 'gb6cpuS',
+  },
+  r23cpuM: {
+    title: 'Cinebench R23多核',
+    question: 'Cinebench R23能体现什么?',
+    answer: r23Answer,
+    placeholder: '请输入CPU型号，如12700K',
+    flag: 'r23cpuM',
+  },
+  r23cpuS: {
+    title: 'Cinebench R23单核',
+    question: 'Cinebench R23能体现什么?',
+    answer: r23Answer,
+    placeholder: '请输入CPU型号，如12700K',
+    flag: 'r23cpuS',
+  },
+  soc: {
+    title: '安兔兔',
+    question: '这里是移动端处理器',
+    answer:
+      '安兔兔跑分并不能完全代表实际使用体验，还要结合功耗和优化来看，仅供参考，不构成购买建议',
+    placeholder: '请输入CPU型号，如A16',
+    flag: 'soc',
   },
   gpu: {
     title: '显卡天梯',

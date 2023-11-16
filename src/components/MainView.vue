@@ -134,7 +134,7 @@
           </template>
 
           <template v-else>
-            <vxe-column field="mark" :title="calcMarkTitle" width="250" sortable>
+            <vxe-column field="mark" :title="calcMarkTitle" width="300" sortable>
               <template #default="{ row }">
                 <div class="space-x-6px">
                   <a-progress
@@ -200,19 +200,19 @@ const calcMarkTitle = computed(() => {
 let tempArr = []
 // 如果是CPU对比页面
 if (isCpuCompared.value) {
-  const [cpuMData, cpuSData] = cloneDeep(props.allData)
+  const [gb6MData, gb6SData] = cloneDeep(props.allData)
   // 游戏数据Map
-  const cpuSDataMap = new Map()
-  cpuSData.forEach(i => {
-    cpuSDataMap.set(i.nameDetail, i.mark)
+  const gb6SDataMap = new Map()
+  gb6SData.forEach(i => {
+    gb6SDataMap.set(i.nameDetail, i.mark)
   })
 
   // push生成单双核数组
-  cpuMData.forEach(i => {
+  gb6MData.forEach(i => {
     tempArr.push({
       nameDetail: i.nameDetail,
       mCoreMark: i.mark,
-      sCoreMark: cpuSDataMap.get(i.nameDetail) || 0,
+      sCoreMark: gb6SDataMap.get(i.nameDetail) || 0,
     })
   })
   // 计算游戏性能最大值
