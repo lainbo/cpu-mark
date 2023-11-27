@@ -1,11 +1,27 @@
 [
   {
+    "nameDetail": "AMD Ryzen Threadripper 7960X",
+    "mark": 28707
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 7980X",
+    "mark": 26811
+  },
+  {
     "nameDetail": "Intel Core i9 14900KS",
     "mark": 25909
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper 7970X",
+    "mark": 25488
+  },
+  {
     "nameDetail": "AMD Threadripper PRO 7985WX",
     "mark": 24780
+  },
+  {
+    "nameDetail": "AMD Threadripper PRO 7965WX",
+    "mark": 23936
   },
   {
     "nameDetail": "AMD EPYC 9474F",
@@ -40,7 +56,7 @@
     "mark": 22490
   },
   {
-    "nameDetail": "Intel Core i9-14900K",
+    "nameDetail": "Intel Core i9 14900K",
     "mark": 22487
   },
   {
@@ -130,6 +146,10 @@
   {
     "nameDetail": "Intel Core i9 13900KS",
     "mark": 19578
+  },
+  {
+    "nameDetail": "AMD Threadripper PRO 7975WX",
+    "mark": 19501
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5965WX",
@@ -3978,25 +3998,5 @@
   {
     "nameDetail": "Intel Celeron J4025",
     "mark": 675
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2680 v3",
-    "mark": 672
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2430L",
-    "mark": 659
-  },
-  {
-    "nameDetail": "Intel Xeon E5-4640",
-    "mark": 658
-  },
-  {
-    "nameDetail": "Intel Celeron J4005",
-    "mark": 623
-  },
-  {
-    "nameDetail": "Intel Celeron N4020",
-    "mark": 582
   }
 ]

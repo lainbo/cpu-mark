@@ -1,5 +1,9 @@
 [
   {
+    "nameDetail": "AMD Ryzen Threadripper 7960X",
+    "mark": 3337
+  },
+  {
     "nameDetail": "Intel Core i9 14900KS",
     "mark": 3280
   },
@@ -8,7 +12,7 @@
     "mark": 3227
   },
   {
-    "nameDetail": "Intel Core i9-14900K",
+    "nameDetail": "Intel Core i9 14900K",
     "mark": 3213
   },
   {
@@ -49,6 +53,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X",
+    "mark": 2942
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 7970X",
     "mark": 2942
   },
   {
@@ -104,6 +112,10 @@
     "mark": 2829
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper 7980X",
+    "mark": 2828
+  },
+  {
     "nameDetail": "AMD Ryzen 7 7700X",
     "mark": 2824
   },
@@ -152,6 +164,10 @@
     "mark": 2773
   },
   {
+    "nameDetail": "AMD Threadripper PRO 7965WX",
+    "mark": 2770
+  },
+  {
     "nameDetail": "AMD Ryzen 9 PRO 7945",
     "mark": 2764
   },
@@ -186,6 +202,10 @@
   {
     "nameDetail": "Intel Core i5 14600",
     "mark": 2688
+  },
+  {
+    "nameDetail": "AMD Threadripper PRO 7975WX",
+    "mark": 2687
   },
   {
     "nameDetail": "Intel Core i5 14500",
@@ -3978,25 +3998,5 @@
   {
     "nameDetail": "Intel Xeon E5-2660 v2",
     "mark": 342
-  },
-  {
-    "nameDetail": "Intel Xeon E5-4669 v3",
-    "mark": 341
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2450L",
-    "mark": 340
-  },
-  {
-    "nameDetail": "Intel Celeron N4000",
-    "mark": 339
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2448L",
-    "mark": 323
-  },
-  {
-    "nameDetail": "AMD Opteron 6278",
-    "mark": 309
   }
 ]
