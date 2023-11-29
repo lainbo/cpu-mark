@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.53.3",
-    "@iconify/json": "^2.2.147",
+    "@iconify/json": "^2.2.149",
     "@unocss/preset-rem-to-px": "^0.57.7",
     "@unocss/preset-web-fonts": "^0.57.7",
     "@unocss/reset": "^0.57.7",
@@ -39,12 +39,12 @@
     "proxy-agent": "^6.3.1",
     "puppeteer": "^21.5.2",
     "sass": "^1.69.5",
-    "taze": "^0.12.2",
+    "taze": "^0.12.3",
     "terser": "^5.24.0",
     "unocss": "^0.57.7",
     "unplugin-auto-import": "^0.17.1",
     "unplugin-vue-components": "^0.25.2",
-    "vite": "^5.0.2",
+    "vite": "^5.0.4",
     "vite-plugin-style-import": "^2.0.0"
   },
   "volta": {
