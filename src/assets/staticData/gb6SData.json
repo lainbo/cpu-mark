@@ -352,6 +352,10 @@
     "mark": 2425
   },
   {
+    "nameDetail": "Intel Core Ultra 7 155H",
+    "mark": 2419
+  },
+  {
     "nameDetail": "Intel Core i5 13600HX",
     "mark": 2418
   },
@@ -390,6 +394,10 @@
   {
     "nameDetail": "AMD Ryzen 5 7540U",
     "mark": 2377
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 165H",
+    "mark": 2370
   },
   {
     "nameDetail": "Intel Xeon E-2388G",
@@ -506,6 +514,10 @@
   {
     "nameDetail": "Intel Core i5 11600KF",
     "mark": 2258
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 125H",
+    "mark": 2256
   },
   {
     "nameDetail": "Intel Xeon E-2356G",
@@ -924,6 +936,10 @@
     "mark": 1967
   },
   {
+    "nameDetail": "Intel Core i7 1185G7",
+    "mark": 1960
+  },
+  {
     "nameDetail": "Intel Pentium Gold G7400",
     "mark": 1958
   },
@@ -1194,10 +1210,6 @@
   {
     "nameDetail": "AMD EPYC 9354P",
     "mark": 1736
-  },
-  {
-    "nameDetail": "Intel Core i7 1185G7",
-    "mark": 1729
   },
   {
     "nameDetail": "AMD EPYC 9454",
@@ -3986,17 +3998,5 @@
   {
     "nameDetail": "Intel Xeon E5-2603 v2",
     "mark": 346
-  },
-  {
-    "nameDetail": "Intel Celeron J4125",
-    "mark": 346
-  },
-  {
-    "nameDetail": "Intel Xeon E5507",
-    "mark": 346
-  },
-  {
-    "nameDetail": "Intel Celeron N4120",
-    "mark": 343
   }
 ]
