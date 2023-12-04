@@ -157,7 +157,6 @@
 <script setup>
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
-import { timSort } from '@/utils/timSort.js'
 import { isNumber } from '@/utils/isNumber.js'
 import { cloneDeep, throttle } from 'lodash-es'
 
@@ -225,7 +224,7 @@ if (isCpuCompared.value) {
   )
 
   // 根据多核性能降序排序,并设置多核排名
-  timSort(tempArr, (a, b) => b.mCoreMark - a.mCoreMark)
+  tempArr.sort((a, b) => b.mCoreMark - a.mCoreMark)
   tempArr.forEach((i, index) => {
     i.mRank = index + 1
     i.mPercentage = parseFloat((i.mCoreMark / mMaxRank).toFixed(3))
@@ -233,7 +232,7 @@ if (isCpuCompared.value) {
   })
 
   // 根据游戏性能降序排序,并设置游戏排名和key
-  timSort(tempArr, (a, b) => b.sCoreMark - a.sCoreMark)
+  tempArr.sort((a, b) => b.sCoreMark - a.sCoreMark)
   tempArr.forEach((i, index) => {
     i.sRank = index + 1
     i.key = index
@@ -247,7 +246,7 @@ if (isCpuCompared.value) {
   const MaxRank = Math.max(...tempArr.map(i => i.mark))
 
   // 根据性能降序排序
-  timSort(tempArr, (a, b) => b.mark - a.mark)
+  tempArr.sort((a, b) => b.mark - a.mark)
 
   // 添加排名、百分比字段
   tempArr.forEach((i, idx) => {
@@ -279,7 +278,7 @@ function removeCompareItem(key) {
 const calcComparedArr = computed(() => {
   const field = isCpuCompared.value ? 'mCoreMark' : 'mark'
   const arr = cloneDeep(selectArr.value)
-  timSort(arr, (a, b) => b[field] - a[field])
+  arr.sort((a, b) => b[field] - a[field])
   return arr
 })
 
