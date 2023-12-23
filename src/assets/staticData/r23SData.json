@@ -17,15 +17,15 @@
   },
   {
     "nameDetail": "Intel Core i9 14900",
-    "mark": 2285
-  },
-  {
-    "nameDetail": "Intel Core i9 14900F",
-    "mark": 2276
+    "mark": 2284
   },
   {
     "nameDetail": "Intel Core i9 13900K",
     "mark": 2275
+  },
+  {
+    "nameDetail": "Intel Core i9 14900F",
+    "mark": 2268
   },
   {
     "nameDetail": "Intel Core i9 13900KF",
@@ -65,7 +65,7 @@
   },
   {
     "nameDetail": "Intel Core i7 14700F",
-    "mark": 2084
+    "mark": 2087
   },
   {
     "nameDetail": "Intel Core i9 12900KS",
@@ -73,7 +73,7 @@
   },
   {
     "nameDetail": "Intel Core i7 14700",
-    "mark": 2082
+    "mark": 2081
   },
   {
     "nameDetail": "Intel Core i9 13900HX",
@@ -98,6 +98,10 @@
   {
     "nameDetail": "AMD Ryzen 9 7900X3D",
     "mark": 2039
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 185H",
+    "mark": 2038
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X",
@@ -148,11 +152,11 @@
     "mark": 1964
   },
   {
-    "nameDetail": "AMD Ryzen 5 7600X",
-    "mark": 1951
+    "nameDetail": "Intel Core i5 14600",
+    "mark": 1958
   },
   {
-    "nameDetail": "Intel Core i5 14600",
+    "nameDetail": "AMD Ryzen 5 7600X",
     "mark": 1951
   },
   {
@@ -197,7 +201,7 @@
   },
   {
     "nameDetail": "Intel Core i5 14500",
-    "mark": 1934
+    "mark": 1933
   },
   {
     "nameDetail": "Intel Core i9 13900H",
@@ -244,11 +248,15 @@
     "mark": 1889
   },
   {
-    "nameDetail": "Intel Core i5 14400F",
-    "mark": 1877
+    "nameDetail": "Intel Core Ultra 7 165H",
+    "mark": 1884
   },
   {
     "nameDetail": "Intel Core i5 14400",
+    "mark": 1883
+  },
+  {
+    "nameDetail": "Intel Core i5 14400F",
     "mark": 1872
   },
   {
@@ -270,6 +278,10 @@
   {
     "nameDetail": "Apple M3 Pro",
     "mark": 1861
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 8945HS",
+    "mark": 1860
   },
   {
     "nameDetail": "Intel Core i5 13500",
@@ -340,6 +352,14 @@
     "mark": 1806
   },
   {
+    "nameDetail": "AMD Ryzen 5 8540U",
+    "mark": 1806
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 8845HS",
+    "mark": 1806
+  },
+  {
     "nameDetail": "Intel Core i7 12800H",
     "mark": 1803
   },
@@ -364,11 +384,19 @@
     "mark": 1791
   },
   {
+    "nameDetail": "Intel Core Ultra 7 155H",
+    "mark": 1790
+  },
+  {
     "nameDetail": "Intel Core i5 13400",
     "mark": 1786
   },
   {
     "nameDetail": "Intel Core i7 12800HX",
+    "mark": 1784
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8640U",
     "mark": 1784
   },
   {
@@ -388,6 +416,14 @@
     "mark": 1773
   },
   {
+    "nameDetail": "AMD Ryzen 5 7640U",
+    "mark": 1769
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 8840U",
+    "mark": 1769
+  },
+  {
     "nameDetail": "Intel Core i7 12650H",
     "mark": 1766
   },
@@ -396,23 +432,19 @@
     "mark": 1759
   },
   {
-    "nameDetail": "Intel Core i3 14100",
-    "mark": 1757
-  },
-  {
     "nameDetail": "Intel Core i7 1365U",
     "mark": 1756
   },
   {
-    "nameDetail": "AMD Ryzen 5 7640U",
+    "nameDetail": "Intel Core i3 14100F",
     "mark": 1756
   },
   {
-    "nameDetail": "AMD Ryzen 5 7500F",
-    "mark": 1751
+    "nameDetail": "Intel Core i3 14100",
+    "mark": 1752
   },
   {
-    "nameDetail": "Intel Core i3 14100F",
+    "nameDetail": "AMD Ryzen 5 7500F",
     "mark": 1751
   },
   {
@@ -424,6 +456,14 @@
     "mark": 1746
   },
   {
+    "nameDetail": "AMD Ryzen 5 8640HS",
+    "mark": 1740
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 125H",
+    "mark": 1738
+  },
+  {
     "nameDetail": "Intel Core i5 13400F",
     "mark": 1737
   },
@@ -432,15 +472,35 @@
     "mark": 1736
   },
   {
+    "nameDetail": "Intel Core Ultra 5 135H",
+    "mark": 1736
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 8440U",
+    "mark": 1735
+  },
+  {
     "nameDetail": "Intel Core i7 1265U",
     "mark": 1734
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8645HS",
+    "mark": 1732
   },
   {
     "nameDetail": "Intel Core i5 1345U",
     "mark": 1729
   },
   {
+    "nameDetail": "AMD Ryzen 5 7640HS",
+    "mark": 1724
+  },
+  {
     "nameDetail": "Intel Core i3 13100F",
+    "mark": 1715
+  },
+  {
+    "nameDetail": "Intel Core i5 13420H",
     "mark": 1715
   },
   {
@@ -450,10 +510,6 @@
   {
     "nameDetail": "Intel Core i7 12850HX",
     "mark": 1704
-  },
-  {
-    "nameDetail": "Intel Core i5 13420H",
-    "mark": 1703
   },
   {
     "nameDetail": "Apple M2",
@@ -473,10 +529,18 @@
   },
   {
     "nameDetail": "Intel Core i5 12500H",
-    "mark": 1688
+    "mark": 1691
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 165U",
+    "mark": 1691
   },
   {
     "nameDetail": "Intel Core i5 1340P",
+    "mark": 1687
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 155U",
     "mark": 1687
   },
   {
@@ -486,6 +550,10 @@
   {
     "nameDetail": "Intel Core i5 1350P",
     "mark": 1682
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 8840HS",
+    "mark": 1677
   },
   {
     "nameDetail": "AMD Ryzen Z1 Extreme",
@@ -512,6 +580,10 @@
     "mark": 1663
   },
   {
+    "nameDetail": "Intel Core Ultra 5 125U",
+    "mark": 1662
+  },
+  {
     "nameDetail": "AMD Ryzen 9 6980HS",
     "mark": 1661
   },
@@ -524,8 +596,8 @@
     "mark": 1661
   },
   {
-    "nameDetail": "AMD Ryzen 5 7640HS",
-    "mark": 1658
+    "nameDetail": "Intel Core Ultra 5 135U",
+    "mark": 1661
   },
   {
     "nameDetail": "Apple M2 Pro",
@@ -588,6 +660,10 @@
     "mark": 1593
   },
   {
+    "nameDetail": "Intel Core i5 12450H",
+    "mark": 1590
+  },
+  {
     "nameDetail": "AMD Ryzen 9 5900",
     "mark": 1583
   },
@@ -597,10 +673,6 @@
   },
   {
     "nameDetail": "Intel Core i7 11375H",
-    "mark": 1572
-  },
-  {
-    "nameDetail": "Intel Core i5 12450H",
     "mark": 1572
   },
   {
@@ -676,10 +748,6 @@
     "mark": 1541
   },
   {
-    "nameDetail": "AMD Ryzen 5 7535HS",
-    "mark": 1539
-  },
-  {
     "nameDetail": "AMD Ryzen 9 5980HS",
     "mark": 1538
   },
@@ -736,6 +804,14 @@
     "mark": 1503
   },
   {
+    "nameDetail": "AMD Ryzen 5 7535HS",
+    "mark": 1499
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7535U",
+    "mark": 1499
+  },
+  {
     "nameDetail": "Intel Core i7 11800H",
     "mark": 1498
   },
@@ -746,10 +822,6 @@
   {
     "nameDetail": "AMD Ryzen 7 5800X3D",
     "mark": 1491
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7535U",
-    "mark": 1489
   },
   {
     "nameDetail": "Intel Core i7 11600H",
@@ -1506,6 +1578,10 @@
   {
     "nameDetail": "Intel Core i3 1005G1",
     "mark": 1094
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 4100",
+    "mark": 1093
   },
   {
     "nameDetail": "Intel Core i5 1035G4",

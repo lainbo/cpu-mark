@@ -7,9 +7,9 @@ const OUTPUT_PATH = './src/assets/staticData'
 
 const proxyInfo = {
   url: 'http://127.0.0.1',
-  port: '43998',
+  port: '65030',
   userName: 'admin',
-  password: '389wMknr44vWYEG6XU',
+  password: 'jgPrEs794bN73Cehm2C2',
 }
 
 const sites = [
