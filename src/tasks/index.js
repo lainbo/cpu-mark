@@ -5,12 +5,12 @@ import chalk from 'chalk'
 
 const OUTPUT_PATH = './src/assets/staticData'
 
-const proxyInfo = {
-  url: 'http://127.0.0.1',
-  port: '65030',
-  userName: 'admin',
-  password: 'jgPrEs794bN73Cehm2C2',
-}
+// const proxyInfo = {
+//   url: 'http://127.0.0.1',
+//   port: '65030',
+//   userName: 'admin',
+//   password: 'jgPrEs794bN73Cehm2C2',
+// }
 
 const sites = [
   {
@@ -109,14 +109,14 @@ const sites = [
 async function fetchData(site) {
   const browser = await puppeteer.launch({
     headless: 'new',
-    args: [`--proxy-server=${proxyInfo.url}:${proxyInfo.port}`],
+    // args: [`--proxy-server=${proxyInfo.url}:${proxyInfo.port}`],
   })
   const page = await browser.newPage()
 
-  await page.authenticate({
-    username: proxyInfo.userName || '',
-    password: proxyInfo.password || '',
-  })
+  // await page.authenticate({
+  //   username: proxyInfo.userName || '',
+  //   password: proxyInfo.password || '',
+  // })
 
   await page.goto(site.url, { timeout: 60000 })
 
@@ -164,3 +164,10 @@ async function run() {
 }
 
 run()
+  .then(() => {
+    process.exit(0)
+  })
+  .catch(error => {
+    console.error(chalk.red(`运行中出现错误：${error.message}`))
+    process.exit(1)
+  })
