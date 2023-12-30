@@ -41,3 +41,4 @@ jobs:
           git commit -m "Automatic data update"
           git push
           echo "提交完成，任务结束。"
+        fi
