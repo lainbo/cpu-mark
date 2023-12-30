@@ -6,37 +6,41 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync:
+  sync-and-process:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          repository: lainbo/cpu-mark
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: cpu-mark
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
+      - name: Install pnpm
+        run: npm install -g pnpm
 
-    - name: Install pnpm
-      run: npm install -g pnpm
+      - name: Install Dependencies
+        run: pnpm install
 
-    - name: Install Dependencies
-      run: pnpm install
+      - name: Run pnpm fetch
+        run: pnpm run fetch
 
-    - name: Run pnpm fetch
-      run: pnpm run fetch
-
-    - name: Check for changes
-      run: |
-        cd cpu-mark
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        if git diff --staged --quiet; then
-          echo "文件相同，不需要提交，任务结束。"
-        else
-          echo "检测到文件变化，正在创建提交..."
-          git commit -m "Automatic data update"
-          git push
-          echo "提交完成，任务结束。"
+      - name: Check for changes
+        run: |
+          cd cpu-mark
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "文件相同，不需要提交，任务结束。"
+          else
+            echo "检测到文件变化，正在创建提交..."
+            git commit -m "Automatic data update"
+            git push
+            echo "提交完成，任务结束。"
