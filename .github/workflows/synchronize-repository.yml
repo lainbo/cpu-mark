@@ -16,20 +16,17 @@ jobs:
           repository: lainbo/cpu-mark
           token: ${{ secrets.GITHUB_TOKEN }}
           path: cpu-mark
-          
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Install pnpm
-        run: npm install -g pnpm
-
       - name: Install Dependencies
-        run: pnpm install
+        run: npm install
 
-      - name: Run pnpm fetch
-        run: pnpm run fetch
+      - name: Run npm fetch
+        run: npm run fetch
 
       - name: Check for changes
         run: |
