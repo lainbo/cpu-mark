@@ -29,6 +29,9 @@ jobs:
 
     - name: Check for changes
       run: |
+        cd gists-hub
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add .
         if git diff --staged --quiet; then
           echo "文件相同，不需要提交，任务结束。"
@@ -37,4 +40,3 @@ jobs:
           git commit -m "Automatic data update"
           git push
           echo "提交完成，任务结束。"
-
