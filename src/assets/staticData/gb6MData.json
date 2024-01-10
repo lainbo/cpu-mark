@@ -325,7 +325,7 @@
   },
   {
     "nameDetail": "Intel Core i5 14600",
-    "mark": 16110
+    "mark": 16150
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX3D",
@@ -548,6 +548,10 @@
     "mark": 13288
   },
   {
+    "nameDetail": "AMD Ryzen 7 8845HS",
+    "mark": 13258
+  },
+  {
     "nameDetail": "Intel Core i9 13905H",
     "mark": 13231
   },
@@ -676,10 +680,6 @@
     "mark": 12075
   },
   {
-    "nameDetail": "AMD Ryzen 7 8845HS",
-    "mark": 12028
-  },
-  {
     "nameDetail": "Intel Xeon Platinum 8360H",
     "mark": 11918
   },
@@ -764,12 +764,12 @@
     "mark": 11211
   },
   {
-    "nameDetail": "Intel Core i9 9980XE",
-    "mark": 11091
+    "nameDetail": "Intel Core Ultra 5 135H",
+    "mark": 11187
   },
   {
-    "nameDetail": "Intel Core Ultra 5 135H",
-    "mark": 11080
+    "nameDetail": "Intel Core i9 9980XE",
+    "mark": 11091
   },
   {
     "nameDetail": "Intel Xeon w5-2455X",
@@ -1284,6 +1284,10 @@
     "mark": 8605
   },
   {
+    "nameDetail": "AMD Ryzen 7 5700",
+    "mark": 8599
+  },
+  {
     "nameDetail": "AMD EPYC 7702",
     "mark": 8594
   },
@@ -1756,16 +1760,16 @@
     "mark": 6631
   },
   {
-    "nameDetail": "AMD Ryzen 3 8440U",
-    "mark": 6590
-  },
-  {
     "nameDetail": "AMD Ryzen 3 7440U",
     "mark": 6571
   },
   {
     "nameDetail": "AMD Ryzen 5 5600HS",
     "mark": 6562
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 8440U",
+    "mark": 6536
   },
   {
     "nameDetail": "Intel Core i7 11375H",
@@ -3990,9 +3994,5 @@
   {
     "nameDetail": "Intel Celeron G3930",
     "mark": 1134
-  },
-  {
-    "nameDetail": "Intel Pentium G4400",
-    "mark": 1130
   }
 ]
