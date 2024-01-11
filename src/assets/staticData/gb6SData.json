@@ -17,11 +17,15 @@
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
-    "mark": 3210
+    "mark": 3206
   },
   {
     "nameDetail": "Apple M3",
     "mark": 3072
+  },
+  {
+    "nameDetail": "Intel Core i9 14900HX",
+    "mark": 3064
   },
   {
     "nameDetail": "Intel Core i9 13980HX",
@@ -40,16 +44,16 @@
     "mark": 2991
   },
   {
-    "nameDetail": "Intel Core i9 14900",
-    "mark": 2989
-  },
-  {
     "nameDetail": "Intel Core i9 14900F",
     "mark": 2985
   },
   {
     "nameDetail": "Qualcomm Snapdragon X Elite",
     "mark": 2980
+  },
+  {
+    "nameDetail": "Intel Core i9 14900",
+    "mark": 2969
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X",
@@ -77,6 +81,10 @@
   },
   {
     "nameDetail": "Intel Core i7-14700K",
+    "mark": 2936
+  },
+  {
+    "nameDetail": "Intel Core i7 14700HX",
     "mark": 2936
   },
   {
@@ -120,20 +128,20 @@
     "mark": 2824
   },
   {
-    "nameDetail": "Intel Core i7 14700",
-    "mark": 2817
+    "nameDetail": "Intel Core i7 14700F",
+    "mark": 2816
   },
   {
     "nameDetail": "Intel Core i7 13790F",
     "mark": 2815
   },
   {
-    "nameDetail": "Apple M2 Ultra",
-    "mark": 2805
+    "nameDetail": "Intel Core i7 14700",
+    "mark": 2815
   },
   {
-    "nameDetail": "Intel Core i7 14700F",
-    "mark": 2804
+    "nameDetail": "Apple M2 Ultra",
+    "mark": 2805
   },
   {
     "nameDetail": "Intel Core Ultra 9 185H",
@@ -153,10 +161,6 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX3D",
-    "mark": 2783
-  },
-  {
-    "nameDetail": "Intel Core i5 14600",
     "mark": 2783
   },
   {
@@ -180,6 +184,10 @@
     "mark": 2770
   },
   {
+    "nameDetail": "Intel Core i5 14600",
+    "mark": 2765
+  },
+  {
     "nameDetail": "AMD Ryzen 9 PRO 7945",
     "mark": 2764
   },
@@ -190,6 +198,10 @@
   {
     "nameDetail": "Intel Core i9 13900HX",
     "mark": 2740
+  },
+  {
+    "nameDetail": "Intel Core i7 14650HX",
+    "mark": 2738
   },
   {
     "nameDetail": "AMD Ryzen 5 7500F",
@@ -216,10 +228,6 @@
     "mark": 2687
   },
   {
-    "nameDetail": "Intel Core i5 14500",
-    "mark": 2680
-  },
-  {
     "nameDetail": "Apple M2 Pro",
     "mark": 2676
   },
@@ -234,6 +242,10 @@
   {
     "nameDetail": "Intel Core i7 13700",
     "mark": 2659
+  },
+  {
+    "nameDetail": "Intel Core i5 14500",
+    "mark": 2658
   },
   {
     "nameDetail": "AMD Threadripper PRO 7995WX",
@@ -261,10 +273,6 @@
   },
   {
     "nameDetail": "Intel Core i7 13800H",
-    "mark": 2608
-  },
-  {
-    "nameDetail": "Intel Core i5 14400",
     "mark": 2608
   },
   {
@@ -306,6 +314,10 @@
   {
     "nameDetail": "Intel Core i9 12900KF",
     "mark": 2550
+  },
+  {
+    "nameDetail": "Intel Core i5 14400",
+    "mark": 2547
   },
   {
     "nameDetail": "Intel Core i7 12700K",
@@ -372,6 +384,10 @@
     "mark": 2434
   },
   {
+    "nameDetail": "Intel Core i5 13500H",
+    "mark": 2430
+  },
+  {
     "nameDetail": "Intel Core i7 12700KF",
     "mark": 2425
   },
@@ -422,6 +438,10 @@
   {
     "nameDetail": "Intel Xeon w9-3495X",
     "mark": 2384
+  },
+  {
+    "nameDetail": "Intel Core i5 14500HX",
+    "mark": 2382
   },
   {
     "nameDetail": "Intel Core i7 12800HX",
@@ -514,6 +534,10 @@
   {
     "nameDetail": "AMD Ryzen 7 8840HS",
     "mark": 2293
+  },
+  {
+    "nameDetail": "Intel Core i5 14450HX",
+    "mark": 2292
   },
   {
     "nameDetail": "Intel Core Ultra 7 165U",
@@ -926,10 +950,6 @@
   {
     "nameDetail": "Intel Xeon Platinum 8468",
     "mark": 2018
-  },
-  {
-    "nameDetail": "Intel Core i5 13500H",
-    "mark": 2015
   },
   {
     "nameDetail": "Intel Xeon E-2334",
@@ -3974,25 +3994,5 @@
   {
     "nameDetail": "Intel Xeon E5-2620 v2",
     "mark": 422
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2620",
-    "mark": 422
-  },
-  {
-    "nameDetail": "Intel Xeon E5-4603",
-    "mark": 422
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2470 v2",
-    "mark": 421
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2670 v2",
-    "mark": 418
-  },
-  {
-    "nameDetail": "Intel Xeon E5620",
-    "mark": 414
   }
 ]

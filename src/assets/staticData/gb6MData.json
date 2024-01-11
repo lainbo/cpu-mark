@@ -32,10 +32,6 @@
     "mark": 23051
   },
   {
-    "nameDetail": "Intel Core i9 14900",
-    "mark": 23021
-  },
-  {
     "nameDetail": "Intel Core i9 14900F",
     "mark": 23010
   },
@@ -48,12 +44,16 @@
     "mark": 22897
   },
   {
+    "nameDetail": "Intel Core i9 14900",
+    "mark": 22823
+  },
+  {
     "nameDetail": "Intel Xeon w9-3475X",
     "mark": 22757
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
-    "mark": 22490
+    "mark": 22498
   },
   {
     "nameDetail": "Intel Core i9 14900K",
@@ -120,16 +120,12 @@
     "mark": 20211
   },
   {
+    "nameDetail": "Intel Core i7 14700F",
+    "mark": 20114
+  },
+  {
     "nameDetail": "AMD Ryzen 9 7950X3D",
     "mark": 20017
-  },
-  {
-    "nameDetail": "Intel Core i7 14700",
-    "mark": 19982
-  },
-  {
-    "nameDetail": "Intel Core i7 14700F",
-    "mark": 19972
   },
   {
     "nameDetail": "AMD EPYC Embedded 9654",
@@ -188,12 +184,20 @@
     "mark": 18895
   },
   {
+    "nameDetail": "Intel Core i9 14900HX",
+    "mark": 18549
+  },
+  {
     "nameDetail": "AMD EPYC 7573X",
     "mark": 18455
   },
   {
     "nameDetail": "Intel Xeon W-3365",
     "mark": 18361
+  },
+  {
+    "nameDetail": "Intel Core i7 14700",
+    "mark": 18325
   },
   {
     "nameDetail": "AMD EPYC Embedded 9254",
@@ -242,6 +246,10 @@
   {
     "nameDetail": "AMD Ryzen 9 7945HX",
     "mark": 17481
+  },
+  {
+    "nameDetail": "Intel Core i7 14700HX",
+    "mark": 17470
   },
   {
     "nameDetail": "Intel Xeon Platinum 8458P",
@@ -324,12 +332,12 @@
     "mark": 16222
   },
   {
-    "nameDetail": "Intel Core i5 14600",
-    "mark": 16150
-  },
-  {
     "nameDetail": "AMD Ryzen 9 7945HX3D",
     "mark": 16080
+  },
+  {
+    "nameDetail": "Intel Core i5 14600",
+    "mark": 15997
   },
   {
     "nameDetail": "Intel Xeon Platinum 8380",
@@ -376,6 +384,10 @@
     "mark": 15066
   },
   {
+    "nameDetail": "Intel Core i5 14500",
+    "mark": 15040
+  },
+  {
     "nameDetail": "Apple M2 Max",
     "mark": 14999
   },
@@ -398,10 +410,6 @@
   {
     "nameDetail": "AMD Ryzen 7 7800X3D",
     "mark": 14702
-  },
-  {
-    "nameDetail": "Intel Core i5 14500",
-    "mark": 14623
   },
   {
     "nameDetail": "Intel Xeon w7-3445",
@@ -476,6 +484,10 @@
     "mark": 13760
   },
   {
+    "nameDetail": "Intel Core i7 14650HX",
+    "mark": 13753
+  },
+  {
     "nameDetail": "Intel Core i5 13600",
     "mark": 13739
   },
@@ -520,16 +532,16 @@
     "mark": 13410
   },
   {
-    "nameDetail": "Intel Core i5 14400",
-    "mark": 13394
-  },
-  {
     "nameDetail": "Intel Core i9 13900",
     "mark": 13390
   },
   {
     "nameDetail": "Intel Core i7 12800HX",
     "mark": 13378
+  },
+  {
+    "nameDetail": "Intel Core i5 14400",
+    "mark": 13356
   },
   {
     "nameDetail": "Intel Core i9 12950HX",
@@ -610,6 +622,10 @@
   {
     "nameDetail": "Intel Core i7 13705H",
     "mark": 12715
+  },
+  {
+    "nameDetail": "Intel Core i5 14500HX",
+    "mark": 12673
   },
   {
     "nameDetail": "AMD Ryzen 5 7500F",
@@ -756,12 +772,20 @@
     "mark": 11276
   },
   {
+    "nameDetail": "Intel Core i5 13500H",
+    "mark": 11261
+  },
+  {
     "nameDetail": "Intel Core i5 13400",
     "mark": 11253
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3990X",
     "mark": 11211
+  },
+  {
+    "nameDetail": "Intel Core i5 14450HX",
+    "mark": 11204
   },
   {
     "nameDetail": "Intel Core Ultra 5 135H",
@@ -1249,10 +1273,6 @@
   },
   {
     "nameDetail": "Intel Core i5 13420H",
-    "mark": 8737
-  },
-  {
-    "nameDetail": "Intel Core i5 13500H",
     "mark": 8737
   },
   {
@@ -3974,25 +3994,5 @@
   {
     "nameDetail": "Intel Xeon E3-1220",
     "mark": 1192
-  },
-  {
-    "nameDetail": "AMD EPYC 7552",
-    "mark": 1185
-  },
-  {
-    "nameDetail": "Intel Pentium Silver N6000",
-    "mark": 1182
-  },
-  {
-    "nameDetail": "Intel Pentium Silver J5040",
-    "mark": 1180
-  },
-  {
-    "nameDetail": "Intel Xeon E5-4610",
-    "mark": 1167
-  },
-  {
-    "nameDetail": "Intel Celeron G3930",
-    "mark": 1134
   }
 ]
