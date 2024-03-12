@@ -41,6 +41,11 @@ export default defineConfig({
       '@': resolve(__dirname, './src'),
     },
   },
+  server: {
+    host: '0.0.0.0',
+    port: 6789,
+    open: true,
+  },
   build: {
     target: 'es2021',
     minify: 'terser',
