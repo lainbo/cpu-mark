@@ -1,35 +1,55 @@
 [
   {
+    "nameDetail": "MediaTek Dimensity 9400",
+    "mark": 3449366
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon 8 Gen 4",
+    "mark": 3133570
+  },
+  {
+    "nameDetail": "Samsung Exynos 2500",
+    "mark": 2519784
+  },
+  {
+    "nameDetail": "Apple M2 iPad",
+    "mark": 2188966
+  },
+  {
     "nameDetail": "Qualcomm Snapdragon 8 Gen 3",
-    "mark": 2104395
+    "mark": 2079542
   },
   {
     "nameDetail": "Mediatek Dimensity 9300",
     "mark": 2073613
   },
   {
-    "nameDetail": "Apple M2 iPad",
-    "mark": 2011173
+    "nameDetail": "Apple A18 Pro",
+    "mark": 1938352
   },
   {
     "nameDetail": "Apple M1 iPad",
-    "mark": 1696070
+    "mark": 1709057
   },
   {
     "nameDetail": "Samsung Exynos 2400",
-    "mark": 1665452
+    "mark": 1648252
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon 8s Gen 3",
+    "mark": 1554839
+  },
+  {
+    "nameDetail": "Apple A17 Pro",
+    "mark": 1549189
   },
   {
     "nameDetail": "MediaTek Dimensity 8300",
-    "mark": 1550129
+    "mark": 1549153
   },
   {
     "nameDetail": "MediaTek Dimensity 9200 Plus",
     "mark": 1548868
-  },
-  {
-    "nameDetail": "Apple A17 Pro",
-    "mark": 1537570
   },
   {
     "nameDetail": "Qualcomm Snapdragon 8 Gen 2",
@@ -37,7 +57,11 @@
   },
   {
     "nameDetail": "Apple A16 Bionic",
-    "mark": 1421750
+    "mark": 1441069
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon 7 Plus Gen 3",
+    "mark": 1366982
   },
   {
     "nameDetail": "Apple A15 Bionic",
@@ -72,6 +96,10 @@
     "mark": 1016809
   },
   {
+    "nameDetail": "HiSilicon Kirin 9010",
+    "mark": 979511
+  },
+  {
     "nameDetail": "Samsung Exynos 2200",
     "mark": 920435
   },
@@ -85,11 +113,11 @@
   },
   {
     "nameDetail": "MediaTek Dimensity 8200",
-    "mark": 897680
+    "mark": 903370
   },
   {
     "nameDetail": "Qualcomm Snapdragon 7 Gen 3",
-    "mark": 873939
+    "mark": 866863
   },
   {
     "nameDetail": "MediaTek Dimensity 8100",
@@ -136,6 +164,10 @@
     "mark": 730531
   },
   {
+    "nameDetail": "Samsung Exynos 1480",
+    "mark": 723950
+  },
+  {
     "nameDetail": "MediaTek Dimensity 8050",
     "mark": 723644
   },
@@ -149,7 +181,7 @@
   },
   {
     "nameDetail": "MediaTek Dimensity 7200",
-    "mark": 713897
+    "mark": 713781
   },
   {
     "nameDetail": "Samsung Exynos 990",
@@ -165,7 +197,7 @@
   },
   {
     "nameDetail": "Samsung Exynos 9825",
-    "mark": 666280
+    "mark": 668347
   },
   {
     "nameDetail": "HiSilicon Kirin 990 5G",
@@ -200,16 +232,16 @@
     "mark": 595452
   },
   {
+    "nameDetail": "Samsung Exynos 1380",
+    "mark": 594469
+  },
+  {
     "nameDetail": "Qualcomm Snapdragon 855",
     "mark": 592031
   },
   {
-    "nameDetail": "Samsung Exynos 1380",
-    "mark": 590756
-  },
-  {
     "nameDetail": "Qualcomm Snapdragon 7s Gen 2",
-    "mark": 583452
+    "mark": 590571
   },
   {
     "nameDetail": "HiSilicon Kirin 980",
@@ -260,6 +292,10 @@
     "mark": 498005
   },
   {
+    "nameDetail": "MediaTek Dimensity 7025",
+    "mark": 495066
+  },
+  {
     "nameDetail": "Unisoc T820",
     "mark": 492038
   },
@@ -276,20 +312,24 @@
     "mark": 480375
   },
   {
-    "nameDetail": "MediaTek Dimensity 7020",
-    "mark": 476443
-  },
-  {
     "nameDetail": "Samsung Exynos 9810",
     "mark": 472858
   },
   {
+    "nameDetail": "MediaTek Dimensity 7020",
+    "mark": 471522
+  },
+  {
     "nameDetail": "MediaTek Dimensity 930",
-    "mark": 462135
+    "mark": 465671
   },
   {
     "nameDetail": "Qualcomm Snapdragon 845",
     "mark": 448489
+  },
+  {
+    "nameDetail": "MediaTek Dimensity 6300",
+    "mark": 447617
   },
   {
     "nameDetail": "Qualcomm Snapdragon 695",
@@ -412,10 +452,6 @@
     "mark": 354293
   },
   {
-    "nameDetail": "Samsung Exynos 8895",
-    "mark": 351448
-  },
-  {
     "nameDetail": "Apple A10 Fusion",
     "mark": 347439
   },
@@ -446,6 +482,10 @@
   {
     "nameDetail": "MediaTek Helio P95",
     "mark": 301054
+  },
+  {
+    "nameDetail": "Samsung Exynos 8895",
+    "mark": 289336
   },
   {
     "nameDetail": "Apple A9",
@@ -588,10 +628,6 @@
     "mark": 179988
   },
   {
-    "nameDetail": "Samsung Exynos 7904",
-    "mark": 179814
-  },
-  {
     "nameDetail": "Qualcomm Snapdragon 630",
     "mark": 171999
   },
@@ -638,6 +674,10 @@
   {
     "nameDetail": "MediaTek Helio P35",
     "mark": 144853
+  },
+  {
+    "nameDetail": "Samsung Exynos 7904",
+    "mark": 141645
   },
   {
     "nameDetail": "MediaTek Helio G35",
