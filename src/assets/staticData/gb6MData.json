@@ -424,10 +424,6 @@
     "mark": 15546
   },
   {
-    "nameDetail": "AMD EPYC 7H12",
-    "mark": 15524
-  },
-  {
     "nameDetail": "Intel Core i7 12700KF",
     "mark": 15374
   },
@@ -586,6 +582,10 @@
   {
     "nameDetail": "Intel Core i5 13600",
     "mark": 13739
+  },
+  {
+    "nameDetail": "AMD EPYC 7763",
+    "mark": 13737
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 7995WX",
@@ -1066,6 +1066,10 @@
   {
     "nameDetail": "Intel Xeon Gold 6154",
     "mark": 10395
+  },
+  {
+    "nameDetail": "AMD EPYC 7H12",
+    "mark": 10386
   },
   {
     "nameDetail": "Intel Core i9 11900KF",
@@ -3978,9 +3982,5 @@
   {
     "nameDetail": "Intel Core i3 10110U",
     "mark": 2170
-  },
-  {
-    "nameDetail": "Intel Xeon E5-1607 v3",
-    "mark": 2158
   }
 ]
