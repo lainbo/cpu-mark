@@ -16,6 +16,10 @@
     "mark": 73220
   },
   {
+    "nameDetail": "AMD EPYC 7742",
+    "mark": 54063
+  },
+  {
     "nameDetail": "AMD Ryzen Threadripper PRO 5975WX",
     "mark": 53977
   },
@@ -69,11 +73,11 @@
   },
   {
     "nameDetail": "Intel Core i9 14900F",
-    "mark": 36839
+    "mark": 36764
   },
   {
     "nameDetail": "Intel Core i9 14900",
-    "mark": 36301
+    "mark": 36086
   },
   {
     "nameDetail": "Intel Core i9 13900",
@@ -97,35 +101,35 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX",
-    "mark": 34437
+    "mark": 34581
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX3D",
-    "mark": 33377
+    "mark": 33745
+  },
+  {
+    "nameDetail": "Intel Core i7 14700F",
+    "mark": 33438
   },
   {
     "nameDetail": "AMD Ryzen 9 7940HX",
     "mark": 33284
   },
   {
-    "nameDetail": "Intel Core i7 14700F",
-    "mark": 33186
-  },
-  {
     "nameDetail": "Intel Core i7 14700",
-    "mark": 32766
+    "mark": 32854
   },
   {
     "nameDetail": "Intel Core i9 14900HX",
-    "mark": 31908
+    "mark": 32059
+  },
+  {
+    "nameDetail": "Intel Core i9 13980HX",
+    "mark": 31419
   },
   {
     "nameDetail": "Intel Xeon W-3175X",
     "mark": 31350
-  },
-  {
-    "nameDetail": "Intel Core i9 13980HX",
-    "mark": 31247
   },
   {
     "nameDetail": "Intel Core i7 13700K",
@@ -153,19 +157,19 @@
   },
   {
     "nameDetail": "Apple M2 Ultra",
-    "mark": 29227
+    "mark": 29150
+  },
+  {
+    "nameDetail": "Intel Core i9 13950HX",
+    "mark": 28869
   },
   {
     "nameDetail": "Intel Core i9 13900HX",
-    "mark": 28860
+    "mark": 28858
   },
   {
     "nameDetail": "AMD Ryzen 9 5950X",
     "mark": 28782
-  },
-  {
-    "nameDetail": "Intel Core i9 13950HX",
-    "mark": 28764
   },
   {
     "nameDetail": "Intel Core i9 12900KS",
@@ -184,16 +188,12 @@
     "mark": 27175
   },
   {
-    "nameDetail": "Intel Core i9 9980XE",
-    "mark": 27093
-  },
-  {
     "nameDetail": "AMD Ryzen 9 7900X3D",
     "mark": 27084
   },
   {
     "nameDetail": "AMD Ryzen 9 7845HX",
-    "mark": 26460
+    "mark": 26842
   },
   {
     "nameDetail": "Intel Core i9 12900F",
@@ -212,24 +212,32 @@
     "mark": 26247
   },
   {
-    "nameDetail": "Intel Core i9 10980XE",
-    "mark": 25490
-  },
-  {
-    "nameDetail": "Intel Core i7 13700",
-    "mark": 25403
+    "nameDetail": "Intel Core i7 13850HX",
+    "mark": 26183
   },
   {
     "nameDetail": "Intel Core i7 13700F",
     "mark": 25403
   },
   {
-    "nameDetail": "Intel Core i7 13850HX",
-    "mark": 24854
+    "nameDetail": "Intel Core i7 13700",
+    "mark": 25371
+  },
+  {
+    "nameDetail": "Intel Core i5 14600",
+    "mark": 24164
   },
   {
     "nameDetail": "Apple M3 Max",
-    "mark": 24128
+    "mark": 24163
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 3950X",
+    "mark": 24018
+  },
+  {
+    "nameDetail": "Intel Core i7 14650HX",
+    "mark": 24004
   },
   {
     "nameDetail": "Intel Core i5 14600K",
@@ -240,10 +248,6 @@
     "mark": 23983
   },
   {
-    "nameDetail": "Intel Core i7 14650HX",
-    "mark": 23939
-  },
-  {
     "nameDetail": "Intel Core i5 13600K",
     "mark": 23847
   },
@@ -252,20 +256,12 @@
     "mark": 23847
   },
   {
-    "nameDetail": "Intel Core i5 14600",
-    "mark": 23807
-  },
-  {
-    "nameDetail": "Apple M1 Ultra",
-    "mark": 23663
+    "nameDetail": "Intel Core i9 12900HX",
+    "mark": 23222
   },
   {
     "nameDetail": "Intel Core i9 12950HX",
-    "mark": 23538
-  },
-  {
-    "nameDetail": "Intel Core i9 12900HX",
-    "mark": 23178
+    "mark": 23023
   },
   {
     "nameDetail": "Intel Core i7 12700K",
@@ -276,44 +272,52 @@
     "mark": 22801
   },
   {
-    "nameDetail": "AMD Ryzen 9 3950X",
-    "mark": 22703
+    "nameDetail": "Intel Core i9 9980XE",
+    "mark": 22424
+  },
+  {
+    "nameDetail": "Apple M1 Ultra",
+    "mark": 22394
   },
   {
     "nameDetail": "Intel Core i7 14700HX",
-    "mark": 22325
+    "mark": 22342
   },
   {
     "nameDetail": "Intel Core i5 14500",
-    "mark": 22049
+    "mark": 22261
+  },
+  {
+    "nameDetail": "Intel Core i5 13600",
+    "mark": 22240
   },
   {
     "nameDetail": "AMD Ryzen 9 5900X",
     "mark": 22046
   },
   {
-    "nameDetail": "Intel Core i5 13600",
-    "mark": 22005
+    "nameDetail": "Intel Core i9 10980XE",
+    "mark": 21450
   },
   {
     "nameDetail": "Intel Core i7 13650HX",
-    "mark": 21174
-  },
-  {
-    "nameDetail": "Intel Core i9 13900HK",
-    "mark": 20967
+    "mark": 21176
   },
   {
     "nameDetail": "Intel Core i5 13500",
-    "mark": 20870
+    "mark": 21131
+  },
+  {
+    "nameDetail": "Intel Core i9 13900HK",
+    "mark": 21009
   },
   {
     "nameDetail": "AMD Ryzen 9 5900",
-    "mark": 20819
+    "mark": 20814
   },
   {
     "nameDetail": "Intel Core i7 13700HX",
-    "mark": 20288
+    "mark": 20382
   },
   {
     "nameDetail": "Intel Core i5 13600HX",
@@ -321,23 +325,19 @@
   },
   {
     "nameDetail": "Intel Core i9 13905H",
-    "mark": 20204
+    "mark": 20160
   },
   {
     "nameDetail": "Intel Core i7 12800HX",
-    "mark": 19951
+    "mark": 20113
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 7700X",
+    "mark": 20058
   },
   {
     "nameDetail": "AMD Ryzen 7 7700",
     "mark": 19910
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 7700X",
-    "mark": 19879
-  },
-  {
-    "nameDetail": "Intel Core i7 12700",
-    "mark": 19795
   },
   {
     "nameDetail": "Intel Core i7 12700F",
@@ -349,71 +349,79 @@
   },
   {
     "nameDetail": "Intel Core i7 13800H",
-    "mark": 18974
+    "mark": 19186
+  },
+  {
+    "nameDetail": "Intel Core i7 13705H",
+    "mark": 18841
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 2950X",
     "mark": 18797
   },
   {
-    "nameDetail": "Intel Core i7 13705H",
-    "mark": 18757
+    "nameDetail": "AMD Ryzen 9 3900X",
+    "mark": 18656
   },
   {
     "nameDetail": "Intel Core i5 14500HX",
-    "mark": 18610
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 3900X",
-    "mark": 18529
-  },
-  {
-    "nameDetail": "Intel Core i9 12900HK",
-    "mark": 18523
+    "mark": 18651
   },
   {
     "nameDetail": "Intel Core Ultra 9 185H",
-    "mark": 18423
+    "mark": 18495
   },
   {
     "nameDetail": "AMD Ryzen 9 3900XT",
-    "mark": 18391
+    "mark": 18436
   },
   {
     "nameDetail": "Intel Core i5 13500HX",
-    "mark": 18255
+    "mark": 18264
   },
   {
-    "nameDetail": "Intel Core i9 7980XE",
-    "mark": 18066
+    "nameDetail": "Intel Core i9 12900HK",
+    "mark": 18259
   },
   {
     "nameDetail": "AMD Ryzen 7 7745HX",
-    "mark": 17963
+    "mark": 18189
   },
   {
-    "nameDetail": "Intel Core i9 9960X",
-    "mark": 17953
+    "nameDetail": "AMD Ryzen 7 8700G",
+    "mark": 18057
+  },
+  {
+    "nameDetail": "Intel Core i9 7980XE",
+    "mark": 18030
+  },
+  {
+    "nameDetail": "Intel Core i5 14400",
+    "mark": 17967
   },
   {
     "nameDetail": "Intel Core i9 13900H",
-    "mark": 17911
+    "mark": 17935
   },
   {
     "nameDetail": "AMD Ryzen 7 7840H",
     "mark": 17887
   },
   {
+    "nameDetail": "Intel Core i9 9960X",
+    "mark": 17841
+  },
+  {
     "nameDetail": "AMD Ryzen 7 7800X3D",
     "mark": 17762
   },
   {
-    "nameDetail": "Intel Core i5 14400",
-    "mark": 17750
+    "nameDetail": "Intel Core i7 13700H",
+    "mark": 17738
   },
   {
-    "nameDetail": "Intel Core i7 13700H",
-    "mark": 17656
+    "nameDetail": "Intel Core i7 12700",
+    "mark": 17734
   },
   {
     "nameDetail": "Intel Core i5 12600KF",
@@ -425,79 +433,79 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7940HS",
-    "mark": 17645
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 8845HS",
-    "mark": 17010
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 7840HS",
-    "mark": 16992
+    "mark": 17585
   },
   {
     "nameDetail": "AMD Ryzen 9 8945HS",
-    "mark": 16979
+    "mark": 17203
   },
   {
-    "nameDetail": "Intel Core i9 12900H",
-    "mark": 16654
+    "nameDetail": "AMD Ryzen 7 8845HS",
+    "mark": 17174
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 7840HS",
+    "mark": 17144
   },
   {
     "nameDetail": "Intel Core i5 13490F",
     "mark": 16605
   },
   {
+    "nameDetail": "Intel Core i9 12900H",
+    "mark": 16522
+  },
+  {
+    "nameDetail": "Intel Core i5 14400F",
+    "mark": 16408
+  },
+  {
+    "nameDetail": "Intel Core i7 12700H",
+    "mark": 16389
+  },
+  {
     "nameDetail": "Intel Core i7 12850HX",
     "mark": 16286
   },
   {
-    "nameDetail": "Intel Core i9 10940X",
-    "mark": 16213
+    "nameDetail": "AMD Ryzen 7 8840HS",
+    "mark": 16278
   },
   {
     "nameDetail": "Intel Core i9 11900K",
     "mark": 16211
   },
   {
-    "nameDetail": "Intel Core i7 12700H",
-    "mark": 16179
-  },
-  {
-    "nameDetail": "Intel Core i5 14400F",
-    "mark": 16160
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 8840HS",
-    "mark": 16151
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 165H",
-    "mark": 15886
-  },
-  {
-    "nameDetail": "Intel Core i7 12800H",
-    "mark": 15732
-  },
-  {
-    "nameDetail": "Intel Core i7 13620H",
-    "mark": 15566
+    "nameDetail": "Intel Core i9 10940X",
+    "mark": 16117
   },
   {
     "nameDetail": "Intel Core i9 10850K",
-    "mark": 15492
+    "mark": 15922
   },
   {
-    "nameDetail": "Intel Core i9 10920X",
-    "mark": 15458
+    "nameDetail": "Intel Core i7 12800H",
+    "mark": 15773
   },
   {
-    "nameDetail": "Intel Core i9 9940X",
-    "mark": 15373
+    "nameDetail": "Intel Core Ultra 7 165H",
+    "mark": 15749
+  },
+  {
+    "nameDetail": "Intel Core i7 13620H",
+    "mark": 15517
   },
   {
     "nameDetail": "Intel Core i5 14450HX",
-    "mark": 15320
+    "mark": 15480
+  },
+  {
+    "nameDetail": "Intel Core i9 10920X",
+    "mark": 15354
+  },
+  {
+    "nameDetail": "Intel Core i9 9940X",
+    "mark": 15351
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 2920X",
@@ -513,15 +521,11 @@
   },
   {
     "nameDetail": "Apple M3 Pro",
-    "mark": 15160
-  },
-  {
-    "nameDetail": "Intel Core i9 7960X",
-    "mark": 15089
+    "mark": 15139
   },
   {
     "nameDetail": "Intel Core i5 13600H",
-    "mark": 15076
+    "mark": 15090
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 1920X",
@@ -536,32 +540,32 @@
     "mark": 15011
   },
   {
+    "nameDetail": "Intel Core i5 13450HX",
+    "mark": 15001
+  },
+  {
+    "nameDetail": "Intel Core i9 7960X",
+    "mark": 14950
+  },
+  {
     "nameDetail": "Apple M2 Max",
-    "mark": 14878
+    "mark": 14912
   },
   {
     "nameDetail": "Intel Core Ultra 7 155H",
-    "mark": 14862
-  },
-  {
-    "nameDetail": "Intel Core i5 13450HX",
-    "mark": 14838
+    "mark": 14876
   },
   {
     "nameDetail": "Intel Core i9 9920X",
-    "mark": 14793
+    "mark": 14734
   },
   {
     "nameDetail": "AMD Ryzen 9 6980HS",
-    "mark": 14712
+    "mark": 14624
   },
   {
     "nameDetail": "AMD Ryzen 9 6980HX",
-    "mark": 14699
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 6800H",
-    "mark": 14619
+    "mark": 14576
   },
   {
     "nameDetail": "Qualcomm Snapdragon X Elite",
@@ -572,16 +576,20 @@
     "mark": 14514
   },
   {
+    "nameDetail": "Intel Core i5 13500H",
+    "mark": 14474
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7600",
+    "mark": 14433
+  },
+  {
     "nameDetail": "Intel Core i5 13505H",
     "mark": 14405
   },
   {
-    "nameDetail": "Intel Core i5 13500H",
-    "mark": 14346
-  },
-  {
-    "nameDetail": "Intel Core i9 10900X",
-    "mark": 14312
+    "nameDetail": "AMD Ryzen 9 6900HX",
+    "mark": 14392
   },
   {
     "nameDetail": "Intel Core i5 13400",
@@ -592,8 +600,8 @@
     "mark": 14311
   },
   {
-    "nameDetail": "AMD Ryzen 5 7600",
-    "mark": 14279
+    "nameDetail": "Intel Core i9 10900X",
+    "mark": 14275
   },
   {
     "nameDetail": "Intel Core i9 11900KF",
@@ -601,51 +609,59 @@
   },
   {
     "nameDetail": "Intel Core i7 12650H",
-    "mark": 14183
+    "mark": 14143
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X",
-    "mark": 14067
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 5800",
-    "mark": 14048
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 5700G",
-    "mark": 14029
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 6900HX",
-    "mark": 14002
-  },
-  {
-    "nameDetail": "Intel Core i9 9900X",
-    "mark": 13994
-  },
-  {
-    "nameDetail": "Intel Core Ultra 5 135H",
-    "mark": 13990
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 6900HS",
-    "mark": 13984
-  },
-  {
-    "nameDetail": "Apple M2 Pro",
-    "mark": 13891
-  },
-  {
-    "nameDetail": "Intel Core i9 11980HK",
-    "mark": 13846
+    "mark": 14114
   },
   {
     "nameDetail": "AMD Ryzen 5 7645HX",
-    "mark": 13836
+    "mark": 14098
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5800",
+    "mark": 14016
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5700G",
+    "mark": 13986
+  },
+  {
+    "nameDetail": "Intel Core i5 12500H",
+    "mark": 13980
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 135H",
+    "mark": 13967
+  },
+  {
+    "nameDetail": "Intel Core i9 9900X",
+    "mark": 13952
+  },
+  {
+    "nameDetail": "Apple M2 Pro",
+    "mark": 13932
+  },
+  {
+    "nameDetail": "Intel Core i9 11980HK",
+    "mark": 13888
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7500F",
+    "mark": 13864
   },
   {
     "nameDetail": "AMD Ryzen 7 3800X",
-    "mark": 13780
+    "mark": 13863
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 6800H",
+    "mark": 13854
+  },
+  {
+    "nameDetail": "Intel Core i5 12600H",
+    "mark": 13782
   },
   {
     "nameDetail": "Intel Core i9 10900K",
@@ -656,160 +672,148 @@
     "mark": 13761
   },
   {
-    "nameDetail": "Intel Core i5 12600H",
-    "mark": 13699
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7500F",
-    "mark": 13694
-  },
-  {
     "nameDetail": "AMD Ryzen 7 7735HS",
-    "mark": 13573
-  },
-  {
-    "nameDetail": "Intel Core i7 7820X",
-    "mark": 13468
+    "mark": 13630
   },
   {
     "nameDetail": "Intel Core i5 12600",
-    "mark": 13395
+    "mark": 13559
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8600G",
+    "mark": 13529
+  },
+  {
+    "nameDetail": "Intel Core i9 10900",
+    "mark": 13406
   },
   {
     "nameDetail": "AMD Ryzen 5 8400F",
     "mark": 13361
   },
   {
-    "nameDetail": "Intel Core i9 10900",
-    "mark": 13321
+    "nameDetail": "Intel Core i7 7820X",
+    "mark": 13358
   },
   {
     "nameDetail": "Intel Core i9 11900",
-    "mark": 13238
-  },
-  {
-    "nameDetail": "Intel Core i5 12500H",
-    "mark": 13207
-  },
-  {
-    "nameDetail": "Intel Core i9 11900F",
-    "mark": 13150
+    "mark": 13282
   },
   {
     "nameDetail": "Intel Core i7 1370P",
-    "mark": 13089
+    "mark": 13167
   },
   {
-    "nameDetail": "Intel Core i7 9800X",
-    "mark": 13055
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 8645HS",
-    "mark": 13002
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7640HS",
-    "mark": 12971
+    "nameDetail": "AMD Ryzen 9 6900HS",
+    "mark": 13121
   },
   {
     "nameDetail": "AMD Ryzen 5 8640HS",
-    "mark": 12971
+    "mark": 13110
   },
   {
-    "nameDetail": "AMD Ryzen 7 3800XT",
-    "mark": 12897
+    "nameDetail": "AMD Ryzen 5 8645HS",
+    "mark": 13085
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7640HS",
+    "mark": 13055
+  },
+  {
+    "nameDetail": "Intel Core i9 11900F",
+    "mark": 13033
   },
   {
     "nameDetail": "AMD Ryzen 7 8840U",
-    "mark": 12890
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 5980HS",
-    "mark": 12844
+    "mark": 13000
   },
   {
     "nameDetail": "AMD Ryzen 7 7840U",
-    "mark": 12833
+    "mark": 12992
   },
   {
-    "nameDetail": "AMD Ryzen 7 Pro 4750G",
-    "mark": 12814
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 5900H",
-    "mark": 12791
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 5900HX",
-    "mark": 12783
-  },
-  {
-    "nameDetail": "Intel Core i9 11950H",
-    "mark": 12758
-  },
-  {
-    "nameDetail": "Intel Core i5 13420H",
-    "mark": 12741
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 5900HS",
-    "mark": 12702
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 7736U",
-    "mark": 12695
-  },
-  {
-    "nameDetail": "Intel Core i9 9900KF",
-    "mark": 12691
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 4700G",
-    "mark": 12687
-  },
-  {
-    "nameDetail": "Intel Core i7 10700KF",
-    "mark": 12651
-  },
-  {
-    "nameDetail": "Intel Core i7 10700K",
-    "mark": 12647
-  },
-  {
-    "nameDetail": "Intel Core Ultra 5 125H",
-    "mark": 12639
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 6800HS",
-    "mark": 12618
+    "nameDetail": "AMD Ryzen 7 3800XT",
+    "mark": 12960
   },
   {
     "nameDetail": "Intel Core i9 9900KS",
-    "mark": 12615
+    "mark": 12951
   },
   {
-    "nameDetail": "Intel Core i9 10900T",
-    "mark": 12497
+    "nameDetail": "Intel Core i7 9800X",
+    "mark": 12945
+  },
+  {
+    "nameDetail": "Intel Core i7 10700K",
+    "mark": 12883
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 5900H",
+    "mark": 12815
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 5900HX",
+    "mark": 12809
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 7736U",
+    "mark": 12801
+  },
+  {
+    "nameDetail": "Intel Core i5 12500",
+    "mark": 12721
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 5900HS",
+    "mark": 12706
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 5980HS",
+    "mark": 12697
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 Pro 4750G",
+    "mark": 12693
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 125H",
+    "mark": 12678
+  },
+  {
+    "nameDetail": "Intel Core i7 10700KF",
+    "mark": 12674
+  },
+  {
+    "nameDetail": "Intel Core i9 11950H",
+    "mark": 12649
+  },
+  {
+    "nameDetail": "Intel Core i9 9900KF",
+    "mark": 12606
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 6800HS",
+    "mark": 12603
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 4700G",
+    "mark": 12570
+  },
+  {
+    "nameDetail": "Intel Core i9 9900K",
+    "mark": 12500
   },
   {
     "nameDetail": "Intel Core i5 12490F",
     "mark": 12488
   },
   {
-    "nameDetail": "Intel Core i5 12500",
-    "mark": 12458
+    "nameDetail": "Intel Core i9 10900T",
+    "mark": 12454
   },
   {
     "nameDetail": "Apple M1 Max",
-    "mark": 12414
-  },
-  {
-    "nameDetail": "Intel Core i9 9900K",
-    "mark": 12368
-  },
-  {
-    "nameDetail": "Intel Core i7 1360P",
-    "mark": 12366
+    "mark": 12415
   },
   {
     "nameDetail": "Intel Core i5 12400",
@@ -821,63 +825,79 @@
   },
   {
     "nameDetail": "Intel Core i7 11850H",
-    "mark": 12337
+    "mark": 12316
   },
   {
-    "nameDetail": "Intel Core i7 10700F",
-    "mark": 12236
-  },
-  {
-    "nameDetail": "Intel Core i9 9900",
-    "mark": 12123
+    "nameDetail": "Intel Core i7 1360P",
+    "mark": 12289
   },
   {
     "nameDetail": "AMD Ryzen 7 5800H",
-    "mark": 12121
+    "mark": 12224
+  },
+  {
+    "nameDetail": "Intel Core i7 10700F",
+    "mark": 12223
   },
   {
     "nameDetail": "AMD Ryzen 7 3700X",
-    "mark": 12089
+    "mark": 12181
   },
   {
     "nameDetail": "Intel Core i7 11800H",
-    "mark": 12088
+    "mark": 12180
   },
   {
     "nameDetail": "Intel Core i9 11900H",
-    "mark": 12041
+    "mark": 12130
   },
   {
     "nameDetail": "Apple M1 Pro",
-    "mark": 12024
+    "mark": 12090
+  },
+  {
+    "nameDetail": "Intel Core i9 9900",
+    "mark": 12084
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 Pro 6850U",
+    "mark": 12076
   },
   {
     "nameDetail": "AMD Ryzen 9 5980HX",
-    "mark": 11888
+    "mark": 11963
+  },
+  {
+    "nameDetail": "Intel Core i5 13420H",
+    "mark": 11925
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8640U",
+    "mark": 11872
   },
   {
     "nameDetail": "Intel Core i9 7900X",
-    "mark": 11851
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 5600X",
-    "mark": 11778
+    "mark": 11804
   },
   {
     "nameDetail": "Intel Core i7 1280P",
-    "mark": 11577
+    "mark": 11581
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 5600X",
+    "mark": 11567
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8500G",
+    "mark": 11521
   },
   {
     "nameDetail": "AMD Ryzen 7 4700GE",
-    "mark": 11506
+    "mark": 11392
   },
   {
     "nameDetail": "Intel Core i7 6900K",
     "mark": 11326
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 4900H",
-    "mark": 11308
   },
   {
     "nameDetail": "Intel Core i5 11600K",
@@ -888,100 +908,96 @@
     "mark": 11277
   },
   {
-    "nameDetail": "AMD Ryzen 5 5600G",
-    "mark": 11237
+    "nameDetail": "AMD Ryzen 9 4900H",
+    "mark": 11230
   },
   {
     "nameDetail": "Intel Core i5 1350P",
-    "mark": 11204
-  },
-  {
-    "nameDetail": "Intel Core i5 11600",
-    "mark": 11158
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7640U",
-    "mark": 11126
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 8640U",
-    "mark": 11123
+    "mark": 11183
   },
   {
     "nameDetail": "AMD Ryzen 7 4800H",
-    "mark": 11102
+    "mark": 11137
+  },
+  {
+    "nameDetail": "Intel Core i5 11600",
+    "mark": 11107
   },
   {
     "nameDetail": "Intel Core i7 11700F",
-    "mark": 11028
+    "mark": 11087
   },
   {
-    "nameDetail": "Intel Core i7 11700",
-    "mark": 11008
+    "nameDetail": "AMD Ryzen 5 5600",
+    "mark": 11071
   },
   {
-    "nameDetail": "AMD Ryzen 9 4900HS",
-    "mark": 10970
+    "nameDetail": "AMD Ryzen 5 7640U",
+    "mark": 11059
   },
   {
     "nameDetail": "AMD Ryzen 5 7535HS",
-    "mark": 10824
+    "mark": 10915
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 7730U",
+    "mark": 10831
   },
   {
     "nameDetail": "AMD Ryzen Z1 Extreme",
     "mark": 10818
   },
   {
-    "nameDetail": "AMD Ryzen 7 7730U",
-    "mark": 10784
-  },
-  {
-    "nameDetail": "Intel Core i9 10900F",
-    "mark": 10776
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 5600",
-    "mark": 10600
+    "nameDetail": "AMD Ryzen 5 5600G",
+    "mark": 10782
   },
   {
     "nameDetail": "Intel Core i5 1340P",
-    "mark": 10562
+    "mark": 10717
   },
   {
-    "nameDetail": "AMD Ryzen 7 4800HS",
-    "mark": 10546
-  },
-  {
-    "nameDetail": "Intel Core i7 11600H",
-    "mark": 10540
+    "nameDetail": "Intel Core i9 10900F",
+    "mark": 10677
   },
   {
     "nameDetail": "Intel Core i9 10980HK",
-    "mark": 10530
-  },
-  {
-    "nameDetail": "Apple M3",
-    "mark": 10489
-  },
-  {
-    "nameDetail": "Intel Core i5 10600K",
-    "mark": 10487
-  },
-  {
-    "nameDetail": "Intel Core i5 10600KF",
-    "mark": 10480
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 6800U​",
-    "mark": 10453
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 5800HS",
-    "mark": 10404
+    "mark": 10578
   },
   {
     "nameDetail": "AMD Ryzen 5 5500",
-    "mark": 10379
+    "mark": 10573
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8540U",
+    "mark": 10508
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 4800HS",
+    "mark": 10499
+  },
+  {
+    "nameDetail": "Apple M3",
+    "mark": 10497
+  },
+  {
+    "nameDetail": "Intel Core i7 11600H",
+    "mark": 10479
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5800HS",
+    "mark": 10473
+  },
+  {
+    "nameDetail": "Intel Core i5 10600KF",
+    "mark": 10471
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 4900HS",
+    "mark": 10320
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 6800U​",
+    "mark": 10278
   },
   {
     "nameDetail": "AMD Ryzen 5 5600X3D",
@@ -989,619 +1005,635 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 6600H",
-    "mark": 10215
-  },
-  {
-    "nameDetail": "Intel Core i9 9900T",
-    "mark": 10202
-  },
-  {
-    "nameDetail": "Intel Core i7 10700T",
-    "mark": 10194
-  },
-  {
-    "nameDetail": "Intel Core i7 8086K",
-    "mark": 10156
+    "mark": 10228
   },
   {
     "nameDetail": "Intel Core i5 11400F",
-    "mark": 10139
+    "mark": 10213
+  },
+  {
+    "nameDetail": "Intel Core i9 9900T",
+    "mark": 10187
+  },
+  {
+    "nameDetail": "Intel Core i7 10700T",
+    "mark": 10151
   },
   {
     "nameDetail": "Intel Core Ultra 7 165U",
-    "mark": 10122
+    "mark": 10126
+  },
+  {
+    "nameDetail": "Intel Core i7 11700",
+    "mark": 10116
+  },
+  {
+    "nameDetail": "Intel Core i7 8086K",
+    "mark": 10110
   },
   {
     "nameDetail": "AMD Ryzen 7 2700X",
-    "mark": 10058
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 Pro 4750GE",
-    "mark": 10038
+    "mark": 10107
   },
   {
     "nameDetail": "AMD Ryzen 7 7735U",
-    "mark": 10004
+    "mark": 10107
   },
   {
-    "nameDetail": "AMD Ryzen 7 Pro 6850U",
-    "mark": 9950
+    "nameDetail": "Intel Core i5 10600K",
+    "mark": 10032
   },
   {
-    "nameDetail": "AMD Ryzen 5 3600XT",
-    "mark": 9945
-  },
-  {
-    "nameDetail": "Intel Core i7 5960X",
-    "mark": 9918
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 8540U",
-    "mark": 9887
-  },
-  {
-    "nameDetail": "Intel Core i5 12450H",
-    "mark": 9846
+    "nameDetail": "AMD Ryzen 7 Pro 4750GE",
+    "mark": 9995
   },
   {
     "nameDetail": "AMD Ryzen 5 7540U",
-    "mark": 9822
+    "mark": 9971
+  },
+  {
+    "nameDetail": "Intel Core i5 12450H",
+    "mark": 9959
   },
   {
     "nameDetail": "Intel Core i7 10870H",
-    "mark": 9817
-  },
-  {
-    "nameDetail": "Intel Core i7 6950X",
-    "mark": 9803
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 6600U",
-    "mark": 9788
-  },
-  {
-    "nameDetail": "Intel Core i5 11500",
-    "mark": 9787
-  },
-  {
-    "nameDetail": "Intel Core i7 1260P",
-    "mark": 9731
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7535U",
-    "mark": 9703
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 5825U",
-    "mark": 9700
-  },
-  {
-    "nameDetail": "Intel Core 7 150U",
-    "mark": 9670
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 4800U",
-    "mark": 9658
-  },
-  {
-    "nameDetail": "Intel Core i7 1270P",
-    "mark": 9652
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 155U",
-    "mark": 9648
+    "mark": 9892
   },
   {
     "nameDetail": "AMD Ryzen 5 5600H",
-    "mark": 9635
+    "mark": 9869
   },
   {
-    "nameDetail": "Intel Core i5 11400",
-    "mark": 9556
+    "nameDetail": "Intel Core i7 5960X",
+    "mark": 9850
   },
   {
-    "nameDetail": "Intel Core i5 11500H",
-    "mark": 9537
+    "nameDetail": "AMD Ryzen 7 5825U",
+    "mark": 9848
   },
   {
-    "nameDetail": "AMD Ryzen 5 3600X",
-    "mark": 9526
+    "nameDetail": "AMD Ryzen 5 7535U",
+    "mark": 9814
+  },
+  {
+    "nameDetail": "Intel Core i7 10700",
+    "mark": 9808
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 3600XT",
+    "mark": 9770
+  },
+  {
+    "nameDetail": "Intel Core i7 6950X",
+    "mark": 9743
+  },
+  {
+    "nameDetail": "Intel Core i5 11500",
+    "mark": 9727
+  },
+  {
+    "nameDetail": "Intel Core i7 1270P",
+    "mark": 9698
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 155U",
+    "mark": 9634
+  },
+  {
+    "nameDetail": "Intel Core 7 150U",
+    "mark": 9613
   },
   {
     "nameDetail": "AMD Ryzen 3 8300G",
-    "mark": 9512
+    "mark": 9598
   },
   {
-    "nameDetail": "Intel Core i7 9700K",
-    "mark": 9428
+    "nameDetail": "Intel Core i5 11400",
+    "mark": 9587
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 3600X",
+    "mark": 9503
+  },
+  {
+    "nameDetail": "Intel Core i5 11500H",
+    "mark": 9489
   },
   {
     "nameDetail": "Intel Core i9 10885H",
-    "mark": 9404
-  },
-  {
-    "nameDetail": "Intel Core i7 1355U",
-    "mark": 9362
+    "mark": 9432
   },
   {
     "nameDetail": "Intel Core i7 1365U",
-    "mark": 9339
+    "mark": 9423
   },
   {
-    "nameDetail": "AMD Ryzen 7 1800X",
-    "mark": 9311
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7530U",
-    "mark": 9283
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 4600G",
-    "mark": 9280
-  },
-  {
-    "nameDetail": "Intel Core i5 1250P",
-    "mark": 9250
-  },
-  {
-    "nameDetail": "Intel Core i5 11400H",
-    "mark": 9236
-  },
-  {
-    "nameDetail": "Intel Core i5 1240P",
-    "mark": 9211
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 Pro 4650G",
-    "mark": 9209
-  },
-  {
-    "nameDetail": "Intel Core i7 9700KF",
-    "mark": 9132
-  },
-  {
-    "nameDetail": "Intel Core i3 14100",
-    "mark": 9117
-  },
-  {
-    "nameDetail": "Intel Core i3 14100F",
-    "mark": 9114
-  },
-  {
-    "nameDetail": "Intel Core 5 120U",
-    "mark": 9114
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 Pro 6650U",
-    "mark": 9112
+    "nameDetail": "Intel Core i7 9700K",
+    "mark": 9406
   },
   {
     "nameDetail": "AMD Ryzen 5 3600",
-    "mark": 9073
+    "mark": 9354
+  },
+  {
+    "nameDetail": "Intel Core i7 1355U",
+    "mark": 9334
+  },
+  {
+    "nameDetail": "Intel Core i5 1250P",
+    "mark": 9312
+  },
+  {
+    "nameDetail": "Intel Core i5 11400H",
+    "mark": 9297
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 4600G",
+    "mark": 9294
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 1800X",
+    "mark": 9232
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 Pro 4650G",
+    "mark": 9229
+  },
+  {
+    "nameDetail": "Intel Core 5 120U",
+    "mark": 9158
+  },
+  {
+    "nameDetail": "Intel Core i7 1260P",
+    "mark": 9116
+  },
+  {
+    "nameDetail": "Intel Core i7 9700KF",
+    "mark": 9090
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 7440U",
+    "mark": 9080
   },
   {
     "nameDetail": "AMD Ryzen 5 6600HS",
     "mark": 9045
   },
   {
-    "nameDetail": "Intel Core i5 1335U",
-    "mark": 9032
+    "nameDetail": "AMD Ryzen 3 8440U",
+    "mark": 9029
   },
   {
-    "nameDetail": "AMD Ryzen 3 8440U",
-    "mark": 9032
+    "nameDetail": "AMD Ryzen 7 4800U",
+    "mark": 8999
   },
   {
     "nameDetail": "AMD Ryzen 7 5700U",
-    "mark": 9008
+    "mark": 8992
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 2700",
+    "mark": 8982
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 1900X",
     "mark": 8979
   },
   {
-    "nameDetail": "AMD Ryzen 3 7440U",
-    "mark": 8949
+    "nameDetail": "Intel Core i5 11260H",
+    "mark": 8973
   },
   {
-    "nameDetail": "Intel Core i5 10600",
-    "mark": 8944
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 2700",
-    "mark": 8943
+    "nameDetail": "Intel Core i5 1335U",
+    "mark": 8941
   },
   {
     "nameDetail": "AMD Ryzen 5 4600HS",
-    "mark": 8931
+    "mark": 8926
   },
   {
-    "nameDetail": "Intel Core i5 11260H",
-    "mark": 8929
+    "nameDetail": "Intel Core i5 10600",
+    "mark": 8925
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 6600U",
+    "mark": 8923
   },
   {
     "nameDetail": "Intel Core i7 10875H",
-    "mark": 8837
+    "mark": 8870
   },
   {
-    "nameDetail": "Intel Core i7 8700K",
-    "mark": 8829
+    "nameDetail": "AMD Ryzen 5 Pro 6650U",
+    "mark": 8870
   },
   {
-    "nameDetail": "AMD Ryzen 7 1700X",
-    "mark": 8750
+    "nameDetail": "Intel Core i5 1240P",
+    "mark": 8859
+  },
+  {
+    "nameDetail": "Intel Core i3 14100",
+    "mark": 8857
   },
   {
     "nameDetail": "Intel Core i3 13100F",
-    "mark": 8750
+    "mark": 8817
   },
   {
-    "nameDetail": "Intel Core i9 9880H",
-    "mark": 8712
+    "nameDetail": "Intel Core i3 14100F",
+    "mark": 8810
   },
   {
-    "nameDetail": "Intel Core i3 13100",
-    "mark": 8694
+    "nameDetail": "Intel Core i7 8700K",
+    "mark": 8765
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 1700X",
+    "mark": 8737
   },
   {
     "nameDetail": "Intel Core Ultra 5 135U",
-    "mark": 8664
+    "mark": 8721
+  },
+  {
+    "nameDetail": "Intel Core i9 9880H",
+    "mark": 8705
+  },
+  {
+    "nameDetail": "Intel Core i3 13100",
+    "mark": 8653
   },
   {
     "nameDetail": "AMD Ryzen 7 Pro 5850U",
-    "mark": 8606
+    "mark": 8645
   },
   {
     "nameDetail": "Apple M2",
     "mark": 8538
   },
   {
-    "nameDetail": "Intel Core i7 10700",
-    "mark": 8523
+    "nameDetail": "Intel Core i7 9700",
+    "mark": 8535
   },
   {
-    "nameDetail": "Intel Core i7 9700",
-    "mark": 8484
+    "nameDetail": "AMD Ryzen 5 7530U",
+    "mark": 8462
   },
   {
     "nameDetail": "Intel Core i7 9700F",
-    "mark": 8484
+    "mark": 8461
   },
   {
     "nameDetail": "Intel Core i3 12100F",
-    "mark": 8417
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 5300G",
-    "mark": 8376
-  },
-  {
-    "nameDetail": "Intel Core i7 1255U",
-    "mark": 8369
-  },
-  {
-    "nameDetail": "Intel Core i9 9980HK",
-    "mark": 8346
+    "mark": 8429
   },
   {
     "nameDetail": "Intel Core Ultra 5 125U",
-    "mark": 8320
+    "mark": 8380
   },
   {
-    "nameDetail": "Intel Core i5 10500",
-    "mark": 8207
+    "nameDetail": "Intel Core i9 9980HK",
+    "mark": 8367
+  },
+  {
+    "nameDetail": "Intel Core i7 1255U",
+    "mark": 8335
   },
   {
     "nameDetail": "Intel Core i5 1345U",
-    "mark": 8101
+    "mark": 8245
   },
   {
-    "nameDetail": "AMD Ryzen 7 5800U",
-    "mark": 8097
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 5625U",
-    "mark": 8088
+    "nameDetail": "Intel Core i5 10500",
+    "mark": 8201
   },
   {
     "nameDetail": "Intel Core i7 1265U",
-    "mark": 8077
+    "mark": 8185
   },
   {
-    "nameDetail": "AMD Ryzen 7 1700",
-    "mark": 8054
+    "nameDetail": "AMD Ryzen 5 5625U",
+    "mark": 8175
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5800U",
+    "mark": 8131
   },
   {
     "nameDetail": "Intel Core i3 12100",
-    "mark": 8050
+    "mark": 8053
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 1700",
+    "mark": 8046
   },
   {
     "nameDetail": "AMD Ryzen 5 4600U",
-    "mark": 8004
+    "mark": 7960
   },
   {
     "nameDetail": "AMD Ryzen 7 2700E",
-    "mark": 7973
+    "mark": 7957
   },
   {
     "nameDetail": "AMD Ryzen 5 4600H",
-    "mark": 7877
+    "mark": 7922
   },
   {
     "nameDetail": "Apple M1",
-    "mark": 7799
+    "mark": 7792
   },
   {
     "nameDetail": "Intel Core i5 10600T",
-    "mark": 7797
+    "mark": 7770
   },
   {
-    "nameDetail": "Intel Core i5 10400",
-    "mark": 7582
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 5600U",
-    "mark": 7561
+    "nameDetail": "AMD Ryzen 3 5300G",
+    "mark": 7651
   },
   {
     "nameDetail": "Intel Core i5 10400F",
-    "mark": 7544
+    "mark": 7603
+  },
+  {
+    "nameDetail": "Intel Core i5 10400",
+    "mark": 7598
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 5600U",
+    "mark": 7576
+  },
+  {
+    "nameDetail": "Intel Core i3 1220P",
+    "mark": 7516
   },
   {
     "nameDetail": "AMD Ryzen 5 2600X",
-    "mark": 7523
+    "mark": 7507
   },
   {
     "nameDetail": "Intel Core i7 10850H",
+    "mark": 7454
+  },
+  {
+    "nameDetail": "Intel Core i5 1245U",
     "mark": 7444
   },
   {
     "nameDetail": "Intel Core i7 1250U",
-    "mark": 7426
+    "mark": 7436
   },
   {
     "nameDetail": "Intel Core i5 10500T",
-    "mark": 7390
-  },
-  {
-    "nameDetail": "Intel Core i7 6850K",
-    "mark": 7337
+    "mark": 7395
   },
   {
     "nameDetail": "AMD Ryzen 7 4700U",
-    "mark": 7327
-  },
-  {
-    "nameDetail": "Intel Core i5 1245U",
-    "mark": 7327
-  },
-  {
-    "nameDetail": "Intel Core i7 7800X",
-    "mark": 7325
+    "mark": 7376
   },
   {
     "nameDetail": "Intel Core i7 10750H",
-    "mark": 7250
+    "mark": 7284
+  },
+  {
+    "nameDetail": "Intel Core i7 6850K",
+    "mark": 7282
+  },
+  {
+    "nameDetail": "Intel Core i7 7800X",
+    "mark": 7269
   },
   {
     "nameDetail": "Intel Core i5 9600KF",
-    "mark": 7243
+    "mark": 7218
   },
   {
     "nameDetail": "AMD Ryzen 5 Pro 5650U",
-    "mark": 7122
+    "mark": 7155
   },
   {
     "nameDetail": "AMD Ryzen 5 2600",
-    "mark": 7089
+    "mark": 7128
   },
   {
     "nameDetail": "AMD Ryzen 5 5500U",
-    "mark": 7072
+    "mark": 7108
   },
   {
     "nameDetail": "Intel Core i7 8700",
-    "mark": 7056
-  },
-  {
-    "nameDetail": "Intel Core i3 1220P",
-    "mark": 6997
+    "mark": 7107
   },
   {
     "nameDetail": "Intel Core i7 9850H",
-    "mark": 6951
+    "mark": 6945
   },
   {
     "nameDetail": "Intel Core i9 8950HK",
-    "mark": 6951
+    "mark": 6945
   },
   {
     "nameDetail": "Intel Core i7 9750H",
-    "mark": 6857
+    "mark": 6895
   },
   {
     "nameDetail": "AMD Ryzen 3 3300X",
-    "mark": 6787
-  },
-  {
-    "nameDetail": "Intel Core i5 10500H",
-    "mark": 6772
-  },
-  {
-    "nameDetail": "Intel Core i5 10400T",
-    "mark": 6739
-  },
-  {
-    "nameDetail": "Intel Core i5 8600K",
-    "mark": 6718
+    "mark": 6750
   },
   {
     "nameDetail": "AMD Ryzen 5 3500X",
     "mark": 6717
   },
   {
-    "nameDetail": "Intel Core i7 6800K",
-    "mark": 6695
+    "nameDetail": "Intel Core i5 10500H",
+    "mark": 6709
   },
   {
-    "nameDetail": "Intel Core i7 11375H",
-    "mark": 6598
-  },
-  {
-    "nameDetail": "Intel Core i5 9600K",
-    "mark": 6596
+    "nameDetail": "Intel Core i5 10400T",
+    "mark": 6679
   },
   {
     "nameDetail": "Intel Core i5 1235U",
-    "mark": 6564
+    "mark": 6655
+  },
+  {
+    "nameDetail": "Intel Core i5 8600K",
+    "mark": 6632
+  },
+  {
+    "nameDetail": "Intel Core i7 6800K",
+    "mark": 6632
+  },
+  {
+    "nameDetail": "Intel Core i7 11375H",
+    "mark": 6589
+  },
+  {
+    "nameDetail": "Intel Core i5 9600K",
+    "mark": 6587
   },
   {
     "nameDetail": "Intel Core 3 100U",
-    "mark": 6553
+    "mark": 6544
   },
   {
     "nameDetail": "AMD Ryzen 5 1600X",
-    "mark": 6457
-  },
-  {
-    "nameDetail": "Intel Core i3 10320",
-    "mark": 6366
+    "mark": 6409
   },
   {
     "nameDetail": "Intel Core i7 11390H",
-    "mark": 6357
+    "mark": 6349
   },
   {
-    "nameDetail": "Intel Core i7 8750H",
-    "mark": 6302
+    "nameDetail": "Intel Core i3 10320",
+    "mark": 6347
   },
   {
     "nameDetail": "AMD Ryzen 5 1600",
-    "mark": 6225
+    "mark": 6248
   },
   {
     "nameDetail": "Intel Core i3 1315U",
-    "mark": 6187
+    "mark": 6206
+  },
+  {
+    "nameDetail": "Intel Core i7 8750H",
+    "mark": 6144
   },
   {
     "nameDetail": "Intel Core i7 1165G7",
-    "mark": 6068
-  },
-  {
-    "nameDetail": "Intel Core i5 11320H",
-    "mark": 5977
+    "mark": 6073
   },
   {
     "nameDetail": "Intel Core i5 9500",
-    "mark": 5969
+    "mark": 5978
   },
   {
-    "nameDetail": "AMD Ryzen 3 Pro 4350G",
-    "mark": 5942
+    "nameDetail": "Intel Core i5 11320H",
+    "mark": 5972
+  },
+  {
+    "nameDetail": "Intel Core i7 1195G7",
+    "mark": 5939
   },
   {
     "nameDetail": "AMD Ryzen 3 4100",
     "mark": 5922
   },
   {
-    "nameDetail": "Intel Core i3 10300",
-    "mark": 5916
-  },
-  {
-    "nameDetail": "Intel Core i7 10710U",
+    "nameDetail": "AMD Ryzen 3 Pro 4350G",
     "mark": 5914
   },
   {
-    "nameDetail": "Intel Core i7 1195G7",
+    "nameDetail": "Intel Core i7 10710U",
+    "mark": 5913
+  },
+  {
+    "nameDetail": "Intel Core i5 9400F",
+    "mark": 5906
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 4500U",
     "mark": 5904
   },
   {
     "nameDetail": "Intel Core i7 7700K",
-    "mark": 5896
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 4500U",
-    "mark": 5889
+    "mark": 5904
   },
   {
     "nameDetail": "Intel Core i5 8400",
-    "mark": 5804
+    "mark": 5893
+  },
+  {
+    "nameDetail": "Intel Core i3 10300",
+    "mark": 5886
   },
   {
     "nameDetail": "Intel Core i5 1230U",
-    "mark": 5795
+    "mark": 5869
   },
   {
     "nameDetail": "Intel Core i3 1215U",
-    "mark": 5768
+    "mark": 5847
   },
   {
     "nameDetail": "Intel Core i7 1185G7",
-    "mark": 5759
+    "mark": 5805
+  },
+  {
+    "nameDetail": "Intel Core i3 10105F",
+    "mark": 5794
+  },
+  {
+    "nameDetail": "Intel Core i7 11370H",
+    "mark": 5767
   },
   {
     "nameDetail": "AMD Ryzen 3 4300GE",
     "mark": 5730
   },
   {
-    "nameDetail": "Intel Core i3 10105F",
-    "mark": 5691
+    "nameDetail": "Intel Core i7 6700K",
+    "mark": 5661
   },
   {
-    "nameDetail": "Intel Core i7 11370H",
-    "mark": 5681
+    "nameDetail": "Intel Core i3 10100",
+    "mark": 5658
+  },
+  {
+    "nameDetail": "Intel Core i3 10100F",
+    "mark": 5658
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 3100",
+    "mark": 5647
   },
   {
     "nameDetail": "Intel Core i7 7700T",
     "mark": 5605
   },
   {
-    "nameDetail": "Intel Core i7 6700K",
-    "mark": 5602
-  },
-  {
     "nameDetail": "AMD Ryzen 3 Pro 4350GE",
     "mark": 5599
   },
   {
-    "nameDetail": "Intel Core i3 10100",
-    "mark": 5588
-  },
-  {
-    "nameDetail": "Intel Core i3 10100F",
-    "mark": 5588
-  },
-  {
-    "nameDetail": "Intel Core i5 9400F",
-    "mark": 5577
-  },
-  {
     "nameDetail": "Intel Core i5 8500",
-    "mark": 5503
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 3100",
-    "mark": 5423
+    "mark": 5578
   },
   {
     "nameDetail": "Intel Core i7 7700",
-    "mark": 5393
+    "mark": 5461
   },
   {
     "nameDetail": "Intel Core i5 11300H",
-    "mark": 5321
+    "mark": 5394
   },
   {
     "nameDetail": "Intel Core i5 10200H",
     "mark": 5320
   },
   {
+    "nameDetail": "AMD Ryzen 5 7520U",
+    "mark": 5163
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 7330U",
+    "mark": 5135
+  },
+  {
+    "nameDetail": "Intel Core i3 1125G4",
+    "mark": 5126
+  },
+  {
     "nameDetail": "Intel Core i3 10100T",
     "mark": 5112
   },
   {
-    "nameDetail": "Intel Core i3 1125G4",
-    "mark": 5112
+    "nameDetail": "Intel Core i5 1135G7",
+    "mark": 5087
+  },
+  {
+    "nameDetail": "Intel Core i7 8850H",
+    "mark": 5048
   },
   {
     "nameDetail": "Intel Core i5 10400H",
@@ -1612,12 +1644,8 @@
     "mark": 5023
   },
   {
-    "nameDetail": "Intel Core i5 1135G7",
-    "mark": 5017
-  },
-  {
-    "nameDetail": "Intel Core i7 8850H",
-    "mark": 4987
+    "nameDetail": "Intel Core i7 6700",
+    "mark": 5018
   },
   {
     "nameDetail": "Intel Core i5 1038NG7",
@@ -1629,15 +1657,19 @@
   },
   {
     "nameDetail": "Intel Core i5 10300H",
-    "mark": 4859
+    "mark": 4906
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 2400G",
+    "mark": 4848
   },
   {
     "nameDetail": "AMD Ryzen 5 3400G",
-    "mark": 4807
+    "mark": 4819
   },
   {
-    "nameDetail": "Intel Core i7 6700",
-    "mark": 4800
+    "nameDetail": "Intel Core i5 1145G7",
+    "mark": 4801
   },
   {
     "nameDetail": "Intel Core i3 9350K",
@@ -1648,32 +1680,24 @@
     "mark": 4779
   },
   {
-    "nameDetail": "AMD Ryzen 5 2400G",
-    "mark": 4769
+    "nameDetail": "Intel Core i7 10810U",
+    "mark": 4767
   },
   {
     "nameDetail": "Intel Core i5 9300H",
-    "mark": 4740
-  },
-  {
-    "nameDetail": "Intel Core i5 1145G7",
-    "mark": 4730
+    "mark": 4751
   },
   {
     "nameDetail": "Intel Core i7 8569U",
     "mark": 4727
   },
   {
-    "nameDetail": "Intel Core i7 10810U",
-    "mark": 4712
+    "nameDetail": "AMD Ryzen 3 5300U",
+    "mark": 4679
   },
   {
     "nameDetail": "AMD Ryzen 5 1500X",
     "mark": 4641
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 5300U",
-    "mark": 4629
   },
   {
     "nameDetail": "Intel Core i7 8557U",
@@ -1681,51 +1705,55 @@
   },
   {
     "nameDetail": "Intel Core i7 1068NG7",
-    "mark": 4559
+    "mark": 4590
   },
   {
-    "nameDetail": "AMD Ryzen 5 7520U",
-    "mark": 4527
+    "nameDetail": "AMD Ryzen 3 7320U",
+    "mark": 4483
   },
   {
     "nameDetail": "Intel Core i7 1065G7",
-    "mark": 4470
+    "mark": 4476
   },
   {
     "nameDetail": "Intel Core i3 8350K",
     "mark": 4467
   },
   {
+    "nameDetail": "Intel Core i5 8300H",
+    "mark": 4441
+  },
+  {
     "nameDetail": "Intel Core i5 8279U",
     "mark": 4440
   },
   {
-    "nameDetail": "Intel Core i5 8300H",
-    "mark": 4424
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 7320U",
+    "nameDetail": "Intel Core i3 1305U",
     "mark": 4413
   },
   {
-    "nameDetail": "AMD Ryzen 3 7330U",
-    "mark": 4351
+    "nameDetail": "Intel Core i3 N305",
+    "mark": 4411
+  },
+  {
+    "nameDetail": "Intel Core i5 1035G4",
+    "mark": 4357
   },
   {
     "nameDetail": "Intel Core i7 1060NG7",
     "mark": 4326
   },
   {
-    "nameDetail": "Intel Core i3 1305U",
-    "mark": 4295
-  },
-  {
-    "nameDetail": "Intel Core i5 1035G4",
-    "mark": 4293
-  },
-  {
     "nameDetail": "Intel Core i7 6820HQ",
     "mark": 4287
+  },
+  {
+    "nameDetail": "Intel Core i7 10510U",
+    "mark": 4257
+  },
+  {
+    "nameDetail": "Intel Core i5 1155G7",
+    "mark": 4239
   },
   {
     "nameDetail": "Intel Core i7 6700HQ",
@@ -1737,15 +1765,7 @@
   },
   {
     "nameDetail": "Intel Core i5 1035G1",
-    "mark": 4208
-  },
-  {
-    "nameDetail": "Intel Core i7 10510U",
-    "mark": 4203
-  },
-  {
-    "nameDetail": "Intel Core i5 1155G7",
-    "mark": 4181
+    "mark": 4226
   },
   {
     "nameDetail": "Intel Core i5 1030NG7",
@@ -1753,7 +1773,7 @@
   },
   {
     "nameDetail": "Intel Core i3 9100F",
-    "mark": 4150
+    "mark": 4155
   },
   {
     "nameDetail": "Intel Core i5 7600K",
@@ -1761,15 +1781,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 3550H",
-    "mark": 4076
+    "mark": 4123
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 3750H",
+    "mark": 4093
   },
   {
     "nameDetail": "Intel Processor U300",
     "mark": 4072
   },
   {
-    "nameDetail": "AMD Ryzen 7 3750H",
-    "mark": 4045
+    "nameDetail": "Intel Core i7 10610U",
+    "mark": 4071
   },
   {
     "nameDetail": "Intel Core i5 8400H",
@@ -1780,10 +1804,6 @@
     "mark": 4031
   },
   {
-    "nameDetail": "Intel Core i7 10610U",
-    "mark": 4026
-  },
-  {
     "nameDetail": "AMD Ryzen 5 1400",
     "mark": 4017
   },
@@ -1792,132 +1812,120 @@
     "mark": 3999
   },
   {
+    "nameDetail": "Intel Core i5 6600K",
+    "mark": 3982
+  },
+  {
     "nameDetail": "Intel Core i7 7700HQ",
     "mark": 3958
   },
   {
-    "nameDetail": "Intel Core i5 6600K",
-    "mark": 3953
-  },
-  {
     "nameDetail": "Intel Pentium Gold G7400",
-    "mark": 3795
+    "mark": 3837
   },
   {
     "nameDetail": "AMD Ryzen 7 3700U",
-    "mark": 3790
-  },
-  {
-    "nameDetail": "Intel Core i7 8665U",
-    "mark": 3749
+    "mark": 3821
   },
   {
     "nameDetail": "Intel Core i5 6600",
-    "mark": 3739
+    "mark": 3810
+  },
+  {
+    "nameDetail": "Intel Core i7 8665U",
+    "mark": 3779
+  },
+  {
+    "nameDetail": "Intel Core i7 8650U",
+    "mark": 3696
   },
   {
     "nameDetail": "Intel Core i3 9100",
     "mark": 3686
   },
   {
-    "nameDetail": "Intel Core i7 8650U",
-    "mark": 3673
-  },
-  {
     "nameDetail": "Intel Core i5 8365U",
-    "mark": 3640
+    "mark": 3684
   },
   {
     "nameDetail": "Intel Core i5 8400T",
     "mark": 3638
   },
   {
-    "nameDetail": "Intel Core i3 8100",
-    "mark": 3596
-  },
-  {
-    "nameDetail": "Intel Core i3 N305",
-    "mark": 3582
-  },
-  {
     "nameDetail": "AMD Ryzen 3 2200G",
-    "mark": 3573
+    "mark": 3615
   },
   {
-    "nameDetail": "Intel Core i3 N300",
-    "mark": 3565
+    "nameDetail": "Intel Core i3 8100",
+    "mark": 3614
   },
   {
     "nameDetail": "Intel Core i5 8259U",
     "mark": 3564
   },
   {
+    "nameDetail": "AMD Ryzen 3 4300U",
+    "mark": 3481
+  },
+  {
+    "nameDetail": "Intel Core i7 1180G7",
+    "mark": 3465
+  },
+  {
     "nameDetail": "AMD Ryzen 3 1300X",
     "mark": 3464
   },
   {
-    "nameDetail": "AMD Ryzen 3 4300U",
-    "mark": 3447
-  },
-  {
-    "nameDetail": "Intel Core i7 1180G7",
-    "mark": 3420
+    "nameDetail": "Intel Core i5 6500",
+    "mark": 3436
   },
   {
     "nameDetail": "Intel Core i5 7400",
-    "mark": 3364
-  },
-  {
-    "nameDetail": "Intel Core i5 6500",
-    "mark": 3360
+    "mark": 3382
   },
   {
     "nameDetail": "AMD Ryzen 3 3200G",
-    "mark": 3308
-  },
-  {
-    "nameDetail": "Intel Core i5 1035G7",
-    "mark": 3226
+    "mark": 3344
   },
   {
     "nameDetail": "Intel Core i5 1130G7",
-    "mark": 3223
+    "mark": 3259
+  },
+  {
+    "nameDetail": "Intel Core i5 1035G7",
+    "mark": 3251
+  },
+  {
+    "nameDetail": "Intel Core i7 1160G7",
+    "mark": 3251
   },
   {
     "nameDetail": "Intel Core i5 6400",
     "mark": 3214
   },
   {
-    "nameDetail": "Intel Core i7 1160G7",
-    "mark": 3209
-  },
-  {
     "nameDetail": "AMD Ryzen 5 3450U",
     "mark": 3181
+  },
+  {
+    "nameDetail": "Intel Core i3 1115G4",
+    "mark": 3153
   },
   {
     "nameDetail": "Intel Core i5 7300HQ",
     "mark": 3125
   },
   {
-    "nameDetail": "Intel Core i3 1115G4",
-    "mark": 3119
-  },
-  {
     "nameDetail": "Intel Core i5 10310U",
-    "mark": 3094
+    "mark": 3112
   },
   {
     "nameDetail": "Intel Core i5 8250U",
-    "mark": 3088
-  },
-  {
-    "nameDetail": "Intel Core i7 8550U",
-    "mark": 3081
+    "mark": 3107
   },
   {
     "nameDetail": "Intel Core i7 8565U",
-    "mark": 3069
+    "mark": 3100
   },
   {
     "nameDetail": "AMD Ryzen 3 1200",
@@ -1928,8 +1936,16 @@
     "mark": 3002
   },
   {
+    "nameDetail": "Intel Core i7 8550U",
+    "mark": 2987
+  },
+  {
+    "nameDetail": "Intel Processor N100",
+    "mark": 2965
+  },
+  {
     "nameDetail": "Intel Core i5 10210U",
-    "mark": 2887
+    "mark": 2921
   },
   {
     "nameDetail": "AMD Ryzen 5 2500U",
@@ -1937,19 +1953,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 3500U",
-    "mark": 2738
+    "mark": 2781
   },
   {
     "nameDetail": "AMD Ryzen 3 2300U",
     "mark": 2637
   },
   {
-    "nameDetail": "Intel Core i7 10510Y",
-    "mark": 2609
+    "nameDetail": "Intel Core i5 8265U",
+    "mark": 2635
   },
   {
-    "nameDetail": "Intel Core i5 8265U",
-    "mark": 2601
+    "nameDetail": "Intel Core i7 10510Y",
+    "mark": 2609
   },
   {
     "nameDetail": "Intel Core i5 1140G7",
@@ -1960,12 +1976,20 @@
     "mark": 2565
   },
   {
+    "nameDetail": "Intel Core i3 6100",
+    "mark": 2565
+  },
+  {
+    "nameDetail": "Intel Core i3 N300",
+    "mark": 2546
+  },
+  {
     "nameDetail": "Intel Processor N95",
     "mark": 2517
   },
   {
     "nameDetail": "Intel Core i5 8350U",
-    "mark": 2483
+    "mark": 2498
   },
   {
     "nameDetail": "Intel Celeron G6900",
@@ -1973,15 +1997,11 @@
   },
   {
     "nameDetail": "Intel Core i3 1005G1",
-    "mark": 2458
-  },
-  {
-    "nameDetail": "Intel Core i3 6100",
-    "mark": 2425
+    "mark": 2469
   },
   {
     "nameDetail": "Intel Pentium Silver N6005",
-    "mark": 2406
+    "mark": 2444
   },
   {
     "nameDetail": "AMD Ryzen 3 3300U",
@@ -1989,19 +2009,15 @@
   },
   {
     "nameDetail": "Intel Core i3 10110U",
-    "mark": 2365
+    "mark": 2385
   },
   {
     "nameDetail": "Intel Processor N200",
     "mark": 2307
   },
   {
-    "nameDetail": "Intel Processor N100",
-    "mark": 2194
-  },
-  {
     "nameDetail": "Intel Celeron N5095",
-    "mark": 2171
+    "mark": 2192
   },
   {
     "nameDetail": "Intel Pentium G4560",
@@ -2017,15 +2033,15 @@
   },
   {
     "nameDetail": "Intel Core i5 7200U",
-    "mark": 2036
+    "mark": 2055
   },
   {
     "nameDetail": "Intel Pentium Silver N6000",
-    "mark": 2028
+    "mark": 2048
   },
   {
     "nameDetail": "AMD Ryzen 3 3250U",
-    "mark": 1966
+    "mark": 1987
   },
   {
     "nameDetail": "Intel Pentium Silver J5040",
@@ -2048,12 +2064,12 @@
     "mark": 1822
   },
   {
-    "nameDetail": "AMD Ryzen 3 3200U",
-    "mark": 1784
+    "nameDetail": "Intel Celeron N5100",
+    "mark": 1811
   },
   {
-    "nameDetail": "Intel Celeron N5100",
-    "mark": 1778
+    "nameDetail": "AMD Ryzen 3 3200U",
+    "mark": 1791
   },
   {
     "nameDetail": "Intel Core i3 8145U",
@@ -2081,14 +2097,14 @@
   },
   {
     "nameDetail": "Intel Pentium Silver N5030",
-    "mark": 1283
-  },
-  {
-    "nameDetail": "Intel Pentium Gold 4417U",
-    "mark": 1228
+    "mark": 1294
   },
   {
     "nameDetail": "Intel Pentium Silver N5000",
+    "mark": 1236
+  },
+  {
+    "nameDetail": "Intel Pentium Gold 4417U",
     "mark": 1228
   },
   {
@@ -2101,7 +2117,7 @@
   },
   {
     "nameDetail": "Intel Celeron N4120",
-    "mark": 1065
+    "mark": 1077
   },
   {
     "nameDetail": "Intel Pentium N4200",
@@ -2116,12 +2132,12 @@
     "mark": 776
   },
   {
-    "nameDetail": "Intel Celeron N4000",
-    "mark": 712
+    "nameDetail": "Intel Celeron N4500",
+    "mark": 714
   },
   {
-    "nameDetail": "Intel Celeron N4500",
-    "mark": 702
+    "nameDetail": "Intel Celeron N4000",
+    "mark": 712
   },
   {
     "nameDetail": "Intel Pentium N3710",
