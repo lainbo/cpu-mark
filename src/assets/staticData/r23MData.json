@@ -120,16 +120,16 @@
     "mark": 32854
   },
   {
+    "nameDetail": "Intel Xeon W-3175X",
+    "mark": 32797
+  },
+  {
     "nameDetail": "Intel Core i9 14900HX",
     "mark": 32059
   },
   {
     "nameDetail": "Intel Core i9 13980HX",
     "mark": 31419
-  },
-  {
-    "nameDetail": "Intel Xeon W-3175X",
-    "mark": 31350
   },
   {
     "nameDetail": "Intel Core i7 13700K",
@@ -1600,6 +1600,10 @@
     "mark": 5578
   },
   {
+    "nameDetail": "Intel Xeon D-1540",
+    "mark": 5490
+  },
+  {
     "nameDetail": "Intel Core i7 7700",
     "mark": 5461
   },
@@ -1708,6 +1712,10 @@
     "mark": 4590
   },
   {
+    "nameDetail": "Intel Xeon E3-1241 v3",
+    "mark": 4522
+  },
+  {
     "nameDetail": "AMD Ryzen 3 7320U",
     "mark": 4483
   },
@@ -1734,6 +1742,10 @@
   {
     "nameDetail": "Intel Core i3 N305",
     "mark": 4411
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1231 v3",
+    "mark": 4409
   },
   {
     "nameDetail": "Intel Core i5 1035G4",
@@ -1784,12 +1796,12 @@
     "mark": 4123
   },
   {
-    "nameDetail": "AMD Ryzen 7 3750H",
-    "mark": 4093
+    "nameDetail": "Intel Processor U300",
+    "mark": 4101
   },
   {
-    "nameDetail": "Intel Processor U300",
-    "mark": 4072
+    "nameDetail": "AMD Ryzen 7 3750H",
+    "mark": 4093
   },
   {
     "nameDetail": "Intel Core i7 10610U",
@@ -1836,6 +1848,10 @@
     "mark": 3779
   },
   {
+    "nameDetail": "Intel Xeon E3-1265L v3",
+    "mark": 3766
+  },
+  {
     "nameDetail": "Intel Core i7 8650U",
     "mark": 3696
   },
@@ -1878,6 +1894,10 @@
   {
     "nameDetail": "Intel Core i5 6500",
     "mark": 3436
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1240L v3",
+    "mark": 3427
   },
   {
     "nameDetail": "Intel Core i5 7400",
@@ -1928,12 +1948,16 @@
     "mark": 3100
   },
   {
-    "nameDetail": "AMD Ryzen 3 1200",
-    "mark": 3010
+    "nameDetail": "Intel Processor N97",
+    "mark": 3023
   },
   {
-    "nameDetail": "Intel Processor N97",
-    "mark": 3002
+    "nameDetail": "Intel Processor N200",
+    "mark": 3022
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 1200",
+    "mark": 3010
   },
   {
     "nameDetail": "Intel Core i7 8550U",
@@ -1954,6 +1978,10 @@
   {
     "nameDetail": "AMD Ryzen 5 3500U",
     "mark": 2781
+  },
+  {
+    "nameDetail": "Intel Processor N95",
+    "mark": 2777
   },
   {
     "nameDetail": "AMD Ryzen 3 2300U",
@@ -1984,10 +2012,6 @@
     "mark": 2546
   },
   {
-    "nameDetail": "Intel Processor N95",
-    "mark": 2517
-  },
-  {
     "nameDetail": "Intel Core i5 8350U",
     "mark": 2498
   },
@@ -2010,10 +2034,6 @@
   {
     "nameDetail": "Intel Core i3 10110U",
     "mark": 2385
-  },
-  {
-    "nameDetail": "Intel Processor N200",
-    "mark": 2307
   },
   {
     "nameDetail": "Intel Celeron N5095",
