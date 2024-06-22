@@ -220,6 +220,10 @@
     "mark": 18680
   },
   {
+    "nameDetail": "AMD EPYC 4564P",
+    "mark": 18581
+  },
+  {
     "nameDetail": "AMD EPYC 7573X",
     "mark": 18455
   },
@@ -314,6 +318,10 @@
   {
     "nameDetail": "AMD EPYC 9184X",
     "mark": 16905
+  },
+  {
+    "nameDetail": "AMD EPYC 4464P",
+    "mark": 16851
   },
   {
     "nameDetail": "Intel Core i9 13980HX",
@@ -942,6 +950,10 @@
   {
     "nameDetail": "Intel Core i9 11900K",
     "mark": 11197
+  },
+  {
+    "nameDetail": "Intel Xeon 6766E",
+    "mark": 11106
   },
   {
     "nameDetail": "Intel Core i9 9980XE",
@@ -1596,6 +1608,10 @@
     "mark": 8199
   },
   {
+    "nameDetail": "AMD Ryzen 7 7435H",
+    "mark": 8184
+  },
+  {
     "nameDetail": "AMD Ryzen 5 8540U",
     "mark": 8172
   },
@@ -2058,6 +2074,10 @@
   {
     "nameDetail": "AMD Ryzen 3 8440U",
     "mark": 6557
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7235HS",
+    "mark": 6556
   },
   {
     "nameDetail": "Intel Core i7 11375H",
@@ -3962,25 +3982,5 @@
   {
     "nameDetail": "Intel Xeon L5630",
     "mark": 2253
-  },
-  {
-    "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
-    "mark": 2253
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2407 v2",
-    "mark": 2250
-  },
-  {
-    "nameDetail": "AMD EPYC 7262",
-    "mark": 2249
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2430",
-    "mark": 2231
-  },
-  {
-    "nameDetail": "AMD EPYC 7502P",
-    "mark": 2228
   }
 ]
