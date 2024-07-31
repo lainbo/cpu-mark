@@ -29,7 +29,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 9600X",
-    "mark": 3283
+    "mark": 3281
   },
   {
     "nameDetail": "Intel Core i9 14900F",
@@ -148,8 +148,8 @@
     "mark": 2906
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 2894
+    "nameDetail": "Intel Core Ultra 9 288V",
+    "mark": 2901
   },
   {
     "nameDetail": "Intel Core i7 14700",
@@ -189,7 +189,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 370",
-    "mark": 2809
+    "mark": 2798
   },
   {
     "nameDetail": "AMD Threadripper PRO 7955WX",
@@ -282,6 +282,14 @@
   {
     "nameDetail": "Intel Core i9 13980HX",
     "mark": 2716
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 268V",
+    "mark": 2713
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 266V",
+    "mark": 2713
   },
   {
     "nameDetail": "AMD Ryzen 7 8700F",
@@ -448,6 +456,10 @@
     "mark": 2546
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 365",
+    "mark": 2545
+  },
+  {
     "nameDetail": "Intel Core i5 14400",
     "mark": 2538
   },
@@ -462,6 +474,10 @@
   {
     "nameDetail": "AMD Ryzen 9 7940HS",
     "mark": 2534
+  },
+  {
+    "nameDetail": "AMD Ryzen Z1 Extreme",
+    "mark": 2522
   },
   {
     "nameDetail": "Intel Core i3 14100",
@@ -520,8 +536,20 @@
     "mark": 2465
   },
   {
+    "nameDetail": "Intel Core Ultra 5 226V",
+    "mark": 2462
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 228V",
+    "mark": 2462
+  },
+  {
     "nameDetail": "Intel Core i7 1360P",
     "mark": 2456
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8645HS",
+    "mark": 2455
   },
   {
     "nameDetail": "Intel Core i5 13500H",
@@ -768,10 +796,6 @@
     "mark": 2267
   },
   {
-    "nameDetail": "AMD Ryzen Z1 Extreme",
-    "mark": 2264
-  },
-  {
     "nameDetail": "Intel Core i5 11600KF",
     "mark": 2258
   },
@@ -818,10 +842,6 @@
   {
     "nameDetail": "AMD Ryzen 7 5800X",
     "mark": 2230
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 8645HS",
-    "mark": 2229
   },
   {
     "nameDetail": "Intel Core 3 100U",
@@ -3962,25 +3982,5 @@
   {
     "nameDetail": "Intel Xeon E5-1620",
     "mark": 690
-  },
-  {
-    "nameDetail": "Intel Core i3 6006U",
-    "mark": 689
-  },
-  {
-    "nameDetail": "Intel Pentium Gold G5420T",
-    "mark": 685
-  },
-  {
-    "nameDetail": "AMD EPYC 7272",
-    "mark": 683
-  },
-  {
-    "nameDetail": "Intel Celeron G5905",
-    "mark": 676
-  },
-  {
-    "nameDetail": "AMD EPYC 7501",
-    "mark": 675
   }
 ]
