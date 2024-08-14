@@ -768,6 +768,10 @@
     "mark": 12863
   },
   {
+    "nameDetail": "Intel Core i5 13500E",
+    "mark": 12855
+  },
+  {
     "nameDetail": "AMD Ryzen 9 7940HS",
     "mark": 12852
   },
@@ -814,6 +818,10 @@
   {
     "nameDetail": "AMD Ryzen 9 5900X",
     "mark": 12589
+  },
+  {
+    "nameDetail": "Intel Core i9 12900TE",
+    "mark": 12563
   },
   {
     "nameDetail": "AMD EPYC 8124P",
@@ -918,6 +926,10 @@
   {
     "nameDetail": "AMD Ryzen 7 7840H",
     "mark": 11813
+  },
+  {
+    "nameDetail": "Intel Core i7 13700T",
+    "mark": 11810
   },
   {
     "nameDetail": "Apple M3",
@@ -1260,6 +1272,10 @@
     "mark": 10191
   },
   {
+    "nameDetail": "Intel Core i7 12700E",
+    "mark": 10177
+  },
+  {
     "nameDetail": "Intel Xeon Gold 6414U",
     "mark": 10176
   },
@@ -1438,6 +1454,10 @@
   {
     "nameDetail": "Intel Core i5 11600KF",
     "mark": 9291
+  },
+  {
+    "nameDetail": "Intel Core i5 13500T",
+    "mark": 9236
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 8540U",
@@ -1820,6 +1840,10 @@
     "mark": 8016
   },
   {
+    "nameDetail": "Intel Core i5 12500E",
+    "mark": 8002
+  },
+  {
     "nameDetail": "Intel Core i9 11950H",
     "mark": 7997
   },
@@ -1886,6 +1910,10 @@
   {
     "nameDetail": "AMD Ryzen Threadripper 1920X",
     "mark": 7690
+  },
+  {
+    "nameDetail": "Intel Core i3 12100E",
+    "mark": 7680
   },
   {
     "nameDetail": "Intel Core i9 9900KF",
@@ -1968,12 +1996,12 @@
     "mark": 7467
   },
   {
-    "nameDetail": "Intel Core i9 10900KF",
-    "mark": 7414
+    "nameDetail": "Intel Core i3 12100",
+    "mark": 7431
   },
   {
-    "nameDetail": "Intel Core i3 12100",
-    "mark": 7388
+    "nameDetail": "Intel Core i9 10900KF",
+    "mark": 7414
   },
   {
     "nameDetail": "Intel Xeon E5-2699 v3",
@@ -1986,6 +2014,10 @@
   {
     "nameDetail": "AMD Ryzen 7 5800H",
     "mark": 7365
+  },
+  {
+    "nameDetail": "Intel Core i3 12300",
+    "mark": 7359
   },
   {
     "nameDetail": "Intel Core i3 12300T",
@@ -2120,8 +2152,16 @@
     "mark": 6975
   },
   {
+    "nameDetail": "Intel Core i3 12100TE",
+    "mark": 6972
+  },
+  {
     "nameDetail": "AMD EPYC 8024P",
     "mark": 6962
+  },
+  {
+    "nameDetail": "Intel Core i3 13100E",
+    "mark": 6916
   },
   {
     "nameDetail": "AMD Ryzen 7 Pro 4750G",
@@ -2218,6 +2258,10 @@
   {
     "nameDetail": "Intel Xeon E5-2683 v3",
     "mark": 6651
+  },
+  {
+    "nameDetail": "Intel Core i7 12700TE",
+    "mark": 6634
   },
   {
     "nameDetail": "Intel Core i5 1235U",
@@ -2418,6 +2462,10 @@
   {
     "nameDetail": "AMD EPYC 7543P",
     "mark": 6021
+  },
+  {
+    "nameDetail": "Intel Core i5 12500TE",
+    "mark": 5979
   },
   {
     "nameDetail": "Intel Xeon Gold 6454S",
@@ -2720,6 +2768,10 @@
     "mark": 5173
   },
   {
+    "nameDetail": "Intel Core i3 13100TE",
+    "mark": 5168
+  },
+  {
     "nameDetail": "AMD EPYC 7451",
     "mark": 5142
   },
@@ -2914,6 +2966,10 @@
   {
     "nameDetail": "AMD Ryzen 5 6600H",
     "mark": 4715
+  },
+  {
+    "nameDetail": "Intel Core i3 13100T",
+    "mark": 4709
   },
   {
     "nameDetail": "AMD Ryzen 5 4600U",
@@ -3922,57 +3978,5 @@
   {
     "nameDetail": "Intel Core i5 7500",
     "mark": 2777
-  },
-  {
-    "nameDetail": "Intel Xeon X5650",
-    "mark": 2768
-  },
-  {
-    "nameDetail": "AMD EPYC 7282",
-    "mark": 2763
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 7520U",
-    "mark": 2744
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2640 v2",
-    "mark": 2712
-  },
-  {
-    "nameDetail": "Intel Xeon E-2146G",
-    "mark": 2702
-  },
-  {
-    "nameDetail": "Intel Processor N200",
-    "mark": 2701
-  },
-  {
-    "nameDetail": "Intel Xeon W3690",
-    "mark": 2684
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2428L",
-    "mark": 2680
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 2300U",
-    "mark": 2680
-  },
-  {
-    "nameDetail": "Intel Xeon Bronze 3106",
-    "mark": 2678
-  },
-  {
-    "nameDetail": "Intel Celeron G6900",
-    "mark": 2676
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1240L v3",
-    "mark": 2669
-  },
-  {
-    "nameDetail": "Intel Xeon Platinum 8276",
-    "mark": 2654
   }
 ]
