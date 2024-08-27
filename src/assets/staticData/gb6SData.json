@@ -2700,6 +2700,10 @@
     "mark": 1347
   },
   {
+    "nameDetail": "AMD EPYC 7262",
+    "mark": 1346
+  },
+  {
     "nameDetail": "AMD Ryzen 3 4300U",
     "mark": 1345
   },
@@ -2805,6 +2809,10 @@
   },
   {
     "nameDetail": "Intel Core i9 7960X",
+    "mark": 1313
+  },
+  {
+    "nameDetail": "AMD EPYC 7552",
     "mark": 1313
   },
   {
@@ -3100,6 +3108,10 @@
     "mark": 1219
   },
   {
+    "nameDetail": "AMD EPYC 7272",
+    "mark": 1217
+  },
+  {
     "nameDetail": "AMD Ryzen 3 1200",
     "mark": 1216
   },
@@ -3134,10 +3146,6 @@
   {
     "nameDetail": "Intel Core i7 7700HQ",
     "mark": 1211
-  },
-  {
-    "nameDetail": "AMD EPYC 7262",
-    "mark": 1210
   },
   {
     "nameDetail": "Intel Core i5 8257U",
@@ -3250,10 +3258,6 @@
   {
     "nameDetail": "Intel Xeon E3-1245 v3",
     "mark": 1173
-  },
-  {
-    "nameDetail": "AMD EPYC 7552",
-    "mark": 1172
   },
   {
     "nameDetail": "Intel Core i3 9100",
@@ -3962,17 +3966,5 @@
   {
     "nameDetail": "Intel Xeon E5-1650",
     "mark": 819
-  },
-  {
-    "nameDetail": "Intel Xeon E5-1660 v2",
-    "mark": 818
-  },
-  {
-    "nameDetail": "Intel Xeon E5-1660",
-    "mark": 818
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 3700U",
-    "mark": 809
   }
 ]

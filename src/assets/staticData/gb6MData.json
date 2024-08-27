@@ -748,6 +748,10 @@
     "mark": 13003
   },
   {
+    "nameDetail": "AMD EPYC 7552",
+    "mark": 12986
+  },
+  {
     "nameDetail": "Intel Core Ultra 7 165H",
     "mark": 12974
   },
@@ -1880,6 +1884,10 @@
     "mark": 7925
   },
   {
+    "nameDetail": "AMD EPYC 7262",
+    "mark": 7900
+  },
+  {
     "nameDetail": "Intel Core i5 13500",
     "mark": 7898
   },
@@ -2262,6 +2270,10 @@
   {
     "nameDetail": "Intel Xeon E5-2695 v3",
     "mark": 6687
+  },
+  {
+    "nameDetail": "AMD EPYC 7272",
+    "mark": 6675
   },
   {
     "nameDetail": "Intel Core i7 5960X",
@@ -3240,10 +3252,6 @@
     "mark": 4233
   },
   {
-    "nameDetail": "AMD EPYC 7272",
-    "mark": 4227
-  },
-  {
     "nameDetail": "AMD Ryzen 7 4800U",
     "mark": 4218
   },
@@ -3966,17 +3974,5 @@
   {
     "nameDetail": "AMD Opteron 6320",
     "mark": 2841
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 2700U",
-    "mark": 2834
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2609 v3",
-    "mark": 2823
-  },
-  {
-    "nameDetail": "AMD EPYC 7773X",
-    "mark": 2811
   }
 ]
