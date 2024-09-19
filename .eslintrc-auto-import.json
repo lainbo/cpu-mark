@@ -295,6 +295,10 @@
     "mapWritableState": true,
     "setActivePinia": true,
     "setMapStoreSuffix": true,
-    "storeToRefs": true
+    "storeToRefs": true,
+    "onWatcherCleanup": true,
+    "useId": true,
+    "useModel": true,
+    "useTemplateRef": true
   }
 }
