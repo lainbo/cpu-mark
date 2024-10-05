@@ -13,7 +13,7 @@ const sites = [
         document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
       ).map(i => i.innerText)
       const mark = Array.from(
-        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-semibold')
+        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-bold')
       ).map(i => i.innerText)
       return { name, mark }
     },
@@ -26,7 +26,7 @@ const sites = [
         document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
       ).map(i => i.innerText)
       const mark = Array.from(
-        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-semibold')
+        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-bold')
       ).map(i => i.innerText)
       return { name, mark }
     },
@@ -39,7 +39,7 @@ const sites = [
         document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
       ).map(i => i.innerText)
       const mark = Array.from(
-        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-semibold')
+        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-bold')
       ).map(i => i.innerText)
       return { name, mark }
     },
@@ -52,7 +52,7 @@ const sites = [
         document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
       ).map(i => i.innerText)
       const mark = Array.from(
-        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-semibold')
+        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-bold')
       ).map(i => i.innerText)
       return { name, mark }
     },
@@ -65,7 +65,7 @@ const sites = [
         document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]')
       ).map(i => i.innerText)
       const mark = Array.from(
-        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-semibold')
+        document.querySelectorAll('span.mx-2.text-slate-900.text-sm.font-bold')
       ).map(i => i.innerText)
       return { name, mark }
     },
