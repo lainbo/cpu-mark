@@ -132,6 +132,10 @@
     "mark": 20412
   },
   {
+    "nameDetail": "AMD EPYC 9754",
+    "mark": 20337
+  },
+  {
     "nameDetail": "AMD Ryzen 9 7950X3D",
     "mark": 20270
   },
@@ -540,6 +544,10 @@
     "mark": 14855
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 HX 375",
+    "mark": 14855
+  },
+  {
     "nameDetail": "AMD Ryzen 7 7700X",
     "mark": 14853
   },
@@ -600,12 +608,12 @@
     "mark": 14447
   },
   {
-    "nameDetail": "AMD Ryzen 7 8700F",
-    "mark": 14364
-  },
-  {
     "nameDetail": "AMD Ryzen 7 8700G",
     "mark": 14342
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 8700F",
+    "mark": 14317
   },
   {
     "nameDetail": "AMD Ryzen 5 7600",
@@ -936,10 +944,6 @@
     "mark": 12172
   },
   {
-    "nameDetail": "AMD Ryzen 5 8400F",
-    "mark": 12145
-  },
-  {
     "nameDetail": "Intel Xeon Gold 6326",
     "mark": 12085
   },
@@ -1080,6 +1084,10 @@
     "mark": 11276
   },
   {
+    "nameDetail": "AMD Ryzen 5 Pro 8600G",
+    "mark": 11266
+  },
+  {
     "nameDetail": "Intel Core i5 13500H",
     "mark": 11254
   },
@@ -1184,6 +1192,10 @@
     "mark": 10782
   },
   {
+    "nameDetail": "AMD Ryzen 5 8400F",
+    "mark": 10760
+  },
+  {
     "nameDetail": "Intel Core i7 11700KF",
     "mark": 10758
   },
@@ -1256,6 +1268,10 @@
     "mark": 10506
   },
   {
+    "nameDetail": "AMD Ryzen 5 Pro 7640U",
+    "mark": 10465
+  },
+  {
     "nameDetail": "Intel Core i5 12600",
     "mark": 10456
   },
@@ -1282,6 +1298,10 @@
   {
     "nameDetail": "Intel Core i9 11900KF",
     "mark": 10374
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 Pro 7640HS",
+    "mark": 10372
   },
   {
     "nameDetail": "AMD Ryzen 5 8640HS",
@@ -1393,7 +1413,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X3D",
-    "mark": 10105
+    "mark": 10093
   },
   {
     "nameDetail": "AMD Ryzen 9 6900HX",
@@ -1612,10 +1632,6 @@
     "mark": 9066
   },
   {
-    "nameDetail": "AMD EPYC 9754",
-    "mark": 9063
-  },
-  {
     "nameDetail": "Intel Xeon Gold 5315Y",
     "mark": 9011
   },
@@ -1717,7 +1733,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5600X3D",
-    "mark": 8778
+    "mark": 8774
   },
   {
     "nameDetail": "Intel Core i9 9900KS",
@@ -2342,6 +2358,10 @@
   {
     "nameDetail": "Intel Core i7 6950X",
     "mark": 6726
+  },
+  {
+    "nameDetail": "Intel Core i5 1334U",
+    "mark": 6713
   },
   {
     "nameDetail": "Intel Core i7 9700K",
@@ -3950,25 +3970,5 @@
   {
     "nameDetail": "Intel Xeon E5-2643 v2",
     "mark": 3083
-  },
-  {
-    "nameDetail": "AMD EPYC 7543",
-    "mark": 3080
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 3750H",
-    "mark": 3075
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1275 v3",
-    "mark": 3063
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2450 v2",
-    "mark": 3059
-  },
-  {
-    "nameDetail": "Intel Xeon E7-8870",
-    "mark": 3059
   }
 ]
