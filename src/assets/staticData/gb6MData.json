@@ -29,7 +29,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 23391
+    "mark": 23359
   },
   {
     "nameDetail": "AMD EPYC 9274F",
@@ -73,7 +73,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 21501
+    "mark": 21478
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
@@ -754,6 +754,10 @@
   {
     "nameDetail": "Intel Core i7 13700H",
     "mark": 13208
+  },
+  {
+    "nameDetail": "Intel Core 7 250H",
+    "mark": 13201
   },
   {
     "nameDetail": "Intel Xeon Platinum 8468V",
@@ -2888,10 +2892,6 @@
     "mark": 5279
   },
   {
-    "nameDetail": "Intel Core i7 6700K",
-    "mark": 5265
-  },
-  {
     "nameDetail": "Intel Core i7 7700K",
     "mark": 5260
   },
@@ -2974,6 +2974,10 @@
   {
     "nameDetail": "Intel Core i7 1165G7",
     "mark": 5076
+  },
+  {
+    "nameDetail": "Intel Core i7 6700K",
+    "mark": 5072
   },
   {
     "nameDetail": "AMD Ryzen 3 4300G",
@@ -3164,6 +3168,10 @@
     "mark": 4634
   },
   {
+    "nameDetail": "Intel Core i7 6700",
+    "mark": 4621
+  },
+  {
     "nameDetail": "Intel Xeon E5-2698 v3",
     "mark": 4605
   },
@@ -3282,6 +3290,10 @@
   {
     "nameDetail": "Intel Xeon E3-1245 v5",
     "mark": 4438
+  },
+  {
+    "nameDetail": "Intel Core i5 6600K",
+    "mark": 4406
   },
   {
     "nameDetail": "Intel Core i5 10500T",
@@ -3628,10 +3640,6 @@
     "mark": 3807
   },
   {
-    "nameDetail": "Intel Core i5 6600K",
-    "mark": 3782
-  },
-  {
     "nameDetail": "Intel Core i7 1195G7",
     "mark": 3781
   },
@@ -3678,10 +3686,6 @@
   {
     "nameDetail": "Intel Core i5 8400T",
     "mark": 3670
-  },
-  {
-    "nameDetail": "Intel Core i7 6700",
-    "mark": 3667
   },
   {
     "nameDetail": "Intel Xeon E3-1505M v5",
@@ -3856,6 +3860,10 @@
     "mark": 3245
   },
   {
+    "nameDetail": "Intel Core i7-6700T",
+    "mark": 3245
+  },
+  {
     "nameDetail": "Intel Xeon E3-1285L v3",
     "mark": 3243
   },
@@ -3962,13 +3970,5 @@
   {
     "nameDetail": "Intel Xeon Gold 6330",
     "mark": 3086
-  },
-  {
-    "nameDetail": "Intel Xeon D-1520",
-    "mark": 3086
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2643 v2",
-    "mark": 3083
   }
 ]

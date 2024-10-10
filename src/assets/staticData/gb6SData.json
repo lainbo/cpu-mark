@@ -52,12 +52,12 @@
     "mark": 3219
   },
   {
-    "nameDetail": "Intel Core i9 14900KF",
-    "mark": 3176
+    "nameDetail": "Intel Core Ultra 7 265K",
+    "mark": 3177
   },
   {
-    "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 3175
+    "nameDetail": "Intel Core i9 14900KF",
+    "mark": 3176
   },
   {
     "nameDetail": "Intel Core i9 14900K",
@@ -701,6 +701,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 Pro 7545U",
+    "mark": 2415
+  },
+  {
+    "nameDetail": "Intel Core 7 250H",
     "mark": 2415
   },
   {
@@ -2304,10 +2308,6 @@
     "mark": 1548
   },
   {
-    "nameDetail": "Intel Core i7 6700K",
-    "mark": 1544
-  },
-  {
     "nameDetail": "Intel Xeon Gold 6312U",
     "mark": 1543
   },
@@ -2373,6 +2373,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 4700U",
+    "mark": 1512
+  },
+  {
+    "nameDetail": "Intel Core i7 6700K",
     "mark": 1512
   },
   {
@@ -2454,6 +2458,10 @@
   {
     "nameDetail": "Intel Core i3 13100TE",
     "mark": 1488
+  },
+  {
+    "nameDetail": "Intel Core i5 6600K",
+    "mark": 1486
   },
   {
     "nameDetail": "AMD Ryzen 5 4600GE",
@@ -2700,6 +2708,10 @@
     "mark": 1389
   },
   {
+    "nameDetail": "Intel Core i7 6700",
+    "mark": 1389
+  },
+  {
     "nameDetail": "Intel Core i9 9920X",
     "mark": 1389
   },
@@ -2914,10 +2926,6 @@
   {
     "nameDetail": "AMD EPYC 7302P",
     "mark": 1315
-  },
-  {
-    "nameDetail": "Intel Core i5 6600K",
-    "mark": 1314
   },
   {
     "nameDetail": "Intel Core i5 7600",
@@ -3142,10 +3150,6 @@
   {
     "nameDetail": "Intel Xeon E3-1545M v5",
     "mark": 1251
-  },
-  {
-    "nameDetail": "Intel Core i7 6700",
-    "mark": 1250
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 1950X",
@@ -3465,6 +3469,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 1600",
+    "mark": 1144
+  },
+  {
+    "nameDetail": "Intel Core i7-6700T",
     "mark": 1144
   },
   {
@@ -3954,13 +3962,5 @@
   {
     "nameDetail": "Intel Xeon Silver 4310",
     "mark": 905
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1535M v5",
-    "mark": 903
-  },
-  {
-    "nameDetail": "Intel Pentium Gold G6600",
-    "mark": 901
   }
 ]

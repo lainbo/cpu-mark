@@ -53,7 +53,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 43076
+    "mark": 43089
   },
   {
     "nameDetail": "AMD Ryzen 9 9950X",
@@ -89,7 +89,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 37345
+    "mark": 37589
   },
   {
     "nameDetail": "Intel Core Ultra 7 265KF",
@@ -332,10 +332,6 @@
     "mark": 22801
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 HX 375",
-    "mark": 22246
-  },
-  {
     "nameDetail": "Intel Core i9 7960X",
     "mark": 22189
   },
@@ -354,6 +350,10 @@
   {
     "nameDetail": "Intel Core i5 14500",
     "mark": 21949
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 9 HX 375",
+    "mark": 21822
   },
   {
     "nameDetail": "Intel Core i9 12950HX",
@@ -464,10 +464,6 @@
     "mark": 18257
   },
   {
-    "nameDetail": "AMD Ryzen 7 8700F",
-    "mark": 18040
-  },
-  {
     "nameDetail": "AMD Ryzen 7 7745HX",
     "mark": 18015
   },
@@ -494,6 +490,10 @@
   {
     "nameDetail": "Intel Core i5 12600K",
     "mark": 17648
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 8700F",
+    "mark": 17614
   },
   {
     "nameDetail": "Intel Core i7 13700H",
@@ -785,7 +785,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X3D",
-    "mark": 13541
+    "mark": 13532
   },
   {
     "nameDetail": "AMD Ryzen 7 7735HS",
@@ -1172,12 +1172,12 @@
     "mark": 10400
   },
   {
-    "nameDetail": "AMD Ryzen 7 5600X3D",
-    "mark": 10233
-  },
-  {
     "nameDetail": "AMD Ryzen 5 5600X3D",
     "mark": 10232
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5600X3D",
+    "mark": 10229
   },
   {
     "nameDetail": "AMD Ryzen 5 6600H",
@@ -1772,12 +1772,12 @@
     "mark": 5660
   },
   {
-    "nameDetail": "AMD Ryzen 3 3100",
-    "mark": 5627
+    "nameDetail": "Intel Core i7 6700K",
+    "mark": 5647
   },
   {
-    "nameDetail": "Intel Core i7 6700K",
-    "mark": 5626
+    "nameDetail": "AMD Ryzen 3 3100",
+    "mark": 5627
   },
   {
     "nameDetail": "Intel Core i7 7700T",
@@ -1848,10 +1848,6 @@
     "mark": 5023
   },
   {
-    "nameDetail": "Intel Core i7 6700",
-    "mark": 4997
-  },
-  {
     "nameDetail": "Intel Core i7 8850H",
     "mark": 4984
   },
@@ -1862,6 +1858,10 @@
   {
     "nameDetail": "Intel Core i7 8705G",
     "mark": 4907
+  },
+  {
+    "nameDetail": "Intel Core i7 6700",
+    "mark": 4841
   },
   {
     "nameDetail": "Intel Core i5 10300H",
@@ -2028,12 +2028,12 @@
     "mark": 3981
   },
   {
-    "nameDetail": "Intel Core i7 7700HQ",
-    "mark": 3958
+    "nameDetail": "Intel Core i5 6600K",
+    "mark": 3963
   },
   {
-    "nameDetail": "Intel Core i5 6600K",
-    "mark": 3949
+    "nameDetail": "Intel Core i7 7700HQ",
+    "mark": 3958
   },
   {
     "nameDetail": "Intel Core i5 6600",
