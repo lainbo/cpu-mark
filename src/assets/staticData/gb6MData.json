@@ -29,7 +29,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 23359
+    "mark": 23353
   },
   {
     "nameDetail": "AMD EPYC 9274F",
@@ -73,7 +73,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 21478
+    "mark": 21480
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
@@ -2556,6 +2556,10 @@
     "mark": 6201
   },
   {
+    "nameDetail": "AMD EPYC 7551P",
+    "mark": 6192
+  },
+  {
     "nameDetail": "Intel Xeon E5-2666 v3",
     "mark": 6173
   },
@@ -2818,6 +2822,10 @@
   {
     "nameDetail": "Intel Core i5 8500",
     "mark": 5468
+  },
+  {
+    "nameDetail": "AMD EPYC 7551",
+    "mark": 5459
   },
   {
     "nameDetail": "Intel Core i5 10500H",
@@ -3962,13 +3970,5 @@
   {
     "nameDetail": "Intel Core i3 9100T",
     "mark": 3096
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2667 v3",
-    "mark": 3093
-  },
-  {
-    "nameDetail": "Intel Xeon Gold 6330",
-    "mark": 3086
   }
 ]
