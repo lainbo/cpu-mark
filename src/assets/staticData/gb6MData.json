@@ -68,12 +68,16 @@
     "mark": 21867
   },
   {
-    "nameDetail": "AMD Ryzen 9 9950X",
-    "mark": 21740
+    "nameDetail": "Intel Core Ultra 7 265K",
+    "mark": 21778
   },
   {
-    "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 21480
+    "nameDetail": "Intel Core Ultra 7 265KF",
+    "mark": 21762
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 9950X",
+    "mark": 21740
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
@@ -184,10 +188,6 @@
     "mark": 19489
   },
   {
-    "nameDetail": "Intel Core Ultra 7 265KF",
-    "mark": 19433
-  },
-  {
     "nameDetail": "AMD Ryzen 9 7945HX",
     "mark": 19413
   },
@@ -274,6 +274,14 @@
   {
     "nameDetail": "AMD EPYC Embedded 9454P",
     "mark": 18095
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 245K",
+    "mark": 18090
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 245KF",
+    "mark": 18084
   },
   {
     "nameDetail": "AMD EPYC 9224",
@@ -3962,13 +3970,5 @@
   {
     "nameDetail": "Intel Core i5 8400H",
     "mark": 3109
-  },
-  {
-    "nameDetail": "Intel Core i7 8705G",
-    "mark": 3101
-  },
-  {
-    "nameDetail": "Intel Core i3 9100T",
-    "mark": 3096
   }
 ]
