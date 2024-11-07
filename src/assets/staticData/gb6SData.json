@@ -28,12 +28,12 @@
     "mark": 3444
   },
   {
-    "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 3421
-  },
-  {
     "nameDetail": "AMD Ryzen 9 9950X",
     "mark": 3416
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 285K",
+    "mark": 3377
   },
   {
     "nameDetail": "AMD Ryzen 9 9900X",
@@ -72,12 +72,8 @@
     "mark": 3225
   },
   {
-    "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 3208
-  },
-  {
     "nameDetail": "Intel Core Ultra 7 265KF",
-    "mark": 3205
+    "mark": 3208
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
@@ -88,12 +84,12 @@
     "mark": 3169
   },
   {
-    "nameDetail": "Apple M3 Pro",
-    "mark": 3155
+    "nameDetail": "Intel Core Ultra 7 265K",
+    "mark": 3156
   },
   {
-    "nameDetail": "Intel Core Ultra 5 245K",
-    "mark": 3104
+    "nameDetail": "Apple M3 Pro",
+    "mark": 3155
   },
   {
     "nameDetail": "Intel Core i7 13700KF",
@@ -160,6 +156,10 @@
     "mark": 2975
   },
   {
+    "nameDetail": "Intel Core Ultra 5 245K",
+    "mark": 2973
+  },
+  {
     "nameDetail": "AMD Ryzen 9 7900X3D",
     "mark": 2971
   },
@@ -209,7 +209,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 370",
-    "mark": 2872
+    "mark": 2870
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 375",
@@ -417,6 +417,10 @@
   },
   {
     "nameDetail": "Intel Core i7 14700T",
+    "mark": 2667
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 285H",
     "mark": 2667
   },
   {
@@ -1248,6 +1252,10 @@
     "mark": 2122
   },
   {
+    "nameDetail": "AMD Ryzen 7 7735HS",
+    "mark": 2121
+  },
+  {
     "nameDetail": "AMD EPYC 9474F",
     "mark": 2117
   },
@@ -1297,10 +1305,6 @@
   },
   {
     "nameDetail": "Intel Core i5 12450H",
-    "mark": 2093
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 7735HS",
     "mark": 2093
   },
   {
@@ -3958,9 +3962,5 @@
   {
     "nameDetail": "AMD EPYC 7351P",
     "mark": 929
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1240 v3",
-    "mark": 925
   }
 ]

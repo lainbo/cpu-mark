@@ -37,7 +37,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 23353
+    "mark": 23094
   },
   {
     "nameDetail": "AMD EPYC 9274F",
@@ -80,12 +80,8 @@
     "mark": 21867
   },
   {
-    "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 21778
-  },
-  {
     "nameDetail": "Intel Core Ultra 7 265KF",
-    "mark": 21777
+    "mark": 21797
   },
   {
     "nameDetail": "AMD Ryzen 9 9950X",
@@ -98,6 +94,10 @@
   {
     "nameDetail": "Intel Xeon Platinum 8568Y+",
     "mark": 21394
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 265K",
+    "mark": 21364
   },
   {
     "nameDetail": "Intel Xeon Gold 6542Y",
@@ -260,10 +260,6 @@
     "mark": 18581
   },
   {
-    "nameDetail": "Intel Core Ultra 5 245K",
-    "mark": 18551
-  },
-  {
     "nameDetail": "AMD EPYC 7573X",
     "mark": 18455
   },
@@ -420,6 +416,10 @@
     "mark": 16641
   },
   {
+    "nameDetail": "Intel Core Ultra 5 245K",
+    "mark": 16604
+  },
+  {
     "nameDetail": "Intel Core i5 13600KF",
     "mark": 16556
   },
@@ -528,6 +528,10 @@
     "mark": 15337
   },
   {
+    "nameDetail": "Intel Core Ultra 9 285H",
+    "mark": 15321
+  },
+  {
     "nameDetail": "Intel Core i7 14650HX",
     "mark": 15271
   },
@@ -541,7 +545,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 370",
-    "mark": 15123
+    "mark": 15121
   },
   {
     "nameDetail": "Apple M4 10 Cores",
@@ -1284,10 +1288,6 @@
     "mark": 10557
   },
   {
-    "nameDetail": "AMD Ryzen 7 7735HS",
-    "mark": 10547
-  },
-  {
     "nameDetail": "Intel Xeon Platinum 8470",
     "mark": 10543
   },
@@ -1476,6 +1476,10 @@
     "mark": 10011
   },
   {
+    "nameDetail": "AMD Ryzen 7 7735HS",
+    "mark": 9977
+  },
+  {
     "nameDetail": "AMD EPYC 7203P",
     "mark": 9953
   },
@@ -1508,10 +1512,6 @@
     "mark": 9793
   },
   {
-    "nameDetail": "AMD Ryzen 7 7435HS",
-    "mark": 9788
-  },
-  {
     "nameDetail": "Intel Core i9 9940X",
     "mark": 9787
   },
@@ -1522,6 +1522,10 @@
   {
     "nameDetail": "AMD Ryzen 9 5900",
     "mark": 9774
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 7435HS",
+    "mark": 9773
   },
   {
     "nameDetail": "Intel Core Ultra 7 165U",
@@ -3965,10 +3969,6 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2640 v3",
-    "mark": 3177
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2640",
     "mark": 3177
   }
 ]
