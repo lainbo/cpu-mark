@@ -72,6 +72,10 @@
     "mark": 22637
   },
   {
+    "nameDetail": "AMD EPYC 9655",
+    "mark": 22544
+  },
+  {
     "nameDetail": "Intel Core i9 14900KF",
     "mark": 22411
   },
@@ -172,6 +176,10 @@
     "mark": 20262
   },
   {
+    "nameDetail": "AMD EPYC 9555",
+    "mark": 20219
+  },
+  {
     "nameDetail": "Intel Xeon Platinum 8462Y+",
     "mark": 20211
   },
@@ -210,6 +218,10 @@
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5965WX",
     "mark": 19489
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ 395",
+    "mark": 19484
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX",
@@ -3954,17 +3966,5 @@
   {
     "nameDetail": "Intel Core i7-6700T",
     "mark": 3245
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1285L v3",
-    "mark": 3243
-  },
-  {
-    "nameDetail": "Intel Core i3 9100T",
-    "mark": 3243
-  },
-  {
-    "nameDetail": "Intel Core i5 1038NG7",
-    "mark": 3241
   }
 ]
