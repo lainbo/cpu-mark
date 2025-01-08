@@ -76,8 +76,16 @@
     "mark": 3225
   },
   {
+    "nameDetail": "Intel Core Ultra 9 285HX",
+    "mark": 3213
+  },
+  {
     "nameDetail": "Intel Core Ultra 7 265KF",
     "mark": 3208
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 275HX",
+    "mark": 3200
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
@@ -96,8 +104,20 @@
     "mark": 3155
   },
   {
+    "nameDetail": "Intel Core Ultra 7 265HX",
+    "mark": 3127
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 255HX",
+    "mark": 3103
+  },
+  {
     "nameDetail": "Intel Core i7 13700KF",
     "mark": 3102
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 245HX",
+    "mark": 3084
   },
   {
     "nameDetail": "Intel Core i9 13900KF",
@@ -105,6 +125,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
+    "mark": 3068
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 235HX",
     "mark": 3068
   },
   {
@@ -196,10 +220,6 @@
     "mark": 2942
   },
   {
-    "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 2928
-  },
-  {
     "nameDetail": "AMD EPYC 4464P",
     "mark": 2918
   },
@@ -214,6 +234,10 @@
   {
     "nameDetail": "Intel Core Ultra 7 266V",
     "mark": 2906
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ 395",
+    "mark": 2896
   },
   {
     "nameDetail": "AMD Ryzen 9 PRO 7945",
@@ -3938,25 +3962,5 @@
   {
     "nameDetail": "AMD EPYC 7452",
     "mark": 977
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2696 v3",
-    "mark": 976
-  },
-  {
-    "nameDetail": "Intel Xeon E5-4627 v3",
-    "mark": 972
-  },
-  {
-    "nameDetail": "Intel Core i5 1145G7",
-    "mark": 969
-  },
-  {
-    "nameDetail": "Intel Xeon W-2104",
-    "mark": 966
-  },
-  {
-    "nameDetail": "AMD EPYC 7401P",
-    "mark": 965
   }
 ]
