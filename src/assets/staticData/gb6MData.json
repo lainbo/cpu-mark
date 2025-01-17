@@ -208,12 +208,12 @@
     "mark": 19868
   },
   {
-    "nameDetail": "Intel Core Ultra 9 285HX",
-    "mark": 19846
-  },
-  {
     "nameDetail": "Intel Core i9 14900",
     "mark": 19826
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 285HX",
+    "mark": 19824
   },
   {
     "nameDetail": "Intel Xeon Platinum 8468",
@@ -277,7 +277,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 275HX",
-    "mark": 18773
+    "mark": 18760
   },
   {
     "nameDetail": "Intel Core i9 13900F",
@@ -2428,6 +2428,10 @@
     "mark": 6982
   },
   {
+    "nameDetail": "AMD Ryzen 3 8440U",
+    "mark": 6976
+  },
+  {
     "nameDetail": "Intel Xeon E5-2698B v3",
     "mark": 6975
   },
@@ -2570,10 +2574,6 @@
   {
     "nameDetail": "AMD Ryzen 5 5600HS",
     "mark": 6562
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 8440U",
-    "mark": 6557
   },
   {
     "nameDetail": "AMD Ryzen 5 7235HS",
@@ -3048,6 +3048,10 @@
     "mark": 5279
   },
   {
+    "nameDetail": "Intel Core i3 N305",
+    "mark": 5279
+  },
+  {
     "nameDetail": "Intel Core i7 7700K",
     "mark": 5260
   },
@@ -3212,10 +3216,6 @@
     "mark": 4911
   },
   {
-    "nameDetail": "Intel Core i3 N305",
-    "mark": 4905
-  },
-  {
     "nameDetail": "Intel Core i7 8559U",
     "mark": 4869
   },
@@ -3378,6 +3378,10 @@
   {
     "nameDetail": "AMD Ryzen 5 2600",
     "mark": 4526
+  },
+  {
+    "nameDetail": "Intel Core i3 N355",
+    "mark": 4513
   },
   {
     "nameDetail": "Intel Xeon E5-1680 v2",
@@ -3676,6 +3680,10 @@
     "mark": 4052
   },
   {
+    "nameDetail": "Intel Core i3 N350",
+    "mark": 4020
+  },
+  {
     "nameDetail": "Intel Xeon E3-1280 v3",
     "mark": 4019
   },
@@ -3738,10 +3746,6 @@
   {
     "nameDetail": "Intel Core i7 8650U",
     "mark": 3929
-  },
-  {
-    "nameDetail": "Intel Core i3 N300",
-    "mark": 3926
   },
   {
     "nameDetail": "Intel Core i5 8257U",
@@ -3961,10 +3965,6 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2620 v2",
-    "mark": 3412
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2620",
     "mark": 3412
   }
 ]

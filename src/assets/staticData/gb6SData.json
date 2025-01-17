@@ -77,7 +77,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 285HX",
-    "mark": 3213
+    "mark": 3209
   },
   {
     "nameDetail": "Intel Core Ultra 7 265KF",
@@ -85,7 +85,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 275HX",
-    "mark": 3200
+    "mark": 3199
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
@@ -856,6 +856,10 @@
     "mark": 2407
   },
   {
+    "nameDetail": "AMD Ryzen 3 8440U",
+    "mark": 2406
+  },
+  {
     "nameDetail": "AMD Ryzen Embedded 8845HS",
     "mark": 2406
   },
@@ -1006,10 +1010,6 @@
   {
     "nameDetail": "Intel Core i7 11700KF",
     "mark": 2334
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 8440U",
-    "mark": 2333
   },
   {
     "nameDetail": "AMD Ryzen 9 5900XT",
@@ -3016,12 +3016,20 @@
     "mark": 1339
   },
   {
+    "nameDetail": "Intel Core i3 N305",
+    "mark": 1338
+  },
+  {
     "nameDetail": "Intel Xeon E-2286G",
     "mark": 1338
   },
   {
     "nameDetail": "Intel Core i7 10610U",
     "mark": 1336
+  },
+  {
+    "nameDetail": "Intel Core i3 N350",
+    "mark": 1334
   },
   {
     "nameDetail": "Intel Xeon E3-1285 v4",
@@ -3066,6 +3074,10 @@
   {
     "nameDetail": "Intel Xeon E3-1515M v5",
     "mark": 1322
+  },
+  {
+    "nameDetail": "Intel Core i3 N355",
+    "mark": 1319
   },
   {
     "nameDetail": "AMD EPYC 7302P",
@@ -3204,10 +3216,6 @@
     "mark": 1275
   },
   {
-    "nameDetail": "Intel Core i3 N305",
-    "mark": 1275
-  },
-  {
     "nameDetail": "Intel Core i7 8700T",
     "mark": 1272
   },
@@ -3261,10 +3269,6 @@
   },
   {
     "nameDetail": "Intel Xeon Gold 5318S",
-    "mark": 1261
-  },
-  {
-    "nameDetail": "Intel Core i3 N300",
     "mark": 1261
   },
   {
@@ -3518,6 +3522,10 @@
   {
     "nameDetail": "Intel Xeon Gold 5318Y",
     "mark": 1190
+  },
+  {
+    "nameDetail": "Intel Core i3 N300",
+    "mark": 1189
   },
   {
     "nameDetail": "Intel Xeon E5-2643 v3",
@@ -3848,6 +3856,10 @@
     "mark": 1052
   },
   {
+    "nameDetail": "Intel Processor N150",
+    "mark": 1052
+  },
+  {
     "nameDetail": "Intel Core i9 10980HK",
     "mark": 1048
   },
@@ -3932,6 +3944,10 @@
     "mark": 1020
   },
   {
+    "nameDetail": "Intel Processor N250",
+    "mark": 1017
+  },
+  {
     "nameDetail": "Intel Xeon D-1746TER",
     "mark": 1016
   },
@@ -3946,21 +3962,5 @@
   {
     "nameDetail": "AMD EPYC 7343",
     "mark": 1014
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 2300U",
-    "mark": 1014
-  },
-  {
-    "nameDetail": "Intel Xeon Platinum 8268",
-    "mark": 1012
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2695 v3",
-    "mark": 1011
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2685 v3",
-    "mark": 1010
   }
 ]
