@@ -1,7 +1,7 @@
 [
   {
     "nameDetail": "Apple M4 Ultra",
-    "mark": 32892
+    "mark": 32899
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7960X",
@@ -109,7 +109,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 21364
+    "mark": 21362
   },
   {
     "nameDetail": "Intel Xeon Gold 6542Y",
@@ -172,10 +172,6 @@
     "mark": 20337
   },
   {
-    "nameDetail": "Intel Core Ultra 5 245KF",
-    "mark": 20321
-  },
-  {
     "nameDetail": "AMD Ryzen 9 7950X3D",
     "mark": 20270
   },
@@ -208,12 +204,12 @@
     "mark": 19868
   },
   {
-    "nameDetail": "Intel Core i9 14900",
-    "mark": 19826
+    "nameDetail": "Intel Core Ultra 9 285HX",
+    "mark": 19835
   },
   {
-    "nameDetail": "Intel Core Ultra 9 285HX",
-    "mark": 19824
+    "nameDetail": "Intel Core i9 14900",
+    "mark": 19826
   },
   {
     "nameDetail": "Intel Xeon Platinum 8468",
@@ -348,6 +344,10 @@
     "mark": 18009
   },
   {
+    "nameDetail": "Intel Core Ultra 5 245K",
+    "mark": 17867
+  },
+  {
     "nameDetail": "Intel Core i7 14700T",
     "mark": 17830
   },
@@ -358,6 +358,10 @@
   {
     "nameDetail": "Intel Xeon Gold 5420+",
     "mark": 17725
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 245KF",
+    "mark": 17612
   },
   {
     "nameDetail": "AMD Ryzen 7 9700X",
@@ -450,10 +454,6 @@
   {
     "nameDetail": "Intel Core i7 13700F",
     "mark": 16641
-  },
-  {
-    "nameDetail": "Intel Core Ultra 5 245K",
-    "mark": 16604
   },
   {
     "nameDetail": "Intel Core i5 13600KF",
@@ -958,6 +958,10 @@
   {
     "nameDetail": "Intel Core i5 14500HX",
     "mark": 12704
+  },
+  {
+    "nameDetail": "AMD EPYC 7F52",
+    "mark": 12651
   },
   {
     "nameDetail": "AMD Ryzen 5 7500F",
@@ -3440,10 +3444,6 @@
     "mark": 4445
   },
   {
-    "nameDetail": "AMD EPYC 7F52",
-    "mark": 4440
-  },
-  {
     "nameDetail": "Intel Xeon E-2124G",
     "mark": 4438
   },
@@ -3962,9 +3962,5 @@
   {
     "nameDetail": "AMD Ryzen 5 4500U",
     "mark": 3421
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2620 v2",
-    "mark": 3412
   }
 ]

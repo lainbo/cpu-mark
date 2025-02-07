@@ -1,7 +1,7 @@
 [
   {
     "nameDetail": "Apple M4 Ultra",
-    "mark": 4065
+    "mark": 4060
   },
   {
     "nameDetail": "Apple M4 Pro 14 Cores",
@@ -72,12 +72,8 @@
     "mark": 3227
   },
   {
-    "nameDetail": "Intel Core Ultra 5 245KF",
-    "mark": 3225
-  },
-  {
     "nameDetail": "Intel Core Ultra 9 285HX",
-    "mark": 3209
+    "mark": 3213
   },
   {
     "nameDetail": "Intel Core Ultra 7 265KF",
@@ -96,12 +92,12 @@
     "mark": 3169
   },
   {
-    "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 3156
-  },
-  {
     "nameDetail": "Apple M3 Pro",
     "mark": 3155
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 265K",
+    "mark": 3154
   },
   {
     "nameDetail": "Intel Core Ultra 7 265HX",
@@ -188,16 +184,16 @@
     "mark": 2986
   },
   {
+    "nameDetail": "Intel Core Ultra 5 245K",
+    "mark": 2982
+  },
+  {
     "nameDetail": "Qualcomm Snapdragon X Elite",
     "mark": 2980
   },
   {
     "nameDetail": "AMD EPYC 4564P",
     "mark": 2975
-  },
-  {
-    "nameDetail": "Intel Core Ultra 5 245K",
-    "mark": 2973
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X3D",
@@ -221,6 +217,10 @@
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7970X",
+    "mark": 2942
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 245KF",
     "mark": 2942
   },
   {
@@ -2452,6 +2452,10 @@
     "mark": 1548
   },
   {
+    "nameDetail": "AMD EPYC 7F52",
+    "mark": 1545
+  },
+  {
     "nameDetail": "Intel Xeon Gold 6312U",
     "mark": 1543
   },
@@ -2894,10 +2898,6 @@
   {
     "nameDetail": "AMD Ryzen 3 5300U",
     "mark": 1368
-  },
-  {
-    "nameDetail": "AMD EPYC 7F52",
-    "mark": 1366
   },
   {
     "nameDetail": "Intel Core i5 9400H",
@@ -3958,9 +3958,5 @@
   {
     "nameDetail": "Intel Core i7 10750H",
     "mark": 1015
-  },
-  {
-    "nameDetail": "AMD EPYC 7343",
-    "mark": 1014
   }
 ]
