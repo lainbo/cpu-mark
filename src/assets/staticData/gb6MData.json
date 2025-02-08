@@ -84,6 +84,10 @@
     "mark": 22375
   },
   {
+    "nameDetail": "AMD Ryzen 9 9950X3D",
+    "mark": 22338
+  },
+  {
     "nameDetail": "Apple M4 Pro 14 Cores",
     "mark": 22254
   },
@@ -97,7 +101,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 9950X",
-    "mark": 21740
+    "mark": 21762
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
@@ -144,6 +148,10 @@
     "mark": 21069
   },
   {
+    "nameDetail": "AMD Ryzen AI Max+ 395",
+    "mark": 20943
+  },
+  {
     "nameDetail": "AMD EPYC Embedded 9354",
     "mark": 20933
   },
@@ -154,10 +162,6 @@
   {
     "nameDetail": "AMD EPYC 9334",
     "mark": 20734
-  },
-  {
-    "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 20697
   },
   {
     "nameDetail": "AMD Ryzen AI Max+ Pro 395",
@@ -276,6 +280,10 @@
     "mark": 18760
   },
   {
+    "nameDetail": "AMD Ryzen 9 9955HX3D",
+    "mark": 18739
+  },
+  {
     "nameDetail": "Intel Core i9 13900F",
     "mark": 18735
   },
@@ -286,6 +294,14 @@
   {
     "nameDetail": "AMD EPYC 4564P",
     "mark": 18581
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max 390",
+    "mark": 18552
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 9955HX",
+    "mark": 18515
   },
   {
     "nameDetail": "AMD EPYC 7573X",
@@ -382,6 +398,10 @@
   {
     "nameDetail": "Intel Core i5 14600K",
     "mark": 17217
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max 385",
+    "mark": 17207
   },
   {
     "nameDetail": "Intel Xeon w9-3595X",
@@ -716,6 +736,10 @@
     "mark": 14185
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 365",
+    "mark": 14154
+  },
+  {
     "nameDetail": "Intel Xeon Gold 6448H",
     "mark": 14098
   },
@@ -870,10 +894,6 @@
   {
     "nameDetail": "AMD EPYC 4244P",
     "mark": 13013
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 13012
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3960X",
@@ -2188,11 +2208,11 @@
     "mark": 7706
   },
   {
-    "nameDetail": "Intel Xeon Platinum 8471N",
-    "mark": 7699
+    "nameDetail": "AMD Ryzen 3 8300G",
+    "mark": 7704
   },
   {
-    "nameDetail": "AMD Ryzen 3 8300G",
+    "nameDetail": "Intel Xeon Platinum 8471N",
     "mark": 7699
   },
   {
@@ -3942,25 +3962,5 @@
   {
     "nameDetail": "Intel Core i7 8565U",
     "mark": 3461
-  },
-  {
-    "nameDetail": "AMD EPYC 7443",
-    "mark": 3458
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 4300U",
-    "mark": 3452
-  },
-  {
-    "nameDetail": "Intel Xeon E5-1650 v2",
-    "mark": 3436
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 1400",
-    "mark": 3428
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 4500U",
-    "mark": 3421
   }
 ]

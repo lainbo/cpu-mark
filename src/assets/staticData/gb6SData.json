@@ -36,6 +36,10 @@
     "mark": 3416
   },
   {
+    "nameDetail": "AMD Ryzen 9 9950X3D",
+    "mark": 3409
+  },
+  {
     "nameDetail": "Intel Core Ultra 9 285K",
     "mark": 3377
   },
@@ -168,7 +172,15 @@
     "mark": 3006
   },
   {
+    "nameDetail": "AMD Ryzen 9 9955HX3D",
+    "mark": 3002
+  },
+  {
     "nameDetail": "Intel Processor 300",
+    "mark": 2998
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 9955HX",
     "mark": 2998
   },
   {
@@ -190,6 +202,10 @@
   {
     "nameDetail": "Qualcomm Snapdragon X Elite",
     "mark": 2980
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ 395",
+    "mark": 2976
   },
   {
     "nameDetail": "AMD EPYC 4564P",
@@ -228,6 +244,10 @@
     "mark": 2918
   },
   {
+    "nameDetail": "AMD Ryzen AI Max 390",
+    "mark": 2909
+  },
+  {
     "nameDetail": "Intel Xeon E-2488",
     "mark": 2908
   },
@@ -240,11 +260,11 @@
     "mark": 2906
   },
   {
-    "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 2896
+    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
+    "mark": 2893
   },
   {
-    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
+    "nameDetail": "AMD Ryzen AI Max 385",
     "mark": 2893
   },
   {
@@ -313,7 +333,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 2814
+    "mark": 2810
   },
   {
     "nameDetail": "AMD Threadripper PRO 7955WX",
@@ -849,7 +869,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 8300G",
-    "mark": 2407
+    "mark": 2408
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 8840U",
@@ -3938,25 +3958,5 @@
   {
     "nameDetail": "Intel Xeon Gold 5318H",
     "mark": 1024
-  },
-  {
-    "nameDetail": "Intel Core i7 6950X",
-    "mark": 1020
-  },
-  {
-    "nameDetail": "Intel Processor N250",
-    "mark": 1017
-  },
-  {
-    "nameDetail": "Intel Xeon D-1746TER",
-    "mark": 1016
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2690 v3",
-    "mark": 1015
-  },
-  {
-    "nameDetail": "Intel Core i7 10750H",
-    "mark": 1015
   }
 ]
