@@ -189,7 +189,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 370",
-    "mark": 2986
+    "mark": 2983
   },
   {
     "nameDetail": "Intel Core Ultra 5 245K",
@@ -201,7 +201,11 @@
   },
   {
     "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 2976
+    "mark": 2978
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
+    "mark": 2978
   },
   {
     "nameDetail": "AMD EPYC 4564P",
@@ -236,6 +240,10 @@
     "mark": 2942
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 365",
+    "mark": 2940
+  },
+  {
     "nameDetail": "AMD EPYC 4464P",
     "mark": 2918
   },
@@ -256,10 +264,6 @@
     "mark": 2906
   },
   {
-    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
-    "mark": 2893
-  },
-  {
     "nameDetail": "AMD Ryzen AI Max 385",
     "mark": 2893
   },
@@ -273,7 +277,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 375",
-    "mark": 2867
+    "mark": 2879
   },
   {
     "nameDetail": "Intel Core i7 14700",
@@ -324,16 +328,16 @@
     "mark": 2824
   },
   {
+    "nameDetail": "AMD Ryzen AI 7 350",
+    "mark": 2824
+  },
+  {
     "nameDetail": "Intel Core Ultra 7 255H",
     "mark": 2823
   },
   {
     "nameDetail": "Intel Core i7 13790F",
     "mark": 2815
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 2810
   },
   {
     "nameDetail": "AMD Threadripper PRO 7955WX",
@@ -452,6 +456,10 @@
     "mark": 2715
   },
   {
+    "nameDetail": "AMD Ryzen AI 5 340",
+    "mark": 2705
+  },
+  {
     "nameDetail": "Apple M2 Max",
     "mark": 2696
   },
@@ -488,12 +496,12 @@
     "mark": 2684
   },
   {
-    "nameDetail": "AMD Ryzen AI 7 350",
-    "mark": 2679
-  },
-  {
     "nameDetail": "Intel Core i9 13900H",
     "mark": 2674
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 7 Pro 360",
+    "mark": 2669
   },
   {
     "nameDetail": "Intel Core i5 14500",
@@ -502,10 +510,6 @@
   {
     "nameDetail": "Intel Core i7 14700T",
     "mark": 2667
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 7 Pro 360",
-    "mark": 2666
   },
   {
     "nameDetail": "Intel Core Ultra 9 285H",
@@ -518,10 +522,6 @@
   {
     "nameDetail": "Intel Core i7 13700F",
     "mark": 2658
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 5 340",
-    "mark": 2655
   },
   {
     "nameDetail": "Apple M2 Pro",
@@ -2184,6 +2184,10 @@
     "mark": 1670
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
+    "mark": 1668
+  },
+  {
     "nameDetail": "Intel Core i5 11260H",
     "mark": 1667
   },
@@ -2418,10 +2422,6 @@
   {
     "nameDetail": "Intel Core i5 10600",
     "mark": 1562
-  },
-  {
-    "nameDetail": "AMD Ryzen Threadripper PRO 3945WX",
-    "mark": 1561
   },
   {
     "nameDetail": "AMD Ryzen 3 5425U",

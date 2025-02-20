@@ -149,7 +149,11 @@
   },
   {
     "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 20943
+    "mark": 20952
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
+    "mark": 20946
   },
   {
     "nameDetail": "AMD EPYC Embedded 9354",
@@ -162,10 +166,6 @@
   {
     "nameDetail": "AMD EPYC 9334",
     "mark": 20734
-  },
-  {
-    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
-    "mark": 20694
   },
   {
     "nameDetail": "Intel Core i7 14700K",
@@ -297,7 +297,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI Max 390",
-    "mark": 18552
+    "mark": 18560
   },
   {
     "nameDetail": "AMD Ryzen 9 9955HX",
@@ -401,7 +401,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI Max 385",
-    "mark": 17207
+    "mark": 17191
   },
   {
     "nameDetail": "Intel Xeon w9-3595X",
@@ -540,12 +540,12 @@
     "mark": 15985
   },
   {
-    "nameDetail": "Intel Xeon Platinum 8380",
-    "mark": 15976
+    "nameDetail": "AMD Ryzen AI 9 HX 370",
+    "mark": 15984
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 HX 370",
-    "mark": 15971
+    "nameDetail": "Intel Xeon Platinum 8380",
+    "mark": 15976
   },
   {
     "nameDetail": "Intel Core i7 14700HX",
@@ -620,6 +620,10 @@
     "mark": 15200
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 HX 375",
+    "mark": 15125
+  },
+  {
     "nameDetail": "Apple M4 10 Cores",
     "mark": 15099
   },
@@ -648,11 +652,11 @@
     "mark": 14869
   },
   {
-    "nameDetail": "Intel Core i9 13900HK",
-    "mark": 14855
+    "nameDetail": "AMD Ryzen AI 9 365",
+    "mark": 14860
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 HX 375",
+    "nameDetail": "Intel Core i9 13900HK",
     "mark": 14855
   },
   {
@@ -736,10 +740,6 @@
     "mark": 14185
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 14154
-  },
-  {
     "nameDetail": "Intel Xeon Gold 6448H",
     "mark": 14098
   },
@@ -806,6 +806,10 @@
   {
     "nameDetail": "Intel Core i7 13650HX",
     "mark": 13670
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
+    "mark": 13638
   },
   {
     "nameDetail": "Intel Core Ultra 9 185H",
@@ -980,6 +984,10 @@
     "mark": 12704
   },
   {
+    "nameDetail": "AMD Ryzen AI 7 350",
+    "mark": 12679
+  },
+  {
     "nameDetail": "AMD EPYC 7F52",
     "mark": 12651
   },
@@ -1101,7 +1109,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 7 Pro 360",
-    "mark": 11922
+    "mark": 11926
   },
   {
     "nameDetail": "Intel Xeon Platinum 8360H",
@@ -1144,10 +1152,6 @@
     "mark": 11796
   },
   {
-    "nameDetail": "AMD Ryzen AI 7 350",
-    "mark": 11734
-  },
-  {
     "nameDetail": "AMD Ryzen 9 3900X",
     "mark": 11715
   },
@@ -1170,6 +1174,10 @@
   {
     "nameDetail": "AMD Ryzen 7 PRO 8840HS",
     "mark": 11550
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 5 340",
+    "mark": 11544
   },
   {
     "nameDetail": "Intel Core Ultra 5 125H",
@@ -1308,20 +1316,12 @@
     "mark": 10982
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper PRO 3945WX",
-    "mark": 10957
-  },
-  {
     "nameDetail": "AMD Ryzen Threadripper Pro 3945WX",
     "mark": 10957
   },
   {
     "nameDetail": "Intel Core Ultra 7 255U",
     "mark": 10941
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 5 340",
-    "mark": 10849
   },
   {
     "nameDetail": "Intel Xeon Gold 5318S",
