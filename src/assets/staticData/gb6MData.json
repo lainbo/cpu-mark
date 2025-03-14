@@ -20,10 +20,6 @@
     "mark": 25488
   },
   {
-    "nameDetail": "AMD Ryzen 9 9950X3D",
-    "mark": 25455
-  },
-  {
     "nameDetail": "AMD Ryzen Threadripper PRO 7995WX",
     "mark": 25395
   },
@@ -49,7 +45,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 23112
+    "mark": 23082
   },
   {
     "nameDetail": "AMD EPYC 9274F",
@@ -78,6 +74,10 @@
   {
     "nameDetail": "AMD EPYC 9655",
     "mark": 22544
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 9950X3D",
+    "mark": 22543
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
@@ -240,6 +240,10 @@
     "mark": 19383
   },
   {
+    "nameDetail": "AMD Ryzen 9 9900X3D",
+    "mark": 19229
+  },
+  {
     "nameDetail": "AMD EPYC Embedded 9554",
     "mark": 19184
   },
@@ -312,12 +316,12 @@
     "mark": 18418
   },
   {
-    "nameDetail": "Intel Xeon W-3365",
-    "mark": 18361
+    "nameDetail": "AMD Ryzen 7 9800X3D",
+    "mark": 18366
   },
   {
-    "nameDetail": "AMD Ryzen 7 9800X3D",
-    "mark": 18360
+    "nameDetail": "Intel Xeon W-3365",
+    "mark": 18361
   },
   {
     "nameDetail": "Intel Core i7 13700KF",
@@ -3957,10 +3961,6 @@
   },
   {
     "nameDetail": "Intel Xeon Platinum 8268",
-    "mark": 3553
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 2400G",
     "mark": 3553
   }
 ]
