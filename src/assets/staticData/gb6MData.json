@@ -208,12 +208,12 @@
     "mark": 19868
   },
   {
-    "nameDetail": "Intel Core Ultra 9 285HX",
-    "mark": 19835
-  },
-  {
     "nameDetail": "Intel Core i9 14900",
     "mark": 19826
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 285HX",
+    "mark": 19820
   },
   {
     "nameDetail": "Intel Xeon Platinum 8468",
@@ -282,10 +282,6 @@
   {
     "nameDetail": "AMD Ryzen 9 9955HX3D",
     "mark": 18749
-  },
-  {
-    "nameDetail": "Intel Core Ultra 9 275HX",
-    "mark": 18747
   },
   {
     "nameDetail": "Intel Core i9 13900F",
@@ -384,6 +380,10 @@
     "mark": 17612
   },
   {
+    "nameDetail": "Intel Core Ultra 9 275HX",
+    "mark": 17562
+  },
+  {
     "nameDetail": "AMD Ryzen 7 9700X",
     "mark": 17500
   },
@@ -410,6 +410,10 @@
   {
     "nameDetail": "Intel Xeon w9-3595X",
     "mark": 17118
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 265HX",
+    "mark": 17063
   },
   {
     "nameDetail": "AMD Ryzen Threadripper Pro 3975WX",
@@ -470,10 +474,6 @@
   {
     "nameDetail": "AMD EPYC 9124",
     "mark": 16674
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 265HX",
-    "mark": 16654
   },
   {
     "nameDetail": "Intel Core i7 13700F",
@@ -557,7 +557,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 255HX",
-    "mark": 15886
+    "mark": 15879
   },
   {
     "nameDetail": "AMD EPYC 7473X",
@@ -629,7 +629,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 9850HX",
-    "mark": 15192
+    "mark": 15177
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 375",
@@ -705,7 +705,7 @@
   },
   {
     "nameDetail": "Qualcomm Snapdragon X Elite (X1E-80-100)",
-    "mark": 14584
+    "mark": 14595
   },
   {
     "nameDetail": "Intel Xeon w7-3445",
@@ -758,6 +758,10 @@
   {
     "nameDetail": "Intel Xeon Gold 6342",
     "mark": 14098
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X Elite (X1E-78-100)",
+    "mark": 14047
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5975WX",
@@ -868,10 +872,6 @@
     "mark": 13296
   },
   {
-    "nameDetail": "Qualcomm Snapdragon X Elite (X1E-78-100)",
-    "mark": 13296
-  },
-  {
     "nameDetail": "Apple M4 8 Cores",
     "mark": 13291
   },
@@ -897,7 +897,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 5 245HX",
-    "mark": 13168
+    "mark": 13155
   },
   {
     "nameDetail": "AMD Ryzen 9 8940H",
@@ -1093,7 +1093,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 5 235HX",
-    "mark": 12138
+    "mark": 12142
   },
   {
     "nameDetail": "Intel Xeon Gold 6326",
