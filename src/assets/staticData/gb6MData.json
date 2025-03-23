@@ -1,11 +1,11 @@
 [
   {
-    "nameDetail": "Apple M4 Ultra",
-    "mark": 32899
-  },
-  {
     "nameDetail": "AMD Ryzen Threadripper 7960X",
     "mark": 28707
+  },
+  {
+    "nameDetail": "Apple M3 Ultra",
+    "mark": 28139
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7980X",
@@ -13,7 +13,7 @@
   },
   {
     "nameDetail": "Apple M4 Max 16 Cores",
-    "mark": 25732
+    "mark": 26198
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7970X",
@@ -36,16 +36,16 @@
     "mark": 23936
   },
   {
-    "nameDetail": "Apple M4 Max 14 Cores",
-    "mark": 23895
-  },
-  {
     "nameDetail": "AMD EPYC 9474F",
     "mark": 23699
   },
   {
+    "nameDetail": "Apple M4 Max 14 Cores",
+    "mark": 23256
+  },
+  {
     "nameDetail": "Intel Core Ultra 9 285K",
-    "mark": 23082
+    "mark": 23087
   },
   {
     "nameDetail": "AMD EPYC 9274F",
@@ -68,6 +68,10 @@
     "mark": 22757
   },
   {
+    "nameDetail": "Apple M4 Pro 14 Cores",
+    "mark": 22659
+  },
+  {
     "nameDetail": "Intel Core i9 14900K",
     "mark": 22637
   },
@@ -86,10 +90,6 @@
   {
     "nameDetail": "Intel Core i9 13900KF",
     "mark": 22375
-  },
-  {
-    "nameDetail": "Apple M4 Pro 14 Cores",
-    "mark": 22254
   },
   {
     "nameDetail": "AMD EPYC 9534",
@@ -113,7 +113,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 21362
+    "mark": 21363
   },
   {
     "nameDetail": "Intel Xeon Gold 6542Y",
@@ -133,7 +133,7 @@
   },
   {
     "nameDetail": "Apple M3 Max",
-    "mark": 21173
+    "mark": 21164
   },
   {
     "nameDetail": "AMD EPYC 9684X",
@@ -166,6 +166,10 @@
   {
     "nameDetail": "AMD EPYC 9334",
     "mark": 20734
+  },
+  {
+    "nameDetail": "Apple M4 Pro 12 Cores",
+    "mark": 20506
   },
   {
     "nameDetail": "Intel Core i7 14700K",
@@ -258,10 +262,6 @@
   {
     "nameDetail": "Intel Core i9 13900",
     "mark": 19064
-  },
-  {
-    "nameDetail": "Apple M4 Pro 12 Cores",
-    "mark": 19020
   },
   {
     "nameDetail": "Intel Xeon w9-3495X",
@@ -637,15 +637,15 @@
   },
   {
     "nameDetail": "Apple M4 10 Cores",
-    "mark": 15099
+    "mark": 15112
+  },
+  {
+    "nameDetail": "Apple M3 Pro",
+    "mark": 15083
   },
   {
     "nameDetail": "AMD Ryzen 7 7745HX",
     "mark": 15066
-  },
-  {
-    "nameDetail": "Apple M3 Pro",
-    "mark": 15057
   },
   {
     "nameDetail": "AMD Ryzen 5 9600X",
@@ -824,6 +824,10 @@
     "mark": 13670
   },
   {
+    "nameDetail": "Apple M4 8 Cores",
+    "mark": 13658
+  },
+  {
     "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
     "mark": 13638
   },
@@ -870,10 +874,6 @@
   {
     "nameDetail": "AMD EPYC 9174F",
     "mark": 13296
-  },
-  {
-    "nameDetail": "Apple M4 8 Cores",
-    "mark": 13291
   },
   {
     "nameDetail": "Intel Core 7 240H",
