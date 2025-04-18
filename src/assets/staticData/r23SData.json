@@ -208,15 +208,15 @@
     "mark": 2079
   },
   {
-    "nameDetail": "Intel Core Ultra 9 285H",
-    "mark": 2074
-  },
-  {
     "nameDetail": "Intel Core i9 13950HX",
     "mark": 2073
   },
   {
     "nameDetail": "AMD Ryzen 7 9800X3D",
+    "mark": 2073
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 285H",
     "mark": 2073
   },
   {
@@ -241,10 +241,6 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X3D",
-    "mark": 2043
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 265H",
     "mark": 2043
   },
   {
@@ -296,10 +292,6 @@
     "mark": 2019
   },
   {
-    "nameDetail": "Intel Core Ultra 5 235H",
-    "mark": 2019
-  },
-  {
     "nameDetail": "Intel Core Ultra 5 225H",
     "mark": 2015
   },
@@ -308,11 +300,15 @@
     "mark": 2013
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 2007
+    "nameDetail": "Intel Core Ultra 7 265H",
+    "mark": 2010
   },
   {
     "nameDetail": "Intel Core Ultra 9 285HX",
+    "mark": 2009
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 9 365",
     "mark": 2007
   },
   {
@@ -326,6 +322,10 @@
   {
     "nameDetail": "Intel Core i5 13600KF",
     "mark": 2002
+  },
+  {
+    "nameDetail": "Intel Core Ultra 5 235H",
+    "mark": 1999
   },
   {
     "nameDetail": "Intel Core Ultra 5 245HX",
@@ -584,10 +584,6 @@
     "mark": 1831
   },
   {
-    "nameDetail": "Intel Core Ultra 9 185H",
-    "mark": 1824
-  },
-  {
     "nameDetail": "Intel Core Ultra 7 265U",
     "mark": 1820
   },
@@ -606,6 +602,10 @@
   {
     "nameDetail": "Intel Core i7 12800H",
     "mark": 1813
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 185H",
+    "mark": 1809
   },
   {
     "nameDetail": "Intel Core i5 13600H",
@@ -662,6 +662,10 @@
   {
     "nameDetail": "Intel Core i5 13400F",
     "mark": 1796
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 155H",
+    "mark": 1795
   },
   {
     "nameDetail": "Intel Core i7 13620H",
@@ -752,6 +756,10 @@
     "mark": 1761
   },
   {
+    "nameDetail": "Intel Core Ultra 7 165H",
+    "mark": 1758
+  },
+  {
     "nameDetail": "AMD Ryzen 7 7840H",
     "mark": 1757
   },
@@ -822,10 +830,6 @@
   {
     "nameDetail": "Intel Core i7 1265U",
     "mark": 1737
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 155H",
-    "mark": 1733
   },
   {
     "nameDetail": "Apple M2 Ultra",
@@ -952,10 +956,6 @@
     "mark": 1673
   },
   {
-    "nameDetail": "Intel Core Ultra 5 125H",
-    "mark": 1671
-  },
-  {
     "nameDetail": "AMD Ryzen 9 5900X",
     "mark": 1670
   },
@@ -972,8 +972,8 @@
     "mark": 1662
   },
   {
-    "nameDetail": "Intel Core Ultra 7 165H",
-    "mark": 1662
+    "nameDetail": "Intel Core Ultra 5 125H",
+    "mark": 1656
   },
   {
     "nameDetail": "Intel Core i3 12300",
