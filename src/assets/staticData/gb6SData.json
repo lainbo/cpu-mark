@@ -1064,6 +1064,10 @@
     "mark": 2413
   },
   {
+    "nameDetail": "Qualcomm Snapdragon X Plus (X1P-42-100)",
+    "mark": 2412
+  },
+  {
     "nameDetail": "Apple M1 Max",
     "mark": 2410
   },
@@ -1122,10 +1126,6 @@
   {
     "nameDetail": "Qualcomm Snapdragon X Elite (X1E-78-100)",
     "mark": 2390
-  },
-  {
-    "nameDetail": "Qualcomm Snapdragon X Plus (X1P-42-100)",
-    "mark": 2385
   },
   {
     "nameDetail": "Intel Xeon w9-3495X",
@@ -1660,11 +1660,11 @@
     "mark": 2123
   },
   {
-    "nameDetail": "Qualcomm Snapdragon X X1 26 100",
-    "mark": 2123
+    "nameDetail": "AMD Ryzen 7 7735HS",
+    "mark": 2121
   },
   {
-    "nameDetail": "AMD Ryzen 7 7735HS",
+    "nameDetail": "Qualcomm Snapdragon X X1 26 100",
     "mark": 2121
   },
   {
@@ -3953,6 +3953,10 @@
   },
   {
     "nameDetail": "Intel Xeon Platinum 8362",
+    "mark": 1204
+  },
+  {
+    "nameDetail": "Intel Processor N100",
     "mark": 1204
   }
 ]

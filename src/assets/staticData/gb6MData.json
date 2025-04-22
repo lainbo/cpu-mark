@@ -1436,10 +1436,6 @@
     "mark": 11498
   },
   {
-    "nameDetail": "Qualcomm Snapdragon X Plus (X1P-42-100)",
-    "mark": 11494
-  },
-  {
     "nameDetail": "Intel Xeon Silver 4416+",
     "mark": 11440
   },
@@ -1469,7 +1465,7 @@
   },
   {
     "nameDetail": "Qualcomm Snapdragon X Plus X1P 46 100",
-    "mark": 11344
+    "mark": 11351
   },
   {
     "nameDetail": "Intel Core i9 10940X",
@@ -1509,6 +1505,10 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5800X3D",
+    "mark": 11193
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X Plus (X1P-42-100)",
     "mark": 11193
   },
   {
@@ -1680,12 +1680,12 @@
     "mark": 10530
   },
   {
-    "nameDetail": "Qualcomm Snapdragon X X1 26 100",
-    "mark": 10530
-  },
-  {
     "nameDetail": "Intel Core i5 12600HX",
     "mark": 10523
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X X1 26 100",
+    "mark": 10516
   },
   {
     "nameDetail": "AMD Ryzen 5 240",
@@ -3536,10 +3536,6 @@
     "mark": 5296
   },
   {
-    "nameDetail": "Intel Xeon E-2324G",
-    "mark": 5291
-  },
-  {
     "nameDetail": "Intel Core i5 11400H",
     "mark": 5279
   },
@@ -3646,6 +3642,10 @@
   {
     "nameDetail": "AMD Ryzen 3 4300G",
     "mark": 5071
+  },
+  {
+    "nameDetail": "Intel Xeon E-2324G",
+    "mark": 5070
   },
   {
     "nameDetail": "Intel Core i7 6700K",
@@ -3962,5 +3962,9 @@
   {
     "nameDetail": "Intel Xeon E3-1285L v4",
     "mark": 4461
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 1700X",
+    "mark": 4457
   }
 ]
