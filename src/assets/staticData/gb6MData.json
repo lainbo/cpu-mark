@@ -1521,7 +1521,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 8500G",
-    "mark": 11081
+    "mark": 11079
   },
   {
     "nameDetail": "Intel Core i5 13400TE",
@@ -1552,12 +1552,12 @@
     "mark": 11025
   },
   {
-    "nameDetail": "Intel Xeon w7-3455",
-    "mark": 11021
+    "nameDetail": "AMD Ryzen 7 8745HS",
+    "mark": 11024
   },
   {
-    "nameDetail": "AMD Ryzen 7 8745HS",
-    "mark": 11019
+    "nameDetail": "Intel Xeon w7-3455",
+    "mark": 11021
   },
   {
     "nameDetail": "Intel Xeon W-1390P",
@@ -1826,6 +1826,10 @@
   {
     "nameDetail": "Intel Core i7 1360P",
     "mark": 10235
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 8500GE",
+    "mark": 10202
   },
   {
     "nameDetail": "AMD Ryzen 5 7640HS",
@@ -3080,6 +3084,10 @@
     "mark": 6449
   },
   {
+    "nameDetail": "AMD Ryzen 3 8300GE",
+    "mark": 6449
+  },
+  {
     "nameDetail": "AMD Ryzen 7 5800U",
     "mark": 6437
   },
@@ -3958,13 +3966,5 @@
   {
     "nameDetail": "Intel Core i7 1180G7",
     "mark": 4468
-  },
-  {
-    "nameDetail": "Intel Core i5 8279U",
-    "mark": 4465
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1285L v4",
-    "mark": 4461
   }
 ]
