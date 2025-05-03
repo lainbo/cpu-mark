@@ -1,26 +1,30 @@
 [
   {
-    "nameDetail": "Apple M4 Max 14 Cores",
-    "mark": 3994
+    "nameDetail": "Apple M4 Ultra",
+    "mark": 4061
   },
   {
-    "nameDetail": "Apple M4 Max 16 Cores",
-    "mark": 3983
+    "nameDetail": "Apple M4 Max 14 Core",
+    "mark": 3997
   },
   {
-    "nameDetail": "Apple M4 Pro 14 Cores",
-    "mark": 3899
+    "nameDetail": "Apple M4 Max 16 Core",
+    "mark": 3984
   },
   {
-    "nameDetail": "Apple M4 Pro 12 Cores",
-    "mark": 3866
+    "nameDetail": "Apple M4 Pro 14 Core",
+    "mark": 3896
   },
   {
-    "nameDetail": "Apple M4 10 Cores",
-    "mark": 3846
+    "nameDetail": "Apple M4 Pro 12 Core",
+    "mark": 3863
   },
   {
-    "nameDetail": "Apple M4 8 Cores",
+    "nameDetail": "Apple M4 10 Core",
+    "mark": 3848
+  },
+  {
+    "nameDetail": "Apple M4 8 Core",
     "mark": 3674
   },
   {
@@ -57,7 +61,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 9800X3D",
-    "mark": 3315
+    "mark": 3316
   },
   {
     "nameDetail": "Intel Core i9 13900KS",
@@ -113,7 +117,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 3156
+    "mark": 3155
   },
   {
     "nameDetail": "Intel Core Ultra 7 265T",
@@ -1044,12 +1048,12 @@
     "mark": 2423
   },
   {
-    "nameDetail": "Intel Core Ultra 7 155H",
-    "mark": 2422
-  },
-  {
     "nameDetail": "Apple M1 Ultra",
     "mark": 2420
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 155H",
+    "mark": 2419
   },
   {
     "nameDetail": "AMD Ryzen 5 8640U",
@@ -1268,6 +1272,10 @@
     "mark": 2315
   },
   {
+    "nameDetail": "Intel Core Ultra 7 155U",
+    "mark": 2314
+  },
+  {
     "nameDetail": "Intel Core i5 13500T",
     "mark": 2313
   },
@@ -1302,10 +1310,6 @@
   {
     "nameDetail": "Intel Core i3 13100",
     "mark": 2300
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 155U",
-    "mark": 2299
   },
   {
     "nameDetail": "Intel Core i5 11600K",
@@ -1960,6 +1964,10 @@
     "mark": 1986
   },
   {
+    "nameDetail": "AMD Ryzen 7 5600X3D",
+    "mark": 1986
+  },
+  {
     "nameDetail": "AMD Ryzen 9 6900HS",
     "mark": 1985
   },
@@ -2022,6 +2030,10 @@
   {
     "nameDetail": "AMD EPYC 9354",
     "mark": 1934
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7533HS",
+    "mark": 1933
   },
   {
     "nameDetail": "Intel Xeon Platinum 8460Y+",
@@ -3938,25 +3950,5 @@
   {
     "nameDetail": "Intel Core i5 8257U",
     "mark": 1210
-  },
-  {
-    "nameDetail": "AMD EPYC 7453",
-    "mark": 1208
-  },
-  {
-    "nameDetail": "Intel Core i9 8950HK",
-    "mark": 1208
-  },
-  {
-    "nameDetail": "Intel Xeon W-2123",
-    "mark": 1207
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 7320U",
-    "mark": 1207
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1241 v3",
-    "mark": 1206
   }
 ]

@@ -1,5 +1,9 @@
 [
   {
+    "nameDetail": "Apple M4 Ultra",
+    "mark": 32898
+  },
+  {
     "nameDetail": "AMD Ryzen Threadripper 7960X",
     "mark": 28707
   },
@@ -16,8 +20,8 @@
     "mark": 26811
   },
   {
-    "nameDetail": "Apple M4 Max 16 Cores",
-    "mark": 26198
+    "nameDetail": "Apple M4 Max 16 Core",
+    "mark": 26185
   },
   {
     "nameDetail": "AMD EPYC 9375F",
@@ -56,8 +60,8 @@
     "mark": 23581
   },
   {
-    "nameDetail": "Apple M4 Max 14 Cores",
-    "mark": 23256
+    "nameDetail": "Apple M4 Max 14 Core",
+    "mark": 23252
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
@@ -84,16 +88,16 @@
     "mark": 22757
   },
   {
-    "nameDetail": "Apple M4 Pro 14 Cores",
-    "mark": 22659
-  },
-  {
     "nameDetail": "AMD EPYC 9535",
     "mark": 22642
   },
   {
     "nameDetail": "Intel Core i9 14900K",
     "mark": 22637
+  },
+  {
+    "nameDetail": "Apple M4 Pro 14 Core",
+    "mark": 22630
   },
   {
     "nameDetail": "AMD EPYC 9655",
@@ -212,8 +216,8 @@
     "mark": 20734
   },
   {
-    "nameDetail": "Apple M4 Pro 12 Cores",
-    "mark": 20506
+    "nameDetail": "Apple M4 Pro 12 Core",
+    "mark": 20492
   },
   {
     "nameDetail": "Intel Core i7 14700K",
@@ -736,8 +740,8 @@
     "mark": 15125
   },
   {
-    "nameDetail": "Apple M4 10 Cores",
-    "mark": 15112
+    "nameDetail": "Apple M4 10 Core",
+    "mark": 15114
   },
   {
     "nameDetail": "Intel Xeon w5-2565X",
@@ -976,8 +980,8 @@
     "mark": 13670
   },
   {
-    "nameDetail": "Apple M4 8 Cores",
-    "mark": 13658
+    "nameDetail": "Apple M4 8 Core",
+    "mark": 13664
   },
   {
     "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
@@ -1237,7 +1241,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 155H",
-    "mark": 12516
+    "mark": 12505
   },
   {
     "nameDetail": "Intel Core i5 13600H",
@@ -2044,6 +2048,10 @@
     "mark": 9499
   },
   {
+    "nameDetail": "Intel Core Ultra 7 155U",
+    "mark": 9486
+  },
+  {
     "nameDetail": "Intel Core i5 12400F",
     "mark": 9475
   },
@@ -2117,10 +2125,6 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 5600X",
-    "mark": 9138
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 155U",
     "mark": 9138
   },
   {
@@ -2262,6 +2266,10 @@
   {
     "nameDetail": "Intel Core i7 13850HX",
     "mark": 8807
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5600X3D",
+    "mark": 8785
   },
   {
     "nameDetail": "Intel Xeon Gold 6418H",
@@ -3046,6 +3054,10 @@
   {
     "nameDetail": "AMD Ryzen 5 3500X",
     "mark": 6523
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7533HS",
+    "mark": 6514
   },
   {
     "nameDetail": "AMD Ryzen 5 Pro 4650G",
@@ -3946,25 +3958,5 @@
   {
     "nameDetail": "Intel Xeon X5690",
     "mark": 4495
-  },
-  {
-    "nameDetail": "Intel Xeon D-1540",
-    "mark": 4483
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 5400U",
-    "mark": 4483
-  },
-  {
-    "nameDetail": "Intel Core i7 1068NG7",
-    "mark": 4478
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1270L v4",
-    "mark": 4471
-  },
-  {
-    "nameDetail": "Intel Core i7 1180G7",
-    "mark": 4468
   }
 ]
