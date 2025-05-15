@@ -9,11 +9,15 @@
   },
   {
     "nameDetail": "Samsung 9100 PRO 4TB SSD",
-    "mark": 88977
+    "mark": 89100
   },
   {
     "nameDetail": "Samsung SSD 9100 PRO with Heatsink 4TB",
     "mark": 86700
+  },
+  {
+    "nameDetail": "Samsung 9100 PRO 2TB SSD",
+    "mark": 86661
   },
   {
     "nameDetail": "NVMe HFS001TFM9X186N",
@@ -21,11 +25,7 @@
   },
   {
     "nameDetail": "Samsung 9100 PRO 1TB SSD",
-    "mark": 86393
-  },
-  {
-    "nameDetail": "Samsung 9100 PRO 2TB SSD",
-    "mark": 86383
+    "mark": 86444
   },
   {
     "nameDetail": "Lexar SSD NM1090 PRO 1TB",
@@ -37,7 +37,7 @@
   },
   {
     "nameDetail": "Crucial T705 4TB SSD",
-    "mark": 78447
+    "mark": 78312
   },
   {
     "nameDetail": "ADATA LEGEND 970",
@@ -69,7 +69,7 @@
   },
   {
     "nameDetail": "Crucial T705 2TB SSD",
-    "mark": 74792
+    "mark": 74737
   },
   {
     "nameDetail": "Crucial T705 2TB SSD with heatsink",
@@ -77,7 +77,7 @@
   },
   {
     "nameDetail": "T-FORCE GC Pro 2TB",
-    "mark": 73261
+    "mark": 73177
   },
   {
     "nameDetail": "MSI M580 4TB",
@@ -97,7 +97,7 @@
   },
   {
     "nameDetail": "Crucial T700 4TB SSD",
-    "mark": 71640
+    "mark": 71634
   },
   {
     "nameDetail": "Crucial T705 4TB SSD with heatsink",
@@ -109,7 +109,7 @@
   },
   {
     "nameDetail": "Crucial T700 2TB SSD",
-    "mark": 70200
+    "mark": 70156
   },
   {
     "nameDetail": "Crucial T700 4TB SSD with heatsink",
@@ -120,16 +120,16 @@
     "mark": 69834
   },
   {
+    "nameDetail": "Corsair MP700 PRO 4TB",
+    "mark": 69247
+  },
+  {
     "nameDetail": "Crucial T705 1TB SSD",
-    "mark": 69125
+    "mark": 69205
   },
   {
     "nameDetail": "Corsair MP700 PRO 2TB",
-    "mark": 68927
-  },
-  {
-    "nameDetail": "Corsair MP700 PRO 4TB",
-    "mark": 68892
+    "mark": 68955
   },
   {
     "nameDetail": "Lexar SSD NM1090 1TB",
@@ -188,6 +188,10 @@
     "mark": 65638
   },
   {
+    "nameDetail": "SK hynix PCB01 HFS001TFM9X187N",
+    "mark": 65565
+  },
+  {
     "nameDetail": "WDC WUH721818ALE6L4",
     "mark": 65538
   },
@@ -212,20 +216,16 @@
     "mark": 64055
   },
   {
-    "nameDetail": "Corsair MP700 PRO 1TB",
-    "mark": 63670
-  },
-  {
     "nameDetail": "Corsair MP700 PR 1TB Disk Drive",
     "mark": 63643
   },
   {
-    "nameDetail": "Apacer AS2280F4 1TB",
-    "mark": 63435
+    "nameDetail": "Corsair MP700 PRO 1TB",
+    "mark": 63606
   },
   {
-    "nameDetail": "SK hynix PCB01 HFS001TFM9X187N",
-    "mark": 63404
+    "nameDetail": "Apacer AS2280F4 1TB",
+    "mark": 63435
   },
   {
     "nameDetail": "Gigabyte AORUS 14000 1TB SSD",
@@ -269,7 +269,7 @@
   },
   {
     "nameDetail": "Crucial T700 1TB SSD",
-    "mark": 59948
+    "mark": 59932
   },
   {
     "nameDetail": "GIGABYTE AORUS Gen5 12000 1TB",
@@ -297,7 +297,7 @@
   },
   {
     "nameDetail": "Corsair MP700 ELITE 1TB",
-    "mark": 56215
+    "mark": 56081
   },
   {
     "nameDetail": "ADATA XPG GAMMIX S70 BLADE 2TB SSD",
@@ -336,10 +336,6 @@
     "mark": 54726
   },
   {
-    "nameDetail": "WD PC SN8000S SDEQNRK-1T00-1001",
-    "mark": 54662
-  },
-  {
     "nameDetail": "Corsair MP700 1TB",
     "mark": 54599
   },
@@ -349,19 +345,19 @@
   },
   {
     "nameDetail": "Seagate FireCuda 540 1TB SSD",
-    "mark": 54058
-  },
-  {
-    "nameDetail": "WD BLACK SN7100 2TB",
-    "mark": 53748
+    "mark": 53959
   },
   {
     "nameDetail": "KINGSTON OM8PDP3 2TB SSD",
     "mark": 53620
   },
   {
-    "nameDetail": "Phison 2TB ESR02TBTLCA3-E1J-2MS",
-    "mark": 53444
+    "nameDetail": "Corsair MP700 ELITE 1TB with Heatsink",
+    "mark": 53507
+  },
+  {
+    "nameDetail": "WD BLACK SN7100 2TB",
+    "mark": 53491
   },
   {
     "nameDetail": "Corsair MP600 PRO NH",
@@ -376,12 +372,12 @@
     "mark": 53133
   },
   {
-    "nameDetail": "Seagate FireCuda 530 2TB SSD",
-    "mark": 52905
-  },
-  {
     "nameDetail": "SUNEAST Gen4 G70 2TB",
     "mark": 52868
+  },
+  {
+    "nameDetail": "Seagate FireCuda 530 2TB SSD",
+    "mark": 52857
   },
   {
     "nameDetail": "TEAM T-FORCE CARDEA A440 PRO 4TB SSD",
@@ -393,15 +389,15 @@
   },
   {
     "nameDetail": "Kingston FURY Renegade 4TB SSD",
-    "mark": 52769
+    "mark": 52778
   },
   {
     "nameDetail": "T-FORCE TM8FPV004T",
     "mark": 52698
   },
   {
-    "nameDetail": "Phison 2TB SSD",
-    "mark": 52591
+    "nameDetail": "WD PC SN8000S SDEQNRK-1T00-1001",
+    "mark": 52515
   },
   {
     "nameDetail": "Intel Optane DC P5800X 400GB",
@@ -421,15 +417,15 @@
   },
   {
     "nameDetail": "WD BLACK SN850X 8000GB",
-    "mark": 52001
-  },
-  {
-    "nameDetail": "WD BLACK SN850X 4TB",
-    "mark": 51926
+    "mark": 52099
   },
   {
     "nameDetail": "XPG GAMMIX S70 PRO 2TB",
     "mark": 51923
+  },
+  {
+    "nameDetail": "WD BLACK SN850X 4TB",
+    "mark": 51895
   },
   {
     "nameDetail": "KLEVV CRAS C925 1TB SSD",
@@ -441,7 +437,7 @@
   },
   {
     "nameDetail": "WD BLACK SN850X 2000GB",
-    "mark": 51529
+    "mark": 51533
   },
   {
     "nameDetail": "Sabrent Rocket 4 Plus Gaming 2TB SSD",
@@ -456,10 +452,6 @@
     "mark": 51211
   },
   {
-    "nameDetail": "Gigabyte AORUS 7300 2TB SSD",
-    "mark": 51138
-  },
-  {
     "nameDetail": "PHISON BICS5 2TB SSD",
     "mark": 51096
   },
@@ -472,8 +464,12 @@
     "mark": 50920
   },
   {
+    "nameDetail": "Phison 2TB ESR02TBTLCA3-E1J-2MS",
+    "mark": 50883
+  },
+  {
     "nameDetail": "Samsung 990 PRO PM9F1 with Heatsink 4TB SSD",
-    "mark": 50861
+    "mark": 50843
   },
   {
     "nameDetail": "EDILOCA EN855 2TB SSD",
@@ -496,8 +492,12 @@
     "mark": 50634
   },
   {
+    "nameDetail": "Gigabyte AORUS 7300 2TB SSD",
+    "mark": 50540
+  },
+  {
     "nameDetail": "KINGSTON FURY Renegade 2TB SSD",
-    "mark": 50498
+    "mark": 50505
   },
   {
     "nameDetail": "Corsair MP600 PRO",
@@ -524,8 +524,12 @@
     "mark": 50154
   },
   {
+    "nameDetail": "Phison 2TB SSD",
+    "mark": 50147
+  },
+  {
     "nameDetail": "Samsung 990 Pro PM9F1 2TB SSD",
-    "mark": 50120
+    "mark": 50119
   },
   {
     "nameDetail": "HP FX900 Plus 2TB SSD",
@@ -596,6 +600,10 @@
     "mark": 49553
   },
   {
+    "nameDetail": "MSI M480 PRO 4TB",
+    "mark": 49526
+  },
+  {
     "nameDetail": "ONEXPLAYER Q5 2TB",
     "mark": 49487
   },
@@ -625,7 +633,7 @@
   },
   {
     "nameDetail": "SK Hynix PC801 2TB SSD",
-    "mark": 49337
+    "mark": 49315
   },
   {
     "nameDetail": "PNY CS2340 1TB SSD",
@@ -668,10 +676,6 @@
     "mark": 49161
   },
   {
-    "nameDetail": "MSI M480 PRO 4TB",
-    "mark": 49136
-  },
-  {
     "nameDetail": "HS-SSD-C4000 2048G",
     "mark": 49029
   },
@@ -689,7 +693,7 @@
   },
   {
     "nameDetail": "Samsung 990 Pro PM9F1 1TB SSD",
-    "mark": 48968
+    "mark": 48959
   },
   {
     "nameDetail": "TEAM 2TB SSD",
@@ -700,8 +704,12 @@
     "mark": 48874
   },
   {
+    "nameDetail": "SK Hynix PC811 2TB SSD",
+    "mark": 48867
+  },
+  {
     "nameDetail": "KINGSTON KC3000 2TB",
-    "mark": 48844
+    "mark": 48822
   },
   {
     "nameDetail": "Oyen Digital PCIe SSD",
@@ -716,20 +724,20 @@
     "mark": 48722
   },
   {
-    "nameDetail": "SK Hynix PC811 2TB SSD",
-    "mark": 48704
+    "nameDetail": "Corsair MP600 ELITE",
+    "mark": 48699
   },
   {
     "nameDetail": "KLEVV CRAS C930 1TB SSD",
     "mark": 48665
   },
   {
-    "nameDetail": "Corsair MP600 ELITE",
-    "mark": 48660
-  },
-  {
     "nameDetail": "BIWIN NV7400 1TB",
     "mark": 48634
+  },
+  {
+    "nameDetail": "WD BLACK SN7100 1TB",
+    "mark": 48624
   },
   {
     "nameDetail": "Seagate Game Drive 1TB SSD",
@@ -740,16 +748,12 @@
     "mark": 48616
   },
   {
-    "nameDetail": "WD BLACK SN7100 1TB",
-    "mark": 48516
+    "nameDetail": "MasonSemi RC7000 2TB",
+    "mark": 48485
   },
   {
     "nameDetail": "Samsung 990 PRO PM9F1 with Heatsink 1TB SSD",
-    "mark": 48509
-  },
-  {
-    "nameDetail": "MasonSemi RC7000 2TB",
-    "mark": 48485
+    "mark": 48478
   },
   {
     "nameDetail": "WD BLACK SN850X HS 4000GB",
@@ -784,16 +788,16 @@
     "mark": 48106
   },
   {
+    "nameDetail": "Lexar NM790 4TB SSD",
+    "mark": 48077
+  },
+  {
     "nameDetail": "Samsung SSD 990",
     "mark": 48051
   },
   {
     "nameDetail": "T-FORCE TM8FFH001T",
     "mark": 48040
-  },
-  {
-    "nameDetail": "Lexar NM790 4TB SSD",
-    "mark": 48035
   },
   {
     "nameDetail": "Q7000MN 1TB",
@@ -804,12 +808,12 @@
     "mark": 47918
   },
   {
-    "nameDetail": "TEAM T-FORCE A440 Lite 2TB SSD",
-    "mark": 47879
+    "nameDetail": "3500 SED Micron 1024GB",
+    "mark": 47892
   },
   {
-    "nameDetail": "3500 SED Micron 1024GB",
-    "mark": 47826
+    "nameDetail": "TEAM T-FORCE A440 Lite 2TB SSD",
+    "mark": 47879
   },
   {
     "nameDetail": "Lexar NM790 2TB SSD",
@@ -829,7 +833,7 @@
   },
   {
     "nameDetail": "Samsung 990 PRO PM9F1 with Heatsink 2TB SSD",
-    "mark": 47732
+    "mark": 47735
   },
   {
     "nameDetail": "Western Digital SN850 1TB SSD",
@@ -841,23 +845,19 @@
   },
   {
     "nameDetail": "Predator SSD GM7000 2TB",
-    "mark": 47648
+    "mark": 47683
+  },
+  {
+    "nameDetail": "KINGSTON KC3000 4TB",
+    "mark": 47626
   },
   {
     "nameDetail": "Transcend 250H 2TB SSD",
     "mark": 47599
   },
   {
-    "nameDetail": "KINGSTON KC3000 4TB",
-    "mark": 47565
-  },
-  {
     "nameDetail": "CUSU CV7000 1TB",
     "mark": 47487
-  },
-  {
-    "nameDetail": "Seagate ZP4000GM30063",
-    "mark": 47371
   },
   {
     "nameDetail": "KE680 SSD 2TB",
@@ -865,7 +865,7 @@
   },
   {
     "nameDetail": "WD BLACK SN850X 1TB",
-    "mark": 47354
+    "mark": 47346
   },
   {
     "nameDetail": "BIWIN AP803 2TB SSD",
@@ -921,11 +921,7 @@
   },
   {
     "nameDetail": "Lexar SSD NM790 2TB",
-    "mark": 46875
-  },
-  {
-    "nameDetail": "Predator SSD GM7 M.2 4TB",
-    "mark": 46848
+    "mark": 46881
   },
   {
     "nameDetail": "SPD S700-2TD",
@@ -934,6 +930,10 @@
   {
     "nameDetail": "SSDPR-PX700-04T-80",
     "mark": 46812
+  },
+  {
+    "nameDetail": "Predator SSD GM7 M.2 4TB",
+    "mark": 46761
   },
   {
     "nameDetail": "KINGSTON SKC3000",
@@ -993,7 +993,7 @@
   },
   {
     "nameDetail": "BIWIN NV7200 1TB",
-    "mark": 46429
+    "mark": 46427
   },
   {
     "nameDetail": "Micron 3500 2TB",
@@ -1013,31 +1013,31 @@
   },
   {
     "nameDetail": "Lexar SSD NM790 4TB",
-    "mark": 46206
+    "mark": 46220
   },
   {
     "nameDetail": "FIKWOT FN955 1TB",
     "mark": 46185
   },
   {
+    "nameDetail": "WD BLACK SN850X HS 1000GB",
+    "mark": 46178
+  },
+  {
     "nameDetail": "Predator SSD GM7 M.2 1TB",
     "mark": 46173
   },
   {
-    "nameDetail": "Viper VP4300L 2TB",
-    "mark": 46167
-  },
-  {
-    "nameDetail": "WD BLACK SN850X HS 1000GB",
-    "mark": 46167
-  },
-  {
     "nameDetail": "SK hynix PC811 1024GB",
-    "mark": 46117
+    "mark": 46127
   },
   {
     "nameDetail": "ADATA LEGEND 960",
     "mark": 46093
+  },
+  {
+    "nameDetail": "Viper VP4300L 2TB",
+    "mark": 46041
   },
   {
     "nameDetail": "Maxsun 2TB SSD",
@@ -1046,6 +1046,10 @@
   {
     "nameDetail": "iDsonix-2TB",
     "mark": 45969
+  },
+  {
+    "nameDetail": "CT2000P310SSD8",
+    "mark": 45949
   },
   {
     "nameDetail": "Seagate ZP2000GP304001",
@@ -1073,11 +1077,7 @@
   },
   {
     "nameDetail": "Solidigm P44 Pro 2TB SSD",
-    "mark": 45847
-  },
-  {
-    "nameDetail": "CT2000P310SSD8",
-    "mark": 45835
+    "mark": 45868
   },
   {
     "nameDetail": "FIKWOT FX991 4TB",
@@ -1094,6 +1094,10 @@
   {
     "nameDetail": "Fanxiang S770 2TB",
     "mark": 45744
+  },
+  {
+    "nameDetail": "FIKWOT FN955 2TB SSD",
+    "mark": 45743
   },
   {
     "nameDetail": "Asgard AN4 Plus 2TB SSD",
@@ -1120,12 +1124,16 @@
     "mark": 45532
   },
   {
-    "nameDetail": "Kingston FURY Renegade 1TB SSD",
-    "mark": 45500
-  },
-  {
     "nameDetail": "Verbatim Vi7000 1TB SSD",
     "mark": 45494
+  },
+  {
+    "nameDetail": "ADATA LEGEND 900",
+    "mark": 45493
+  },
+  {
+    "nameDetail": "Kingston FURY Renegade 1TB SSD",
+    "mark": 45492
   },
   {
     "nameDetail": "Lexar SSD NM800PRO 1TB",
@@ -1136,10 +1144,6 @@
     "mark": 45403
   },
   {
-    "nameDetail": "ADATA LEGEND 900",
-    "mark": 45400
-  },
-  {
     "nameDetail": "WD BLACK SN850 PS5 2TB",
     "mark": 45387
   },
@@ -1148,12 +1152,12 @@
     "mark": 45384
   },
   {
-    "nameDetail": "Crucial T500 2TB SSD",
-    "mark": 45349
-  },
-  {
     "nameDetail": "CSSD-M2L1KSFT6KE 1024GB",
     "mark": 45339
+  },
+  {
+    "nameDetail": "Crucial T500 2TB SSD",
+    "mark": 45323
   },
   {
     "nameDetail": "MSI M480 2TB",
@@ -1176,16 +1180,16 @@
     "mark": 45129
   },
   {
+    "nameDetail": "Samsung SSD 990 EVO Plus 4TB",
+    "mark": 45124
+  },
+  {
     "nameDetail": "Aigo P7000Z 2TB SSD",
     "mark": 45119
   },
   {
     "nameDetail": "PELAND",
     "mark": 45117
-  },
-  {
-    "nameDetail": "Samsung SSD 990 EVO Plus 4TB",
-    "mark": 45110
   },
   {
     "nameDetail": "Micron 2500 MTFDKBA1T0QGN",
@@ -1200,14 +1204,6 @@
     "mark": 45051
   },
   {
-    "nameDetail": "FIKWOT FN955 2TB SSD",
-    "mark": 45038
-  },
-  {
-    "nameDetail": "XG7000-2TB 2280",
-    "mark": 45009
-  },
-  {
     "nameDetail": "YSSDLB-2TN7000",
     "mark": 44955
   },
@@ -1218,6 +1214,10 @@
   {
     "nameDetail": "Predator SSD GM7 2TB",
     "mark": 44895
+  },
+  {
+    "nameDetail": "XG7000-2TB 2280",
+    "mark": 44893
   },
   {
     "nameDetail": "SKHynix HFS002TEJ9X162N",
@@ -1236,10 +1236,6 @@
     "mark": 44761
   },
   {
-    "nameDetail": "Fanxiang S880 1TB",
-    "mark": 44756
-  },
-  {
     "nameDetail": "EDILOCA EN870 1TB SSD",
     "mark": 44750
   },
@@ -1249,7 +1245,7 @@
   },
   {
     "nameDetail": "KINGSTON KC3000 1TB",
-    "mark": 44726
+    "mark": 44725
   },
   {
     "nameDetail": "SSDPR-PX700-01T-80",
@@ -1258,6 +1254,10 @@
   {
     "nameDetail": "Lexar NM790 1TB SSD",
     "mark": 44688
+  },
+  {
+    "nameDetail": "Fanxiang S880 1TB",
+    "mark": 44682
   },
   {
     "nameDetail": "Predator SSD GM7 M.2 2TB",
@@ -1269,15 +1269,15 @@
   },
   {
     "nameDetail": "Lexar SSD NM790 1TB",
-    "mark": 44453
+    "mark": 44444
+  },
+  {
+    "nameDetail": "Seagate ZP4000GM30063",
+    "mark": 44396
   },
   {
     "nameDetail": "CSSD-M2P1KDRV74A",
     "mark": 44384
-  },
-  {
-    "nameDetail": "MSI M480 PRO 1TB",
-    "mark": 44338
   },
   {
     "nameDetail": "HP SSD FX900 Plus 4TB",
@@ -1288,12 +1288,24 @@
     "mark": 44282
   },
   {
+    "nameDetail": "MSI M480 PRO 1TB",
+    "mark": 44249
+  },
+  {
     "nameDetail": "HIKSEMI HS FUTURE Lite 2TB",
     "mark": 44237
   },
   {
     "nameDetail": "ZETTASTONE CP300Y 1024GB",
     "mark": 44172
+  },
+  {
+    "nameDetail": "MTFDKBA1T0QGN-1BN1AABGA",
+    "mark": 44106
+  },
+  {
+    "nameDetail": "TEAM TM8FFD002T",
+    "mark": 44091
   },
   {
     "nameDetail": "DGST4001TG33T",
@@ -1316,20 +1328,12 @@
     "mark": 44037
   },
   {
-    "nameDetail": "MTFDKBA1T0QGN-1BN1AABGA",
-    "mark": 44026
-  },
-  {
     "nameDetail": "KINGSTON SFYRSK1000G",
     "mark": 44013
   },
   {
     "nameDetail": "Viper VP4300L 4TB",
     "mark": 43993
-  },
-  {
-    "nameDetail": "TEAM TM8FFD002T",
-    "mark": 43986
   },
   {
     "nameDetail": "WD BLACK SN850 PS5 1TB",
@@ -1364,6 +1368,10 @@
     "mark": 43724
   },
   {
+    "nameDetail": "Lexar SSD EQ790 2TB",
+    "mark": 43678
+  },
+  {
     "nameDetail": "Netac 4TB SSD",
     "mark": 43676
   },
@@ -1384,11 +1392,15 @@
     "mark": 43655
   },
   {
-    "nameDetail": "SHPP41-2000GM",
-    "mark": 43541
+    "nameDetail": "XG7000-4TB 2280",
+    "mark": 43637
   },
   {
     "nameDetail": "HP SSD FX900 Plus M.2 2TB",
+    "mark": 43536
+  },
+  {
+    "nameDetail": "SHPP41-2000GM",
     "mark": 43536
   },
   {
@@ -1413,11 +1425,11 @@
   },
   {
     "nameDetail": "Seagate FireCuda 530 ZP1000GM30013",
-    "mark": 43371
+    "mark": 43378
   },
   {
-    "nameDetail": "XG7000-4TB 2280",
-    "mark": 43347
+    "nameDetail": "Lexar NQ790 4TB SSD",
+    "mark": 43351
   },
   {
     "nameDetail": "SAMSUNG MZVL2512HDJD-00B07",
@@ -1436,12 +1448,12 @@
     "mark": 43290
   },
   {
-    "nameDetail": "PC SN8000S SED SanDisk 512GB",
-    "mark": 43276
+    "nameDetail": "WD PC SN810 SDCQNRY 1TB",
+    "mark": 43278
   },
   {
-    "nameDetail": "WD PC SN810 SDCQNRY 1TB",
-    "mark": 43274
+    "nameDetail": "PC SN8000S SED SanDisk 512GB",
+    "mark": 43276
   },
   {
     "nameDetail": "TIMETEC Pro 1TB SSD with Heatsink",
@@ -1456,20 +1468,8 @@
     "mark": 43190
   },
   {
-    "nameDetail": "Lexar NQ790 4TB SSD",
-    "mark": 43156
-  },
-  {
-    "nameDetail": "Sabrent Rocket 4 Plus 2TB SSD",
-    "mark": 43146
-  },
-  {
     "nameDetail": "SKHynix HFS001TEJ9X115N",
-    "mark": 43140
-  },
-  {
-    "nameDetail": "Fantom VENOM8 2TB SSD",
-    "mark": 43139
+    "mark": 43152
   },
   {
     "nameDetail": "Transcend TS1TMTE250S",
@@ -1478,6 +1478,10 @@
   {
     "nameDetail": "ZHITAI Ti600 1TB",
     "mark": 43134
+  },
+  {
+    "nameDetail": "Sabrent Rocket 4 Plus 2TB SSD",
+    "mark": 43130
   },
   {
     "nameDetail": "GIGABYTE GP-AG70",
@@ -1492,10 +1496,6 @@
     "mark": 43042
   },
   {
-    "nameDetail": "Phison E80T 1TB SSD",
-    "mark": 43040
-  },
-  {
     "nameDetail": "KingFast F17N 1TB",
     "mark": 43036
   },
@@ -1504,16 +1504,12 @@
     "mark": 42961
   },
   {
+    "nameDetail": "Samsung SSD 990 EVO Plus 2TB",
+    "mark": 42960
+  },
+  {
     "nameDetail": "Western Digital PC SN5000S 2TB SSD",
     "mark": 42956
-  },
-  {
-    "nameDetail": "Samsung SSD 990 EVO Plus 2TB",
-    "mark": 42950
-  },
-  {
-    "nameDetail": "Lexar SSD EQ790 2TB",
-    "mark": 42946
   },
   {
     "nameDetail": "WD BLACK SN850 1TB",
@@ -1525,7 +1521,7 @@
   },
   {
     "nameDetail": "Viper VP4300L 1TB",
-    "mark": 42826
+    "mark": 42823
   },
   {
     "nameDetail": "Fanxiang S790 1TB",
@@ -1533,7 +1529,7 @@
   },
   {
     "nameDetail": "Crucial T500 1TB SSD",
-    "mark": 42790
+    "mark": 42780
   },
   {
     "nameDetail": "Lexar SSD ARES 4TB",
@@ -1545,7 +1541,7 @@
   },
   {
     "nameDetail": "CT1000P310SSD8",
-    "mark": 42723
+    "mark": 42687
   },
   {
     "nameDetail": "PHIXERO 2TB SSD",
@@ -1562,6 +1558,14 @@
   {
     "nameDetail": "WD PC SN810 SDCPNRZ 2TB",
     "mark": 42590
+  },
+  {
+    "nameDetail": "Fantom VENOM8 2TB SSD",
+    "mark": 42508
+  },
+  {
+    "nameDetail": "SK Hynix PVC10 1TB SSD",
+    "mark": 42508
   },
   {
     "nameDetail": "PLEXTOR PX-1TM10PGN",
@@ -1593,11 +1597,7 @@
   },
   {
     "nameDetail": "WD PC SN810 SDCPNRY 1TB",
-    "mark": 42405
-  },
-  {
-    "nameDetail": "SK Hynix PVC10 1TB SSD",
-    "mark": 42389
+    "mark": 42402
   },
   {
     "nameDetail": "ORICO-2TB",
@@ -1624,16 +1624,20 @@
     "mark": 42273
   },
   {
+    "nameDetail": "WD BLACK SN7100 500GB",
+    "mark": 42233
+  },
+  {
     "nameDetail": "BTSystem E.POT LUX N2000 1TB SSD",
     "mark": 42226
   },
   {
-    "nameDetail": "SM2268XT ISP - 4TB",
-    "mark": 42191
+    "nameDetail": "Phison E80T 1TB SSD",
+    "mark": 42206
   },
   {
-    "nameDetail": "HFS001TEJ9X125N",
-    "mark": 42185
+    "nameDetail": "SM2268XT ISP - 4TB",
+    "mark": 42191
   },
   {
     "nameDetail": "MiWhole CT300 1TGB",
@@ -1660,12 +1664,8 @@
     "mark": 42119
   },
   {
-    "nameDetail": "E27-512G-PHISON-SSD-BICS6",
-    "mark": 42108
-  },
-  {
-    "nameDetail": "Seagate FireCuda 530 1TB with Heatsink",
-    "mark": 42073
+    "nameDetail": "HFS001TEJ9X125N",
+    "mark": 42099
   },
   {
     "nameDetail": "SKHynix HFS001TEJ9X102N",
@@ -1688,12 +1688,16 @@
     "mark": 42016
   },
   {
+    "nameDetail": "Seagate FireCuda 530 1TB with Heatsink",
+    "mark": 42011
+  },
+  {
     "nameDetail": "Seagate FireCuda SE SSD ZP1000GM30033",
     "mark": 42001
   },
   {
     "nameDetail": "KIOXIA XG8 2TB SSD",
-    "mark": 41985
+    "mark": 41983
   },
   {
     "nameDetail": "NVMe KXG80ZNV512G KIOXIA",
@@ -1712,24 +1716,16 @@
     "mark": 41951
   },
   {
-    "nameDetail": "WD BLACK SN7100 500GB",
-    "mark": 41936
-  },
-  {
     "nameDetail": "XPG GAMMIX S70 BLADE 1TB",
-    "mark": 41902
+    "mark": 41914
   },
   {
     "nameDetail": "NVMe WD Blue SN5000 4TB",
     "mark": 41895
   },
   {
-    "nameDetail": "SHPP41-1000GM",
-    "mark": 41886
-  },
-  {
     "nameDetail": "KIOXIA XG8 LA 1TB SSD",
-    "mark": 41880
+    "mark": 41886
   },
   {
     "nameDetail": "Samsung SSD 980 PRO 2TB",
@@ -1740,8 +1736,12 @@
     "mark": 41868
   },
   {
+    "nameDetail": "SHPP41-1000GM",
+    "mark": 41857
+  },
+  {
     "nameDetail": "KIOXIA XG8 1TB SSD",
-    "mark": 41835
+    "mark": 41856
   },
   {
     "nameDetail": "KINGSTON NV3 4TB SSD",
@@ -1766,6 +1766,10 @@
   {
     "nameDetail": "HP LOGICAL VOLUME",
     "mark": 41633
+  },
+  {
+    "nameDetail": "WD PC SN740 SDDPTQD-1T00-1202",
+    "mark": 41631
   },
   {
     "nameDetail": "Aigo P7000Z 1TB SSD",
@@ -1852,20 +1856,20 @@
     "mark": 41055
   },
   {
-    "nameDetail": "Lexar NQ790 1TB SSD",
-    "mark": 41024
-  },
-  {
     "nameDetail": "SAMSUNG MZVL21T0",
     "mark": 41020
   },
   {
-    "nameDetail": "GIGABYTE GP-AG70S1TB-P",
-    "mark": 40941
+    "nameDetail": "Crucial T500 1TB SSD with heatsink",
+    "mark": 40983
   },
   {
-    "nameDetail": "Crucial T500 1TB SSD with heatsink",
-    "mark": 40939
+    "nameDetail": "Lexar NQ790 1TB SSD",
+    "mark": 40979
+  },
+  {
+    "nameDetail": "GIGABYTE GP-AG70S1TB-P",
+    "mark": 40941
   },
   {
     "nameDetail": "NVMe SHPP41-1000GM",
@@ -1880,16 +1884,16 @@
     "mark": 40849
   },
   {
-    "nameDetail": "KINGSTON NV3 2TB SSD",
-    "mark": 40822
-  },
-  {
     "nameDetail": "HIKSEMI HS FUTURE Lite 1TB",
     "mark": 40815
   },
   {
     "nameDetail": "WD BLACK SN850P for PS5 1000GB",
     "mark": 40813
+  },
+  {
+    "nameDetail": "KINGSTON NV3 2TB SSD",
+    "mark": 40791
   },
   {
     "nameDetail": "Fanxiang S880 2TB",
@@ -1908,12 +1912,16 @@
     "mark": 40727
   },
   {
+    "nameDetail": "Acer SSD N7000 4TB",
+    "mark": 40721
+  },
+  {
     "nameDetail": "NVMe SAMSUNG MZVL2512HCJQ-00BL7",
     "mark": 40704
   },
   {
     "nameDetail": "Samsung SSD 990 EVO Plus 1TB",
-    "mark": 40678
+    "mark": 40663
   },
   {
     "nameDetail": "WDC WD8002FZWX",
@@ -1933,7 +1941,7 @@
   },
   {
     "nameDetail": "PNY CS3140 1TB SSD",
-    "mark": 40453
+    "mark": 40499
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVL2512HDJD-00BLL",
@@ -1985,7 +1993,7 @@
   },
   {
     "nameDetail": "Samsung PM9A1 2TB SSD",
-    "mark": 40154
+    "mark": 40155
   },
   {
     "nameDetail": "NVMe MiWhole CT300-2TB",
@@ -2040,12 +2048,12 @@
     "mark": 39897
   },
   {
-    "nameDetail": "Micron MTFDKBA2T0TFH",
-    "mark": 39834
-  },
-  {
     "nameDetail": "XG7000-1TB 2280",
     "mark": 39828
+  },
+  {
+    "nameDetail": "Micron MTFDKBA2T0TFH",
+    "mark": 39806
   },
   {
     "nameDetail": "ONEXPLAYER Q3",
@@ -2080,16 +2088,16 @@
     "mark": 39657
   },
   {
+    "nameDetail": "Western Digital PC SN5000S 1TB SSD",
+    "mark": 39653
+  },
+  {
     "nameDetail": "SAMSUNG MZQL23T8HCLS-00A07",
     "mark": 39645
   },
   {
     "nameDetail": "UMIS RPJYJ1T24RLS1QWY",
     "mark": 39643
-  },
-  {
-    "nameDetail": "Western Digital PC SN5000S 1TB SSD",
-    "mark": 39615
   },
   {
     "nameDetail": "Lexar SSD ARES 2TB",
@@ -2109,7 +2117,7 @@
   },
   {
     "nameDetail": "Samsung 980 PRO with Heatsink 1TB",
-    "mark": 39522
+    "mark": 39514
   },
   {
     "nameDetail": "T-FORCE TM8FFW004T",
@@ -2141,15 +2149,15 @@
   },
   {
     "nameDetail": "Samsung SSD 980 PRO 1TB",
-    "mark": 39373
+    "mark": 39372
+  },
+  {
+    "nameDetail": "Fanxiang S770 1TB",
+    "mark": 39363
   },
   {
     "nameDetail": "SSSTC CL6-8D1024",
     "mark": 39298
-  },
-  {
-    "nameDetail": "Fanxiang S770 1TB",
-    "mark": 39256
   },
   {
     "nameDetail": "Seagate Game Drive ZP1000GP300001",
@@ -2160,12 +2168,16 @@
     "mark": 39234
   },
   {
+    "nameDetail": "WD PC SN740 SDDPNQD-1T00-1127",
+    "mark": 39207
+  },
+  {
     "nameDetail": "NVMe SAMSUNG MZVL81T0HFLB-00BTW",
     "mark": 39176
   },
   {
-    "nameDetail": "WD PC SN740 SDDPNQD-1T00-1127",
-    "mark": 39146
+    "nameDetail": "SAMSUNG MZVL22T0HBLB-00BH1",
+    "mark": 39141
   },
   {
     "nameDetail": "WD PC SN740 SDDPTQD-1T00-1002",
@@ -2188,10 +2200,6 @@
     "mark": 39044
   },
   {
-    "nameDetail": "SAMSUNG MZVL22T0HBLB-00BH1",
-    "mark": 39030
-  },
-  {
     "nameDetail": "MLD M700 NVMe SSD",
     "mark": 38957
   },
@@ -2212,12 +2220,12 @@
     "mark": 38844
   },
   {
-    "nameDetail": "WD Green SN3000 2TB",
-    "mark": 38824
-  },
-  {
     "nameDetail": "Ardor gaming m.2 NVME 1024Gb ALG41288",
     "mark": 38770
+  },
+  {
+    "nameDetail": "WD Green SN3000 2TB",
+    "mark": 38752
   },
   {
     "nameDetail": "YSSDHB-2TN7000",
@@ -2253,7 +2261,7 @@
   },
   {
     "nameDetail": "KBG60ZNS1T02 KIOXIA",
-    "mark": 38433
+    "mark": 38512
   },
   {
     "nameDetail": "SanDisk Extreme 1TB X3N",
@@ -2273,7 +2281,7 @@
   },
   {
     "nameDetail": "SK Hynix PC801 1TB SSD",
-    "mark": 38327
+    "mark": 38339
   },
   {
     "nameDetail": "Patriot P400L 2000GB",
@@ -2289,7 +2297,7 @@
   },
   {
     "nameDetail": "Micron 3400 1TB SSD",
-    "mark": 38229
+    "mark": 38226
   },
   {
     "nameDetail": "MTFDKBA2T0TFH-1BC1AABHA",
@@ -2321,7 +2329,7 @@
   },
   {
     "nameDetail": "MTFDKBA512TGD-1BK1AABHA",
-    "mark": 38119
+    "mark": 38111
   },
   {
     "nameDetail": "NVMe HFS002TEJ9X125N",
@@ -2337,7 +2345,11 @@
   },
   {
     "nameDetail": "Samsung PM9A1 1TB SSD",
-    "mark": 38030
+    "mark": 38038
+  },
+  {
+    "nameDetail": "KBG60ZNT1T02 LS KIOXIA",
+    "mark": 37957
   },
   {
     "nameDetail": "UMIS RPJYJ1T24MLR1HWQ",
@@ -2349,11 +2361,7 @@
   },
   {
     "nameDetail": "SAMSUNG MZVL2512HDJD-00BH1",
-    "mark": 37830
-  },
-  {
-    "nameDetail": "KBG60ZNT1T02 LS KIOXIA",
-    "mark": 37790
+    "mark": 37869
   },
   {
     "nameDetail": "Acer SSD N5000 2TB",
@@ -2364,6 +2372,10 @@
     "mark": 37781
   },
   {
+    "nameDetail": "FIKWOT FX991 1TB",
+    "mark": 37753
+  },
+  {
     "nameDetail": "MSI M482 1TB",
     "mark": 37751
   },
@@ -2372,12 +2384,12 @@
     "mark": 37746
   },
   {
-    "nameDetail": "SAMSUNG MZVL2512HDJD-00BH7",
-    "mark": 37726
+    "nameDetail": "E27-512G-PHISON-SSD-BICS6",
+    "mark": 37740
   },
   {
-    "nameDetail": "FIKWOT FX991 1TB",
-    "mark": 37607
+    "nameDetail": "SAMSUNG MZVL2512HDJD-00BH7",
+    "mark": 37726
   },
   {
     "nameDetail": "SAMSUNG MZVL22T0HBLB-00BH7",
@@ -2396,16 +2408,16 @@
     "mark": 37423
   },
   {
-    "nameDetail": "GIGABYTE GP-AG70S1TB",
-    "mark": 37413
-  },
-  {
     "nameDetail": "Lexar SSD EQ790 1TB",
     "mark": 37391
   },
   {
     "nameDetail": "MSI M480 1TB",
     "mark": 37386
+  },
+  {
+    "nameDetail": "GIGABYTE GP-AG70S1TB",
+    "mark": 37385
   },
   {
     "nameDetail": "DEXP SSD LS 1TB",
@@ -2429,14 +2441,14 @@
   },
   {
     "nameDetail": "WD BLACK SN850 500GB",
-    "mark": 37319
-  },
-  {
-    "nameDetail": "T-FORCE TM8FPP002T",
-    "mark": 37312
+    "mark": 37318
   },
   {
     "nameDetail": "WD PC SN810 SDCPNRY 512GB",
+    "mark": 37317
+  },
+  {
+    "nameDetail": "T-FORCE TM8FPP002T",
     "mark": 37312
   },
   {
@@ -2460,7 +2472,7 @@
     "mark": 37159
   },
   {
-    "nameDetail": "Crucial P5 Plus 1TB SSD",
+    "nameDetail": "SPCC M.2 PCIe SSD",
     "mark": 37107
   },
   {
@@ -2468,12 +2480,16 @@
     "mark": 37104
   },
   {
+    "nameDetail": "Crucial P5 Plus 1TB SSD",
+    "mark": 37097
+  },
+  {
     "nameDetail": "NVMe CT500P5PSSD8",
     "mark": 37093
   },
   {
     "nameDetail": "KIOXIA XG8 512GB SSD",
-    "mark": 37051
+    "mark": 37083
   },
   {
     "nameDetail": "HS-SSD-G4000 2048G",
@@ -2484,12 +2500,8 @@
     "mark": 36998
   },
   {
-    "nameDetail": "SPCC M.2 PCIe SSD",
-    "mark": 36997
-  },
-  {
     "nameDetail": "WD BLACK SN770 2TB",
-    "mark": 36878
+    "mark": 36877
   },
   {
     "nameDetail": "Addlink 2TB SSD",
@@ -2517,7 +2529,7 @@
   },
   {
     "nameDetail": "KINGSTON NV3 1TB SSD",
-    "mark": 36698
+    "mark": 36703
   },
   {
     "nameDetail": "WD PC SN740 SDDPNQE-2T00-1202",
@@ -2530,6 +2542,10 @@
   {
     "nameDetail": "BIWIN NB80V4M40-1TB",
     "mark": 36591
+  },
+  {
+    "nameDetail": "SKHynix HFS001TEM4X169N",
+    "mark": 36590
   },
   {
     "nameDetail": "GXF-512 PRO",
@@ -2554,6 +2570,10 @@
   {
     "nameDetail": "NVMe KXG70PNV2T04 NVMe KIOXIA 2048GB",
     "mark": 36519
+  },
+  {
+    "nameDetail": "NVMe WD PC SN740 SDDPNQE-2T00-1102",
+    "mark": 36508
   },
   {
     "nameDetail": "SDVPNV2310512TMYWHK47",
@@ -2588,20 +2608,16 @@
     "mark": 36464
   },
   {
-    "nameDetail": "NVMe WD PC SN740 SDDPNQE-2T00-1102",
-    "mark": 36463
-  },
-  {
     "nameDetail": "NVMe Lexar SSD NM710 2TB",
     "mark": 36447
   },
   {
-    "nameDetail": "WD Blue SN5000 1TB",
-    "mark": 36433
+    "nameDetail": "WD PC SN810 SDCQNRY 512GB",
+    "mark": 36382
   },
   {
-    "nameDetail": "WD PC SN810 SDCQNRY 512GB",
-    "mark": 36380
+    "nameDetail": "WD Blue SN5000 1TB",
+    "mark": 36377
   },
   {
     "nameDetail": "Micron MTFDKBA512TGD-2BK15ABLT",
@@ -2624,16 +2640,12 @@
     "mark": 36264
   },
   {
-    "nameDetail": "SKHynix HFS001TEM4X169N",
-    "mark": 36229
+    "nameDetail": "WD Green SN3000 1TB",
+    "mark": 36251
   },
   {
     "nameDetail": "P0327 Phison 1024GB",
     "mark": 36184
-  },
-  {
-    "nameDetail": "WD Green SN3000 1TB",
-    "mark": 36169
   },
   {
     "nameDetail": "NVMe ADATA LEGEND 800",
@@ -2672,6 +2684,10 @@
     "mark": 35871
   },
   {
+    "nameDetail": "2650 Micron 512GB",
+    "mark": 35849
+  },
+  {
     "nameDetail": "SM2P43A8-001TC",
     "mark": 35825
   },
@@ -2697,7 +2713,7 @@
   },
   {
     "nameDetail": "NVMe BG6 KIOXIA 1024GB",
-    "mark": 35648
+    "mark": 35656
   },
   {
     "nameDetail": "SAMSUNG MZVL2512",
@@ -2717,19 +2733,11 @@
   },
   {
     "nameDetail": "WD BLACK SN770 1TB",
-    "mark": 35597
-  },
-  {
-    "nameDetail": "BG6 KIOXIA 1024GB",
-    "mark": 35569
+    "mark": 35599
   },
   {
     "nameDetail": "Micron 7450 MTFDKCC3T8TFR",
     "mark": 35562
-  },
-  {
-    "nameDetail": "KLEVV CRAS C910 2TB SSD",
-    "mark": 35553
   },
   {
     "nameDetail": "HPT DISK 4TB",
@@ -2764,6 +2772,10 @@
     "mark": 35426
   },
   {
+    "nameDetail": "KLEVV CRAS C910 2TB SSD",
+    "mark": 35394
+  },
+  {
     "nameDetail": "TEAM TM8FPW512G",
     "mark": 35381
   },
@@ -2776,8 +2788,16 @@
     "mark": 35337
   },
   {
+    "nameDetail": "BG6 KIOXIA 1024GB",
+    "mark": 35304
+  },
+  {
     "nameDetail": "SKHynix HFS512GEJ9X102N",
     "mark": 35303
+  },
+  {
+    "nameDetail": "WD Blue SN5000 2TB",
+    "mark": 35282
   },
   {
     "nameDetail": "Seagate ST8000NE001",
@@ -2794,10 +2814,6 @@
   {
     "nameDetail": "SSSTC CA6-8D1024",
     "mark": 35200
-  },
-  {
-    "nameDetail": "WD Blue SN5000 2TB",
-    "mark": 35190
   },
   {
     "nameDetail": "321JN1024GB",
@@ -2821,7 +2837,7 @@
   },
   {
     "nameDetail": "Samsung SSD 980 PRO 500GB",
-    "mark": 34962
+    "mark": 34959
   },
   {
     "nameDetail": "Micron 3500 512GB",
@@ -2848,8 +2864,8 @@
     "mark": 34753
   },
   {
-    "nameDetail": "CT500T500SSD8",
-    "mark": 34713
+    "nameDetail": "PS5027-E27T-500G BiCS6",
+    "mark": 34721
   },
   {
     "nameDetail": "TEAM TM8FPK001T",
@@ -2877,11 +2893,11 @@
   },
   {
     "nameDetail": "KINGSTON OM8PGP41024Q-A0",
-    "mark": 34637
+    "mark": 34645
   },
   {
-    "nameDetail": "PS5027-E27T-500G BiCS6",
-    "mark": 34628
+    "nameDetail": "CT500T500SSD8",
+    "mark": 34643
   },
   {
     "nameDetail": "T-FORCE TM8FFE002T",
@@ -2900,16 +2916,16 @@
     "mark": 34431
   },
   {
+    "nameDetail": "Lexar SSD NM710 2TB",
+    "mark": 34422
+  },
+  {
     "nameDetail": "Sabrent Rocket 4 Plus 1TB SSD",
-    "mark": 34423
+    "mark": 34416
   },
   {
     "nameDetail": "WD Blue SN580 2TB",
-    "mark": 34413
-  },
-  {
-    "nameDetail": "Lexar SSD NM710 2TB",
-    "mark": 34406
+    "mark": 34414
   },
   {
     "nameDetail": "MTFDKBA512QGN-1BN1AABGA",
@@ -2929,7 +2945,7 @@
   },
   {
     "nameDetail": "KIOXIA KXG70ZNV1T02 1024GB",
-    "mark": 34231
+    "mark": 34199
   },
   {
     "nameDetail": "Lexar SSD NM7A1 1TB",
@@ -2952,16 +2968,16 @@
     "mark": 34089
   },
   {
+    "nameDetail": "BM40RP4X41920",
+    "mark": 34082
+  },
+  {
     "nameDetail": "Lexar SSD NM7A1 2TB",
     "mark": 34047
   },
   {
-    "nameDetail": "2650 Micron 512GB",
-    "mark": 34032
-  },
-  {
     "nameDetail": "SSDPR-PX600-1K0-80",
-    "mark": 34031
+    "mark": 34041
   },
   {
     "nameDetail": "WD PC SN740 SDDPTQD-512G",
@@ -2981,15 +2997,11 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDPMQD-1T00-1101",
-    "mark": 33870
+    "mark": 33828
   },
   {
     "nameDetail": "MSI M470 2TB",
     "mark": 33823
-  },
-  {
-    "nameDetail": "KIOXIA-EXCERIA with Heatsink SSD",
-    "mark": 33764
   },
   {
     "nameDetail": "SHPP41-500GM",
@@ -3020,6 +3032,10 @@
     "mark": 33635
   },
   {
+    "nameDetail": "KIOXIA XG8 LA 512GB SSD",
+    "mark": 33618
+  },
+  {
     "nameDetail": "EDILOCA EN760 2TB",
     "mark": 33605
   },
@@ -3028,16 +3044,8 @@
     "mark": 33569
   },
   {
-    "nameDetail": "KIOXIA XG8 LA 512GB SSD",
-    "mark": 33557
-  },
-  {
     "nameDetail": "Corsair MP600 GS",
     "mark": 33532
-  },
-  {
-    "nameDetail": "Apacer AS2280Q4 1TB",
-    "mark": 33523
   },
   {
     "nameDetail": "KINGSTON SFYRSK500G",
@@ -3072,16 +3080,16 @@
     "mark": 33464
   },
   {
+    "nameDetail": "GIGABYTE AG450E1024-SI",
+    "mark": 33424
+  },
+  {
     "nameDetail": "Crucial P5 Plus 500GB SSD",
     "mark": 33420
   },
   {
     "nameDetail": "MiWhole CT300 512GB",
     "mark": 33405
-  },
-  {
-    "nameDetail": "GIGABYTE AG450E1024-SI",
-    "mark": 33398
   },
   {
     "nameDetail": "NVMe Force MP600",
@@ -3092,6 +3100,10 @@
     "mark": 33357
   },
   {
+    "nameDetail": "MSI M460 1TB",
+    "mark": 33346
+  },
+  {
     "nameDetail": "NVMe WD BLACK SN770 500GB",
     "mark": 33319
   },
@@ -3100,12 +3112,12 @@
     "mark": 33313
   },
   {
-    "nameDetail": "MSI M460 1TB",
-    "mark": 33283
+    "nameDetail": "KIOXIA-EXCERIA with Heatsink SSD",
+    "mark": 33313
   },
   {
     "nameDetail": "Lexar SSD NM710 1TB",
-    "mark": 33208
+    "mark": 33204
   },
   {
     "nameDetail": "CSSD-M2L5HSFT6KE 512GB",
@@ -3113,7 +3125,7 @@
   },
   {
     "nameDetail": "Micron 3400 NVMe 512GB",
-    "mark": 33089
+    "mark": 33086
   },
   {
     "nameDetail": "XF-2TB 2280",
@@ -3140,12 +3152,24 @@
     "mark": 33037
   },
   {
+    "nameDetail": "2550 Micron 1024GB",
+    "mark": 33005
+  },
+  {
+    "nameDetail": "Apacer AS2280Q4 1TB",
+    "mark": 33002
+  },
+  {
     "nameDetail": "Addlink 1TB SSD",
     "mark": 32996
   },
   {
-    "nameDetail": "2550 Micron 1024GB",
-    "mark": 32977
+    "nameDetail": "Micron MTFDKCD1T0TGE",
+    "mark": 32923
+  },
+  {
+    "nameDetail": "SAMSUNG MZVL81T0HDLB-00BLL",
+    "mark": 32913
   },
   {
     "nameDetail": "X16 Plus SSD 2TB",
@@ -3156,16 +3180,12 @@
     "mark": 32895
   },
   {
-    "nameDetail": "WD Blue SN580 1TB",
-    "mark": 32895
-  },
-  {
     "nameDetail": "T-FORCE TM8FP7002T",
     "mark": 32891
   },
   {
-    "nameDetail": "Micron MTFDKCD1T0TGE",
-    "mark": 32885
+    "nameDetail": "WD Blue SN580 1TB",
+    "mark": 32888
   },
   {
     "nameDetail": "SSSTC CA6-8D512 512GB",
@@ -3196,10 +3216,6 @@
     "mark": 32837
   },
   {
-    "nameDetail": "SAMSUNG MZVL81T0HDLB-00BLL",
-    "mark": 32825
-  },
-  {
     "nameDetail": "NVMe SAMSUNG MZVL22T0HBLB-00B00",
     "mark": 32821
   },
@@ -3209,7 +3225,7 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDPNQD-512G-1102",
-    "mark": 32728
+    "mark": 32767
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVL22T0HBLB-00B07",
@@ -3248,12 +3264,16 @@
     "mark": 32536
   },
   {
+    "nameDetail": "YSSDXB-1TN5000",
+    "mark": 32518
+  },
+  {
     "nameDetail": "NVMe WD PC SN740 SDDQNQD-512G-1014",
-    "mark": 32510
+    "mark": 32506
   },
   {
     "nameDetail": "Samsung PM9A1 512GB SSD",
-    "mark": 32499
+    "mark": 32498
   },
   {
     "nameDetail": "Seagate ZP1000GV30012",
@@ -3264,12 +3284,8 @@
     "mark": 32410
   },
   {
-    "nameDetail": "YSSDXB-1TN5000",
-    "mark": 32397
-  },
-  {
     "nameDetail": "Micron MTFDKCD512QGN-1BN1AABLA",
-    "mark": 32394
+    "mark": 32399
   },
   {
     "nameDetail": "KXG70PN84T09 NVMe KIOXIA 4096GB",
@@ -3317,7 +3333,7 @@
   },
   {
     "nameDetail": "Seagate FireCuda 530 ZP500GM30023",
-    "mark": 32195
+    "mark": 32249
   },
   {
     "nameDetail": "Seagate ST16000NE000",
@@ -3340,12 +3356,16 @@
     "mark": 32083
   },
   {
+    "nameDetail": "WD PC SN560 SDDPNQE-1T00-1002",
+    "mark": 32071
+  },
+  {
     "nameDetail": "WD PC SN740 SDDQMQE-2T00-1201",
     "mark": 32070
   },
   {
-    "nameDetail": "WD PC SN560 SDDPNQE-1T00-1002",
-    "mark": 32067
+    "nameDetail": "WD PC SN740 SDDPNQD-512G-1002",
+    "mark": 32054
   },
   {
     "nameDetail": "WD Blue SN570 2TB SSD",
@@ -3356,8 +3376,8 @@
     "mark": 32048
   },
   {
-    "nameDetail": "WD PC SN740 SDDPNQD-512G-1002",
-    "mark": 32047
+    "nameDetail": "Sabrent Rocket 4 Plus 500GB SSD",
+    "mark": 31944
   },
   {
     "nameDetail": "KXG7APN84T09 LA KIOXIA",
@@ -3372,12 +3392,8 @@
     "mark": 31910
   },
   {
-    "nameDetail": "Sabrent Rocket 4 Plus 500GB SSD",
-    "mark": 31883
-  },
-  {
-    "nameDetail": "KINGSTON OM3PGP41024P-A0",
-    "mark": 31861
+    "nameDetail": "Western Digital PC SN5000S 512GB SSD",
+    "mark": 31892
   },
   {
     "nameDetail": "KINGBANK KP260",
@@ -3388,8 +3404,8 @@
     "mark": 31840
   },
   {
-    "nameDetail": "Western Digital PC SN5000S 512GB SSD",
-    "mark": 31835
+    "nameDetail": "KINGSTON OM3PGP41024P-A0",
+    "mark": 31839
   },
   {
     "nameDetail": "NVMe WD PC SN560 SDDPNQE-1T00-1032",
@@ -3397,23 +3413,23 @@
   },
   {
     "nameDetail": "SK Hynix PC801 512GB SSD",
-    "mark": 31801
+    "mark": 31795
   },
   {
     "nameDetail": "SAMSUNG MZVL8512HDLU-00BLL",
     "mark": 31790
   },
   {
-    "nameDetail": "NVMe WD PC SN560 SDDPNQE-1T00-1002",
-    "mark": 31724
+    "nameDetail": "KLEVV CRAS C910 1TB SSD",
+    "mark": 31740
   },
   {
     "nameDetail": "SK Hynix 512GB SSD",
-    "mark": 31721
+    "mark": 31726
   },
   {
-    "nameDetail": "KLEVV CRAS C910 1TB SSD",
-    "mark": 31691
+    "nameDetail": "NVMe WD PC SN560 SDDPNQE-1T00-1002",
+    "mark": 31724
   },
   {
     "nameDetail": "SSD-M2-REDRAGON-BLAZE-512",
@@ -3421,7 +3437,7 @@
   },
   {
     "nameDetail": "WD PC SN560 SDDPNQE-1T00-2006",
-    "mark": 31634
+    "mark": 31646
   },
   {
     "nameDetail": "CT500P310SSD8",
@@ -3512,10 +3528,6 @@
     "mark": 31255
   },
   {
-    "nameDetail": "PNY CS3040 1TB SSD",
-    "mark": 31239
-  },
-  {
     "nameDetail": "Phison 512GB ESO512GHLCA1-21C-2MS",
     "mark": 31235
   },
@@ -3530,6 +3542,10 @@
   {
     "nameDetail": "FIKWOT FN960 1TB",
     "mark": 31178
+  },
+  {
+    "nameDetail": "PNY CS3040 1TB SSD",
+    "mark": 31160
   },
   {
     "nameDetail": "KINGSTON OM8PGP4512Q-A0",
@@ -3584,12 +3600,12 @@
     "mark": 30953
   },
   {
-    "nameDetail": "XPG GAMMIX S60",
-    "mark": 30938
-  },
-  {
     "nameDetail": "CP08 1VNeMS Kyhin xT2 B",
     "mark": 30937
+  },
+  {
+    "nameDetail": "XPG GAMMIX S60",
+    "mark": 30929
   },
   {
     "nameDetail": "ADATA LEGEND 840",
@@ -3601,7 +3617,7 @@
   },
   {
     "nameDetail": "NVMe HFS512GEJ9X108N",
-    "mark": 30906
+    "mark": 30903
   },
   {
     "nameDetail": "XF-1TB",
@@ -3644,8 +3660,12 @@
     "mark": 30682
   },
   {
+    "nameDetail": "CT1000E100SSD8",
+    "mark": 30667
+  },
+  {
     "nameDetail": "KXG70PNV2T04 NVMe KIOXIA 2048GB",
-    "mark": 30681
+    "mark": 30657
   },
   {
     "nameDetail": "GIGABYTE GP-AG41TB",
@@ -3653,7 +3673,7 @@
   },
   {
     "nameDetail": "Crucial P3 Plus 1TB SSD",
-    "mark": 30638
+    "mark": 30646
   },
   {
     "nameDetail": "Samsung SSD 980",
@@ -3666,10 +3686,6 @@
   {
     "nameDetail": "GIGABYTE GP-ASM2",
     "mark": 30629
-  },
-  {
-    "nameDetail": "CT1000E100SSD8",
-    "mark": 30620
   },
   {
     "nameDetail": "XF-1TB 2280",
@@ -3685,7 +3701,7 @@
   },
   {
     "nameDetail": "WD BLACK SN770 500GB",
-    "mark": 30560
+    "mark": 30570
   },
   {
     "nameDetail": "XG7000-1TB",
@@ -3721,7 +3737,7 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDPNQD-512G-2006",
-    "mark": 30452
+    "mark": 30465
   },
   {
     "nameDetail": "XPG GAMMIX S70 BLADE 512GB",
@@ -3745,7 +3761,7 @@
   },
   {
     "nameDetail": "WD Blue SN570 2TB",
-    "mark": 30366
+    "mark": 30376
   },
   {
     "nameDetail": "SM2P41C8-512GC6",
@@ -3784,16 +3800,12 @@
     "mark": 30267
   },
   {
-    "nameDetail": "PC SN740 NVMe WD 1TB",
-    "mark": 30254
-  },
-  {
     "nameDetail": "Sabrent Rocket 4 2TB SSD",
     "mark": 30243
   },
   {
     "nameDetail": "Corsair Force MP600 2TB",
-    "mark": 30204
+    "mark": 30213
   },
   {
     "nameDetail": "SAMSUNG MZQL2960HCJR-00A07",
@@ -3820,10 +3832,6 @@
     "mark": 30136
   },
   {
-    "nameDetail": "BG6 KIOXIA 512GB",
-    "mark": 30082
-  },
-  {
     "nameDetail": "WD BLACK SN770 1",
     "mark": 30063
   },
@@ -3832,8 +3840,16 @@
     "mark": 30060
   },
   {
+    "nameDetail": "BG6 KIOXIA 512GB",
+    "mark": 30045
+  },
+  {
     "nameDetail": "PNY CS2241 4TB SSD",
     "mark": 30043
+  },
+  {
+    "nameDetail": "PC SN740 NVMe WD 1TB",
+    "mark": 30008
   },
   {
     "nameDetail": "UDSS UD2CTAHT300-512G",
@@ -3860,6 +3876,10 @@
     "mark": 29885
   },
   {
+    "nameDetail": "HFS512GEJ3X108N-SKhynix",
+    "mark": 29831
+  },
+  {
     "nameDetail": "KINGSTON SKC30001TB",
     "mark": 29817
   },
@@ -3876,10 +3896,6 @@
     "mark": 29758
   },
   {
-    "nameDetail": "HFS512GEJ3X108N-SKhynix",
-    "mark": 29751
-  },
-  {
     "nameDetail": "SKHynix HFS256GEM4X169N",
     "mark": 29751
   },
@@ -3888,16 +3904,12 @@
     "mark": 29750
   },
   {
-    "nameDetail": "PM9C1a Samsung 512GB",
-    "mark": 29748
-  },
-  {
     "nameDetail": "NEXDRIVE SSD 1TB",
     "mark": 29747
   },
   {
     "nameDetail": "Samsung SSD 990 EVO 2TB",
-    "mark": 29746
+    "mark": 29734
   },
   {
     "nameDetail": "FIKWOT FX991 500GB",
@@ -3910,6 +3922,10 @@
   {
     "nameDetail": "Aftershock Hyperspeed Gen4 1TB",
     "mark": 29716
+  },
+  {
+    "nameDetail": "PM9C1a Samsung 512GB",
+    "mark": 29711
   },
   {
     "nameDetail": "WD BLACK SN770 5",
@@ -3928,6 +3944,10 @@
     "mark": 29586
   },
   {
+    "nameDetail": "2500 Micron 512GB",
+    "mark": 29582
+  },
+  {
     "nameDetail": "SAMSUNG MZAMX1T0HCLD-00BL2",
     "mark": 29552
   },
@@ -3937,15 +3957,11 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDQNQD-512G-1001",
-    "mark": 29519
+    "mark": 29511
   },
   {
     "nameDetail": "SDDPTQD-512G-1124-WD",
-    "mark": 29478
-  },
-  {
-    "nameDetail": "2500 Micron 512GB",
-    "mark": 29475
+    "mark": 29479
   },
   {
     "nameDetail": "ASint AS828 512GB",
@@ -3953,7 +3969,7 @@
   },
   {
     "nameDetail": "WD PC SN560 SDDPNQE-1T00-1006",
-    "mark": 29453
+    "mark": 29420
   },
   {
     "nameDetail": "Fanxiang S880E 500GB",
@@ -3992,12 +4008,20 @@
     "mark": 29127
   },
   {
+    "nameDetail": "SAMSUNG MZVMA1T0HCLD-00BTW",
+    "mark": 29115
+  },
+  {
     "nameDetail": "SanDisk Extreme 500GB X3N",
     "mark": 29104
   },
   {
     "nameDetail": "Samsung SSD 990 EVO 1TB",
     "mark": 29094
+  },
+  {
+    "nameDetail": "TEAM TM8FPK500G",
+    "mark": 29077
   },
   {
     "nameDetail": "GIGABYTE AG450E500G-G",
@@ -4024,10 +4048,6 @@
     "mark": 28949
   },
   {
-    "nameDetail": "TEAM TM8FPK500G",
-    "mark": 28936
-  },
-  {
     "nameDetail": "KXG7AZNV512G LA KIOXIA",
     "mark": 28915
   },
@@ -4040,20 +4060,16 @@
     "mark": 28896
   },
   {
-    "nameDetail": "NVMe SM2P41C8-512GC5",
-    "mark": 28891
+    "nameDetail": "EG6 KIOXIA 512GB",
+    "mark": 28888
   },
   {
-    "nameDetail": "SAMSUNG MZVMA1T0HCLD-00BTW",
-    "mark": 28882
+    "nameDetail": "SKHynix HFS001TEJ4X112N",
+    "mark": 28863
   },
   {
     "nameDetail": "XPG GAMMIX S50",
     "mark": 28859
-  },
-  {
-    "nameDetail": "SKHynix HFS001TEJ4X112N",
-    "mark": 28858
   },
   {
     "nameDetail": "MKNSSDVL2TB-D8",
@@ -4080,10 +4096,6 @@
     "mark": 28692
   },
   {
-    "nameDetail": "EG6 KIOXIA 512GB",
-    "mark": 28682
-  },
-  {
     "nameDetail": "E21-512G-PHISON-SSD-B47R-06",
     "mark": 28679
   },
@@ -4101,7 +4113,7 @@
   },
   {
     "nameDetail": "KINGSTON NV3 500GB SSD",
-    "mark": 28632
+    "mark": 28640
   },
   {
     "nameDetail": "SM2P41C8-512GC5",
@@ -4124,10 +4136,6 @@
     "mark": 28551
   },
   {
-    "nameDetail": "CSSD-M2B2TPG3VNF",
-    "mark": 28543
-  },
-  {
     "nameDetail": "V7 SSD",
     "mark": 28497
   },
@@ -4137,7 +4145,11 @@
   },
   {
     "nameDetail": "Gigabyte AORUS NVMe Gen4 M.2 1TB",
-    "mark": 28470
+    "mark": 28459
+  },
+  {
+    "nameDetail": "HFS512GEJ9X110N",
+    "mark": 28459
   },
   {
     "nameDetail": "PNY CS2241 2TB SSD",
@@ -4157,7 +4169,7 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDPMQD-512G-1101",
-    "mark": 28407
+    "mark": 28403
   },
   {
     "nameDetail": "Fanxiang S690 2TB",
@@ -4166,10 +4178,6 @@
   {
     "nameDetail": "Sabrent Rocket 4 1TB SSD",
     "mark": 28365
-  },
-  {
-    "nameDetail": "HFS512GEJ9X110N",
-    "mark": 28337
   },
   {
     "nameDetail": "ADATA LEGEND 820",
@@ -4213,7 +4221,19 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDQMQD-512G-1201",
-    "mark": 28191
+    "mark": 28182
+  },
+  {
+    "nameDetail": "NVMe BG6 KIOXIA 512GB",
+    "mark": 28164
+  },
+  {
+    "nameDetail": "Micron MTFDKCD512TGE-1BK1AABLA",
+    "mark": 28159
+  },
+  {
+    "nameDetail": "CSSD-M2B2TPG3VNF",
+    "mark": 28145
   },
   {
     "nameDetail": "SCY SMSV8HG51200D 512GB",
@@ -4233,27 +4253,15 @@
   },
   {
     "nameDetail": "WD PC SN740 SDDPNQD-512G-1006",
-    "mark": 28106
-  },
-  {
-    "nameDetail": "NVMe BG6 KIOXIA 512GB",
-    "mark": 28086
+    "mark": 28081
   },
   {
     "nameDetail": "WD Red SN700 4000GB",
     "mark": 28080
   },
   {
-    "nameDetail": "Micron MTFDKCD512TGE-1BK1AABLA",
-    "mark": 28050
-  },
-  {
     "nameDetail": "HFS001TEJ9X110N",
     "mark": 28040
-  },
-  {
-    "nameDetail": "Lexar SSD NQ700 1TB",
-    "mark": 27981
   },
   {
     "nameDetail": "IRP-SSDPR-P44S-1K0-80",
@@ -4264,12 +4272,12 @@
     "mark": 27911
   },
   {
-    "nameDetail": "SK hynix BC901 HFS001TEJ9X108N",
-    "mark": 27897
+    "nameDetail": "Lexar SSD NQ700 1TB",
+    "mark": 27905
   },
   {
-    "nameDetail": "Patriot P400L 1000GB",
-    "mark": 27892
+    "nameDetail": "SK hynix BC901 HFS001TEJ9X108N",
+    "mark": 27897
   },
   {
     "nameDetail": "CT500P5PSSD8",
@@ -4282,6 +4290,10 @@
   {
     "nameDetail": "NVMe Micron 2400E MTFDKBA1T0QFM",
     "mark": 27856
+  },
+  {
+    "nameDetail": "NVMe SM2P41C8-512GC5",
+    "mark": 27837
   },
   {
     "nameDetail": "ADATA LEGEND 850",
@@ -4308,16 +4320,20 @@
     "mark": 27759
   },
   {
+    "nameDetail": "Patriot P400L 1000GB",
+    "mark": 27757
+  },
+  {
     "nameDetail": "CFD NVMe Gen 4 M.2 1TB CSSD-M2B1TPG3VNF",
     "mark": 27724
   },
   {
-    "nameDetail": "FORESEE XP2000F512G",
-    "mark": 27701
+    "nameDetail": "NVMe HFS512GEJ9X110N",
+    "mark": 27721
   },
   {
-    "nameDetail": "NVMe HFS512GEJ9X110N",
-    "mark": 27669
+    "nameDetail": "FORESEE XP2000F512G",
+    "mark": 27701
   },
   {
     "nameDetail": "NVMe WDS200T3X0C-00SJG0",
@@ -4340,16 +4356,16 @@
     "mark": 27555
   },
   {
-    "nameDetail": "2550 Micron 512GB",
-    "mark": 27536
-  },
-  {
     "nameDetail": "TC02005T00SS8D",
     "mark": 27525
   },
   {
     "nameDetail": "MTFDKBK1T0QFM-1BD1AABGB",
     "mark": 27508
+  },
+  {
+    "nameDetail": "2550 Micron 512GB",
+    "mark": 27507
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVL81T0HELB-00BTW",
@@ -4364,12 +4380,12 @@
     "mark": 27434
   },
   {
-    "nameDetail": "WD PC SN740 SDDQNQD-1T00-1014",
-    "mark": 27352
+    "nameDetail": "KINGSTON OM8PGP4512Q-AA",
+    "mark": 27371
   },
   {
-    "nameDetail": "KINGSTON OM8PGP4512Q-AA",
-    "mark": 27339
+    "nameDetail": "WD PC SN740 SDDQNQD-1T00-1014",
+    "mark": 27352
   },
   {
     "nameDetail": "MSI M461 2TB",
@@ -4385,7 +4401,7 @@
   },
   {
     "nameDetail": "MTFDKBA1T0QFM-1BD1AABGB",
-    "mark": 27233
+    "mark": 27236
   },
   {
     "nameDetail": "MSI M460 2TB",
@@ -4432,6 +4448,10 @@
     "mark": 26961
   },
   {
+    "nameDetail": "NVMe PC SN740 WD 512GB",
+    "mark": 26953
+  },
+  {
     "nameDetail": "PM9C1a Samsung 1024GB",
     "mark": 26951
   },
@@ -4440,12 +4460,12 @@
     "mark": 26946
   },
   {
-    "nameDetail": "NVMe PC SN740 WD 512GB",
-    "mark": 26944
-  },
-  {
     "nameDetail": "T-FORCE TM8FPL2000G",
     "mark": 26886
+  },
+  {
+    "nameDetail": "SK hynix BC901 HFS512GEJ9X108N",
+    "mark": 26882
   },
   {
     "nameDetail": "FORESEE XP2000F001T",
@@ -4453,19 +4473,11 @@
   },
   {
     "nameDetail": "SAMSUNG MZVL81T0HELB-00BH1",
-    "mark": 26869
-  },
-  {
-    "nameDetail": "SK hynix BC901 HFS512GEJ9X108N",
-    "mark": 26868
+    "mark": 26849
   },
   {
     "nameDetail": "RS1D0TSSD710",
     "mark": 26836
-  },
-  {
-    "nameDetail": "SAMSUNG MZAL8512HDLU-00BL2",
-    "mark": 26821
   },
   {
     "nameDetail": "NVMe HFS256GEJ9X110N",
@@ -4482,6 +4494,10 @@
   {
     "nameDetail": "WDBGMP0020BNC-WRSN",
     "mark": 26779
+  },
+  {
+    "nameDetail": "SAMSUNG MZAL8512HDLU-00BL2",
+    "mark": 26767
   },
   {
     "nameDetail": "KingFast F17N 4TB",
@@ -4501,11 +4517,11 @@
   },
   {
     "nameDetail": "Netac NVMe SSD 1TB",
-    "mark": 26678
+    "mark": 26668
   },
   {
     "nameDetail": "NVMe MTFDKBA1T0QFM-1BD1AABGB",
-    "mark": 26658
+    "mark": 26663
   },
   {
     "nameDetail": "MTFDKBA2T0QFM-1BD1AABGB",
@@ -4561,7 +4577,7 @@
   },
   {
     "nameDetail": "NVMe BC901 NVMe SK hynix 512GB",
-    "mark": 26436
+    "mark": 26445
   },
   {
     "nameDetail": "GXF-R-512-2280",
@@ -4592,12 +4608,12 @@
     "mark": 26344
   },
   {
-    "nameDetail": "KBG6AZNV512G LA KIOXIA",
-    "mark": 26328
-  },
-  {
     "nameDetail": "Visiontek 2TB DLX4",
     "mark": 26309
+  },
+  {
+    "nameDetail": "KBG6AZNV512G LA KIOXIA",
+    "mark": 26266
   },
   {
     "nameDetail": "SM2P41C8-001TC1",
@@ -4612,16 +4628,16 @@
     "mark": 26180
   },
   {
-    "nameDetail": "SKHynix HFS001TDE9X084N",
-    "mark": 26155
-  },
-  {
     "nameDetail": "Reletech P400 M.2 Pro Q2000GB",
     "mark": 26150
   },
   {
     "nameDetail": "Colorful CN700 512GB",
     "mark": 26149
+  },
+  {
+    "nameDetail": "SKHynix HFS001TDE9X084N",
+    "mark": 26147
   },
   {
     "nameDetail": "SAMSUNG MZVL41T0HBLB-00BTW",
@@ -4637,10 +4653,6 @@
   },
   {
     "nameDetail": "MTFDKBA1T0TFK-1BC1AABHA",
-    "mark": 26093
-  },
-  {
-    "nameDetail": "SAMSUNG MZVL8512HELU-00B07",
     "mark": 26093
   },
   {
@@ -4665,7 +4677,7 @@
   },
   {
     "nameDetail": "SKHynix HFS512GEJ4X112N",
-    "mark": 26011
+    "mark": 26015
   },
   {
     "nameDetail": "Fanxiang S660 500GB",
@@ -4676,12 +4688,16 @@
     "mark": 25998
   },
   {
+    "nameDetail": "SAMSUNG MZVL8512HELU-00B07",
+    "mark": 25994
+  },
+  {
     "nameDetail": "MTFDKBA1T0QFM-1BD1AABHA",
     "mark": 25992
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVL41T0HBLB-00BTW",
-    "mark": 25991
+    "mark": 25989
   },
   {
     "nameDetail": "SHGP31-2000GM",
@@ -4690,6 +4706,10 @@
   {
     "nameDetail": "Micron 2450 1TB",
     "mark": 25985
+  },
+  {
+    "nameDetail": "BG6 KIOXIA 256GB",
+    "mark": 25975
   },
   {
     "nameDetail": "Patriot M.2 P400 512GB",
@@ -4712,10 +4732,6 @@
     "mark": 25841
   },
   {
-    "nameDetail": "BG6 KIOXIA 256GB",
-    "mark": 25830
-  },
-  {
     "nameDetail": "AATO-50-512GCI",
     "mark": 25797
   },
@@ -4728,10 +4744,6 @@
     "mark": 25724
   },
   {
-    "nameDetail": "NVMe PM9C1a Samsung 512GB",
-    "mark": 25709
-  },
-  {
     "nameDetail": "KPEGYMTBW2U001TCJD",
     "mark": 25703
   },
@@ -4740,16 +4752,16 @@
     "mark": 25701
   },
   {
+    "nameDetail": "WD Green SN350 2TB",
+    "mark": 25701
+  },
+  {
     "nameDetail": "SANZANG",
     "mark": 25697
   },
   {
-    "nameDetail": "WD Green SN350 2TB",
-    "mark": 25696
-  },
-  {
     "nameDetail": "KINGSTON OM8PGP41024N-A0",
-    "mark": 25681
+    "mark": 25677
   },
   {
     "nameDetail": "Intel Optane 800P Series 380GB",
@@ -4758,6 +4770,10 @@
   {
     "nameDetail": "ESR01TBTLG-E6GBTNB4",
     "mark": 25619
+  },
+  {
+    "nameDetail": "NVMe PM9C1a Samsung 512GB",
+    "mark": 25611
   },
   {
     "nameDetail": "Reletech P600 M.2 Pcie 3.0",
@@ -4789,7 +4805,7 @@
   },
   {
     "nameDetail": "Micron MTFDKCD1T0QFM",
-    "mark": 25429
+    "mark": 25436
   },
   {
     "nameDetail": "WD Black SN750 NVMe 2TB (with Heatsink)",
@@ -4809,15 +4825,11 @@
   },
   {
     "nameDetail": "WD Black SN750 NVMe 1TB (with Heatsink)",
-    "mark": 25356
+    "mark": 25361
   },
   {
     "nameDetail": "TEAM TM5FF3001T",
     "mark": 25328
-  },
-  {
-    "nameDetail": "SAMSUNG MZVL41T0HBLB-00BH1",
-    "mark": 25324
   },
   {
     "nameDetail": "HOGE SSD 1TB",
@@ -4828,28 +4840,32 @@
     "mark": 25290
   },
   {
-    "nameDetail": "WD Blue SN570 1TB SSD",
-    "mark": 25273
+    "nameDetail": "SAMSUNG MZVL41T0HBLB-00BH1",
+    "mark": 25287
   },
   {
     "nameDetail": "SHGP31-500GM",
-    "mark": 25271
+    "mark": 25284
+  },
+  {
+    "nameDetail": "WD Blue SN570 1TB SSD",
+    "mark": 25273
   },
   {
     "nameDetail": "HPE LOGICAL VOLUME",
     "mark": 25264
   },
   {
-    "nameDetail": "BC901 NVMe SK hynix 512GB",
-    "mark": 25234
-  },
-  {
-    "nameDetail": "PNY CS3040 500GB SSD",
-    "mark": 25229
+    "nameDetail": "KLEVV CRAS C910 500GB SSD",
+    "mark": 25239
   },
   {
     "nameDetail": "WDBGMP0010BNC-WRSN",
     "mark": 25229
+  },
+  {
+    "nameDetail": "BC901 NVMe SK hynix 512GB",
+    "mark": 25216
   },
   {
     "nameDetail": "Phison 1TB SM2801T24GKBB4S-E162",
@@ -4874,6 +4890,10 @@
   {
     "nameDetail": "UMIS RPETJ1T24MKP2QDQ",
     "mark": 25130
+  },
+  {
+    "nameDetail": "PNY CS3040 500GB SSD",
+    "mark": 25126
   },
   {
     "nameDetail": "KBG6AZNV256G LA KIOXIA",
@@ -4920,8 +4940,12 @@
     "mark": 24972
   },
   {
+    "nameDetail": "SAMSUNG MZVLB1T0HBLR-000H7",
+    "mark": 24971
+  },
+  {
     "nameDetail": "KBG50ZNV1T02 KIOXIA",
-    "mark": 24942
+    "mark": 24945
   },
   {
     "nameDetail": "NVMe BG6 KIOXIA 256GB",
@@ -4948,10 +4972,6 @@
     "mark": 24882
   },
   {
-    "nameDetail": "SAMSUNG MZVLB1T0HBLR-000H7",
-    "mark": 24878
-  },
-  {
     "nameDetail": "UMIS RPJYJ512MKN1QWY",
     "mark": 24876
   },
@@ -4969,7 +4989,7 @@
   },
   {
     "nameDetail": "Samsung 970 EVO Plus 2TB SSD",
-    "mark": 24844
+    "mark": 24843
   },
   {
     "nameDetail": "WD PC SN740 SDDPNQD-512G",
@@ -5000,6 +5020,10 @@
     "mark": 24772
   },
   {
+    "nameDetail": "SAMSUNG MZVL41T0HBLB-00B07",
+    "mark": 24757
+  },
+  {
     "nameDetail": "NMICRO EXTREME NVME ALPHA 1TB",
     "mark": 24756
   },
@@ -5010,10 +5034,6 @@
   {
     "nameDetail": "Enmotus P200-1600-128",
     "mark": 24732
-  },
-  {
-    "nameDetail": "SAMSUNG MZVL41T0HBLB-00B07",
-    "mark": 24731
   },
   {
     "nameDetail": "ESO256GHLCJ-EL1-2AK",
@@ -5036,24 +5056,24 @@
     "mark": 24686
   },
   {
-    "nameDetail": "KLEVV CRAS C910 500GB SSD",
-    "mark": 24682
-  },
-  {
     "nameDetail": "WDS200T3X0C-00SJG0",
     "mark": 24681
+  },
+  {
+    "nameDetail": "CT2000P5SSD8",
+    "mark": 24662
   },
   {
     "nameDetail": "NVMe TEAM TM8FP4004T",
     "mark": 24657
   },
   {
-    "nameDetail": "OM3PGP4-AD NVMe KDI 512GB",
-    "mark": 24647
+    "nameDetail": "TEAM TM8FP4004T",
+    "mark": 24655
   },
   {
-    "nameDetail": "TEAM TM8FP4004T",
-    "mark": 24642
+    "nameDetail": "OM3PGP4-AD NVMe KDI 512GB",
+    "mark": 24647
   },
   {
     "nameDetail": "Pioneer 2TB M.2 2280 Gen 3x4",
@@ -5066,10 +5086,6 @@
   {
     "nameDetail": "E12S-1TB-PHISON-SSD-B27B",
     "mark": 24628
-  },
-  {
-    "nameDetail": "CT2000P5SSD8",
-    "mark": 24613
   },
   {
     "nameDetail": "WDC CL SN720 SDAQNTX-2T00",
@@ -5104,12 +5120,12 @@
     "mark": 24519
   },
   {
-    "nameDetail": "Samsung SSD 980 PRO 250GB",
-    "mark": 24508
-  },
-  {
     "nameDetail": "Intel Optane 905P 380GB",
     "mark": 24482
+  },
+  {
+    "nameDetail": "Samsung SSD 980 PRO 250GB",
+    "mark": 24476
   },
   {
     "nameDetail": "FORESEE XP1000F001T",
@@ -5121,15 +5137,19 @@
   },
   {
     "nameDetail": "CT1000P5SSD8",
-    "mark": 24430
+    "mark": 24433
   },
   {
     "nameDetail": "PC711 NVMe SK hynix 1TB",
-    "mark": 24428
+    "mark": 24430
   },
   {
     "nameDetail": "KINGSTON NV2 4TB SSD",
     "mark": 24416
+  },
+  {
+    "nameDetail": "WD PC SN740 SDDQNQD-512G-1014",
+    "mark": 24414
   },
   {
     "nameDetail": "PHISON BICS4 2TB SSD",
@@ -5149,18 +5169,14 @@
   },
   {
     "nameDetail": "MSI M450 1TB",
-    "mark": 24355
-  },
-  {
-    "nameDetail": "WD PC SN740 SDDQNQD-512G-1014",
-    "mark": 24349
-  },
-  {
-    "nameDetail": "PNY CS2241 1TB SSD",
-    "mark": 24347
+    "mark": 24346
   },
   {
     "nameDetail": "iMrcno3 04 0VNeM1 20G4 B",
+    "mark": 24324
+  },
+  {
+    "nameDetail": "PNY CS2241 1TB SSD",
     "mark": 24324
   },
   {
@@ -5169,7 +5185,7 @@
   },
   {
     "nameDetail": "WD BLACK SN750 SE 1TB",
-    "mark": 24298
+    "mark": 24300
   },
   {
     "nameDetail": "SanDisk SSD Plus 1TB A3N",
@@ -5201,7 +5217,7 @@
   },
   {
     "nameDetail": "SKHynix HFS512GDE9X084N",
-    "mark": 24197
+    "mark": 24199
   },
   {
     "nameDetail": "Patriot M.2 P320 1024GB",
@@ -5232,10 +5248,6 @@
     "mark": 24118
   },
   {
-    "nameDetail": "ESR512GTLG-E6GBTNB4",
-    "mark": 24096
-  },
-  {
     "nameDetail": "KLEVV CRAS C720 2TB SSD",
     "mark": 24078
   },
@@ -5249,7 +5261,7 @@
   },
   {
     "nameDetail": "WD Black SN750 NVMe 1TB",
-    "mark": 24013
+    "mark": 24010
   },
   {
     "nameDetail": "SanDisk Ultra 3D NVMe 1TB",
@@ -5257,7 +5269,11 @@
   },
   {
     "nameDetail": "Crucial P3 Plus 500GB SSD",
-    "mark": 23970
+    "mark": 23989
+  },
+  {
+    "nameDetail": "ESR512GTLG-E6GBTNB4",
+    "mark": 23974
   },
   {
     "nameDetail": "KBG50ZNT1T02 LS KIOXIA",
@@ -5304,10 +5320,6 @@
     "mark": 23855
   },
   {
-    "nameDetail": "SKHynix HFS256GEJ9X164N",
-    "mark": 23845
-  },
-  {
     "nameDetail": "WDBGMP5000ANC-WRSN",
     "mark": 23830
   },
@@ -5320,8 +5332,8 @@
     "mark": 23816
   },
   {
-    "nameDetail": "SK hynix PC711 HFS001TDE9X073N",
-    "mark": 23790
+    "nameDetail": "SKHynix HFS256GEJ9X164N",
+    "mark": 23815
   },
   {
     "nameDetail": "SKHynix HFS001TD9TNI-L2B0B",
@@ -5334,6 +5346,10 @@
   {
     "nameDetail": "YMTC PC300-1TB-D",
     "mark": 23760
+  },
+  {
+    "nameDetail": "SK hynix PC711 HFS001TDE9X073N",
+    "mark": 23757
   },
   {
     "nameDetail": "FIKWOT FN960 512GB",
@@ -5370,6 +5386,10 @@
   {
     "nameDetail": "PC SN720 NVMe WDC 1024GB",
     "mark": 23671
+  },
+  {
+    "nameDetail": "MSI M461 1TB",
+    "mark": 23657
   },
   {
     "nameDetail": "GALAX XA1R0500N",
@@ -5416,10 +5436,6 @@
     "mark": 23529
   },
   {
-    "nameDetail": "MSI M461 1TB",
-    "mark": 23526
-  },
-  {
     "nameDetail": "PM9B1 NVMe Samsung 1024GB",
     "mark": 23525
   },
@@ -5448,6 +5464,10 @@
     "mark": 23465
   },
   {
+    "nameDetail": "Micron 7450 MTFDKBA960TFR",
+    "mark": 23446
+  },
+  {
     "nameDetail": "NVMe HFM001TD3JX013N",
     "mark": 23441
   },
@@ -5456,16 +5476,12 @@
     "mark": 23439
   },
   {
-    "nameDetail": "Micron 7450 MTFDKBA960TFR",
-    "mark": 23430
-  },
-  {
     "nameDetail": "SAMSUNG MZVL4512HBLU-00BL7",
     "mark": 23418
   },
   {
     "nameDetail": "Samsung SSD 970 EVO Plus 1TB",
-    "mark": 23413
+    "mark": 23411
   },
   {
     "nameDetail": "Seagate ZP500CV30002",
@@ -5474,6 +5490,10 @@
   {
     "nameDetail": "E19-512G-PHISON-SSD-B47R",
     "mark": 23400
+  },
+  {
+    "nameDetail": "HFM001TD3HX015N",
+    "mark": 23395
   },
   {
     "nameDetail": "ShiJi 2TB M.2-NVMe",
@@ -5516,7 +5536,7 @@
     "mark": 23295
   },
   {
-    "nameDetail": "GIGABYTE GP-AG4500G",
+    "nameDetail": "SAMSUNG MZVL8512HELU-00BH1",
     "mark": 23288
   },
   {
@@ -5528,10 +5548,6 @@
     "mark": 23277
   },
   {
-    "nameDetail": "SAMSUNG MZVL8512HELU-00BH1",
-    "mark": 23277
-  },
-  {
     "nameDetail": "SAMSUNG MZVL4512HBLU-00BLL",
     "mark": 23276
   },
@@ -5540,20 +5556,20 @@
     "mark": 23266
   },
   {
+    "nameDetail": "GIGABYTE GP-AG4500G",
+    "mark": 23250
+  },
+  {
     "nameDetail": "Verbatim Vi5000 512GB SSD",
     "mark": 23246
   },
   {
-    "nameDetail": "HFM001TD3HX015N",
-    "mark": 23228
+    "nameDetail": "Phison ESO512GHLCA1-E9C",
+    "mark": 23232
   },
   {
     "nameDetail": "Daten DS3000",
     "mark": 23225
-  },
-  {
-    "nameDetail": "Phison ESO512GHLCA1-E9C",
-    "mark": 23222
   },
   {
     "nameDetail": "SanDisk Extreme Pro 2TB",
@@ -5569,7 +5585,7 @@
   },
   {
     "nameDetail": "Micron MTFDKBA512TFK",
-    "mark": 23176
+    "mark": 23178
   },
   {
     "nameDetail": "MTFDKBA512TFK-1BC1AABHA",
@@ -5644,12 +5660,16 @@
     "mark": 22965
   },
   {
+    "nameDetail": "2550 Micron 256GB",
+    "mark": 22962
+  },
+  {
     "nameDetail": "Micron MTFDKCD1T0TFK",
     "mark": 22956
   },
   {
     "nameDetail": "ADATA LEGEND 800",
-    "mark": 22928
+    "mark": 22930
   },
   {
     "nameDetail": "Sabrent Rocket 2130 512GB SSD",
@@ -5688,12 +5708,12 @@
     "mark": 22846
   },
   {
-    "nameDetail": "Micron 2450 512GB",
-    "mark": 22841
-  },
-  {
     "nameDetail": "T-FORCE TM8FP5001T",
     "mark": 22838
+  },
+  {
+    "nameDetail": "Micron 2450 512GB",
+    "mark": 22826
   },
   {
     "nameDetail": "MSI M450 500GB",
@@ -5733,7 +5753,7 @@
   },
   {
     "nameDetail": "PC711 NVMe SK hynix 512GB",
-    "mark": 22741
+    "mark": 22726
   },
   {
     "nameDetail": "SAMSUNG MZVL4512HBLU-00B07",
@@ -5756,6 +5776,10 @@
     "mark": 22685
   },
   {
+    "nameDetail": "SKHynix HFS001TD9TNI-L2A0B",
+    "mark": 22667
+  },
+  {
     "nameDetail": "PNY CS2230 1TB SSD",
     "mark": 22660
   },
@@ -5769,11 +5793,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 800 GOLD",
-    "mark": 22650
-  },
-  {
-    "nameDetail": "2550 Micron 256GB",
-    "mark": 22639
+    "mark": 22649
   },
   {
     "nameDetail": "GIGABYTE GP-GM30512G-G",
@@ -5785,14 +5805,14 @@
   },
   {
     "nameDetail": "SAMSUNG MZVL4512HBLU-00BH1",
-    "mark": 22621
-  },
-  {
-    "nameDetail": "SKHynix HFS001TD9TNI-L2A0B",
-    "mark": 22620
+    "mark": 22617
   },
   {
     "nameDetail": "ADATA LEGEND 750",
+    "mark": 22616
+  },
+  {
+    "nameDetail": "WD PC SN740 SDDQNQD-256G-2006",
     "mark": 22616
   },
   {
@@ -5813,7 +5833,7 @@
   },
   {
     "nameDetail": "WD Green SN350 1TB",
-    "mark": 22570
+    "mark": 22575
   },
   {
     "nameDetail": "SAMSUNG MZVLB2T0HALB-000L2",
@@ -5828,8 +5848,8 @@
     "mark": 22542
   },
   {
-    "nameDetail": "UMIS RPJTJ512MKP1QDQ",
-    "mark": 22537
+    "nameDetail": "TwinMOS PCIe 1TB",
+    "mark": 22539
   },
   {
     "nameDetail": "GenMachine-NVMe1TB",
@@ -5852,6 +5872,10 @@
     "mark": 22499
   },
   {
+    "nameDetail": "UMIS RPJTJ512MKP1QDQ",
+    "mark": 22494
+  },
+  {
     "nameDetail": "NVMe PM9C1a Samsung 256GB",
     "mark": 22480
   },
@@ -5864,40 +5888,40 @@
     "mark": 22471
   },
   {
-    "nameDetail": "YMTC PC300-512GB-B",
+    "nameDetail": "Crucial P3 1TB SSD",
     "mark": 22459
   },
   {
-    "nameDetail": "Micron 2300 1TB",
-    "mark": 22455
+    "nameDetail": "YMTC PC300-512GB-B",
+    "mark": 22459
   },
   {
     "nameDetail": "HFM001TD3JX016N",
     "mark": 22447
   },
   {
-    "nameDetail": "Crucial P3 1TB SSD",
-    "mark": 22446
-  },
-  {
     "nameDetail": "WD Red SN700 1000GB",
     "mark": 22444
+  },
+  {
+    "nameDetail": "Micron 2300 1TB",
+    "mark": 22443
+  },
+  {
+    "nameDetail": "NVMe SOLIDIGM SSDPFKNU010TZ",
+    "mark": 22440
   },
   {
     "nameDetail": "Sabrent Rocket 4 500GB SSD",
     "mark": 22436
   },
   {
-    "nameDetail": "NVMe SOLIDIGM SSDPFKNU010TZ",
-    "mark": 22434
+    "nameDetail": "SKHynix HFS512GDE9X081N",
+    "mark": 22424
   },
   {
     "nameDetail": "CT500P5SSD8",
-    "mark": 22428
-  },
-  {
-    "nameDetail": "SKHynix HFS512GDE9X081N",
-    "mark": 22416
+    "mark": 22419
   },
   {
     "nameDetail": "NXM-1TB",
@@ -5936,12 +5960,12 @@
     "mark": 22322
   },
   {
-    "nameDetail": "KINGSTON NV2 2TB SSD",
-    "mark": 22313
-  },
-  {
     "nameDetail": "GIGABYTE GP-AG41",
     "mark": 22311
+  },
+  {
+    "nameDetail": "KINGSTON NV2 2TB SSD",
+    "mark": 22305
   },
   {
     "nameDetail": "SKHynix HFS256GEJ4X113N",
@@ -5957,7 +5981,7 @@
   },
   {
     "nameDetail": "Samsung SSD 970 PRO 512GB",
-    "mark": 22285
+    "mark": 22284
   },
   {
     "nameDetail": "PM9B1 Samsung 256GB",
@@ -5965,7 +5989,7 @@
   },
   {
     "nameDetail": "Samsung SSD PM981a NVMe 1TB",
-    "mark": 22254
+    "mark": 22251
   },
   {
     "nameDetail": "AOKZOE A1",
@@ -6005,10 +6029,6 @@
   },
   {
     "nameDetail": "Phison CFESR512GMTCT-E9C-2",
-    "mark": 22181
-  },
-  {
-    "nameDetail": "SSSTC CA6-8D256-HP",
     "mark": 22181
   },
   {
@@ -6072,8 +6092,16 @@
     "mark": 22059
   },
   {
+    "nameDetail": "FORESEE XP2000F512K",
+    "mark": 22045
+  },
+  {
+    "nameDetail": "SSSTC CA6-8D256-HP",
+    "mark": 22033
+  },
+  {
     "nameDetail": "SOLIDIGM SSDPFKNU010TZ",
-    "mark": 22041
+    "mark": 22024
   },
   {
     "nameDetail": "Transcend TS1TMTE240S",
@@ -6124,6 +6152,10 @@
     "mark": 21954
   },
   {
+    "nameDetail": "WPBSNM8-512GTP",
+    "mark": 21954
+  },
+  {
     "nameDetail": "WDC WD121KFBX",
     "mark": 21946
   },
@@ -6168,16 +6200,12 @@
     "mark": 21860
   },
   {
-    "nameDetail": "Micron MTFDKCD512TFK",
-    "mark": 21856
-  },
-  {
-    "nameDetail": "WPBSNM8-512GTP",
-    "mark": 21851
-  },
-  {
     "nameDetail": "HI-LEVEL NVMe PCle 3.0 512GB",
     "mark": 21849
+  },
+  {
+    "nameDetail": "Micron MTFDKCD512TFK",
+    "mark": 21844
   },
   {
     "nameDetail": "SQF-C8MV4-512GCEDC",
@@ -6233,7 +6261,11 @@
   },
   {
     "nameDetail": "KBG5AZNV512G LA KIOXIA",
-    "mark": 21738
+    "mark": 21740
+  },
+  {
+    "nameDetail": "Lexar SSD NM610 PRO 1TB",
+    "mark": 21727
   },
   {
     "nameDetail": "Viper VPN100 1TB",
@@ -6276,16 +6308,8 @@
     "mark": 21668
   },
   {
-    "nameDetail": "FORESEE XP2000F512K",
-    "mark": 21666
-  },
-  {
     "nameDetail": "Lexar SSD NM610PRO 1TB",
     "mark": 21659
-  },
-  {
-    "nameDetail": "NVMe BC901 NVMe SK hynix 256GB",
-    "mark": 21656
   },
   {
     "nameDetail": "KINGSTON OM8SFP4512P-AH",
@@ -6332,12 +6356,20 @@
     "mark": 21547
   },
   {
-    "nameDetail": "Lexar SSD NM610 PRO 1TB",
-    "mark": 21541
-  },
-  {
     "nameDetail": "NVMe KBG50ZNT512G LS KIOXIA",
     "mark": 21536
+  },
+  {
+    "nameDetail": "NVMe BC901 NVMe SK hynix 256GB",
+    "mark": 21533
+  },
+  {
+    "nameDetail": "GIGABYTE AG4512G-SI B10",
+    "mark": 21509
+  },
+  {
+    "nameDetail": "CUSU CV3500Q 1TB",
+    "mark": 21500
   },
   {
     "nameDetail": "NVMe Dahua C900 PLUS M.2 2280 NVMe 512GB SSD",
@@ -6345,11 +6377,7 @@
   },
   {
     "nameDetail": "Samsung PM9A1 256GB SSD",
-    "mark": 21498
-  },
-  {
-    "nameDetail": "GIGABYTE AG4512G-SI B10",
-    "mark": 21495
+    "mark": 21488
   },
   {
     "nameDetail": "HFS001TD9TNG-L2A0A",
@@ -6384,10 +6412,6 @@
     "mark": 21424
   },
   {
-    "nameDetail": "CUSU CV3500Q 1TB",
-    "mark": 21417
-  },
-  {
     "nameDetail": "Force MP510",
     "mark": 21408
   },
@@ -6400,16 +6424,16 @@
     "mark": 21397
   },
   {
-    "nameDetail": "SAMSUNG MZVLB2T0HALB-000H1",
-    "mark": 21394
-  },
-  {
     "nameDetail": "Apple APPLE SSD AP1024",
     "mark": 21392
   },
   {
     "nameDetail": "WDS100T3X0C-00SJ",
     "mark": 21386
+  },
+  {
+    "nameDetail": "TWSC TSC3AN1T0-F6Q10S",
+    "mark": 21379
   },
   {
     "nameDetail": "PC601 NVMe SK hynix 1TB",
@@ -6428,10 +6452,6 @@
     "mark": 21358
   },
   {
-    "nameDetail": "TWSC TSC3AN1T0-F6Q10S",
-    "mark": 21356
-  },
-  {
     "nameDetail": "OV NVME SSD 512GB P300",
     "mark": 21352
   },
@@ -6440,8 +6460,16 @@
     "mark": 21350
   },
   {
+    "nameDetail": "AP512GPD4480-0G PD4480 512GB",
+    "mark": 21348
+  },
+  {
     "nameDetail": "WDSN740-SDDPNQD-256G-1004",
     "mark": 21346
+  },
+  {
+    "nameDetail": "Vi3000 Internal PCIe NVMe M.2 SSD 2TB",
+    "mark": 21341
   },
   {
     "nameDetail": "WDC PC SN720 SDAQNTX-2T00",
@@ -6458,6 +6486,10 @@
   {
     "nameDetail": "NVMe WDC PC SN730 SDBQNTY-512G-1001",
     "mark": 21334
+  },
+  {
+    "nameDetail": "SAMSUNG MZVLB2T0HALB-000H1",
+    "mark": 21331
   },
   {
     "nameDetail": "NVMe KBG50ZNT256G LS KIOXIA",
@@ -6496,10 +6528,6 @@
     "mark": 21286
   },
   {
-    "nameDetail": "Vi3000 Internal PCIe NVMe M.2 SSD 2TB",
-    "mark": 21280
-  },
-  {
     "nameDetail": "NVMe PC611 NVMe SK hynix 1TB",
     "mark": 21276
   },
@@ -6520,32 +6548,32 @@
     "mark": 21256
   },
   {
+    "nameDetail": "M.2 NVMe SSD",
+    "mark": 21252
+  },
+  {
     "nameDetail": "T-FORCE TM8FPL1000G",
     "mark": 21243
+  },
+  {
+    "nameDetail": "XK6GZ0VNT120N MV eIKXOAI1 20G4 B",
+    "mark": 21219
   },
   {
     "nameDetail": "SUNEAST SE900NVG3 1024G",
     "mark": 21211
   },
   {
-    "nameDetail": "Samsung SSD 980 NVMe 1TB",
-    "mark": 21189
-  },
-  {
     "nameDetail": "SAMSUNG MZAL4512HBLU-00BL2",
     "mark": 21186
   },
   {
+    "nameDetail": "Samsung SSD 980 NVMe 1TB",
+    "mark": 21184
+  },
+  {
     "nameDetail": "Lexar SSD NM610 PRO 500GB",
     "mark": 21180
-  },
-  {
-    "nameDetail": "XK6GZ0VNT120N MV eIKXOAI1 20G4 B",
-    "mark": 21144
-  },
-  {
-    "nameDetail": "AP512GPD4480-0G PD4480 512GB",
-    "mark": 21143
   },
   {
     "nameDetail": "EDILOCA EN600Pro 512GB",
@@ -6568,8 +6596,8 @@
     "mark": 21113
   },
   {
-    "nameDetail": "MS200- 2TB",
-    "mark": 21104
+    "nameDetail": "PNY CS2140 1TB SSD",
+    "mark": 21110
   },
   {
     "nameDetail": "WD PC SN740 SDDQMQD-256G-1201",
@@ -6584,10 +6612,6 @@
     "mark": 21093
   },
   {
-    "nameDetail": "PNY CS2140 1TB SSD",
-    "mark": 21082
-  },
-  {
     "nameDetail": "BM9C1 Samsung 1024GB",
     "mark": 21079
   },
@@ -6598,10 +6622,6 @@
   {
     "nameDetail": "PC601A NVMe SK hynix 1TB",
     "mark": 21044
-  },
-  {
-    "nameDetail": "Corsair Force MP510 1920GB",
-    "mark": 21042
   },
   {
     "nameDetail": "KIOXIA-EXCERIA PLUS SSD",
@@ -6620,24 +6640,16 @@
     "mark": 21031
   },
   {
+    "nameDetail": "NVMe MTFDKBA512QFM-1BD1AABGB",
+    "mark": 21020
+  },
+  {
     "nameDetail": "ADATA SX8100NP",
     "mark": 21017
   },
   {
-    "nameDetail": "Patriot M.2 P300 2048GB",
-    "mark": 21014
-  },
-  {
     "nameDetail": "WOOKING CE980Y38900-512",
     "mark": 21007
-  },
-  {
-    "nameDetail": "BIWIN AP423 CE480TB8800-512G",
-    "mark": 21003
-  },
-  {
-    "nameDetail": "NVMe MTFDKBA512QFM-1BD1AABGB",
-    "mark": 21001
   },
   {
     "nameDetail": "SAMSUNG MZVL2256HCHQ-00B07",
@@ -6652,6 +6664,14 @@
     "mark": 20998
   },
   {
+    "nameDetail": "Patriot M.2 P300 2048GB",
+    "mark": 20996
+  },
+  {
+    "nameDetail": "Corsair Force MP510 1920GB",
+    "mark": 20994
+  },
+  {
     "nameDetail": "WD PC SN740 SDDPNQD-256G-1102",
     "mark": 20991
   },
@@ -6660,15 +6680,19 @@
     "mark": 20990
   },
   {
+    "nameDetail": "Fanxiang S500 PRO 1TB SSD",
+    "mark": 20987
+  },
+  {
     "nameDetail": "WDC PC SN720 NVMe 512GB SDAPNTW",
     "mark": 20981
   },
   {
-    "nameDetail": "Fanxiang S500 PRO 1TB SSD",
-    "mark": 20980
+    "nameDetail": "ESR512GMFCM-E8GBTNB4",
+    "mark": 20972
   },
   {
-    "nameDetail": "ESR512GMFCM-E8GBTNB4",
+    "nameDetail": "MS200- 2TB",
     "mark": 20972
   },
   {
@@ -6676,12 +6700,16 @@
     "mark": 20966
   },
   {
+    "nameDetail": "Lexar SSD NM620 1TB",
+    "mark": 20966
+  },
+  {
     "nameDetail": "CONSISTENT NVME S6 001TB",
     "mark": 20960
   },
   {
-    "nameDetail": "Lexar SSD NM620 1TB",
-    "mark": 20960
+    "nameDetail": "BIWIN AP423 CE480TB8800-512G",
+    "mark": 20954
   },
   {
     "nameDetail": "HOGE H751 2TB",
@@ -6689,7 +6717,7 @@
   },
   {
     "nameDetail": "KINGSTON NV2 500GB SSD",
-    "mark": 20945
+    "mark": 20943
   },
   {
     "nameDetail": "WD Black NVMe 500GB",
@@ -6708,6 +6736,10 @@
     "mark": 20931
   },
   {
+    "nameDetail": "Lexar SSD NM620 2TB",
+    "mark": 20927
+  },
+  {
     "nameDetail": "CS2230 1TB SSD",
     "mark": 20922
   },
@@ -6721,14 +6753,10 @@
   },
   {
     "nameDetail": "WD Black SN750 NVMe 500GB",
-    "mark": 20914
+    "mark": 20913
   },
   {
     "nameDetail": "FORESEE XP1000F512G",
-    "mark": 20906
-  },
-  {
-    "nameDetail": "Lexar SSD NM620 2TB",
     "mark": 20906
   },
   {
@@ -6756,16 +6784,16 @@
     "mark": 20870
   },
   {
-    "nameDetail": "KBG50ZNV512G KIOXIA",
-    "mark": 20863
-  },
-  {
     "nameDetail": "NVMe WD PC SN740 SDDPNQD-256G-1006",
     "mark": 20862
   },
   {
     "nameDetail": "P41PL NVMe SOLIDIGM 1024GB",
     "mark": 20862
+  },
+  {
+    "nameDetail": "KBG50ZNV512G KIOXIA",
+    "mark": 20861
   },
   {
     "nameDetail": "Kingston KC2500 500GB SSD",
@@ -6790,10 +6818,6 @@
   {
     "nameDetail": "NVMe 670p SSDPEKNU010TZ NVMe INTEL 1TB",
     "mark": 20828
-  },
-  {
-    "nameDetail": "M.2 NVMe SSD",
-    "mark": 20820
   },
   {
     "nameDetail": "KBG50ZNS512G KIOXIA",
@@ -6848,15 +6872,19 @@
     "mark": 20761
   },
   {
-    "nameDetail": "HFM512GD3JX016N",
-    "mark": 20758
-  },
-  {
     "nameDetail": "PNY CM3031 500GB SSD",
     "mark": 20755
   },
   {
+    "nameDetail": "HFM512GD3JX016N",
+    "mark": 20754
+  },
+  {
     "nameDetail": "KLEVV CRAS C715 1TB SSD",
+    "mark": 20751
+  },
+  {
+    "nameDetail": "MKNSSDTS2TB-D8",
     "mark": 20743
   },
   {
@@ -6876,16 +6904,12 @@
     "mark": 20721
   },
   {
-    "nameDetail": "MKNSSDTS2TB-D8",
-    "mark": 20701
+    "nameDetail": "UDSS UD2CMAGQ10A-001T",
+    "mark": 20697
   },
   {
     "nameDetail": "Samsung SSD 970 EVO Plus 500GB",
-    "mark": 20696
-  },
-  {
-    "nameDetail": "UDSS UD2CMAGQ10A-001T",
-    "mark": 20681
+    "mark": 20694
   },
   {
     "nameDetail": "CS1030 1TB SSD",
@@ -6993,7 +7017,7 @@
   },
   {
     "nameDetail": "SK hynix BC711 512GB",
-    "mark": 20543
+    "mark": 20544
   },
   {
     "nameDetail": "NVMe SM2P41C3 NVMe ADATA 256GB",
@@ -7014,6 +7038,10 @@
   {
     "nameDetail": "SKHynix HFS512GD9TNI-L2A0B",
     "mark": 20515
+  },
+  {
+    "nameDetail": "SAMSUNG MZAL4512HBLU-00BL1",
+    "mark": 20507
   },
   {
     "nameDetail": "SAMSUNG MZAL8256HDJD-00BL2",
@@ -7080,10 +7108,6 @@
     "mark": 20439
   },
   {
-    "nameDetail": "SAMSUNG MZAL4512HBLU-00BL1",
-    "mark": 20435
-  },
-  {
     "nameDetail": "KXG6AZNV1T02 TOSHIBA",
     "mark": 20424
   },
@@ -7106,10 +7130,6 @@
   {
     "nameDetail": "ZETTASTONE CP200X SSD 512GB",
     "mark": 20402
-  },
-  {
-    "nameDetail": "P0221 NVMe Phison 1024GB",
-    "mark": 20387
   },
   {
     "nameDetail": "T-FORCE TM8FPL500G",
@@ -7140,12 +7160,12 @@
     "mark": 20338
   },
   {
-    "nameDetail": "WDC WDBA3V0020BNC",
-    "mark": 20331
+    "nameDetail": "MTFDKBA512QFM-1BD1AABGB",
+    "mark": 20335
   },
   {
-    "nameDetail": "MTFDKBA512QFM-1BD1AABGB",
-    "mark": 20328
+    "nameDetail": "WDC WDBA3V0020BNC",
+    "mark": 20331
   },
   {
     "nameDetail": "CP06A1N MV eKSh nyxi1 BT",
@@ -7156,12 +7176,12 @@
     "mark": 20308
   },
   {
-    "nameDetail": "XPG GAMMIX S11 Pro 2TB",
-    "mark": 20292
-  },
-  {
     "nameDetail": "SM2P32A8-512GC1",
     "mark": 20287
+  },
+  {
+    "nameDetail": "XPG GAMMIX S11 Pro 2TB",
+    "mark": 20280
   },
   {
     "nameDetail": "SDVPNV2410512TMHV7HK",
@@ -7180,12 +7200,12 @@
     "mark": 20247
   },
   {
-    "nameDetail": "Kingston NV2 1TB SSD",
+    "nameDetail": "NVMe WDC WD BLACK SDBPNTY-512G-1106",
     "mark": 20245
   },
   {
-    "nameDetail": "NVMe WDC WD BLACK SDBPNTY-512G-1106",
-    "mark": 20245
+    "nameDetail": "Kingston NV2 1TB SSD",
+    "mark": 20242
   },
   {
     "nameDetail": "EDILOCA EN600 Pro 512GB",
@@ -7244,12 +7264,16 @@
     "mark": 20160
   },
   {
+    "nameDetail": "KBG50ZNS512G NVMe KIOXIA 512GB",
+    "mark": 20159
+  },
+  {
     "nameDetail": "GOFATOO 2TB SSD",
     "mark": 20154
   },
   {
-    "nameDetail": "KBG50ZNS512G NVMe KIOXIA 512GB",
-    "mark": 20150
+    "nameDetail": "Lexar SSD NM6A1 512GB",
+    "mark": 20143
   },
   {
     "nameDetail": "INTEL SSDPED1D280GAH",
@@ -7280,12 +7304,12 @@
     "mark": 20124
   },
   {
-    "nameDetail": "PSEJN512GA87EC0",
-    "mark": 20122
+    "nameDetail": "NX-1TB 2280",
+    "mark": 20123
   },
   {
-    "nameDetail": "NX-1TB 2280",
-    "mark": 20117
+    "nameDetail": "PSEJN512GA87EC0",
+    "mark": 20122
   },
   {
     "nameDetail": "UMIS RPITJ1TBVME2HWD",
@@ -7294,10 +7318,6 @@
   {
     "nameDetail": "SKHynix HFS512GD9TNI-L2B0B",
     "mark": 20106
-  },
-  {
-    "nameDetail": "Lexar SSD NM6A1 512GB",
-    "mark": 20097
   },
   {
     "nameDetail": "Patriot M.2 P310 1920GB",
@@ -7348,10 +7368,6 @@
     "mark": 20037
   },
   {
-    "nameDetail": "PC611 NVMe SK hynix 1TB",
-    "mark": 20036
-  },
-  {
     "nameDetail": "NVMe TEAM TM8FP6002T",
     "mark": 20029
   },
@@ -7360,16 +7376,20 @@
     "mark": 20018
   },
   {
+    "nameDetail": "PC611 NVMe SK hynix 1TB",
+    "mark": 20016
+  },
+  {
+    "nameDetail": "AirDisk 1TB SSD",
+    "mark": 20011
+  },
+  {
     "nameDetail": "NVMe Lexar SSD NM620 512GB",
     "mark": 20005
   },
   {
     "nameDetail": "MKNSSDPE1TB-D8",
     "mark": 19990
-  },
-  {
-    "nameDetail": "AirDisk 1TB SSD",
-    "mark": 19986
   },
   {
     "nameDetail": "GIGABYTE GP-ASACNE2100TTTDR",
@@ -7389,7 +7409,7 @@
   },
   {
     "nameDetail": "WD BLACK SN750 SE 500GB",
-    "mark": 19953
+    "mark": 19952
   },
   {
     "nameDetail": "Samsung 970 EVO 2TB SSD",
@@ -7436,6 +7456,10 @@
     "mark": 19850
   },
   {
+    "nameDetail": "Fanxiang S501Q 1TB",
+    "mark": 19814
+  },
+  {
     "nameDetail": "Apacer AS2280P4U 512GB",
     "mark": 19812
   },
@@ -7444,36 +7468,28 @@
     "mark": 19811
   },
   {
+    "nameDetail": "HFS256GEJ9X108N",
+    "mark": 19789
+  },
+  {
     "nameDetail": "MTFDKBA512QFM-1BD1AABHA",
     "mark": 19786
   },
   {
     "nameDetail": "Samsung PM981 1TB NVMe",
-    "mark": 19777
-  },
-  {
-    "nameDetail": "Fanxiang S501Q 1TB",
-    "mark": 19763
-  },
-  {
-    "nameDetail": "HS-SSD-WAVE Pro(P) 512G",
-    "mark": 19763
+    "mark": 19772
   },
   {
     "nameDetail": "NXM-512 2242",
     "mark": 19758
   },
   {
+    "nameDetail": "TOSHIBA XG6 SSD 1024GB M.2 NVMe",
+    "mark": 19758
+  },
+  {
     "nameDetail": "KINGSTON OM8SEP41024N-A0",
     "mark": 19757
-  },
-  {
-    "nameDetail": "TOSHIBA XG6 SSD 1024GB M.2 NVMe",
-    "mark": 19751
-  },
-  {
-    "nameDetail": "HFS256GEJ9X108N",
-    "mark": 19747
   },
   {
     "nameDetail": "NVMe PC601 NVMe SK hy",
@@ -7484,20 +7500,24 @@
     "mark": 19737
   },
   {
-    "nameDetail": "TEAM TM8FPD002T",
-    "mark": 19726
-  },
-  {
     "nameDetail": "WDC PC SN720 NVMe 512GB SDAQNTW",
-    "mark": 19726
+    "mark": 19731
   },
   {
     "nameDetail": "PHISON PS5012-E12S-1T",
     "mark": 19718
   },
   {
+    "nameDetail": "TEAM TM8FPD002T",
+    "mark": 19712
+  },
+  {
     "nameDetail": "SM2P41C3Q ADATA 512GB",
     "mark": 19694
+  },
+  {
+    "nameDetail": "PC SN740 NVMe WD 256GB",
+    "mark": 19692
   },
   {
     "nameDetail": "FIKWOT FN501 Pro 2TB",
@@ -7506,10 +7526,6 @@
   {
     "nameDetail": "Kingmax PCIe SSD 1TB",
     "mark": 19682
-  },
-  {
-    "nameDetail": "PC SN740 NVMe WD 256GB",
-    "mark": 19681
   },
   {
     "nameDetail": "AGI2T0GIMAI298",
@@ -7521,7 +7537,7 @@
   },
   {
     "nameDetail": "WDC WDS200T2B0C",
-    "mark": 19659
+    "mark": 19655
   },
   {
     "nameDetail": "SSDPR-PX500-512-80-G3",
@@ -7534,6 +7550,10 @@
   {
     "nameDetail": "HS-SSD-E2000 1024G",
     "mark": 19636
+  },
+  {
+    "nameDetail": "P0221 NVMe Phison 1024GB",
+    "mark": 19633
   },
   {
     "nameDetail": "CL4-3D1024-Q11 NVMe SSSTC 1024GB",
@@ -7561,7 +7581,7 @@
   },
   {
     "nameDetail": "KINGSTON OM8SEP4512Q-AA",
-    "mark": 19578
+    "mark": 19581
   },
   {
     "nameDetail": "Sabrent Rocket Q 2TB SSD",
@@ -7577,7 +7597,7 @@
   },
   {
     "nameDetail": "Lexar SSD NM620 512GB",
-    "mark": 19562
+    "mark": 19560
   },
   {
     "nameDetail": "Mystor SSD S910 512GB",
@@ -7585,7 +7605,7 @@
   },
   {
     "nameDetail": "Micron 2400 512GB",
-    "mark": 19542
+    "mark": 19545
   },
   {
     "nameDetail": "SCCTP-800-512G SSD",
@@ -7608,12 +7628,8 @@
     "mark": 19502
   },
   {
-    "nameDetail": "SK hynix PC711 HFS256GDE9X073N",
-    "mark": 19495
-  },
-  {
     "nameDetail": "WDC PC SN730 SDBPNTY-512G",
-    "mark": 19480
+    "mark": 19479
   },
   {
     "nameDetail": "SSSTC CL4-8D512-HP",
@@ -7660,6 +7676,10 @@
     "mark": 19398
   },
   {
+    "nameDetail": "SK hynix PC711 HFS256GDE9X073N",
+    "mark": 19391
+  },
+  {
     "nameDetail": "MSI M370 2TB",
     "mark": 19381
   },
@@ -7677,7 +7697,7 @@
   },
   {
     "nameDetail": "PC SN730 NVMe WDC 512GB",
-    "mark": 19355
+    "mark": 19368
   },
   {
     "nameDetail": "Timetec MS12",
@@ -7741,11 +7761,15 @@
   },
   {
     "nameDetail": "XPG GAMMIX S11 Pro 1TB",
-    "mark": 19270
+    "mark": 19269
   },
   {
     "nameDetail": "HP SSD EX900 PIus 512GB",
     "mark": 19266
+  },
+  {
+    "nameDetail": "HS-SSD-WAVE Pro(P) 512G",
+    "mark": 19265
   },
   {
     "nameDetail": "CSSD-M2O5GEG2VNQ",
@@ -7780,6 +7804,10 @@
     "mark": 19204
   },
   {
+    "nameDetail": "TEAM TM8FPD001T",
+    "mark": 19183
+  },
+  {
     "nameDetail": "SAMSUNG MZVL8256HEJD-00B07",
     "mark": 19179
   },
@@ -7810,10 +7838,6 @@
   {
     "nameDetail": "SKHynix HFS001TD9TNG-L3A0B",
     "mark": 19160
-  },
-  {
-    "nameDetail": "TEAM TM8FPD001T",
-    "mark": 19157
   },
   {
     "nameDetail": "CUSU CV3500M 1TB",
@@ -7872,6 +7896,10 @@
     "mark": 19080
   },
   {
+    "nameDetail": "HP SSD EX900 Plus 512GB",
+    "mark": 19079
+  },
+  {
     "nameDetail": "Phison 256GB ESR256GTLCW-E9C-2MS",
     "mark": 19078
   },
@@ -7896,8 +7924,8 @@
     "mark": 19048
   },
   {
-    "nameDetail": "HP SSD EX900 Plus 512GB",
-    "mark": 19043
+    "nameDetail": "UMIS RPITJ512VME2OWD",
+    "mark": 19038
   },
   {
     "nameDetail": "LMD-MPB",
@@ -7922,10 +7950,6 @@
   {
     "nameDetail": "SSD1TBE940",
     "mark": 19014
-  },
-  {
-    "nameDetail": "UMIS RPITJ512VME2OWD",
-    "mark": 19011
   },
   {
     "nameDetail": "PCSPECIALIST PCS3480 512GB",
@@ -7969,7 +7993,7 @@
   },
   {
     "nameDetail": "Micron MTFDKCD512QFM",
-    "mark": 18950
+    "mark": 18937
   },
   {
     "nameDetail": "NVMe BM9C1 Samsung 1024GB",
@@ -7993,11 +8017,11 @@
   },
   {
     "nameDetail": "KXG60ZNV512G KIOXIA",
-    "mark": 18879
+    "mark": 18884
   },
   {
     "nameDetail": "Samsung SSD 980 NVMe 500GB",
-    "mark": 18877
+    "mark": 18876
   },
   {
     "nameDetail": "KINGSTON SKC2000M81000G",
@@ -8009,7 +8033,7 @@
   },
   {
     "nameDetail": "Samsung SSD 960 PRO 512GB",
-    "mark": 18828
+    "mark": 18824
   },
   {
     "nameDetail": "KXG60ZNV1T02 TOSHIBA",
@@ -8025,7 +8049,7 @@
   },
   {
     "nameDetail": "WDC PC SN730 SDBQNTY-512G",
-    "mark": 18800
+    "mark": 18798
   },
   {
     "nameDetail": "KINGBANK KP230",
@@ -8033,7 +8057,7 @@
   },
   {
     "nameDetail": "Crucial P3 500GB SSD",
-    "mark": 18765
+    "mark": 18777
   },
   {
     "nameDetail": "PCSPECIALIST PCS3480 1TB",
@@ -8057,19 +8081,23 @@
   },
   {
     "nameDetail": "KXG60ZNV512G NVMe KIOXIA 512GB",
-    "mark": 18725
+    "mark": 18723
   },
   {
     "nameDetail": "addlink M.2 PCIE G3x4 NVMe RGB",
     "mark": 18713
   },
   {
-    "nameDetail": "Samsung SSD 970 EVO 500GB",
+    "nameDetail": "SKHynix HFS512GD9TNG-L5B0B",
     "mark": 18706
   },
   {
-    "nameDetail": "SKHynix HFS512GD9TNG-L5B0B",
-    "mark": 18706
+    "nameDetail": "Samsung SSD 970 EVO 500GB",
+    "mark": 18704
+  },
+  {
+    "nameDetail": "SSSTC CL4-8D256",
+    "mark": 18692
   },
   {
     "nameDetail": "HS-SSD-C2000Pro 512GB",
@@ -8078,14 +8106,6 @@
   {
     "nameDetail": "Fanxiang S500 PRO 512GB",
     "mark": 18687
-  },
-  {
-    "nameDetail": "SKHynix HFS256GDE9X081N",
-    "mark": 18667
-  },
-  {
-    "nameDetail": "SSSTC CL4-8D256",
-    "mark": 18662
   },
   {
     "nameDetail": "WDC WDS960G2G0C",
@@ -8098,6 +8118,10 @@
   {
     "nameDetail": "UMIS RPJTJ256MKP1MDY",
     "mark": 18636
+  },
+  {
+    "nameDetail": "SKHynix HFS256GDE9X081N",
+    "mark": 18625
   },
   {
     "nameDetail": "DIGISTOR 512GB",
@@ -8184,10 +8208,6 @@
     "mark": 18484
   },
   {
-    "nameDetail": "Micron 2400A 512GB",
-    "mark": 18481
-  },
-  {
     "nameDetail": "WALTON WS2512 512GB SSD",
     "mark": 18476
   },
@@ -8204,12 +8224,12 @@
     "mark": 18451
   },
   {
-    "nameDetail": "MSI M370 1TB",
-    "mark": 18445
-  },
-  {
     "nameDetail": "C-E80T512G2-P003D2E19T",
     "mark": 18439
+  },
+  {
+    "nameDetail": "Micron 2400A 512GB",
+    "mark": 18437
   },
   {
     "nameDetail": "2TB NVMe SSD",
@@ -8222,6 +8242,10 @@
   {
     "nameDetail": "NVMe ADATA SX8200NP",
     "mark": 18410
+  },
+  {
+    "nameDetail": "MSI M370 1TB",
+    "mark": 18406
   },
   {
     "nameDetail": "KXG60PNV512G NVMe KIOXIA 512GB",
@@ -8276,10 +8300,6 @@
     "mark": 18332
   },
   {
-    "nameDetail": "Apple APPLE SSD AP0512",
-    "mark": 18329
-  },
-  {
     "nameDetail": "Reletech P600 M.2 PCIE3.0 1TB",
     "mark": 18329
   },
@@ -8289,7 +8309,7 @@
   },
   {
     "nameDetail": "Samsung SSD 970 EVO Plus 250GB",
-    "mark": 18307
+    "mark": 18308
   },
   {
     "nameDetail": "GOFATOO 512GB SSD",
@@ -8308,12 +8328,12 @@
     "mark": 18304
   },
   {
-    "nameDetail": "HS-SSD-Desire(P) 1024G",
-    "mark": 18291
+    "nameDetail": "Apple APPLE SSD AP0512",
+    "mark": 18302
   },
   {
-    "nameDetail": "KIOXIA XG6 512GB SSD",
-    "mark": 18271
+    "nameDetail": "HS-SSD-Desire(P) 1024G",
+    "mark": 18291
   },
   {
     "nameDetail": "MKNSSDVL512GB-D8",
@@ -8322,6 +8342,10 @@
   {
     "nameDetail": "TEAM TM8FF2512G",
     "mark": 18252
+  },
+  {
+    "nameDetail": "KIOXIA XG6 512GB SSD",
+    "mark": 18249
   },
   {
     "nameDetail": "Sabrent Rocket Nano 1TB USB",
@@ -8400,11 +8424,11 @@
     "mark": 18070
   },
   {
-    "nameDetail": "C-E80T512G4-P3D3B3E13",
-    "mark": 18054
+    "nameDetail": "KBG50ZNS256G KIOXIA 256GB",
+    "mark": 18056
   },
   {
-    "nameDetail": "KBG50ZNS256G KIOXIA 256GB",
+    "nameDetail": "C-E80T512G4-P3D3B3E13",
     "mark": 18054
   },
   {
@@ -8536,12 +8560,12 @@
     "mark": 17803
   },
   {
-    "nameDetail": "Samsung SSD 960 EVO 1TB",
-    "mark": 17802
-  },
-  {
     "nameDetail": "NVMe UMIS RPJTJ512MGE1QDY",
     "mark": 17800
+  },
+  {
+    "nameDetail": "Samsung SSD 960 EVO 1TB",
+    "mark": 17795
   },
   {
     "nameDetail": "YMTC PC005 1TB",
@@ -8549,7 +8573,7 @@
   },
   {
     "nameDetail": "Samsung PM981 512GB NVMe",
-    "mark": 17746
+    "mark": 17748
   },
   {
     "nameDetail": "E12-512G-PHISON-SSD-B27-BB1",
@@ -8665,7 +8689,7 @@
   },
   {
     "nameDetail": "WD Blue SN550 NVMe SSD 1TB",
-    "mark": 17491
+    "mark": 17490
   },
   {
     "nameDetail": "Asgard AN3 1TNVMe-M.2/80",
@@ -8708,15 +8732,15 @@
     "mark": 17421
   },
   {
-    "nameDetail": "SanDisk Ultra 3D NVMe",
-    "mark": 17405
-  },
-  {
     "nameDetail": "Sabrent Rocket Nano 512GB SSD",
     "mark": 17403
   },
   {
     "nameDetail": "SAMSUNG MZ1LB1T9HALS-00007",
+    "mark": 17403
+  },
+  {
+    "nameDetail": "SanDisk Ultra 3D NVMe",
     "mark": 17403
   },
   {
@@ -8844,16 +8868,16 @@
     "mark": 17187
   },
   {
+    "nameDetail": "SKHynix HFS256GEJ4X112N",
+    "mark": 17183
+  },
+  {
     "nameDetail": "MSI M390 250GB",
     "mark": 17179
   },
   {
-    "nameDetail": "SKHynix HFS256GEJ4X112N",
-    "mark": 17178
-  },
-  {
     "nameDetail": "ADATA 512GB SSD",
-    "mark": 17175
+    "mark": 17173
   },
   {
     "nameDetail": "TEAM TM8FP4512G",
@@ -8972,20 +8996,20 @@
     "mark": 16976
   },
   {
-    "nameDetail": "PNY CS3030 500GB SSD",
-    "mark": 16974
-  },
-  {
     "nameDetail": "CP17 1VNeMS Kyhin x52G6 B",
     "mark": 16973
   },
   {
     "nameDetail": "Samsung PM981a NVMe 256GB",
-    "mark": 16971
+    "mark": 16973
   },
   {
-    "nameDetail": "SOLIDIGM SSDPFKNU512GZ",
-    "mark": 16967
+    "nameDetail": "PNY CS3030 500GB SSD",
+    "mark": 16972
+  },
+  {
+    "nameDetail": "Lexar SSD NM610PRO 500GB",
+    "mark": 16961
   },
   {
     "nameDetail": "MKNSSDTS512GB-D8",
@@ -8998,6 +9022,10 @@
   {
     "nameDetail": "JAJP600M4TB",
     "mark": 16957
+  },
+  {
+    "nameDetail": "SOLIDIGM SSDPFKNU512GZ",
+    "mark": 16956
   },
   {
     "nameDetail": "CSSD-M2L1TRGAXN 1000GB",
@@ -9020,10 +9048,6 @@
     "mark": 16913
   },
   {
-    "nameDetail": "Lexar SSD NM610PRO 500GB",
-    "mark": 16912
-  },
-  {
     "nameDetail": "KBG50ZNV256G KIOXIA",
     "mark": 16909
   },
@@ -9042,6 +9066,10 @@
   {
     "nameDetail": "NVMe SAMSUNG MZVL4256HBJD-00BH1",
     "mark": 16875
+  },
+  {
+    "nameDetail": "Toshiba XG5-P NVMe 2TB",
+    "mark": 16873
   },
   {
     "nameDetail": "KIOXIA THGJFJT2T85BAT0A",
@@ -9064,14 +9092,6 @@
     "mark": 16845
   },
   {
-    "nameDetail": "SSSTC CL4-4D512-Q79",
-    "mark": 16843
-  },
-  {
-    "nameDetail": "Toshiba XG5-P NVMe 2TB",
-    "mark": 16843
-  },
-  {
     "nameDetail": "EMTEC X300 512GB",
     "mark": 16836
   },
@@ -9090,6 +9110,10 @@
   {
     "nameDetail": "WD Blue SN570 250GB",
     "mark": 16812
+  },
+  {
+    "nameDetail": "SSSTC CL4-4D512-Q79",
+    "mark": 16805
   },
   {
     "nameDetail": "SM961 NVMe SAMSUNG 256GB",
@@ -9188,10 +9212,6 @@
     "mark": 16639
   },
   {
-    "nameDetail": "SAMSUNG MZVL4256HBJD-00B",
-    "mark": 16629
-  },
-  {
     "nameDetail": "PCSPECIALIST PCS3480 256GB",
     "mark": 16628
   },
@@ -9257,7 +9277,7 @@
   },
   {
     "nameDetail": "Western Digital 1TB SSD",
-    "mark": 16546
+    "mark": 16545
   },
   {
     "nameDetail": "T-CREATE TM8FPE001T",
@@ -9272,6 +9292,10 @@
     "mark": 16539
   },
   {
+    "nameDetail": "SAMSUNG MZVL4256HBJD-00B",
+    "mark": 16526
+  },
+  {
     "nameDetail": "Transcend TS512GMTE220S",
     "mark": 16517
   },
@@ -9280,16 +9304,16 @@
     "mark": 16506
   },
   {
-    "nameDetail": "KINGSTON NV2 250GB SSD",
-    "mark": 16494
-  },
-  {
     "nameDetail": "ZADAK TWSG3 512GB",
     "mark": 16493
   },
   {
     "nameDetail": "NVMe XPG GAMMIX S11 P",
     "mark": 16489
+  },
+  {
+    "nameDetail": "KINGSTON NV2 250GB SSD",
+    "mark": 16485
   },
   {
     "nameDetail": "Intel Optane P1600X 118GB",
@@ -9301,15 +9325,11 @@
   },
   {
     "nameDetail": "Samsung PM961 1TB NVMe",
-    "mark": 16471
+    "mark": 16470
   },
   {
     "nameDetail": "WUS3BA196C7P3E3",
     "mark": 16461
-  },
-  {
-    "nameDetail": "SM2P41C8-256GC1",
-    "mark": 16460
   },
   {
     "nameDetail": "Viathan N001T3V 1TB",
@@ -9320,6 +9340,10 @@
     "mark": 16450
   },
   {
+    "nameDetail": "Fanxiang S500 PRO 256GB",
+    "mark": 16449
+  },
+  {
     "nameDetail": "Acer FA100 TB1B NVMe PCIe",
     "mark": 16445
   },
@@ -9328,12 +9352,8 @@
     "mark": 16441
   },
   {
-    "nameDetail": "Fanxiang S500 PRO 256GB",
-    "mark": 16436
-  },
-  {
     "nameDetail": "Samsung SSD 960 EVO 500GB",
-    "mark": 16436
+    "mark": 16437
   },
   {
     "nameDetail": "PNY CS1030 1TB SSD",
@@ -9360,8 +9380,12 @@
     "mark": 16409
   },
   {
+    "nameDetail": "Neo Forza NSP095P3451-W04D2K0",
+    "mark": 16408
+  },
+  {
     "nameDetail": "TEAM TM8FP6512G",
-    "mark": 16393
+    "mark": 16392
   },
   {
     "nameDetail": "XK6GZ0VN15G2N MV eIKXOAI5 21BG",
@@ -9396,12 +9420,12 @@
     "mark": 16352
   },
   {
-    "nameDetail": "Micron 2200S NVMe 512GB",
-    "mark": 16348
-  },
-  {
     "nameDetail": "WDC WDBA3V5000ANC",
     "mark": 16338
+  },
+  {
+    "nameDetail": "Micron 2200S NVMe 512GB",
+    "mark": 16334
   },
   {
     "nameDetail": "Seagate BarraCuda 510 SSD ZP512CM30011",
@@ -9412,20 +9436,12 @@
     "mark": 16315
   },
   {
-    "nameDetail": "Neo Forza NSP095P3451-W04D2K0",
-    "mark": 16311
-  },
-  {
-    "nameDetail": "AGI512GIMAI218",
-    "mark": 16308
+    "nameDetail": "SSSTC CL4-8D256-HP",
+    "mark": 16299
   },
   {
     "nameDetail": "KM600 256GB SSD",
     "mark": 16298
-  },
-  {
-    "nameDetail": "FIKWOT FN501 Pro 1TB",
-    "mark": 16295
   },
   {
     "nameDetail": "Corsair Force MP510 480GB",
@@ -9448,12 +9464,12 @@
     "mark": 16267
   },
   {
-    "nameDetail": "NVMe P41PL NVMe SOLIDIGM 512GB",
-    "mark": 16266
+    "nameDetail": "SAMSUNG MZVL4256HBJD-00BL7",
+    "mark": 16267
   },
   {
-    "nameDetail": "SAMSUNG MZVL4256HBJD-00BL7",
-    "mark": 16260
+    "nameDetail": "NVMe P41PL NVMe SOLIDIGM 512GB",
+    "mark": 16266
   },
   {
     "nameDetail": "Timetec 35TTFP6PCIE-256G",
@@ -9481,15 +9497,15 @@
   },
   {
     "nameDetail": "INTEL SSDPEKNU512GZ",
-    "mark": 16222
-  },
-  {
-    "nameDetail": "SSSTC CL4-8D256-HP",
     "mark": 16221
   },
   {
     "nameDetail": "Intel DC P3700 1.6TB NVMe",
     "mark": 16209
+  },
+  {
+    "nameDetail": "AGI512GIMAI218",
+    "mark": 16189
   },
   {
     "nameDetail": "INTEL M.2 NVME 1TB",
@@ -9512,12 +9528,12 @@
     "mark": 16154
   },
   {
-    "nameDetail": "Samsung PM961 512GB NVMe",
-    "mark": 16140
+    "nameDetail": "Netac NVMe SSD 512GB",
+    "mark": 16143
   },
   {
-    "nameDetail": "Netac NVMe SSD 512GB",
-    "mark": 16137
+    "nameDetail": "Samsung PM961 512GB NVMe",
+    "mark": 16138
   },
   {
     "nameDetail": "SCCTP-800-256G SSD",
@@ -9528,16 +9544,16 @@
     "mark": 16135
   },
   {
+    "nameDetail": "FIKWOT FN501 Pro 1TB",
+    "mark": 16123
+  },
+  {
     "nameDetail": "Micron 7300 MTFDHBG3T8TDF",
     "mark": 16122
   },
   {
     "nameDetail": "APS-SE20G-512",
     "mark": 16118
-  },
-  {
-    "nameDetail": "HGST HUS724040ALA640",
-    "mark": 16107
   },
   {
     "nameDetail": "EDILOCA EN605 256GB",
@@ -9550,6 +9566,10 @@
   {
     "nameDetail": "SAMSUNG MZVL4256HBJD-00B07",
     "mark": 16103
+  },
+  {
+    "nameDetail": "SM2P41C8-256GC1",
+    "mark": 16102
   },
   {
     "nameDetail": "Asgard AN3 500NVMe-M.2/80",
@@ -9574,10 +9594,6 @@
   {
     "nameDetail": "WDC WDS480G2G0C",
     "mark": 16075
-  },
-  {
-    "nameDetail": "AP2KPA3480E-H301 PA3480 512GB",
-    "mark": 16074
   },
   {
     "nameDetail": "NVMe WDS250G2X0C-00L3",
@@ -9628,16 +9644,16 @@
     "mark": 16024
   },
   {
+    "nameDetail": "TEAM TM8FP6001T",
+    "mark": 16019
+  },
+  {
     "nameDetail": "SK hynix BC711 256GB",
-    "mark": 16022
+    "mark": 16015
   },
   {
     "nameDetail": "ENMOTUS T00 FuzeDrive",
     "mark": 16010
-  },
-  {
-    "nameDetail": "TEAM TM8FP6001T",
-    "mark": 16009
   },
   {
     "nameDetail": "PLEXTOR PX-512M9PG +",
@@ -9645,11 +9661,15 @@
   },
   {
     "nameDetail": "Patriot M.2 P300 1024GB",
-    "mark": 15979
+    "mark": 15982
   },
   {
     "nameDetail": "Lexar SSD NM610 512GB",
     "mark": 15978
+  },
+  {
+    "nameDetail": "CL4-3D256-Q41 NVMe SED SSSTC 256GB",
+    "mark": 15976
   },
   {
     "nameDetail": "TIMETEC PCIe 3.0 1TB",
@@ -9708,12 +9728,8 @@
     "mark": 15918
   },
   {
-    "nameDetail": "P0221 NVMe Phison 512GB",
-    "mark": 15912
-  },
-  {
     "nameDetail": "SAMSUNG MZVL4256HBJD-00BH1",
-    "mark": 15912
+    "mark": 15916
   },
   {
     "nameDetail": "KINGSTON SKC2500M8250G",
@@ -9728,20 +9744,20 @@
     "mark": 15895
   },
   {
-    "nameDetail": "CL4-3D256-Q41 NVMe SED SSSTC 256GB",
-    "mark": 15892
-  },
-  {
     "nameDetail": "INTENSO PCIe",
     "mark": 15884
   },
   {
     "nameDetail": "Intel SSD 760p 512GB",
-    "mark": 15883
+    "mark": 15880
   },
   {
     "nameDetail": "FORESEE XP1000F256G",
     "mark": 15879
+  },
+  {
+    "nameDetail": "P0221 NVMe Phison 512GB",
+    "mark": 15874
   },
   {
     "nameDetail": "LEGEND 700 GOLD",
@@ -9756,16 +9772,12 @@
     "mark": 15858
   },
   {
-    "nameDetail": "FPI512MWR7",
+    "nameDetail": "AP2KPA3480E-H301 PA3480 512GB",
     "mark": 15857
   },
   {
-    "nameDetail": "GIGABYTE GP-GSM2NE3512GNTD",
-    "mark": 15840
-  },
-  {
-    "nameDetail": "INTEL SSDPEKNW512GZL",
-    "mark": 15837
+    "nameDetail": "FPI512MWR7",
+    "mark": 15857
   },
   {
     "nameDetail": "Patriot M.2 P320 256GB",
@@ -9780,12 +9792,16 @@
     "mark": 15826
   },
   {
+    "nameDetail": "INTEL SSDPEKNW512GZL",
+    "mark": 15825
+  },
+  {
     "nameDetail": "SKHynix HFM001TD3HX015N",
     "mark": 15819
   },
   {
-    "nameDetail": "Fastro MS150-1TB",
-    "mark": 15799
+    "nameDetail": "GIGABYTE GP-GSM2NE3512GNTD",
+    "mark": 15816
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVL4256HBJD-00BTW",
@@ -9814,6 +9830,10 @@
   {
     "nameDetail": "WDC PC SN720 SDAQNTW-1T00",
     "mark": 15746
+  },
+  {
+    "nameDetail": "Fastro MS150-1TB",
+    "mark": 15737
   },
   {
     "nameDetail": "Micron 7450 MTFDKBA480TFR",
@@ -9864,6 +9884,10 @@
     "mark": 15655
   },
   {
+    "nameDetail": "Western Digital Blue 500GB SSD",
+    "mark": 15654
+  },
+  {
     "nameDetail": "Apacer AS2280P4 512GB",
     "mark": 15645
   },
@@ -9878,10 +9902,6 @@
   {
     "nameDetail": "FIKWOT FN501 Pro 256GB",
     "mark": 15638
-  },
-  {
-    "nameDetail": "Western Digital Blue 500GB SSD",
-    "mark": 15636
   },
   {
     "nameDetail": "2-Power SSD7013A 512GB",
@@ -9952,16 +9972,16 @@
     "mark": 15545
   },
   {
+    "nameDetail": "MSI M371 1TB",
+    "mark": 15540
+  },
+  {
     "nameDetail": "C-E80T256G2-P003D2E19T",
     "mark": 15537
   },
   {
     "nameDetail": "WD PC SN530 SDBPMPZ 512GB",
     "mark": 15530
-  },
-  {
-    "nameDetail": "MSI M371 1TB",
-    "mark": 15526
   },
   {
     "nameDetail": "NVMe SSDPEMKF512G8 NVMe INTEL 512GB",
@@ -9992,10 +10012,6 @@
     "mark": 15504
   },
   {
-    "nameDetail": "KINGSTON NV1 500GB SSD",
-    "mark": 15502
-  },
-  {
     "nameDetail": "Intel DC P3600 1.6TB NVMe",
     "mark": 15501
   },
@@ -10008,6 +10024,10 @@
     "mark": 15496
   },
   {
+    "nameDetail": "KINGSTON NV1 500GB SSD",
+    "mark": 15495
+  },
+  {
     "nameDetail": "MFL-300 512GB",
     "mark": 15487
   },
@@ -10018,6 +10038,10 @@
   {
     "nameDetail": "Western Digital M2 NVME 1TB",
     "mark": 15471
+  },
+  {
+    "nameDetail": "MLD M300 NVMe SSD",
+    "mark": 15465
   },
   {
     "nameDetail": "FPE220M8SSD512G",
@@ -10034,10 +10058,6 @@
   {
     "nameDetail": "SSD-M2-REDRAGON-EMBER-1TB",
     "mark": 15437
-  },
-  {
-    "nameDetail": "MLD M300 NVMe SSD",
-    "mark": 15434
   },
   {
     "nameDetail": "SanDisk SDSSDH3 4T00",
@@ -10105,7 +10125,7 @@
   },
   {
     "nameDetail": "Western Digital PC 512GB SSD",
-    "mark": 15287
+    "mark": 15286
   },
   {
     "nameDetail": "BIWIN CNF80V51G00-1TB",
@@ -10224,12 +10244,12 @@
     "mark": 15058
   },
   {
-    "nameDetail": "Intel SSD Pro 7600p Series 512GB",
-    "mark": 15058
-  },
-  {
     "nameDetail": "MSI M371 2TB",
     "mark": 15055
+  },
+  {
+    "nameDetail": "Intel SSD Pro 7600p Series 512GB",
+    "mark": 15041
   },
   {
     "nameDetail": "Phison NVMe PM80512GPYTASBACIA-E132",
@@ -10237,7 +10257,7 @@
   },
   {
     "nameDetail": "NE-1TB 2280",
-    "mark": 15027
+    "mark": 15019
   },
   {
     "nameDetail": "SCY SMM5T1G25600D 256GB",
@@ -10333,7 +10353,7 @@
   },
   {
     "nameDetail": "Patriot M.2 P300 512GB",
-    "mark": 14819
+    "mark": 14827
   },
   {
     "nameDetail": "Colorful CN600 1TB",
@@ -10341,7 +10361,7 @@
   },
   {
     "nameDetail": "WDC PC SN720 NVMe 256GB SDAPNTW",
-    "mark": 14804
+    "mark": 14806
   },
   {
     "nameDetail": "Netac NVMe SSD 250GB",
@@ -10354,6 +10374,10 @@
   {
     "nameDetail": "BIWIN CE480V6D10H-512G",
     "mark": 14784
+  },
+  {
+    "nameDetail": "AirDisk 512GB SSD",
+    "mark": 14781
   },
   {
     "nameDetail": "KLEVV CRAS C710 1TB SSD",
@@ -10378,10 +10402,6 @@
   {
     "nameDetail": "SAMSUNG MZVLQ1T0HBLB-00B07",
     "mark": 14745
-  },
-  {
-    "nameDetail": "AirDisk 512GB SSD",
-    "mark": 14740
   },
   {
     "nameDetail": "Sabrent Rocket Q4 1TB SSD",
@@ -10497,7 +10517,7 @@
   },
   {
     "nameDetail": "TOSHIBA XG6 SSD 256GB M.2 NVMe",
-    "mark": 14604
+    "mark": 14600
   },
   {
     "nameDetail": "Daten DS2000",
@@ -10556,12 +10576,12 @@
     "mark": 14486
   },
   {
-    "nameDetail": "Samsung PM981 256GB NVMe",
-    "mark": 14483
-  },
-  {
     "nameDetail": "SAMSUNG MZVLQ512HBLU-00B07",
     "mark": 14482
+  },
+  {
+    "nameDetail": "Samsung PM981 256GB NVMe",
+    "mark": 14481
   },
   {
     "nameDetail": "minisforum",
@@ -10608,8 +10628,16 @@
     "mark": 14412
   },
   {
+    "nameDetail": "HGST HUS724040ALA640",
+    "mark": 14404
+  },
+  {
     "nameDetail": "KINGSTON NV1 2TB SSD",
-    "mark": 14392
+    "mark": 14398
+  },
+  {
+    "nameDetail": "NVMe CL4-3D256-Q11 NVMe SSSTC 256GB",
+    "mark": 14389
   },
   {
     "nameDetail": "SSD M.2 Mibrand CAIMAN 512GB NVME PCIE",
@@ -10633,7 +10661,7 @@
   },
   {
     "nameDetail": "SAMSUNG MZVLQ1T0HBLB-00BTW",
-    "mark": 14353
+    "mark": 14358
   },
   {
     "nameDetail": "One-Netbook PCI-E 512G SSD",
@@ -10648,10 +10676,6 @@
     "mark": 14329
   },
   {
-    "nameDetail": "Samsung SSD 950 Pro 512GB NVMe",
-    "mark": 14306
-  },
-  {
     "nameDetail": "PLEXTOR PX-512M8PeY",
     "mark": 14305
   },
@@ -10662,6 +10686,10 @@
   {
     "nameDetail": "Intel DC P3600 1.2TB NVMe",
     "mark": 14301
+  },
+  {
+    "nameDetail": "Samsung SSD 950 Pro 512GB NVMe",
+    "mark": 14297
   },
   {
     "nameDetail": "LENSE30512GMSP34MEAT3TA",
@@ -10712,10 +10740,6 @@
     "mark": 14244
   },
   {
-    "nameDetail": "NVMe CL4-3D256-Q11 NVMe SSSTC 256GB",
-    "mark": 14212
-  },
-  {
     "nameDetail": "KBG40ZPZ1T02 TOSHIBA MEMORY",
     "mark": 14206
   },
@@ -10725,7 +10749,7 @@
   },
   {
     "nameDetail": "KINGSTON SA2000M81000G",
-    "mark": 14203
+    "mark": 14202
   },
   {
     "nameDetail": "KBG40ZNS256G BG4A KIOXIA",
@@ -10780,16 +10804,16 @@
     "mark": 14101
   },
   {
+    "nameDetail": "Toshiba XG3 512GB NVMe M.2",
+    "mark": 14101
+  },
+  {
     "nameDetail": "CSSD-M2M1TEG1VNE",
     "mark": 14100
   },
   {
-    "nameDetail": "Toshiba XG3 512GB NVMe M.2",
-    "mark": 14097
-  },
-  {
     "nameDetail": "WDC PC SN730 SDBQNTY-256G",
-    "mark": 14095
+    "mark": 14094
   },
   {
     "nameDetail": "KBG4AZNV512G TOSHIBA MEMORY",
@@ -10813,7 +10837,7 @@
   },
   {
     "nameDetail": "CT250P2SSD8",
-    "mark": 14027
+    "mark": 14033
   },
   {
     "nameDetail": "VENO Scorp Nvme 512GB SSD",
@@ -10836,6 +10860,10 @@
     "mark": 13997
   },
   {
+    "nameDetail": "Toshiba XG3 1TB NVMe M.2",
+    "mark": 13995
+  },
+  {
     "nameDetail": "SSDPEMKF512G8 NVMe INTEL 512GB",
     "mark": 13994
   },
@@ -10852,12 +10880,12 @@
     "mark": 13984
   },
   {
-    "nameDetail": "Samsung PM961 256GB NVMe",
-    "mark": 13980
-  },
-  {
     "nameDetail": "E12-512G-PHISON-SSD-B3-BB1",
     "mark": 13978
+  },
+  {
+    "nameDetail": "Samsung PM961 256GB NVMe",
+    "mark": 13977
   },
   {
     "nameDetail": "GIGABYTE G325E500G",
@@ -10877,7 +10905,7 @@
   },
   {
     "nameDetail": "ADATA 256GB SSD",
-    "mark": 13943
+    "mark": 13941
   },
   {
     "nameDetail": "ORIGIN Inception TLC830 Pro NVMe 256GB",
@@ -10909,7 +10937,7 @@
   },
   {
     "nameDetail": "Samsung SSD PM991a NVMe 512GB",
-    "mark": 13903
+    "mark": 13901
   },
   {
     "nameDetail": "Phison PM8256GPMCB47ECS-E13T2",
@@ -10922,6 +10950,10 @@
   {
     "nameDetail": "SDVPNV2310256TMSB5HK",
     "mark": 13895
+  },
+  {
+    "nameDetail": "WALRAM 1TB SSD",
+    "mark": 13890
   },
   {
     "nameDetail": "UMIS RPIRJ256VME2MWD",
@@ -10948,24 +10980,20 @@
     "mark": 13845
   },
   {
-    "nameDetail": "Toshiba XG3 1TB NVMe M.2",
-    "mark": 13845
-  },
-  {
-    "nameDetail": "CT500P2SSD8",
-    "mark": 13821
+    "nameDetail": "SKHynix HFS256GD9TNI-L2B0B",
+    "mark": 13833
   },
   {
     "nameDetail": "GigaCrysta SSDGC",
     "mark": 13817
   },
   {
-    "nameDetail": "SanDisk SSD Plus 250GB A3N",
+    "nameDetail": "CT500P2SSD8",
     "mark": 13816
   },
   {
-    "nameDetail": "SKHynix HFS256GD9TNI-L2B0B",
-    "mark": 13814
+    "nameDetail": "SanDisk SSD Plus 250GB A3N",
+    "mark": 13816
   },
   {
     "nameDetail": "INTENSO SSD",
@@ -10973,7 +11001,7 @@
   },
   {
     "nameDetail": "SAMSUNG MZ9LQ512HALU-00000",
-    "mark": 13813
+    "mark": 13810
   },
   {
     "nameDetail": "tecmiyo M.2 NVME SSD 512GB",
@@ -10982,10 +11010,6 @@
   {
     "nameDetail": "NVMe SAMSUNG MZVLQ512HBLU-00BTW",
     "mark": 13790
-  },
-  {
-    "nameDetail": "WALRAM 1TB SSD",
-    "mark": 13788
   },
   {
     "nameDetail": "NVMe CT500P2SSD8",
@@ -11032,16 +11056,12 @@
     "mark": 13717
   },
   {
-    "nameDetail": "Samsung SM951 512GB NVMe",
-    "mark": 13717
+    "nameDetail": "KBG40ZNT256G TOSHIBA MEMORY",
+    "mark": 13712
   },
   {
     "nameDetail": "KLEVV CRAS C710 512GB SSD",
     "mark": 13708
-  },
-  {
-    "nameDetail": "KBG40ZNT256G TOSHIBA MEMORY",
-    "mark": 13707
   },
   {
     "nameDetail": "KINGSTON SKC2000M8250G",
@@ -11052,12 +11072,16 @@
     "mark": 13700
   },
   {
+    "nameDetail": "Samsung SM951 512GB NVMe",
+    "mark": 13697
+  },
+  {
     "nameDetail": "TOSHIBA RD400 NVMe 512GB",
     "mark": 13681
   },
   {
     "nameDetail": "KINGSTON OM8PDP3 512GB SSD",
-    "mark": 13676
+    "mark": 13678
   },
   {
     "nameDetail": "Ant Esports 690 NEO Pro M.2 NVMe 256GB",
@@ -11100,6 +11124,10 @@
     "mark": 13634
   },
   {
+    "nameDetail": "SAMSUNG MZVLQ512HBLU-00BTW",
+    "mark": 13629
+  },
+  {
     "nameDetail": "KINGSTON OM8PDP3 256GB SSD",
     "mark": 13628
   },
@@ -11118,10 +11146,6 @@
   {
     "nameDetail": "GV-256",
     "mark": 13622
-  },
-  {
-    "nameDetail": "SAMSUNG MZVLQ512HBLU-00BTW",
-    "mark": 13621
   },
   {
     "nameDetail": "WDC PC SN730 SDBPNTY-256G",
@@ -11148,15 +11172,15 @@
     "mark": 13601
   },
   {
-    "nameDetail": "KBG40ZNV512G KIOXIA",
-    "mark": 13599
-  },
-  {
     "nameDetail": "DGSM3001TS33T",
     "mark": 13595
   },
   {
     "nameDetail": "Fanxiang S501 256GB",
+    "mark": 13595
+  },
+  {
+    "nameDetail": "KBG40ZNV512G KIOXIA",
     "mark": 13595
   },
   {
@@ -11197,14 +11221,10 @@
   },
   {
     "nameDetail": "Patriot M.2 P300 256GB",
-    "mark": 13565
+    "mark": 13560
   },
   {
     "nameDetail": "Samsung SSD 980 NVMe 250GB",
-    "mark": 13552
-  },
-  {
-    "nameDetail": "NVMe KBG40ZNV512G KIOXIA",
     "mark": 13548
   },
   {
@@ -11268,12 +11288,12 @@
     "mark": 13470
   },
   {
-    "nameDetail": "Toshiba XG5 SSD 512GB",
-    "mark": 13465
-  },
-  {
     "nameDetail": "KBG40ZNV512G TOSHIBA MEMORY",
     "mark": 13463
+  },
+  {
+    "nameDetail": "Toshiba XG5 SSD 512GB",
+    "mark": 13462
   },
   {
     "nameDetail": "YHJC YHS300A512HI42",
@@ -11286,6 +11306,10 @@
   {
     "nameDetail": "Lexar SSD NM6A1 256GB",
     "mark": 13453
+  },
+  {
+    "nameDetail": "NVMe KBG40ZNV512G KIOXIA",
+    "mark": 13433
   },
   {
     "nameDetail": "imation M.2 PCIe 512GB SSD X931B",
@@ -11460,12 +11484,12 @@
     "mark": 13185
   },
   {
-    "nameDetail": "KINGSTON A2000 500GB SSD",
+    "nameDetail": "Reletech M.2 SSD 256GB",
     "mark": 13173
   },
   {
-    "nameDetail": "Reletech M.2 SSD 256GB",
-    "mark": 13173
+    "nameDetail": "KINGSTON A2000 500GB SSD",
+    "mark": 13171
   },
   {
     "nameDetail": "ASint AS806 256GB",
@@ -11584,12 +11608,20 @@
     "mark": 13016
   },
   {
+    "nameDetail": "KPEGYJTBX4M512BCGC",
+    "mark": 12998
+  },
+  {
     "nameDetail": "FIKWOT FN501 Pro 512GB",
     "mark": 12995
   },
   {
     "nameDetail": "EVMNV/256GB",
     "mark": 12990
+  },
+  {
+    "nameDetail": "APPLE SSD SM1024G",
+    "mark": 12989
   },
   {
     "nameDetail": "PLEXTOR PX-1TM8PeGN",
@@ -11612,8 +11644,8 @@
     "mark": 12971
   },
   {
-    "nameDetail": "APPLE SSD SM1024G",
-    "mark": 12962
+    "nameDetail": "NE-1TB 2242",
+    "mark": 12960
   },
   {
     "nameDetail": "Samsung SM951 256GB NVMe",
@@ -11652,12 +11684,12 @@
     "mark": 12926
   },
   {
-    "nameDetail": "Intel SSD 660p 1TB",
+    "nameDetail": "MS09",
     "mark": 12925
   },
   {
-    "nameDetail": "MS09",
-    "mark": 12925
+    "nameDetail": "Intel SSD 660p 1TB",
+    "mark": 12924
   },
   {
     "nameDetail": "Intel Optane+954GBSSD",
@@ -11673,7 +11705,7 @@
   },
   {
     "nameDetail": "INTEL SSDPEKNW010T8H",
-    "mark": 12907
+    "mark": 12913
   },
   {
     "nameDetail": "Samsung SM951 M.2 256GB AHCI",
@@ -11712,12 +11744,12 @@
     "mark": 12852
   },
   {
-    "nameDetail": "MTFDHBA256TCK-1AS1AABHA",
-    "mark": 12847
-  },
-  {
     "nameDetail": "PP3480-R 512GB",
     "mark": 12846
+  },
+  {
+    "nameDetail": "MTFDHBA256TCK-1AS1AABHA",
+    "mark": 12843
   },
   {
     "nameDetail": "HP SSD EX900 1TB",
@@ -11758,6 +11790,10 @@
   {
     "nameDetail": "PLEXTOR PX-1TM8PeG",
     "mark": 12802
+  },
+  {
+    "nameDetail": "HS-SSD-WAVE(P) 512G",
+    "mark": 12797
   },
   {
     "nameDetail": "JAJP600M1TB",
@@ -11832,10 +11868,6 @@
     "mark": 12705
   },
   {
-    "nameDetail": "HS-SSD-WAVE(P) 512G",
-    "mark": 12704
-  },
-  {
     "nameDetail": "BM9C1 Samsung 512GB",
     "mark": 12703
   },
@@ -11877,7 +11909,7 @@
   },
   {
     "nameDetail": "KINGSTON NV1 1TB SSD",
-    "mark": 12657
+    "mark": 12659
   },
   {
     "nameDetail": "Apple APPLE SSD AP0256",
@@ -11908,16 +11940,16 @@
     "mark": 12628
   },
   {
+    "nameDetail": "Intel SSD Pro 7600p Series 256GB",
+    "mark": 12625
+  },
+  {
     "nameDetail": "LITEON CX2-8B512",
     "mark": 12625
   },
   {
     "nameDetail": "Thinklife ST9000 PCI-E M.2 1TB",
     "mark": 12624
-  },
-  {
-    "nameDetail": "Intel SSD Pro 7600p Series 256GB",
-    "mark": 12623
   },
   {
     "nameDetail": "Micron MTFDHBA256TCK",
@@ -11930,10 +11962,6 @@
   {
     "nameDetail": "LITEON CL1-8D256-HP",
     "mark": 12610
-  },
-  {
-    "nameDetail": "NE-1TB 2242",
-    "mark": 12609
   },
   {
     "nameDetail": "Linkmore XE-300 Lite 256GB",
@@ -11952,12 +11980,12 @@
     "mark": 12574
   },
   {
-    "nameDetail": "PLEXTOR PX-512M8PeG",
-    "mark": 12567
+    "nameDetail": "YMTC YMSS1ED04B21MC",
+    "mark": 12574
   },
   {
-    "nameDetail": "YMTC YMSS1ED04B21MC",
-    "mark": 12564
+    "nameDetail": "PLEXTOR PX-512M8PeG",
+    "mark": 12567
   },
   {
     "nameDetail": "INTEL SSDPELKX010T8",
@@ -11973,7 +12001,7 @@
   },
   {
     "nameDetail": "GIGABYTE GP-GSM2NE3256GNTD",
-    "mark": 12535
+    "mark": 12537
   },
   {
     "nameDetail": "Neo Forza NFP035PCI51-3400000",
@@ -11992,16 +12020,16 @@
     "mark": 12512
   },
   {
+    "nameDetail": "BIWIN CE480Y2D100-256G",
+    "mark": 12502
+  },
+  {
     "nameDetail": "Sabrent Rocket Nano 512GB USB",
     "mark": 12491
   },
   {
     "nameDetail": "PRO-X-512GB-G2R",
     "mark": 12489
-  },
-  {
-    "nameDetail": "BIWIN CE480Y2D100-256G",
-    "mark": 12483
   },
   {
     "nameDetail": "KLLISRE 512GB",
@@ -12072,16 +12100,16 @@
     "mark": 12381
   },
   {
+    "nameDetail": "HP SSD EX900 500GB",
+    "mark": 12372
+  },
+  {
     "nameDetail": "PCH-RVRS-512GB",
     "mark": 12371
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVLQ1T0HBLB-00BTW",
     "mark": 12361
-  },
-  {
-    "nameDetail": "HP SSD EX900 500GB",
-    "mark": 12359
   },
   {
     "nameDetail": "Patriot P300 1TB",
@@ -12160,16 +12188,16 @@
     "mark": 12244
   },
   {
+    "nameDetail": "KBG40ZNS256G TOSHIBA MEMORY",
+    "mark": 12233
+  },
+  {
     "nameDetail": "Crucial P1 1TB SSD",
-    "mark": 12232
+    "mark": 12231
   },
   {
     "nameDetail": "MKNSSDTS256GB-D8",
     "mark": 12230
-  },
-  {
-    "nameDetail": "KBG40ZNS256G TOSHIBA MEMORY",
-    "mark": 12224
   },
   {
     "nameDetail": "Intel SSD 750 400GB NVMe",
@@ -12220,6 +12248,10 @@
     "mark": 12152
   },
   {
+    "nameDetail": "NE-512 2280",
+    "mark": 12150
+  },
+  {
     "nameDetail": "KINGSTON SEDC1000BM8960G",
     "mark": 12148
   },
@@ -12238,10 +12270,6 @@
   {
     "nameDetail": "GV-512-2280",
     "mark": 12119
-  },
-  {
-    "nameDetail": "NE-512 2280",
-    "mark": 12116
   },
   {
     "nameDetail": "PHIXERO 512GB SSD",
@@ -12268,20 +12296,16 @@
     "mark": 12093
   },
   {
+    "nameDetail": "KBG40ZNS256G NVMe KIOXIA 256GB",
+    "mark": 12086
+  },
+  {
     "nameDetail": "PCH-RVRP-512",
     "mark": 12085
   },
   {
-    "nameDetail": "KBG40ZNS256G NVMe KIOXIA 256GB",
-    "mark": 12084
-  },
-  {
     "nameDetail": "IR-SSDPR-P34B-256-80",
     "mark": 12081
-  },
-  {
-    "nameDetail": "SAMSUNG MZALQ256HBJD-00BL2",
-    "mark": 12078
   },
   {
     "nameDetail": "GV-512 2280",
@@ -12290,6 +12314,10 @@
   {
     "nameDetail": "SAMSUNG MZ9LQ256HBJQ-00000",
     "mark": 12067
+  },
+  {
+    "nameDetail": "SAMSUNG MZALQ256HBJD-00BL2",
+    "mark": 12066
   },
   {
     "nameDetail": "APS-SE20G-256",
@@ -12310,6 +12338,10 @@
   {
     "nameDetail": "Dahua C900 M.2 2280 NVMe 256GB SSD",
     "mark": 12041
+  },
+  {
+    "nameDetail": "INTEL SSDPEKKF256G8H",
+    "mark": 12037
   },
   {
     "nameDetail": "Reeinno MC20 256GB S6N8",
@@ -12377,7 +12409,7 @@
   },
   {
     "nameDetail": "SKHynix HFM512GDHTNI-87A0B",
-    "mark": 11998
+    "mark": 11995
   },
   {
     "nameDetail": "Plextor M8Pe 512GB NVMe",
@@ -12389,7 +12421,7 @@
   },
   {
     "nameDetail": "WDC PC SN520 NVMe SSD 512GB",
-    "mark": 11972
+    "mark": 11973
   },
   {
     "nameDetail": "HP SSD EX920 256GB",
@@ -12476,12 +12508,12 @@
     "mark": 11810
   },
   {
-    "nameDetail": "Seagate BarraCuda Q5 ZP500CV30001",
-    "mark": 11802
+    "nameDetail": "KingSpec 512GB M.2 NVMe NE-512",
+    "mark": 11804
   },
   {
-    "nameDetail": "KingSpec 512GB M.2 NVMe NE-512",
-    "mark": 11799
+    "nameDetail": "Seagate BarraCuda Q5 ZP500CV30001",
+    "mark": 11802
   },
   {
     "nameDetail": "imation M.2 PCIe 512GB SSD X831B",
@@ -12536,12 +12568,12 @@
     "mark": 11733
   },
   {
-    "nameDetail": "SKHynix BC511 512GB",
-    "mark": 11733
-  },
-  {
     "nameDetail": "Viper M.2 VPN100 256GB",
     "mark": 11727
+  },
+  {
+    "nameDetail": "SKHynix BC511 512GB",
+    "mark": 11726
   },
   {
     "nameDetail": "NVMe CLR-8W512",
@@ -12569,7 +12601,7 @@
   },
   {
     "nameDetail": "SSSTC CL1-8D256-HP",
-    "mark": 11683
+    "mark": 11682
   },
   {
     "nameDetail": "IBIW NEC84Y0D201-052G6",
@@ -12578,6 +12610,10 @@
   {
     "nameDetail": "Samsung SSD 950 Pro 256GB NVMe",
     "mark": 11673
+  },
+  {
+    "nameDetail": "NVMe BM9C1 Samsung 512GB",
+    "mark": 11672
   },
   {
     "nameDetail": "MKNSSDEV512GB-D8",
@@ -12612,12 +12648,12 @@
     "mark": 11599
   },
   {
-    "nameDetail": "CX2-8B512-Q11 NV",
-    "mark": 11590
+    "nameDetail": "Lexar 512GB SSD",
+    "mark": 11595
   },
   {
-    "nameDetail": "NVMe BM9C1 Samsung 512GB",
-    "mark": 11588
+    "nameDetail": "CX2-8B512-Q11 NV",
+    "mark": 11590
   },
   {
     "nameDetail": "MACROVIP MVGLD 512GB",
@@ -12650,10 +12686,6 @@
   {
     "nameDetail": "INTEL HBRPEKNX0203AH",
     "mark": 11565
-  },
-  {
-    "nameDetail": "Lexar 512GB SSD",
-    "mark": 11563
   },
   {
     "nameDetail": "PNY CS2030 480GB SSD",
@@ -12776,10 +12808,6 @@
     "mark": 11418
   },
   {
-    "nameDetail": "SK hynix SC300B 512GB",
-    "mark": 11418
-  },
-  {
     "nameDetail": "Inland NVMe SSD 256GB",
     "mark": 11415
   },
@@ -12789,7 +12817,7 @@
   },
   {
     "nameDetail": "Micron 2210 512GB SSD",
-    "mark": 11413
+    "mark": 11411
   },
   {
     "nameDetail": "MTFDHBA512QFD-1AX1AABHA",
@@ -12852,16 +12880,12 @@
     "mark": 11342
   },
   {
-    "nameDetail": "BA HFS001TD9TNG-62A0A",
-    "mark": 11340
-  },
-  {
     "nameDetail": "Micron 2210S NVMe 512GB",
     "mark": 11339
   },
   {
     "nameDetail": "Western Digital 256GB SSD",
-    "mark": 11337
+    "mark": 11336
   },
   {
     "nameDetail": "Corsair Force MP500 240GB",
@@ -12884,24 +12908,16 @@
     "mark": 11309
   },
   {
-    "nameDetail": "SAMSUNG MZVLQ128HCHQ-00B",
-    "mark": 11307
-  },
-  {
-    "nameDetail": "KBG40ZNS256G NVMe TOSHIBA 256GB",
-    "mark": 11297
-  },
-  {
     "nameDetail": "mace 256GB nvme ssd",
     "mark": 11294
   },
   {
-    "nameDetail": "WDC WDBA3V2500ANC",
+    "nameDetail": "SAMSUNG MZVLQ256HBJD-00B",
     "mark": 11291
   },
   {
-    "nameDetail": "SAMSUNG MZVLQ256HBJD-00B",
-    "mark": 11288
+    "nameDetail": "WDC WDBA3V2500ANC",
+    "mark": 11291
   },
   {
     "nameDetail": "RPITJ256VFD2MWX",
@@ -12910,6 +12926,10 @@
   {
     "nameDetail": "NVMe CL1-3D256-Q11 NVMe SSSTC 256GB",
     "mark": 11279
+  },
+  {
+    "nameDetail": "BA HFS001TD9TNG-62A0A",
+    "mark": 11275
   },
   {
     "nameDetail": "INTEL HBRPEKNX0202AC",
@@ -12932,6 +12952,10 @@
     "mark": 11249
   },
   {
+    "nameDetail": "SAMSUNG MZVLQ128HCHQ-00B",
+    "mark": 11242
+  },
+  {
     "nameDetail": "Shark 512GB NVMe M.2",
     "mark": 11231
   },
@@ -12940,8 +12964,16 @@
     "mark": 11226
   },
   {
+    "nameDetail": "KBG40ZNS256G NVMe TOSHIBA 256GB",
+    "mark": 11224
+  },
+  {
     "nameDetail": "Aspeed Nvme SSD",
     "mark": 11223
+  },
+  {
+    "nameDetail": "SK hynix SC300B 512GB",
+    "mark": 11220
   },
   {
     "nameDetail": "INTEL HBRPEKNX0203A",
@@ -12980,16 +13012,16 @@
     "mark": 11168
   },
   {
+    "nameDetail": "BC511 NVMe SK hynix 512GB",
+    "mark": 11167
+  },
+  {
     "nameDetail": "ShiJi 256GB M.2-NVMe",
     "mark": 11166
   },
   {
     "nameDetail": "ADATA ICFP301-512GP",
     "mark": 11164
-  },
-  {
-    "nameDetail": "BC511 NVMe SK hynix 512GB",
-    "mark": 11162
   },
   {
     "nameDetail": "SDM12SI1TA",
@@ -13049,7 +13081,7 @@
   },
   {
     "nameDetail": "Samsung PM961 128GB NVMe",
-    "mark": 11019
+    "mark": 11020
   },
   {
     "nameDetail": "WALRAM 512G",
@@ -13100,10 +13132,6 @@
     "mark": 10939
   },
   {
-    "nameDetail": "CL1-3D512-Q11 NVMe SSSTC 512GB",
-    "mark": 10932
-  },
-  {
     "nameDetail": "XPG GAMMIX S11 240GB",
     "mark": 10930
   },
@@ -13128,12 +13156,16 @@
     "mark": 10909
   },
   {
-    "nameDetail": "NVMe FORESEE XP2000F128G",
-    "mark": 10909
+    "nameDetail": "CL1-3D512-Q11 NVMe SSSTC 512GB",
+    "mark": 10906
   },
   {
     "nameDetail": "LITEON CA1-8D256",
     "mark": 10902
+  },
+  {
+    "nameDetail": "Toshiba XG5 SSD 256GB",
+    "mark": 10897
   },
   {
     "nameDetail": "Aura Pro X2",
@@ -13141,11 +13173,7 @@
   },
   {
     "nameDetail": "IM2P33F3A NVMe ADATA 256GB",
-    "mark": 10896
-  },
-  {
-    "nameDetail": "Toshiba XG5 SSD 256GB",
-    "mark": 10896
+    "mark": 10890
   },
   {
     "nameDetail": "SanDisk SDSSDHII240G",
@@ -13154,6 +13182,10 @@
   {
     "nameDetail": "INTEL SSDPEKNU512G8L",
     "mark": 10882
+  },
+  {
+    "nameDetail": "NVMe FORESEE XP2000F128G",
+    "mark": 10878
   },
   {
     "nameDetail": "KINGSTON RBUSNS8154P3512GJ5",
@@ -13177,7 +13209,7 @@
   },
   {
     "nameDetail": "Samsung SSD PM991 NVMe 512GB",
-    "mark": 10823
+    "mark": 10822
   },
   {
     "nameDetail": "NVMe Patriot Hellfire",
@@ -13209,7 +13241,7 @@
   },
   {
     "nameDetail": "KINGSTON SA2000M8250G",
-    "mark": 10769
+    "mark": 10766
   },
   {
     "nameDetail": "KINGSTON SKC1000480G",
@@ -13416,16 +13448,16 @@
     "mark": 10558
   },
   {
-    "nameDetail": "IM2P33F3 NVMe ADATA 512GB",
-    "mark": 10554
-  },
-  {
     "nameDetail": "Micron 2200V MTFDHBA256TCK",
     "mark": 10532
   },
   {
     "nameDetail": "NVMe SAMSUNG MZVLQ1T0HBLB-00BH1",
     "mark": 10526
+  },
+  {
+    "nameDetail": "IM2P33F3 NVMe ADATA 512GB",
+    "mark": 10519
   },
   {
     "nameDetail": "SAMSUNG MZVLQ128HCHQ-00BTW",
@@ -13657,7 +13689,7 @@
   },
   {
     "nameDetail": "WDC PC SN520 NVMe SSD 256GB",
-    "mark": 10162
+    "mark": 10161
   },
   {
     "nameDetail": "Toshiba XG3 128GB NVMe M.2",
@@ -13744,10 +13776,6 @@
     "mark": 10049
   },
   {
-    "nameDetail": "INTEL SSDPEKNW512G8H",
-    "mark": 10039
-  },
-  {
     "nameDetail": "HFB1M8MO331C0MR",
     "mark": 10036
   },
@@ -13760,16 +13788,20 @@
     "mark": 10035
   },
   {
+    "nameDetail": "INTEL SSDPEKNW512G8H",
+    "mark": 10033
+  },
+  {
     "nameDetail": "NVMe CX2-8B256-Q11 NV",
     "mark": 10012
   },
   {
     "nameDetail": "Intel SSD 660p 512GB",
-    "mark": 10004
+    "mark": 10003
   },
   {
     "nameDetail": "CT500P1SSD8",
-    "mark": 10001
+    "mark": 10000
   },
   {
     "nameDetail": "OCZ-REVODRIVE3 X",
@@ -13921,7 +13953,7 @@
   },
   {
     "nameDetail": "SK hynix BC511 HFM256GDJTNI-82A0A",
-    "mark": 9723
+    "mark": 9721
   },
   {
     "nameDetail": "MKNSSDHT500GB-D8",
@@ -13940,10 +13972,6 @@
     "mark": 9696
   },
   {
-    "nameDetail": "KINGSTON SKC1000240G",
-    "mark": 9674
-  },
-  {
     "nameDetail": "KLEVV CRAS RGB C700 240GB SSD",
     "mark": 9669
   },
@@ -13952,12 +13980,16 @@
     "mark": 9662
   },
   {
+    "nameDetail": "KINGSTON SKC1000240G",
+    "mark": 9661
+  },
+  {
     "nameDetail": "Reeinno MC20 240GB S6N8",
     "mark": 9659
   },
   {
     "nameDetail": "BC511 NVMe SK hynix 256GB",
-    "mark": 9656
+    "mark": 9657
   },
   {
     "nameDetail": "MTFDHBL512TDQ",
@@ -13966,10 +13998,6 @@
   {
     "nameDetail": "LITEON CA1-8D256-HP",
     "mark": 9653
-  },
-  {
-    "nameDetail": "INTEL SSDPEKKF256G8H",
-    "mark": 9650
   },
   {
     "nameDetail": "IM2P33F3 NVMe ADATA 256GB",
@@ -14017,7 +14045,7 @@
   },
   {
     "nameDetail": "Aarvex 256GB SSD",
-    "mark": 9532
+    "mark": 9534
   },
   {
     "nameDetail": "Toshiba XG4 512GB",
@@ -14088,16 +14116,16 @@
     "mark": 9440
   },
   {
+    "nameDetail": "KINGSTON SA1000M8480G",
+    "mark": 9435
+  },
+  {
     "nameDetail": "HFM256GDJTNG-8310A",
     "mark": 9431
   },
   {
     "nameDetail": "NVMe SK hynix BC511 HFM256GDJTNI-82A0A",
     "mark": 9426
-  },
-  {
-    "nameDetail": "KINGSTON SA1000M8480G",
-    "mark": 9419
   },
   {
     "nameDetail": "WD PC SN530 SDBPTPZ 256GB",
@@ -14158,10 +14186,6 @@
   {
     "nameDetail": "KBG40ZPZ256G NVMe TOSHIBA 256GB",
     "mark": 9321
-  },
-  {
-    "nameDetail": "Hitachi HUS724040ALE641",
-    "mark": 9317
   },
   {
     "nameDetail": "YMTC YMSS1ED02B21MC",
@@ -14260,20 +14284,16 @@
     "mark": 9142
   },
   {
-    "nameDetail": "TXRUI V850 1TB",
-    "mark": 9142
-  },
-  {
     "nameDetail": "HX256GSSDM2PCIE",
     "mark": 9140
   },
   {
-    "nameDetail": "Samsung SSD PM991a NVMe 256GB",
-    "mark": 9138
-  },
-  {
     "nameDetail": "UMIS LENSE40256GMSP34MESTB3A",
     "mark": 9132
+  },
+  {
+    "nameDetail": "Samsung SSD PM991a NVMe 256GB",
+    "mark": 9130
   },
   {
     "nameDetail": "KINGSTON RBUSNS8154P3256GJ5",
@@ -14292,12 +14312,12 @@
     "mark": 9116
   },
   {
-    "nameDetail": "SK hynix BC501 HFM512GDJTNG-8310A",
-    "mark": 9112
-  },
-  {
     "nameDetail": "SSSTC CL4-3D128-HP",
     "mark": 9110
+  },
+  {
+    "nameDetail": "SK hynix BC501 HFM512GDJTNG-8310A",
+    "mark": 9107
   },
   {
     "nameDetail": "NVMe HFM128GD3JX016N",
@@ -14436,6 +14456,10 @@
     "mark": 8793
   },
   {
+    "nameDetail": "TXRUI V850 1TB",
+    "mark": 8783
+  },
+  {
     "nameDetail": "Intel DC P3600 400GB NVMe",
     "mark": 8776
   },
@@ -14504,6 +14528,10 @@
     "mark": 8639
   },
   {
+    "nameDetail": "LENSE20256GMSP34MEAT2TA",
+    "mark": 8635
+  },
+  {
     "nameDetail": "RATDER GAMING NVME M400-512GB",
     "mark": 8631
   },
@@ -14512,15 +14540,11 @@
     "mark": 8622
   },
   {
-    "nameDetail": "LENSE20256GMSP34MEAT2TA",
-    "mark": 8622
+    "nameDetail": "SK hynix BC501 HFM256GDJTNG-8310A",
+    "mark": 8621
   },
   {
     "nameDetail": "Maxsun 256GB NM6-2280",
-    "mark": 8620
-  },
-  {
-    "nameDetail": "SK hynix BC501 HFM256GDJTNG-8310A",
     "mark": 8620
   },
   {
@@ -14546,6 +14570,10 @@
   {
     "nameDetail": "MV512GB",
     "mark": 8538
+  },
+  {
+    "nameDetail": "KBG40ZNS128G TOSHIBA MEMORY",
+    "mark": 8521
   },
   {
     "nameDetail": "NE-128 2280",
@@ -14594,10 +14622,6 @@
   {
     "nameDetail": "BR 512GB",
     "mark": 8452
-  },
-  {
-    "nameDetail": "KBG40ZNS128G TOSHIBA MEMORY",
-    "mark": 8450
   },
   {
     "nameDetail": "SAMSUNG MZ1LV960HCJH-00003",
@@ -14768,6 +14792,10 @@
     "mark": 8096
   },
   {
+    "nameDetail": "Hitachi HUS724040ALE641",
+    "mark": 8095
+  },
+  {
     "nameDetail": "Hoodisk Industrial 512GB SSD",
     "mark": 8091
   },
@@ -14797,7 +14825,11 @@
   },
   {
     "nameDetail": "Samsung SSD PM991 NVMe 256GB",
-    "mark": 8042
+    "mark": 8043
+  },
+  {
+    "nameDetail": "EVM SSD",
+    "mark": 8010
   },
   {
     "nameDetail": "NVMe THNSF5256GPUK TO",
@@ -14810,10 +14842,6 @@
   {
     "nameDetail": "THNSF5256GPUK TOSHIBA",
     "mark": 7995
-  },
-  {
-    "nameDetail": "EVM SSD",
-    "mark": 7988
   },
   {
     "nameDetail": "NVMe INTEL SSDPEKKF256G7L",
@@ -14868,6 +14896,10 @@
     "mark": 7803
   },
   {
+    "nameDetail": "SAMSUNG KLUEG8UHDB-C2D1",
+    "mark": 7799
+  },
+  {
     "nameDetail": "OCZ RevoDrive 3 X2",
     "mark": 7784
   },
@@ -14882,10 +14914,6 @@
   {
     "nameDetail": "TOSHIBA XG4 256GB NVMe",
     "mark": 7772
-  },
-  {
-    "nameDetail": "SAMSUNG KLUEG8UHDB-C2D1",
-    "mark": 7771
   },
   {
     "nameDetail": "SAMSUNG MZALQ256HAJD-000L2",
@@ -14929,7 +14957,7 @@
   },
   {
     "nameDetail": "Intel SSD Pro 6000p 256GB",
-    "mark": 7656
+    "mark": 7655
   },
   {
     "nameDetail": "Sabrent Rocket Q 500GB SSD",
@@ -14956,12 +14984,12 @@
     "mark": 7583
   },
   {
-    "nameDetail": "WDC PC SN520 SDAPMUW-128G",
-    "mark": 7574
-  },
-  {
     "nameDetail": "SanDisk A400 NVMe 512GB",
     "mark": 7572
+  },
+  {
+    "nameDetail": "WDC PC SN520 SDAPMUW-128G",
+    "mark": 7567
   },
   {
     "nameDetail": "Seagate ST21G8TM1E01S",
@@ -14973,11 +15001,11 @@
   },
   {
     "nameDetail": "WDC PC SN520 NVMe SSD 128GB",
-    "mark": 7525
+    "mark": 7519
   },
   {
     "nameDetail": "KBG30ZMV256G KIOXIA",
-    "mark": 7507
+    "mark": 7510
   },
   {
     "nameDetail": "SAMSUNG KLUEG8UHDC-B0E1",
@@ -15028,6 +15056,10 @@
     "mark": 7390
   },
   {
+    "nameDetail": "AAR256GN070124030",
+    "mark": 7381
+  },
+  {
     "nameDetail": "Transcend PCIeSSD 110S 128GB",
     "mark": 7379
   },
@@ -15061,15 +15093,19 @@
   },
   {
     "nameDetail": "SAMSUNG MZALQ128HBHQ-000L2",
-    "mark": 7300
-  },
-  {
-    "nameDetail": "CL1-3D128-Q11 NVMe SSSTC 128GB",
-    "mark": 7298
+    "mark": 7310
   },
   {
     "nameDetail": "NVMe KBG30ZMV256G TOS",
     "mark": 7287
+  },
+  {
+    "nameDetail": "CL1-3D128-Q11 NVMe SSSTC 128GB",
+    "mark": 7286
+  },
+  {
+    "nameDetail": "AirDisk 256GB SSD",
+    "mark": 7281
   },
   {
     "nameDetail": "Gigabyte M.2 PCIe SSD 256GB",
@@ -15082,10 +15118,6 @@
   {
     "nameDetail": "MIXZA-512GB",
     "mark": 7245
-  },
-  {
-    "nameDetail": "AirDisk 256GB SSD",
-    "mark": 7242
   },
   {
     "nameDetail": "imation M.2 PCIe 256GB SSD X931B",
@@ -15126,10 +15158,6 @@
   {
     "nameDetail": "Matrix 1TB",
     "mark": 7140
-  },
-  {
-    "nameDetail": "AAR256GN070124030",
-    "mark": 7137
   },
   {
     "nameDetail": "CL1-3D128-Q11 NVMe LITEON 128GB",
@@ -15269,7 +15297,7 @@
   },
   {
     "nameDetail": "Samsung PM951 256GB NVMe",
-    "mark": 6678
+    "mark": 6677
   },
   {
     "nameDetail": "PLEXTOR PX-128M8PeG",
@@ -15469,11 +15497,11 @@
   },
   {
     "nameDetail": "128GB NVME EVM",
-    "mark": 6127
+    "mark": 6131
   },
   {
     "nameDetail": "HFM128GDGTNG-87A0A",
-    "mark": 6120
+    "mark": 6127
   },
   {
     "nameDetail": "OWC Mercury Accelsior PCIe SSD",
@@ -15552,12 +15580,16 @@
     "mark": 5890
   },
   {
-    "nameDetail": "INTEL SSDSC2KB960G8",
+    "nameDetail": "BC501A NVMe SK hynix 128GB",
+    "mark": 5873
+  },
+  {
+    "nameDetail": "EVMNV/128GB",
     "mark": 5863
   },
   {
-    "nameDetail": "BC501A NVMe SK hynix 128GB",
-    "mark": 5860
+    "nameDetail": "INTEL SSDSC2KB960G8",
+    "mark": 5863
   },
   {
     "nameDetail": "SAMSUNG XP941 M.2 128GB",
@@ -15568,20 +15600,12 @@
     "mark": 5857
   },
   {
-    "nameDetail": "EVMNV/128GB",
-    "mark": 5842
-  },
-  {
     "nameDetail": "VisionTek 960GB",
     "mark": 5828
   },
   {
     "nameDetail": "Kingchuxing 1TB",
     "mark": 5818
-  },
-  {
-    "nameDetail": "Patriot P220 1024GB",
-    "mark": 5812
   },
   {
     "nameDetail": "SAMSUNG KLUDG4UHGC-B0E1",
@@ -15610,6 +15634,10 @@
   {
     "nameDetail": "SanDisk SDSSDA-2T00",
     "mark": 5763
+  },
+  {
+    "nameDetail": "Patriot P220 1024GB",
+    "mark": 5750
   },
   {
     "nameDetail": "FORESEE P709F128G",
@@ -15722,6 +15750,10 @@
   {
     "nameDetail": "KINGSTON SEDC450R960G",
     "mark": 5416
+  },
+  {
+    "nameDetail": "iCoolax3 256GB",
+    "mark": 5396
   },
   {
     "nameDetail": "MICRON MT128GBCAV2U31",
@@ -15904,6 +15936,10 @@
     "mark": 5069
   },
   {
+    "nameDetail": "Lexar 256GB SSD",
+    "mark": 5066
+  },
+  {
     "nameDetail": "Samsung SSD PM881 2.5 512GB",
     "mark": 5065
   },
@@ -15918,10 +15954,6 @@
   {
     "nameDetail": "Samsung SSD 860 DCT 960GB",
     "mark": 5058
-  },
-  {
-    "nameDetail": "Lexar 256GB SSD",
-    "mark": 5056
   },
   {
     "nameDetail": "VisionTek Data Fusion 960GB",
@@ -16440,10 +16472,6 @@
     "mark": 4666
   },
   {
-    "nameDetail": "WDC WDS500G1B0B",
-    "mark": 4665
-  },
-  {
     "nameDetail": "Crucial MX500 1TB SSD",
     "mark": 4664
   },
@@ -16489,6 +16517,10 @@
   },
   {
     "nameDetail": "SSD PHISON 512GB PS3110-S10C",
+    "mark": 4641
+  },
+  {
+    "nameDetail": "WDC WDS500G1B0B",
     "mark": 4641
   },
   {
@@ -16584,11 +16616,11 @@
     "mark": 4601
   },
   {
-    "nameDetail": "TOSHIBA THNSNJ256GMCT",
-    "mark": 4599
+    "nameDetail": "WDC WDBNCE0010PNC",
+    "mark": 4600
   },
   {
-    "nameDetail": "WDC WDBNCE0010PNC",
+    "nameDetail": "TOSHIBA THNSNJ256GMCT",
     "mark": 4599
   },
   {
@@ -16905,7 +16937,7 @@
   },
   {
     "nameDetail": "Samsung SSD 850 EVO M.2 250GB",
-    "mark": 4489
+    "mark": 4488
   },
   {
     "nameDetail": "SanDisk SDSSDH3 1T00",
@@ -17064,6 +17096,10 @@
     "mark": 4443
   },
   {
+    "nameDetail": "SanDisk SDSSDA-1T00",
+    "mark": 4442
+  },
+  {
     "nameDetail": "SanDisk X600 2.5 7MM 512GB",
     "mark": 4442
   },
@@ -17074,10 +17110,6 @@
   {
     "nameDetail": "WDC WDS100T1B0B",
     "mark": 4438
-  },
-  {
-    "nameDetail": "SanDisk SDSSDA-1T00",
-    "mark": 4437
   },
   {
     "nameDetail": "SKhynix SC300 HFS512G32MND-3210A",
@@ -17116,11 +17148,11 @@
     "mark": 4431
   },
   {
-    "nameDetail": "SAMSUNG SSD PM871b M.2 2280 512GB",
-    "mark": 4429
+    "nameDetail": "SHGS31-1000GS-2",
+    "mark": 4430
   },
   {
-    "nameDetail": "SHGS31-1000GS-2",
+    "nameDetail": "SAMSUNG SSD PM871b M.2 2280 512GB",
     "mark": 4429
   },
   {
@@ -17160,10 +17192,6 @@
     "mark": 4420
   },
   {
-    "nameDetail": "SanDisk SD8TB8U512G1001",
-    "mark": 4418
-  },
-  {
     "nameDetail": "NVMe NVME SSD 128GB",
     "mark": 4417
   },
@@ -17186,6 +17214,10 @@
   {
     "nameDetail": "Seagate ST15G2TM6S00",
     "mark": 4413
+  },
+  {
+    "nameDetail": "SanDisk SD8TB8U512G1001",
+    "mark": 4411
   },
   {
     "nameDetail": "CT250MX500SSD4",
@@ -17332,10 +17364,6 @@
     "mark": 4373
   },
   {
-    "nameDetail": "SAMSUNG MZ7LH240HAHQ-00005",
-    "mark": 4372
-  },
-  {
     "nameDetail": "TOSHIBA mSATA 512GB THNSNH512GNCT",
     "mark": 4371
   },
@@ -17394,6 +17422,10 @@
   {
     "nameDetail": "INTEL SSDPEBKF128G7",
     "mark": 4361
+  },
+  {
+    "nameDetail": "SAMSUNG MZ7LH240HAHQ-00005",
+    "mark": 4360
   },
   {
     "nameDetail": "TOSHIBA THNSNJ128GVNU",
@@ -17809,7 +17841,7 @@
   },
   {
     "nameDetail": "SanDisk SDSSDH3 500G",
-    "mark": 4273
+    "mark": 4274
   },
   {
     "nameDetail": "Intel SSD Pro 5400s 240GB 2.5\"",
@@ -17832,11 +17864,11 @@
     "mark": 4271
   },
   {
-    "nameDetail": "ADATA SU800 SSD 512GB",
-    "mark": 4268
+    "nameDetail": "ADATA SU800 M.2 SSD 512GB",
+    "mark": 4267
   },
   {
-    "nameDetail": "ADATA SU800 M.2 SSD 512GB",
+    "nameDetail": "ADATA SU800 SSD 512GB",
     "mark": 4267
   },
   {
@@ -18021,7 +18053,7 @@
   },
   {
     "nameDetail": "Samsung SSD 860 EVO 500GB",
-    "mark": 4231
+    "mark": 4230
   },
   {
     "nameDetail": "TEAML5Lite3D480G",
@@ -18144,15 +18176,15 @@
     "mark": 4211
   },
   {
-    "nameDetail": "SanDisk SD8TB8U256G1001",
-    "mark": 4209
-  },
-  {
     "nameDetail": "TOSHIBA THNSNJ256G8NY",
     "mark": 4209
   },
   {
     "nameDetail": "SAMSUNG MZ7LN512HCHP-00007",
+    "mark": 4208
+  },
+  {
+    "nameDetail": "SanDisk SD8TB8U256G1001",
     "mark": 4208
   },
   {
@@ -18200,16 +18232,12 @@
     "mark": 4202
   },
   {
+    "nameDetail": "Samsung PM951 128GB NVMe",
+    "mark": 4201
+  },
+  {
     "nameDetail": "Micron 1300 MTFDDAK256TDL",
     "mark": 4200
-  },
-  {
-    "nameDetail": "Samsung PM951 128GB NVMe",
-    "mark": 4200
-  },
-  {
-    "nameDetail": "ADATA SU800 SSD 1TB",
-    "mark": 4199
   },
   {
     "nameDetail": "Optane+119GBSSD",
@@ -18218,6 +18246,10 @@
   {
     "nameDetail": "Transcend TS256GSSD370S",
     "mark": 4198
+  },
+  {
+    "nameDetail": "ADATA SU800 SSD 1TB",
+    "mark": 4197
   },
   {
     "nameDetail": "Intel SSD 535 180GB 2.5\"",
@@ -18238,6 +18270,10 @@
   {
     "nameDetail": "KingDian N480 240GB",
     "mark": 4195
+  },
+  {
+    "nameDetail": "MTFDDAK256TDL-1AW1ZABFA",
+    "mark": 4194
   },
   {
     "nameDetail": "SAMSUNG SSD CM87",
@@ -18289,10 +18325,6 @@
   },
   {
     "nameDetail": "HFS512G39TND-N210A",
-    "mark": 4184
-  },
-  {
-    "nameDetail": "MTFDDAK256TDL-1AW1ZABFA",
     "mark": 4184
   },
   {
@@ -18352,10 +18384,6 @@
     "mark": 4177
   },
   {
-    "nameDetail": "CT250MX500SSD1",
-    "mark": 4176
-  },
-  {
     "nameDetail": "HFS256G32TNF-N3A0A",
     "mark": 4176
   },
@@ -18366,6 +18394,10 @@
   {
     "nameDetail": "TOSHIBA KSG60ZMV512G M.2 2280 512GB",
     "mark": 4176
+  },
+  {
+    "nameDetail": "CT250MX500SSD1",
+    "mark": 4175
   },
   {
     "nameDetail": "W800S",
@@ -18464,10 +18496,6 @@
     "mark": 4155
   },
   {
-    "nameDetail": "Samsung SSD 870 EVO 250GB",
-    "mark": 4155
-  },
-  {
     "nameDetail": "TOSHIBA THNSNJ256G8NU",
     "mark": 4155
   },
@@ -18476,16 +18504,16 @@
     "mark": 4154
   },
   {
-    "nameDetail": "LITEON IT L8T-256L9G",
-    "mark": 4153
-  },
-  {
     "nameDetail": "Mushkin Reactor 1TB MKNSSDRE1TB",
     "mark": 4153
   },
   {
     "nameDetail": "PNY CS1311 960GB SSD",
     "mark": 4153
+  },
+  {
+    "nameDetail": "Samsung SSD 870 EVO 250GB",
+    "mark": 4152
   },
   {
     "nameDetail": "Intel SSD Pro 5400s 256GB 2.5\"",
@@ -18502,6 +18530,10 @@
   {
     "nameDetail": "SanDisk SD9SB8W512G1122",
     "mark": 4150
+  },
+  {
+    "nameDetail": "LITEON IT L8T-256L9G",
+    "mark": 4148
   },
   {
     "nameDetail": "m.2 Smartbuy S11-2280T 128GB",
@@ -18936,10 +18968,6 @@
     "mark": 4085
   },
   {
-    "nameDetail": "WDC WDS250G2B0A",
-    "mark": 4085
-  },
-  {
     "nameDetail": "ADATA SU810NS38 256 GB",
     "mark": 4084
   },
@@ -18968,6 +18996,10 @@
     "mark": 4079
   },
   {
+    "nameDetail": "WDC WDS250G2B0A",
+    "mark": 4079
+  },
+  {
     "nameDetail": "Intel SSD 520 240GB 7mm",
     "mark": 4077
   },
@@ -18992,10 +19024,6 @@
     "mark": 4074
   },
   {
-    "nameDetail": "WD Blue SA510 2.5 2TB",
-    "mark": 4073
-  },
-  {
     "nameDetail": "SK hynix SC300 2.5 7MM 256GB",
     "mark": 4072
   },
@@ -19013,6 +19041,10 @@
   },
   {
     "nameDetail": "LITEONIT LMT-256L9M-41 MSATA 256GB SED",
+    "mark": 4070
+  },
+  {
+    "nameDetail": "WD Blue SA510 2.5 2TB",
     "mark": 4070
   },
   {
@@ -19517,7 +19549,7 @@
   },
   {
     "nameDetail": "Samsung SSD 860 EVO 250GB",
-    "mark": 4003
+    "mark": 4002
   },
   {
     "nameDetail": "SanDisk X400",
@@ -19712,10 +19744,6 @@
     "mark": 3978
   },
   {
-    "nameDetail": "SanDisk SDSSDXPS960G",
-    "mark": 3978
-  },
-  {
     "nameDetail": "CT120BX300SSD1",
     "mark": 3976
   },
@@ -19808,6 +19836,10 @@
     "mark": 3966
   },
   {
+    "nameDetail": "Micron 1100 MTFDDAV256TBN",
+    "mark": 3965
+  },
+  {
     "nameDetail": "MTFDDAK5 12MBF-1AN1ZABHA",
     "mark": 3965
   },
@@ -19816,16 +19848,12 @@
     "mark": 3964
   },
   {
-    "nameDetail": "Micron 1100 MTFDDAV256TBN",
+    "nameDetail": "SanDisk SDSSDXPS960G",
     "mark": 3964
   },
   {
     "nameDetail": "Avant 240GB Client SSD",
     "mark": 3963
-  },
-  {
-    "nameDetail": "G537N 256G",
-    "mark": 3962
   },
   {
     "nameDetail": "SanDisk SDSSDXPS480G",
@@ -20020,10 +20048,6 @@
     "mark": 3940
   },
   {
-    "nameDetail": "SK hynix SC401 256GB",
-    "mark": 3940
-  },
-  {
     "nameDetail": "Kingchuxing 128GB",
     "mark": 3939
   },
@@ -20073,6 +20097,10 @@
   },
   {
     "nameDetail": "DREVO D1 SSD",
+    "mark": 3931
+  },
+  {
+    "nameDetail": "SK hynix SC401 256GB",
     "mark": 3931
   },
   {
@@ -20284,16 +20312,16 @@
     "mark": 3894
   },
   {
-    "nameDetail": "KLEVV SSD NEO N600 M.2 240GB",
-    "mark": 3894
-  },
-  {
     "nameDetail": "Micron 1100 MTFDDAK256TBN",
     "mark": 3894
   },
   {
     "nameDetail": "FIKWOT FN203 2TB",
     "mark": 3893
+  },
+  {
+    "nameDetail": "G537N 256G",
+    "mark": 3892
   },
   {
     "nameDetail": "SKhynix SC300 HFS256G32MND-3210A",
@@ -20362,6 +20390,10 @@
   {
     "nameDetail": "SSD2SC24 0G5LC709B121-511",
     "mark": 3885
+  },
+  {
+    "nameDetail": "KLEVV SSD NEO N600 M.2 240GB",
+    "mark": 3884
   },
   {
     "nameDetail": "LITEON CV3-8D512",
@@ -20656,10 +20688,6 @@
     "mark": 3842
   },
   {
-    "nameDetail": "Fanxiang S101Q 1TB",
-    "mark": 3841
-  },
-  {
     "nameDetail": "ADATA SSD DP900 256GB-",
     "mark": 3840
   },
@@ -20728,12 +20756,12 @@
     "mark": 3832
   },
   {
-    "nameDetail": "Samsung SSD 860 QVO 4TB",
+    "nameDetail": "Hoodisk Industrial 128GB SSD",
     "mark": 3831
   },
   {
-    "nameDetail": "Hoodisk Industrial 128GB SSD",
-    "mark": 3830
+    "nameDetail": "Samsung SSD 860 QVO 4TB",
+    "mark": 3831
   },
   {
     "nameDetail": "Intel SSD DC S3710 200GB",
@@ -20752,10 +20780,6 @@
     "mark": 3829
   },
   {
-    "nameDetail": "Micron 1100 256GB",
-    "mark": 3828
-  },
-  {
     "nameDetail": "SAMSWEET SSD SM863 256GB",
     "mark": 3828
   },
@@ -20765,6 +20789,10 @@
   },
   {
     "nameDetail": "Lexar SSD NM100 256GB",
+    "mark": 3827
+  },
+  {
+    "nameDetail": "Micron 1100 256GB",
     "mark": 3827
   },
   {
@@ -20793,10 +20821,6 @@
   },
   {
     "nameDetail": "NS512GSSD340",
-    "mark": 3825
-  },
-  {
-    "nameDetail": "TOSHIBA THNSNK256GCS8 256GB",
     "mark": 3825
   },
   {
@@ -20876,16 +20900,16 @@
     "mark": 3813
   },
   {
-    "nameDetail": "ADATA SU800 SSD 256GB",
-    "mark": 3812
-  },
-  {
     "nameDetail": "LITEON CV8-CE256-11 256GB",
     "mark": 3812
   },
   {
     "nameDetail": "SAMSUNG MZNLN256HMHQ-00000",
     "mark": 3812
+  },
+  {
+    "nameDetail": "ADATA SU800 SSD 256GB",
+    "mark": 3811
   },
   {
     "nameDetail": "Plextor M3 256GB PX-256M3",
@@ -20917,6 +20941,10 @@
   },
   {
     "nameDetail": "Samsung SSD PM881 NVMe 128GB",
+    "mark": 3808
+  },
+  {
+    "nameDetail": "TOSHIBA THNSNK256GCS8 256GB",
     "mark": 3808
   },
   {
@@ -20964,10 +20992,6 @@
     "mark": 3802
   },
   {
-    "nameDetail": "Crucial MX300 2TB SSD",
-    "mark": 3801
-  },
-  {
     "nameDetail": "GeIL ZENITH S3-240GB",
     "mark": 3801
   },
@@ -20993,7 +21017,7 @@
   },
   {
     "nameDetail": "Crucial MX200 250GB SSD",
-    "mark": 3798
+    "mark": 3799
   },
   {
     "nameDetail": "Kingston HyperX 3K 480GB SH103S3480G",
@@ -21016,6 +21040,10 @@
     "mark": 3796
   },
   {
+    "nameDetail": "KINGSTON SUV500240G",
+    "mark": 3795
+  },
+  {
     "nameDetail": "OCZ-VECT OR",
     "mark": 3795
   },
@@ -21025,10 +21053,6 @@
   },
   {
     "nameDetail": "KINGSTON SQ500S37480G",
-    "mark": 3794
-  },
-  {
-    "nameDetail": "KINGSTON SUV500240G",
     "mark": 3794
   },
   {
@@ -21062,6 +21086,10 @@
   {
     "nameDetail": "Seagate Nytro Client 141 ZA256CM10002",
     "mark": 3791
+  },
+  {
+    "nameDetail": "Crucial MX300 2TB SSD",
+    "mark": 3790
   },
   {
     "nameDetail": "KINGSTON RBUSNS4180S3256GG",
@@ -21120,10 +21148,6 @@
     "mark": 3780
   },
   {
-    "nameDetail": "W800S 512GB",
-    "mark": 3780
-  },
-  {
     "nameDetail": "Intel SSD Pro 1500 180GB M.2",
     "mark": 3779
   },
@@ -21140,15 +21164,19 @@
     "mark": 3777
   },
   {
+    "nameDetail": "Lexar SSD NS100 512GB",
+    "mark": 3776
+  },
+  {
+    "nameDetail": "Fanxiang S101Q 1TB",
+    "mark": 3775
+  },
+  {
     "nameDetail": "Corsair Neutron",
     "mark": 3774
   },
   {
     "nameDetail": "EDILOCA EN206 512GB",
-    "mark": 3773
-  },
-  {
-    "nameDetail": "Lexar SSD NS100 512GB",
     "mark": 3773
   },
   {
@@ -21162,6 +21190,10 @@
   {
     "nameDetail": "P300-MTFDDAC050SAL",
     "mark": 3772
+  },
+  {
+    "nameDetail": "W800S 512GB",
+    "mark": 3771
   },
   {
     "nameDetail": "APS-SL3N-512",
@@ -21208,11 +21240,11 @@
     "mark": 3766
   },
   {
-    "nameDetail": "SanDisk X400 M.2 2280 128GB",
-    "mark": 3764
+    "nameDetail": "LITEON CV3-CE512-11 512GB",
+    "mark": 3763
   },
   {
-    "nameDetail": "LITEON CV3-CE512-11 512GB",
+    "nameDetail": "SanDisk X400 M.2 2280 128GB",
     "mark": 3763
   },
   {
@@ -21692,10 +21724,6 @@
     "mark": 3715
   },
   {
-    "nameDetail": "Lexar SSD NS100 256GB",
-    "mark": 3714
-  },
-  {
     "nameDetail": "TEAM T253TD480G",
     "mark": 3714
   },
@@ -21741,6 +21769,10 @@
   },
   {
     "nameDetail": "CSSD-S6O240NCG1Q",
+    "mark": 3706
+  },
+  {
+    "nameDetail": "Lexar SSD NS100 256GB",
     "mark": 3706
   },
   {
@@ -21804,6 +21836,10 @@
     "mark": 3701
   },
   {
+    "nameDetail": "NGFF 2280 256GB SSD",
+    "mark": 3701
+  },
+  {
     "nameDetail": "LITEON IT LMT-128L9M",
     "mark": 3700
   },
@@ -21826,10 +21862,6 @@
   {
     "nameDetail": "SSD2SC480G1SA754D117-542",
     "mark": 3699
-  },
-  {
-    "nameDetail": "Cruicial CT250BX100SSD1",
-    "mark": 3698
   },
   {
     "nameDetail": "ASint AS606 512GB",
@@ -21880,8 +21912,8 @@
     "mark": 3690
   },
   {
-    "nameDetail": "LITEON CV8-CE256",
-    "mark": 3688
+    "nameDetail": "Cruicial CT250BX100SSD1",
+    "mark": 3689
   },
   {
     "nameDetail": "SAMSUNG SSD PM871a 2.5 7mm 256GB",
@@ -22104,15 +22136,15 @@
     "mark": 3657
   },
   {
+    "nameDetail": "TOSHIBA KSG60ZMV256G",
+    "mark": 3657
+  },
+  {
     "nameDetail": "Samsung SSD 840 PRO Seri",
     "mark": 3656
   },
   {
     "nameDetail": "SAMSUNG SSD PM830 2.5 256GB",
-    "mark": 3656
-  },
-  {
-    "nameDetail": "TOSHIBA KSG60ZMV256G",
     "mark": 3656
   },
   {
@@ -22130,10 +22162,6 @@
   {
     "nameDetail": "SSD2SC240G5LC726B104-298",
     "mark": 3655
-  },
-  {
-    "nameDetail": "NGFF 2280 256GB SSD",
-    "mark": 3654
   },
   {
     "nameDetail": "Optane+224GBSSD",
@@ -22248,15 +22276,15 @@
     "mark": 3642
   },
   {
+    "nameDetail": "Seagate ST52G6SS2D03S",
+    "mark": 3642
+  },
+  {
     "nameDetail": "SSTC M110",
     "mark": 3642
   },
   {
     "nameDetail": "SanDisk SD8SN8U-128G-1006",
-    "mark": 3641
-  },
-  {
-    "nameDetail": "Seagate ST52G6SS2D03S",
     "mark": 3641
   },
   {
@@ -22316,6 +22344,10 @@
     "mark": 3636
   },
   {
+    "nameDetail": "PNY CS900 1TB SSD",
+    "mark": 3636
+  },
+  {
     "nameDetail": "Teclast 720GB A8",
     "mark": 3636
   },
@@ -22337,10 +22369,6 @@
   },
   {
     "nameDetail": "LITEON L8H-256V2G-11 M.2 2280 256GB",
-    "mark": 3633
-  },
-  {
-    "nameDetail": "PNY CS900 1TB SSD",
     "mark": 3633
   },
   {
@@ -22596,6 +22624,10 @@
     "mark": 3604
   },
   {
+    "nameDetail": "Hitachi HUGWORLD SSD 256GB",
+    "mark": 3603
+  },
+  {
     "nameDetail": "LITEON LGH-512V2G",
     "mark": 3603
   },
@@ -22628,10 +22660,6 @@
     "mark": 3601
   },
   {
-    "nameDetail": "TEAM T253512GB",
-    "mark": 3600
-  },
-  {
     "nameDetail": "Fusion-io ioXtreme 180GB",
     "mark": 3599
   },
@@ -22656,11 +22684,11 @@
     "mark": 3598
   },
   {
-    "nameDetail": "SanDisk SD8SB8U-128G-1006",
-    "mark": 3598
+    "nameDetail": "Faspeed F710-250G",
+    "mark": 3597
   },
   {
-    "nameDetail": "Faspeed F710-250G",
+    "nameDetail": "TEAM T253512GB",
     "mark": 3597
   },
   {
@@ -22670,6 +22698,10 @@
   {
     "nameDetail": "SSDPR-CL100-960-G3",
     "mark": 3596
+  },
+  {
+    "nameDetail": "LITEON CV8-CE256",
+    "mark": 3595
   },
   {
     "nameDetail": "NS256GSSD340",
@@ -22712,16 +22744,16 @@
     "mark": 3593
   },
   {
+    "nameDetail": "SanDisk SD8SB8U-128G-1006",
+    "mark": 3593
+  },
+  {
     "nameDetail": "SSD2SC24 0GC2DH16T-T",
     "mark": 3593
   },
   {
     "nameDetail": "SSD2SC240G3LC763C121S425I",
     "mark": 3593
-  },
-  {
-    "nameDetail": "Hitachi HUGWORLD SSD 256GB",
-    "mark": 3592
   },
   {
     "nameDetail": "SSD2SC240G1SA754D117-459P",
@@ -22936,15 +22968,15 @@
     "mark": 3565
   },
   {
-    "nameDetail": "Samsung SSD 870 QVO 1TB",
-    "mark": 3565
-  },
-  {
     "nameDetail": "CT250BX1 00SSD1",
     "mark": 3564
   },
   {
     "nameDetail": "LITEON LCH-256V2S-11 2.5 7mm 256GB",
+    "mark": 3564
+  },
+  {
+    "nameDetail": "Samsung SSD 870 QVO 1TB",
     "mark": 3564
   },
   {
@@ -22972,6 +23004,10 @@
     "mark": 3562
   },
   {
+    "nameDetail": "TOSHIBA KSG60ZMV256G M.2 2280 256GB",
+    "mark": 3562
+  },
+  {
     "nameDetail": "MLD M200 240GB",
     "mark": 3561
   },
@@ -22980,8 +23016,8 @@
     "mark": 3561
   },
   {
-    "nameDetail": "TOSHIBA KSG60ZMV256G M.2 2280 256GB",
-    "mark": 3561
+    "nameDetail": "RS256GSSD310",
+    "mark": 3560
   },
   {
     "nameDetail": "SAMSUNG MZ7LN256HAJQ-000H7",
@@ -23020,10 +23056,6 @@
     "mark": 3558
   },
   {
-    "nameDetail": "RS256GSSD310",
-    "mark": 3558
-  },
-  {
     "nameDetail": "Acer SSD RE100 2.5 128GB",
     "mark": 3557
   },
@@ -23040,10 +23072,6 @@
     "mark": 3557
   },
   {
-    "nameDetail": "WALRAM 256GB",
-    "mark": 3557
-  },
-  {
     "nameDetail": "LITEON L8H-256V2G-11 M.",
     "mark": 3556
   },
@@ -23057,6 +23085,10 @@
   },
   {
     "nameDetail": "Intel SSD 520 180GB 9.5mm",
+    "mark": 3554
+  },
+  {
+    "nameDetail": "Patriot P220 512GB",
     "mark": 3554
   },
   {
@@ -23156,10 +23188,6 @@
     "mark": 3544
   },
   {
-    "nameDetail": "Patriot P220 512GB",
-    "mark": 3543
-  },
-  {
     "nameDetail": "SSDPR-CX300-480",
     "mark": 3543
   },
@@ -23181,6 +23209,10 @@
   },
   {
     "nameDetail": "LITEONIT 512GB LCT-512M3S",
+    "mark": 3541
+  },
+  {
+    "nameDetail": "WALRAM 256GB",
     "mark": 3541
   },
   {
@@ -23233,6 +23265,10 @@
   },
   {
     "nameDetail": "SK hynix SH920 2.5",
+    "mark": 3534
+  },
+  {
+    "nameDetail": "YON-S220-480GB",
     "mark": 3534
   },
   {
@@ -23320,10 +23356,6 @@
     "mark": 3526
   },
   {
-    "nameDetail": "SSDPR-CX400-256-G2",
-    "mark": 3526
-  },
-  {
     "nameDetail": "Vaseky V800/1TB",
     "mark": 3526
   },
@@ -23349,6 +23381,10 @@
   },
   {
     "nameDetail": "IBIW NNC8FV0150M-015G2",
+    "mark": 3522
+  },
+  {
+    "nameDetail": "SSDPR-CX400-256-G2",
     "mark": 3522
   },
   {
@@ -23496,6 +23532,10 @@
     "mark": 3510
   },
   {
+    "nameDetail": "PLEXTOR PX-128M6S",
+    "mark": 3510
+  },
+  {
     "nameDetail": "SAMSUNG MZ7LN256HAJQ-000L2",
     "mark": 3510
   },
@@ -23525,10 +23565,6 @@
   },
   {
     "nameDetail": "PLEXTOR PX-128M5M",
-    "mark": 3508
-  },
-  {
-    "nameDetail": "PLEXTOR PX-128M6S",
     "mark": 3508
   },
   {
@@ -23800,15 +23836,15 @@
     "mark": 3482
   },
   {
+    "nameDetail": "PNY CS900 500GB SSD",
+    "mark": 3482
+  },
+  {
     "nameDetail": "ADATA SU810NS38 128 GB",
     "mark": 3481
   },
   {
     "nameDetail": "AOSENKE SSD 512GB",
-    "mark": 3481
-  },
-  {
-    "nameDetail": "PNY CS900 500GB SSD",
     "mark": 3481
   },
   {
@@ -23964,16 +24000,16 @@
     "mark": 3467
   },
   {
-    "nameDetail": "LITEON LCH-256V2S-HP",
-    "mark": 3467
-  },
-  {
     "nameDetail": "SK hynix SH920 mSATA 128GB",
     "mark": 3467
   },
   {
     "nameDetail": "ZOTAC ZTSSD-A5P-240G-PE",
     "mark": 3467
+  },
+  {
+    "nameDetail": "LITEON LCH-256V2S-HP",
+    "mark": 3466
   },
   {
     "nameDetail": "LITEONIT LCS-128M6S 2.5",
@@ -24020,10 +24056,6 @@
     "mark": 3463
   },
   {
-    "nameDetail": "SSDPR-CX400-512-G2",
-    "mark": 3462
-  },
-  {
     "nameDetail": "HFS256G39MND-2300A",
     "mark": 3461
   },
@@ -24034,6 +24066,10 @@
   {
     "nameDetail": "TEAM T253LE240G",
     "mark": 3461
+  },
+  {
+    "nameDetail": "SSDPR-CX400-512-G2",
+    "mark": 3460
   },
   {
     "nameDetail": "TOSHIBA THNSNJ12",
@@ -24100,6 +24136,10 @@
     "mark": 3455
   },
   {
+    "nameDetail": "Netac SSD 1TB",
+    "mark": 3454
+  },
+  {
     "nameDetail": "YHJC YHS200A256HI27",
     "mark": 3454
   },
@@ -24113,10 +24153,6 @@
   },
   {
     "nameDetail": "EZLINK SIGMA 128GB",
-    "mark": 3452
-  },
-  {
-    "nameDetail": "Netac SSD 1TB",
     "mark": 3452
   },
   {
@@ -24180,6 +24216,10 @@
     "mark": 3447
   },
   {
+    "nameDetail": "Seagate ST84G0SS2D02S",
+    "mark": 3446
+  },
+  {
     "nameDetail": "SSD2SC48 0G1CS2754D117-51",
     "mark": 3446
   },
@@ -24194,10 +24234,6 @@
   {
     "nameDetail": "POWER X SS1000",
     "mark": 3443
-  },
-  {
-    "nameDetail": "Seagate ST84G0SS2D02S",
-    "mark": 3442
   },
   {
     "nameDetail": "Maximus-480GB",
@@ -24424,10 +24460,6 @@
     "mark": 3413
   },
   {
-    "nameDetail": "MTFDDAK128MAY-1AH1ZABHA",
-    "mark": 3413
-  },
-  {
     "nameDetail": "SanDisk SD6SN1M-256G",
     "mark": 3413
   },
@@ -24452,7 +24484,15 @@
     "mark": 3411
   },
   {
+    "nameDetail": "MTFDDAK128MAY-1AH1ZABHA",
+    "mark": 3411
+  },
+  {
     "nameDetail": "Seagate STQ512I1",
+    "mark": 3410
+  },
+  {
+    "nameDetail": "T-FORCE 256GB",
     "mark": 3410
   },
   {
@@ -24500,15 +24540,7 @@
     "mark": 3407
   },
   {
-    "nameDetail": "Patriot Burst Elite 960GB",
-    "mark": 3407
-  },
-  {
     "nameDetail": "S11-128G-PHISON-SSD-B4",
-    "mark": 3407
-  },
-  {
-    "nameDetail": "T-FORCE 256GB",
     "mark": 3407
   },
   {
@@ -24608,10 +24640,6 @@
     "mark": 3397
   },
   {
-    "nameDetail": "SanDisk SD8SBAT-256G-1006",
-    "mark": 3397
-  },
-  {
     "nameDetail": "BIWIN SSD 128GB",
     "mark": 3396
   },
@@ -24668,6 +24696,10 @@
     "mark": 3391
   },
   {
+    "nameDetail": "SanDisk SD8SBAT-256G-1006",
+    "mark": 3391
+  },
+  {
     "nameDetail": "tigo SSD 120GB",
     "mark": 3391
   },
@@ -24692,10 +24724,6 @@
     "mark": 3388
   },
   {
-    "nameDetail": "Samsung SSD 860 QVO 1TB",
-    "mark": 3388
-  },
-  {
     "nameDetail": "EX276688RUS",
     "mark": 3387
   },
@@ -24704,16 +24732,20 @@
     "mark": 3387
   },
   {
+    "nameDetail": "KINGSTON SV300S37A240G",
+    "mark": 3387
+  },
+  {
     "nameDetail": "Micron M600 MTFDDAY128MBF",
+    "mark": 3387
+  },
+  {
+    "nameDetail": "Samsung SSD 860 QVO 1TB",
     "mark": 3387
   },
   {
     "nameDetail": "SanDisk SD7SB3Q-256G",
     "mark": 3387
-  },
-  {
-    "nameDetail": "KINGSTON SV300S37A240G",
-    "mark": 3386
   },
   {
     "nameDetail": "SSD2SC48 0G1CS1754D117-53",
@@ -24730,6 +24762,10 @@
   {
     "nameDetail": "Transcend TS256GSS D370S",
     "mark": 3385
+  },
+  {
+    "nameDetail": "Patriot Burst Elite 960GB",
+    "mark": 3384
   },
   {
     "nameDetail": "Verbatim Vi560 S3 1TB SSD",
@@ -24993,6 +25029,10 @@
   },
   {
     "nameDetail": "ESSENCORE SSD",
+    "mark": 3352
+  },
+  {
+    "nameDetail": "MV256GB",
     "mark": 3352
   },
   {
@@ -25448,15 +25488,15 @@
     "mark": 3300
   },
   {
-    "nameDetail": "KINGSTON SA400S37480G",
-    "mark": 3299
-  },
-  {
     "nameDetail": "GAMER 240MG100-B1",
     "mark": 3298
   },
   {
     "nameDetail": "KingDian S280 1TB",
+    "mark": 3298
+  },
+  {
+    "nameDetail": "KINGSTON SA400S37480G",
     "mark": 3298
   },
   {
@@ -25540,6 +25580,10 @@
     "mark": 3291
   },
   {
+    "nameDetail": "SAMSUNG MZNTY256HDHP-00000",
+    "mark": 3291
+  },
+  {
     "nameDetail": "Acer SSD SA100 240GB",
     "mark": 3290
   },
@@ -25585,10 +25629,6 @@
   },
   {
     "nameDetail": "DREVO X1-240G",
-    "mark": 3288
-  },
-  {
-    "nameDetail": "SAMSUNG MZNTY256HDHP-00000",
     "mark": 3288
   },
   {
@@ -25696,10 +25736,6 @@
     "mark": 3275
   },
   {
-    "nameDetail": "MV256GB",
-    "mark": 3275
-  },
-  {
     "nameDetail": "RTOTJ256VGD2MYX",
     "mark": 3275
   },
@@ -25785,10 +25821,6 @@
   },
   {
     "nameDetail": "SAMSUNG MZ7TD512HAGM-000",
-    "mark": 3268
-  },
-  {
-    "nameDetail": "SSDPR-CL100-480-G3",
     "mark": 3268
   },
   {
@@ -25962,6 +25994,10 @@
   {
     "nameDetail": "HP SSD S700 Pro 128GB",
     "mark": 3254
+  },
+  {
+    "nameDetail": "SSDPR-CL100-480-G3",
+    "mark": 3253
   },
   {
     "nameDetail": "KINGSTON SV300S37A120G",
@@ -26168,6 +26204,10 @@
     "mark": 3231
   },
   {
+    "nameDetail": "HP SSD S700 500GB",
+    "mark": 3229
+  },
+  {
     "nameDetail": "MTFDDAK128MBF-1AN1ZABHA",
     "mark": 3229
   },
@@ -26193,10 +26233,6 @@
   },
   {
     "nameDetail": "HFS128G39MND-3510A",
-    "mark": 3227
-  },
-  {
-    "nameDetail": "HP SSD S700 500GB",
     "mark": 3227
   },
   {
@@ -26520,6 +26556,10 @@
     "mark": 3191
   },
   {
+    "nameDetail": "BORY R500 256G",
+    "mark": 3191
+  },
+  {
     "nameDetail": "INTEL SSDSC2BB800G7",
     "mark": 3191
   },
@@ -26676,12 +26716,12 @@
     "mark": 3175
   },
   {
-    "nameDetail": "PH3-CE240",
+    "nameDetail": "Intel SSD 330 120GB",
     "mark": 3175
   },
   {
-    "nameDetail": "Intel SSD 330 120GB",
-    "mark": 3174
+    "nameDetail": "PH3-CE240",
+    "mark": 3175
   },
   {
     "nameDetail": "RTITF128PCA1MADL",
@@ -26693,6 +26733,10 @@
   },
   {
     "nameDetail": "BIOSTAR S100-240GB PLUS",
+    "mark": 3172
+  },
+  {
+    "nameDetail": "CONSISTENT SSD S6 256GB",
     "mark": 3172
   },
   {
@@ -26752,16 +26796,16 @@
     "mark": 3169
   },
   {
+    "nameDetail": "GIGABYTE GP-GSTFS31240GNTD",
+    "mark": 3168
+  },
+  {
     "nameDetail": "SSD2SC24 0G1CS2754D117-48",
     "mark": 3168
   },
   {
     "nameDetail": "Transcend TS480GSSD220S",
     "mark": 3168
-  },
-  {
-    "nameDetail": "GIGABYTE GP-GSTFS31240GNTD",
-    "mark": 3167
   },
   {
     "nameDetail": "HS256E 256GB",
@@ -26820,10 +26864,6 @@
     "mark": 3160
   },
   {
-    "nameDetail": "Mushkin ECO2 512GB MKNSSDEC512GB",
-    "mark": 3159
-  },
-  {
     "nameDetail": "Phison SSB128GPTC0-S81",
     "mark": 3159
   },
@@ -26852,10 +26892,6 @@
     "mark": 3158
   },
   {
-    "nameDetail": "CONSISTENT SSD S6 256GB",
-    "mark": 3157
-  },
-  {
     "nameDetail": "DGSR2256GS93T",
     "mark": 3157
   },
@@ -26876,6 +26912,10 @@
     "mark": 3156
   },
   {
+    "nameDetail": "KINGSTON SA400M8240G",
+    "mark": 3155
+  },
+  {
     "nameDetail": "Teclast 240GB A800",
     "mark": 3155
   },
@@ -26892,10 +26932,6 @@
     "mark": 3154
   },
   {
-    "nameDetail": "KINGSTON SA400M8240G",
-    "mark": 3154
-  },
-  {
     "nameDetail": "SAMSUNG MZ7TY256HDHP-000H1",
     "mark": 3154
   },
@@ -26908,16 +26944,8 @@
     "mark": 3152
   },
   {
-    "nameDetail": "TWSC TSC10N256-H7T10S",
-    "mark": 3152
-  },
-  {
     "nameDetail": "Seagate ST42G0TM8S02S",
     "mark": 3151
-  },
-  {
-    "nameDetail": "BORY R500 256G",
-    "mark": 3150
   },
   {
     "nameDetail": "Transcend TS256GSS D370",
@@ -26945,6 +26973,10 @@
   },
   {
     "nameDetail": "HKVSN HS-SSD-C100/240G",
+    "mark": 3145
+  },
+  {
+    "nameDetail": "Mushkin ECO2 512GB MKNSSDEC512GB",
     "mark": 3145
   },
   {
@@ -27008,6 +27040,10 @@
     "mark": 3138
   },
   {
+    "nameDetail": "LITEON CV3-8D128-11 128GB",
+    "mark": 3138
+  },
+  {
     "nameDetail": "ADATA Premier SP600 512GB",
     "mark": 3137
   },
@@ -27025,10 +27061,6 @@
   },
   {
     "nameDetail": "KingDian S370 256GB",
-    "mark": 3136
-  },
-  {
-    "nameDetail": "LITEON CV3-8D128-11 128GB",
     "mark": 3136
   },
   {
@@ -27260,10 +27292,6 @@
     "mark": 3110
   },
   {
-    "nameDetail": "Patriot P210 512GB",
-    "mark": 3110
-  },
-  {
     "nameDetail": "V-GEN08SM23AR256SDK 256GB",
     "mark": 3109
   },
@@ -27298,6 +27326,10 @@
   {
     "nameDetail": "SSD2SC12 0G5LC709B121-510",
     "mark": 3107
+  },
+  {
+    "nameDetail": "Patriot P210 512GB",
+    "mark": 3105
   },
   {
     "nameDetail": "Mushkin Atlas Vital 250GB MKNSSDAV250GB-D8",
@@ -27376,10 +27408,6 @@
     "mark": 3095
   },
   {
-    "nameDetail": "ADATA SU800 SSD 128GB",
-    "mark": 3094
-  },
-  {
     "nameDetail": "Intel SSD E 5400s 120GB",
     "mark": 3094
   },
@@ -27408,6 +27436,10 @@
     "mark": 3093
   },
   {
+    "nameDetail": "ADATA SU800 SSD 128GB",
+    "mark": 3092
+  },
+  {
     "nameDetail": "Gigastone Prime Series",
     "mark": 3091
   },
@@ -27418,6 +27450,10 @@
   {
     "nameDetail": "SSD2SC120G1CS1754D117-551",
     "mark": 3091
+  },
+  {
+    "nameDetail": "Intel SSD 530 120GB 2.5\"",
+    "mark": 3090
   },
   {
     "nameDetail": "SAMSUNG MZMTD512HAGL-000L1",
@@ -27433,10 +27469,6 @@
   },
   {
     "nameDetail": "FCCT960M500SSD1",
-    "mark": 3089
-  },
-  {
-    "nameDetail": "Intel SSD 530 120GB 2.5\"",
     "mark": 3089
   },
   {
@@ -27536,7 +27568,7 @@
     "mark": 3080
   },
   {
-    "nameDetail": "SK hynix SC300 M.2 2280 128GB",
+    "nameDetail": "TWSC TSC10N256-H7T10S",
     "mark": 3080
   },
   {
@@ -27624,6 +27656,14 @@
     "mark": 3072
   },
   {
+    "nameDetail": "KINGSTON SQ500S37240G",
+    "mark": 3071
+  },
+  {
+    "nameDetail": "SK hynix SC300 M.2 2280 128GB",
+    "mark": 3071
+  },
+  {
     "nameDetail": "ZTC-SM201-128GB",
     "mark": 3071
   },
@@ -27668,6 +27708,10 @@
     "mark": 3068
   },
   {
+    "nameDetail": "WTM2-SSD-1TB",
+    "mark": 3068
+  },
+  {
     "nameDetail": "MLD M200 120GB",
     "mark": 3066
   },
@@ -27704,16 +27748,16 @@
     "mark": 3061
   },
   {
+    "nameDetail": "TEAM T253X1960G",
+    "mark": 3061
+  },
+  {
     "nameDetail": "UDSS UD3CS1HT301-128G",
     "mark": 3061
   },
   {
     "nameDetail": "Fanxiang S101 512GB",
     "mark": 3060
-  },
-  {
-    "nameDetail": "KINGSTON SQ500S37240G",
-    "mark": 3059
   },
   {
     "nameDetail": "SSD2SC24 0G1SA754D117-443",
@@ -27853,10 +27897,6 @@
   },
   {
     "nameDetail": "JAJM300M240C",
-    "mark": 3044
-  },
-  {
-    "nameDetail": "TEAM T253X1960G",
     "mark": 3044
   },
   {
@@ -28332,6 +28372,10 @@
     "mark": 2990
   },
   {
+    "nameDetail": "Patriot P210 256GB",
+    "mark": 2990
+  },
+  {
     "nameDetail": "HFS064G3AMNB-2200A",
     "mark": 2989
   },
@@ -28345,10 +28389,6 @@
   },
   {
     "nameDetail": "Colorful CN500 240GB",
-    "mark": 2988
-  },
-  {
-    "nameDetail": "Patriot P210 256GB",
     "mark": 2988
   },
   {
@@ -29352,6 +29392,10 @@
     "mark": 2884
   },
   {
+    "nameDetail": "SSD25PY128",
+    "mark": 2884
+  },
+  {
     "nameDetail": "Transcend TS256GMTS952T-I",
     "mark": 2884
   },
@@ -29496,12 +29540,12 @@
     "mark": 2868
   },
   {
-    "nameDetail": "PNY CS900 120GB SSD",
+    "nameDetail": "SanDisk SD6SB1M128G1022I",
     "mark": 2868
   },
   {
-    "nameDetail": "SanDisk SD6SB1M128G1022I",
-    "mark": 2868
+    "nameDetail": "PNY CS900 120GB SSD",
+    "mark": 2867
   },
   {
     "nameDetail": "SanDisk SD6SB1M-128G-1006",
@@ -29664,6 +29708,10 @@
     "mark": 2844
   },
   {
+    "nameDetail": "HS-SSD-Desire(S) 512G",
+    "mark": 2844
+  },
+  {
     "nameDetail": "SanDisk SDSSDHP2",
     "mark": 2844
   },
@@ -29729,10 +29777,6 @@
   },
   {
     "nameDetail": "Seagate ST21G0SS2D02S",
-    "mark": 2840
-  },
-  {
-    "nameDetail": "SSD 2.5\" TLC 512GB InnovationIT",
     "mark": 2840
   },
   {
@@ -29806,10 +29850,6 @@
   {
     "nameDetail": "WALRAM 240GB",
     "mark": 2832
-  },
-  {
-    "nameDetail": "LITEON LCH-128V2S-11 2.5 7mm 128GB",
-    "mark": 2831
   },
   {
     "nameDetail": "Netac SSD 960GB",
@@ -29912,10 +29952,6 @@
     "mark": 2823
   },
   {
-    "nameDetail": "KingFast F6 PRO 240GB SSD",
-    "mark": 2823
-  },
-  {
     "nameDetail": "Micron M500DC 240GB MTFDDAK240MBB",
     "mark": 2822
   },
@@ -29932,11 +29968,11 @@
     "mark": 2821
   },
   {
-    "nameDetail": "DREVO X1 PRO SSD",
-    "mark": 2820
+    "nameDetail": "SAMSUNG MZ7TE256HMHP-00004",
+    "mark": 2821
   },
   {
-    "nameDetail": "SAMSUNG MZ7TE256HMHP-00004",
+    "nameDetail": "DREVO X1 PRO SSD",
     "mark": 2820
   },
   {
@@ -29956,6 +29992,10 @@
     "mark": 2819
   },
   {
+    "nameDetail": "LITEON LCH-128V2S-11 2.5 7mm 128GB",
+    "mark": 2818
+  },
+  {
     "nameDetail": "SAMSUNG MZ7WD240HAFV-000",
     "mark": 2818
   },
@@ -29964,12 +30004,12 @@
     "mark": 2817
   },
   {
-    "nameDetail": "CT480BX500SSD1",
+    "nameDetail": "KingFast F6 PRO 480GB SSD",
     "mark": 2817
   },
   {
-    "nameDetail": "KingFast F6 PRO 480GB SSD",
-    "mark": 2817
+    "nameDetail": "CT480BX500SSD1",
+    "mark": 2816
   },
   {
     "nameDetail": "KLEVV SSD NEO N510+ 240GB",
@@ -30012,6 +30052,10 @@
     "mark": 2813
   },
   {
+    "nameDetail": "KingFast F6 PRO 240GB SSD",
+    "mark": 2812
+  },
+  {
     "nameDetail": "PNY CS900 480GB",
     "mark": 2812
   },
@@ -30026,10 +30070,6 @@
   {
     "nameDetail": "KLEVV NEO N400 SSD 120GB",
     "mark": 2811
-  },
-  {
-    "nameDetail": "Apacer AS340 120GB",
-    "mark": 2810
   },
   {
     "nameDetail": "GLOWAY WAR PRO T300 240G",
@@ -30050,6 +30090,10 @@
   {
     "nameDetail": "Seagate ST21G8TM4S00",
     "mark": 2809
+  },
+  {
+    "nameDetail": "Apacer AS340 120GB",
+    "mark": 2808
   },
   {
     "nameDetail": "SSD2SC120G3LC726B104-370P",
@@ -30144,10 +30188,6 @@
     "mark": 2799
   },
   {
-    "nameDetail": "CT500BX500SSD1",
-    "mark": 2799
-  },
-  {
     "nameDetail": "SSDPR-CL100-240-G2",
     "mark": 2799
   },
@@ -30170,6 +30210,10 @@
   {
     "nameDetail": "SSD2SC480G5LC726B104-298",
     "mark": 2797
+  },
+  {
+    "nameDetail": "CT500BX500SSD1",
+    "mark": 2796
   },
   {
     "nameDetail": "HI-LEVEL Ultra Series 240GB",
@@ -30280,12 +30324,16 @@
     "mark": 2776
   },
   {
+    "nameDetail": "SSD 2.5\" TLC 512GB InnovationIT",
+    "mark": 2776
+  },
+  {
     "nameDetail": "HS-SSD-WAVE(S) 240G",
     "mark": 2775
   },
   {
     "nameDetail": "WDC WDS240G2G0B",
-    "mark": 2775
+    "mark": 2774
   },
   {
     "nameDetail": "Intel SSD DC S3500 160GB",
@@ -30364,10 +30412,6 @@
     "mark": 2764
   },
   {
-    "nameDetail": "HS-SSD-Desire(S) 512G",
-    "mark": 2763
-  },
-  {
     "nameDetail": "LITEON IT L8H-128V2G",
     "mark": 2763
   },
@@ -30424,12 +30468,12 @@
     "mark": 2756
   },
   {
-    "nameDetail": "LITEON IT L8T-64L9G",
-    "mark": 2755
-  },
-  {
     "nameDetail": "SAMSUNG MZNTD256HAGL-000",
     "mark": 2754
+  },
+  {
+    "nameDetail": "LITEON IT L8T-64L9G",
+    "mark": 2753
   },
   {
     "nameDetail": "PLEXTOR PX-128M6V",
@@ -30469,10 +30513,6 @@
   },
   {
     "nameDetail": "KSQ120",
-    "mark": 2748
-  },
-  {
-    "nameDetail": "Netac SSD 128GB",
     "mark": 2748
   },
   {
@@ -30528,6 +30568,10 @@
     "mark": 2740
   },
   {
+    "nameDetail": "Netac SSD 128GB",
+    "mark": 2740
+  },
+  {
     "nameDetail": "QUMO SSD",
     "mark": 2739
   },
@@ -30580,10 +30624,6 @@
     "mark": 2735
   },
   {
-    "nameDetail": "P4-120",
-    "mark": 2735
-  },
-  {
     "nameDetail": "SAMSUNG MZNTE256HMHP-000L1",
     "mark": 2734
   },
@@ -30596,11 +30636,15 @@
     "mark": 2732
   },
   {
+    "nameDetail": "Samsung SSD 840 EVO 120GB",
+    "mark": 2732
+  },
+  {
     "nameDetail": "SanDisk Z400s M.2 2280 128GB",
     "mark": 2732
   },
   {
-    "nameDetail": "Samsung SSD 840 EVO 120GB",
+    "nameDetail": "P4-120",
     "mark": 2731
   },
   {
@@ -30724,6 +30768,10 @@
     "mark": 2714
   },
   {
+    "nameDetail": "Verbatim Vi560 256GB SSD",
+    "mark": 2712
+  },
+  {
     "nameDetail": "LITEON LCH-128V2S-HP",
     "mark": 2711
   },
@@ -30754,10 +30802,6 @@
   {
     "nameDetail": "R580 240GB",
     "mark": 2708
-  },
-  {
-    "nameDetail": "Apacer AS350 128GB",
-    "mark": 2706
   },
   {
     "nameDetail": "APS-SL3N-480",
@@ -30852,11 +30896,11 @@
     "mark": 2697
   },
   {
-    "nameDetail": "LITEONIT 256GB LAT-256M2S",
+    "nameDetail": "Apacer AS350 128GB",
     "mark": 2696
   },
   {
-    "nameDetail": "SK hynix SC308 128GB",
+    "nameDetail": "LITEONIT 256GB LAT-256M2S",
     "mark": 2696
   },
   {
@@ -30869,6 +30913,10 @@
   },
   {
     "nameDetail": "SanDisk SDSA6MM-016G-100",
+    "mark": 2695
+  },
+  {
+    "nameDetail": "SK hynix SC308 128GB",
     "mark": 2695
   },
   {
@@ -31073,10 +31121,6 @@
   },
   {
     "nameDetail": "SATA3 256GB SSD",
-    "mark": 2662
-  },
-  {
-    "nameDetail": "Verbatim Vi560 256GB SSD",
     "mark": 2662
   },
   {
@@ -31344,6 +31388,10 @@
     "mark": 2620
   },
   {
+    "nameDetail": "SanDisk SSD PLUS 1000GB",
+    "mark": 2619
+  },
+  {
     "nameDetail": "SSD2SC480G1CS1754D117-53",
     "mark": 2619
   },
@@ -31370,10 +31418,6 @@
   {
     "nameDetail": "SSDPR-CL100-120-G2",
     "mark": 2618
-  },
-  {
-    "nameDetail": "SanDisk SSD PLUS 1000GB",
-    "mark": 2616
   },
   {
     "nameDetail": "ZTSSD-S11-120G-P",
@@ -31545,10 +31589,6 @@
   },
   {
     "nameDetail": "Fanxiang S102 Pro 500GB",
-    "mark": 2594
-  },
-  {
-    "nameDetail": "Lexar 120GB SSD",
     "mark": 2594
   },
   {
@@ -31780,6 +31820,10 @@
     "mark": 2562
   },
   {
+    "nameDetail": "Lexar 120GB SSD",
+    "mark": 2562
+  },
+  {
     "nameDetail": "M4-CT512M4SSD1",
     "mark": 2561
   },
@@ -31845,6 +31889,10 @@
   },
   {
     "nameDetail": "99IB3321-ASL SSD 480G",
+    "mark": 2549
+  },
+  {
+    "nameDetail": "P4-240",
     "mark": 2549
   },
   {
@@ -31937,10 +31985,6 @@
   },
   {
     "nameDetail": "Apacer A S510S 64GB",
-    "mark": 2537
-  },
-  {
-    "nameDetail": "P4-240",
     "mark": 2537
   },
   {
@@ -32268,10 +32312,6 @@
     "mark": 2487
   },
   {
-    "nameDetail": "EMTEC X250 128GB",
-    "mark": 2486
-  },
-  {
     "nameDetail": "Micron M600 MTFDDAK128MBF",
     "mark": 2485
   },
@@ -32504,6 +32544,10 @@
     "mark": 2449
   },
   {
+    "nameDetail": "EMTEC X250 128GB",
+    "mark": 2446
+  },
+  {
     "nameDetail": "AFOX 120GB",
     "mark": 2445
   },
@@ -32626,10 +32670,6 @@
   {
     "nameDetail": "ShanDianZhe-512G",
     "mark": 2427
-  },
-  {
-    "nameDetail": "MV240GB",
-    "mark": 2426
   },
   {
     "nameDetail": "SSD L06B B0KB",
@@ -32805,10 +32845,6 @@
   },
   {
     "nameDetail": "FCCT256M4SSD1",
-    "mark": 2392
-  },
-  {
-    "nameDetail": "WDS120G2G0A-00JH30",
     "mark": 2392
   },
   {
@@ -33180,6 +33216,10 @@
     "mark": 2324
   },
   {
+    "nameDetail": "WDS120G2G0A-00JH30",
+    "mark": 2324
+  },
+  {
     "nameDetail": "ZTC-SM201-128G",
     "mark": 2324
   },
@@ -33256,10 +33296,6 @@
     "mark": 2311
   },
   {
-    "nameDetail": "Seagate ST2000DM008",
-    "mark": 2311
-  },
-  {
     "nameDetail": "M4-CT128 M4-CT128M4SSD2",
     "mark": 2310
   },
@@ -33274,6 +33310,10 @@
   {
     "nameDetail": "Transcend TSA 240GB",
     "mark": 2307
+  },
+  {
+    "nameDetail": "Seagate ST2000DM008",
+    "mark": 2306
   },
   {
     "nameDetail": "CS667-M256",
@@ -33354,6 +33394,10 @@
   {
     "nameDetail": "SH00R240GB",
     "mark": 2295
+  },
+  {
+    "nameDetail": "MV240GB",
+    "mark": 2293
   },
   {
     "nameDetail": "SAMSUNG MZNLF128HCHP-00000",
@@ -33736,6 +33780,10 @@
     "mark": 2205
   },
   {
+    "nameDetail": "Neo Forza INS121SA356-H05S400",
+    "mark": 2204
+  },
+  {
     "nameDetail": "SAMSUNG MZMTD128HAFV-000H1",
     "mark": 2204
   },
@@ -33818,10 +33866,6 @@
   {
     "nameDetail": "SAMSUNG MZMTD128HAFV-00004",
     "mark": 2189
-  },
-  {
-    "nameDetail": "Neo Forza INS121SA356-H05S400",
-    "mark": 2183
   },
   {
     "nameDetail": "SSD2SC120G5SA754D117-510",
@@ -33948,8 +33992,16 @@
     "mark": 2156
   },
   {
+    "nameDetail": "SSD 2.5\" 256GB InnovationIT QLC",
+    "mark": 2156
+  },
+  {
     "nameDetail": "SSD2SC120G1SA754D117-443",
     "mark": 2155
+  },
+  {
+    "nameDetail": "Maxtor Z1 SSD 240GB",
+    "mark": 2154
   },
   {
     "nameDetail": "Teclast 720GB A850",
@@ -33974,10 +34026,6 @@
   {
     "nameDetail": "Transcend TS64GMTS600",
     "mark": 2150
-  },
-  {
-    "nameDetail": "Maxtor Z1 SSD 240GB",
-    "mark": 2149
   },
   {
     "nameDetail": "MTFDDAK128MAM-1J1",
@@ -34242,10 +34290,6 @@
   {
     "nameDetail": "SanDisk SD8SBAT064G1122",
     "mark": 2074
-  },
-  {
-    "nameDetail": "SSD 2.5\" 256GB InnovationIT QLC",
-    "mark": 2072
   },
   {
     "nameDetail": "InnoDisk mSATA 3MG2-P 128GB",
@@ -34548,16 +34592,16 @@
     "mark": 1962
   },
   {
-    "nameDetail": "TOSHIBA DT01ACA200",
-    "mark": 1962
-  },
-  {
     "nameDetail": "Transcend TS64GMSA370",
     "mark": 1962
   },
   {
     "nameDetail": "Micron M500 mSATA 120GB MTFDDAT120MAV",
     "mark": 1961
+  },
+  {
+    "nameDetail": "TOSHIBA DT01ACA200",
+    "mark": 1960
   },
   {
     "nameDetail": "ADATA XPG SX910 128GB",
@@ -35164,6 +35208,10 @@
     "mark": 1746
   },
   {
+    "nameDetail": "Optane+932GBHDD",
+    "mark": 1743
+  },
+  {
     "nameDetail": "WDC WD20EZRZ",
     "mark": 1743
   },
@@ -35181,10 +35229,6 @@
   },
   {
     "nameDetail": "KODAK SSD X100 120GB",
-    "mark": 1740
-  },
-  {
-    "nameDetail": "Optane+932GBHDD",
     "mark": 1740
   },
   {
@@ -35220,15 +35264,15 @@
     "mark": 1727
   },
   {
+    "nameDetail": "SanDisk SDSSDP128G",
+    "mark": 1724
+  },
+  {
     "nameDetail": "Seagate ST16000NM000J",
     "mark": 1724
   },
   {
     "nameDetail": "SAMSUNG MZ8PA256HMDR-010",
-    "mark": 1723
-  },
-  {
-    "nameDetail": "SanDisk SDSSDP128G",
     "mark": 1723
   },
   {
@@ -36061,7 +36105,7 @@
   },
   {
     "nameDetail": "Seagate ST1000LM049",
-    "mark": 1460
+    "mark": 1458
   },
   {
     "nameDetail": "SK ADROI T",
@@ -36120,10 +36164,6 @@
     "mark": 1433
   },
   {
-    "nameDetail": "WDC WD4005FZBX",
-    "mark": 1432
-  },
-  {
     "nameDetail": "SanDisk SSD U100",
     "mark": 1431
   },
@@ -36173,6 +36213,10 @@
   },
   {
     "nameDetail": "SSD2SC24 0G1SA754D117",
+    "mark": 1419
+  },
+  {
+    "nameDetail": "WDC WD4005FZBX",
     "mark": 1419
   },
   {
@@ -36278,6 +36322,10 @@
   {
     "nameDetail": "Kingston TX2964",
     "mark": 1385
+  },
+  {
+    "nameDetail": "Kingston Y29128",
+    "mark": 1379
   },
   {
     "nameDetail": "SanDisk SSD i110 32GB",
@@ -36532,10 +36580,6 @@
     "mark": 1319
   },
   {
-    "nameDetail": "Generic ARV21X",
-    "mark": 1318
-  },
-  {
     "nameDetail": "Intel SSD 320 256GB 9.5mm",
     "mark": 1318
   },
@@ -36574,6 +36618,10 @@
   {
     "nameDetail": "SanDisk Z400s M.2 2242 32GB",
     "mark": 1307
+  },
+  {
+    "nameDetail": "Generic ARV21X",
+    "mark": 1306
   },
   {
     "nameDetail": "GT55914-SSD 240GB 2.53",
@@ -36697,15 +36745,15 @@
   },
   {
     "nameDetail": "Seagate ST2000DM006",
-    "mark": 1277
-  },
-  {
-    "nameDetail": "SanDisk DA4128",
-    "mark": 1274
+    "mark": 1275
   },
   {
     "nameDetail": "KINGSTON SVP100S",
     "mark": 1273
+  },
+  {
+    "nameDetail": "SanDisk DA4128",
+    "mark": 1271
   },
   {
     "nameDetail": "Kingston X29128",
@@ -36796,6 +36844,10 @@
     "mark": 1248
   },
   {
+    "nameDetail": "Generic SCA64G",
+    "mark": 1248
+  },
+  {
     "nameDetail": "Seagate ST2000NC000",
     "mark": 1248
   },
@@ -36818,10 +36870,6 @@
   {
     "nameDetail": "Wintec SSD 256GB",
     "mark": 1245
-  },
-  {
-    "nameDetail": "Generic SCA64G",
-    "mark": 1244
   },
   {
     "nameDetail": "HGST HUS 726020ALE610",
@@ -37056,12 +37104,12 @@
     "mark": 1179
   },
   {
-    "nameDetail": "Generic G1J39E",
-    "mark": 1178
-  },
-  {
     "nameDetail": "Seagate ST3000VX000",
     "mark": 1176
+  },
+  {
+    "nameDetail": "Generic G1J39E",
+    "mark": 1175
   },
   {
     "nameDetail": "ADATA S396 30GB",
@@ -37444,12 +37492,12 @@
     "mark": 1087
   },
   {
-    "nameDetail": "TOSHIBA DT01ACA050",
+    "nameDetail": "WDC SSC-D0064SC",
     "mark": 1086
   },
   {
-    "nameDetail": "WDC SSC-D0064SC",
-    "mark": 1086
+    "nameDetail": "TOSHIBA DT01ACA050",
+    "mark": 1085
   },
   {
     "nameDetail": "Patriot Torqx TRB 64GB SSD",
@@ -37632,15 +37680,15 @@
     "mark": 1047
   },
   {
-    "nameDetail": "WDC WD5000AZLX",
-    "mark": 1045
-  },
-  {
     "nameDetail": "WDC WD20EARZ",
     "mark": 1044
   },
   {
     "nameDetail": "OOS2000G",
+    "mark": 1043
+  },
+  {
+    "nameDetail": "WDC WD5000AZLX",
     "mark": 1043
   },
   {
@@ -38236,6 +38284,10 @@
     "mark": 915
   },
   {
+    "nameDetail": "Samsung BGND3R",
+    "mark": 914
+  },
+  {
     "nameDetail": "Hitachi HDS72302",
     "mark": 913
   },
@@ -38317,10 +38369,6 @@
   },
   {
     "nameDetail": "Hitachi HDS723030ALA640",
-    "mark": 904
-  },
-  {
-    "nameDetail": "Samsung BGND3R",
     "mark": 904
   },
   {
@@ -38568,6 +38616,10 @@
     "mark": 856
   },
   {
+    "nameDetail": "Generic ISOCOM",
+    "mark": 854
+  },
+  {
     "nameDetail": "WDC WD5000LPSX",
     "mark": 852
   },
@@ -38578,10 +38630,6 @@
   {
     "nameDetail": "WDC WD30EZRX",
     "mark": 851
-  },
-  {
-    "nameDetail": "Generic ISOCOM",
-    "mark": 850
   },
   {
     "nameDetail": "Toshiba 128G3A",
@@ -38832,11 +38880,11 @@
     "mark": 813
   },
   {
-    "nameDetail": "TOSHIBA MQ01ACF050",
-    "mark": 813
+    "nameDetail": "Apacer AST680S 128GB",
+    "mark": 811
   },
   {
-    "nameDetail": "Apacer AST680S 128GB",
+    "nameDetail": "TOSHIBA MQ01ACF050",
     "mark": 811
   },
   {
@@ -38904,6 +38952,10 @@
     "mark": 799
   },
   {
+    "nameDetail": "WDC WD2500AAKX",
+    "mark": 799
+  },
+  {
     "nameDetail": "Hitachi HUA72302",
     "mark": 797
   },
@@ -38913,10 +38965,6 @@
   },
   {
     "nameDetail": "SAMSUNG SSD PM800 mSATA 64GB",
-    "mark": 797
-  },
-  {
-    "nameDetail": "WDC WD2500AAKX",
     "mark": 797
   },
   {
@@ -38956,10 +39004,6 @@
     "mark": 793
   },
   {
-    "nameDetail": "WDC WD5000LPZX",
-    "mark": 793
-  },
-  {
     "nameDetail": "Toshiba 032G34",
     "mark": 792
   },
@@ -38969,6 +39013,10 @@
   },
   {
     "nameDetail": "Seagate STM35004 18AS",
+    "mark": 791
+  },
+  {
+    "nameDetail": "WDC WD5000LPZX",
     "mark": 791
   },
   {
@@ -39096,11 +39144,11 @@
     "mark": 771
   },
   {
-    "nameDetail": "WDC WD7500BPKT",
-    "mark": 771
+    "nameDetail": "Hitachi HCS5C1010DLE630",
+    "mark": 769
   },
   {
-    "nameDetail": "Hitachi HCS5C1010DLE630",
+    "nameDetail": "WDC WD7500BPKT",
     "mark": 769
   },
   {
@@ -39156,10 +39204,6 @@
     "mark": 765
   },
   {
-    "nameDetail": "SAMSUNG HD322GJ",
-    "mark": 765
-  },
-  {
     "nameDetail": "WD WD10JPCX-24UE4T0",
     "mark": 765
   },
@@ -39173,6 +39217,10 @@
   },
   {
     "nameDetail": "OCZ Vertex Plus R2 60GB",
+    "mark": 763
+  },
+  {
+    "nameDetail": "SAMSUNG HD322GJ",
     "mark": 763
   },
   {
@@ -39692,10 +39740,6 @@
     "mark": 705
   },
   {
-    "nameDetail": "WDC WD5000BPKT",
-    "mark": 705
-  },
-  {
     "nameDetail": "WD WD10JPVX-22JC3T0",
     "mark": 704
   },
@@ -39713,6 +39757,10 @@
   },
   {
     "nameDetail": "WD10JPVX-75JC3T",
+    "mark": 703
+  },
+  {
+    "nameDetail": "WDC WD5000BPKT",
     "mark": 703
   },
   {
@@ -40076,10 +40124,6 @@
     "mark": 671
   },
   {
-    "nameDetail": "TOSHIBA MQ01ABD050V",
-    "mark": 671
-  },
-  {
     "nameDetail": "Samsung MBG4GC",
     "mark": 670
   },
@@ -40157,6 +40201,10 @@
   },
   {
     "nameDetail": "Hitachi HDT721050SLA360",
+    "mark": 664
+  },
+  {
+    "nameDetail": "TOSHIBA MQ01ABD050V",
     "mark": 664
   },
   {
@@ -40296,10 +40344,6 @@
     "mark": 655
   },
   {
-    "nameDetail": "WDC WD5000LPVX",
-    "mark": 655
-  },
-  {
     "nameDetail": "Hitachi HDS5C1010CLA382",
     "mark": 654
   },
@@ -40313,6 +40357,10 @@
   },
   {
     "nameDetail": "Seagate ST3750528AS",
+    "mark": 654
+  },
+  {
+    "nameDetail": "WDC WD5000LPVX",
     "mark": 654
   },
   {
@@ -40380,15 +40428,15 @@
     "mark": 649
   },
   {
-    "nameDetail": "Seagate ST500LM000",
-    "mark": 649
-  },
-  {
     "nameDetail": "Seagate ST3320413AS",
     "mark": 649
   },
   {
     "nameDetail": "SAMSUNG HM640JJ",
+    "mark": 648
+  },
+  {
+    "nameDetail": "Seagate ST500LM000",
     "mark": 648
   },
   {
@@ -41844,15 +41892,15 @@
     "mark": 531
   },
   {
+    "nameDetail": "WDC WD3200LPVX",
+    "mark": 531
+  },
+  {
     "nameDetail": "Seagate ST160LT000",
     "mark": 530
   },
   {
     "nameDetail": "WDC WD740ADFS",
-    "mark": 530
-  },
-  {
-    "nameDetail": "WDC WD3200LPVX",
     "mark": 530
   },
   {
@@ -42248,6 +42296,10 @@
     "mark": 500
   },
   {
+    "nameDetail": "HGST HTS545032A7E680",
+    "mark": 499
+  },
+  {
     "nameDetail": "Hitachi HCC543232A7A380",
     "mark": 499
   },
@@ -42270,10 +42322,6 @@
   {
     "nameDetail": "TOSHIBA MK7559GSXF",
     "mark": 499
-  },
-  {
-    "nameDetail": "HGST HTS545032A7E680",
-    "mark": 497
   },
   {
     "nameDetail": "HITACHI HTS541075A9E680",
@@ -42900,6 +42948,10 @@
     "mark": 456
   },
   {
+    "nameDetail": "TOSHIBA MK5075GSX",
+    "mark": 456
+  },
+  {
     "nameDetail": "Hitachi HDS721010KLA",
     "mark": 455
   },
@@ -42948,11 +43000,11 @@
     "mark": 454
   },
   {
-    "nameDetail": "TOSHIBA MK5075GSX",
-    "mark": 454
+    "nameDetail": "HGST HTS545032A7E380",
+    "mark": 453
   },
   {
-    "nameDetail": "HGST HTS545032A7E380",
+    "nameDetail": "SAMSUNG HM250HI",
     "mark": 453
   },
   {
@@ -42993,10 +43045,6 @@
   },
   {
     "nameDetail": "Hitachi HTS725016A9A364",
-    "mark": 450
-  },
-  {
-    "nameDetail": "SAMSUNG HM250HI",
     "mark": 450
   },
   {
@@ -43136,6 +43184,10 @@
     "mark": 441
   },
   {
+    "nameDetail": "SAMSUNG HM500JI",
+    "mark": 441
+  },
+  {
     "nameDetail": "Seagate ST3250820NS",
     "mark": 441
   },
@@ -43149,10 +43201,6 @@
   },
   {
     "nameDetail": "Hitachi HTS545032A7E380",
-    "mark": 440
-  },
-  {
-    "nameDetail": "SAMSUNG HM500JI",
     "mark": 440
   },
   {
@@ -44748,10 +44796,6 @@
     "mark": 351
   },
   {
-    "nameDetail": "Ramaxel 64GB",
-    "mark": 350
-  },
-  {
     "nameDetail": "SAMSUNG SP1654N",
     "mark": 350
   },
@@ -44885,6 +44929,10 @@
   },
   {
     "nameDetail": "Hitachi HDS72252 5VLSA80",
+    "mark": 343
+  },
+  {
+    "nameDetail": "Ramaxel 64GB",
     "mark": 343
   },
   {
