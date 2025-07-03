@@ -88,6 +88,10 @@
     "mark": 3271
   },
   {
+    "nameDetail": "AMD EPYC 4465P",
+    "mark": 3268
+  },
+  {
     "nameDetail": "Apple M3 Ultra",
     "mark": 3247
   },
@@ -218,6 +222,10 @@
   {
     "nameDetail": "AMD Ryzen 9 7950X3D",
     "mark": 3001
+  },
+  {
+    "nameDetail": "Intel Xeon 6353P",
+    "mark": 2998
   },
   {
     "nameDetail": "AMD Ryzen 5 7600",
@@ -2612,6 +2620,10 @@
     "mark": 1689
   },
   {
+    "nameDetail": "Intel Xeon w7-3545",
+    "mark": 1689
+  },
+  {
     "nameDetail": "AMD EPYC 7543",
     "mark": 1688
   },
@@ -3938,17 +3950,5 @@
   {
     "nameDetail": "Intel Core i7 10875H",
     "mark": 1237
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 2500X",
-    "mark": 1234
-  },
-  {
-    "nameDetail": "Intel Core i5 8265U",
-    "mark": 1230
-  },
-  {
-    "nameDetail": "Intel Processor N97",
-    "mark": 1229
   }
 ]
