@@ -56,6 +56,10 @@
     "mark": 3380
   },
   {
+    "nameDetail": "AMD EPYC 4245P",
+    "mark": 3347
+  },
+  {
     "nameDetail": "AMD Ryzen 9 9900X",
     "mark": 3342
   },
@@ -74,6 +78,14 @@
   {
     "nameDetail": "AMD Ryzen 7 9800X3D",
     "mark": 3316
+  },
+  {
+    "nameDetail": "AMD EPYC 4545P",
+    "mark": 3300
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 9980X",
+    "mark": 3297
   },
   {
     "nameDetail": "Intel Core i9 13900KS",
@@ -148,6 +160,10 @@
     "mark": 3126
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper 9970X",
+    "mark": 3126
+  },
+  {
     "nameDetail": "Intel Core Ultra 9 285HX",
     "mark": 3113
   },
@@ -182,6 +198,10 @@
   {
     "nameDetail": "Intel Core i9 13900K",
     "mark": 3034
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 265F",
+    "mark": 3032
   },
   {
     "nameDetail": "AMD Ryzen Embedded 7700X",
@@ -342,10 +362,6 @@
   {
     "nameDetail": "AMD Ryzen Embedded 7600X",
     "mark": 2901
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 265F",
-    "mark": 2893
   },
   {
     "nameDetail": "AMD Ryzen 9 PRO 7945",
@@ -772,10 +788,6 @@
     "mark": 2626
   },
   {
-    "nameDetail": "AMD Ryzen 5 7400F",
-    "mark": 2626
-  },
-  {
     "nameDetail": "Intel Core i7 12700K",
     "mark": 2625
   },
@@ -818,6 +830,10 @@
   {
     "nameDetail": "Intel Core Ultra 7 256V",
     "mark": 2607
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7400F",
+    "mark": 2603
   },
   {
     "nameDetail": "AMD EPYC 9355P",
@@ -1766,6 +1782,10 @@
   {
     "nameDetail": "Intel Core i3 12100TE",
     "mark": 2131
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 5 330",
+    "mark": 2130
   },
   {
     "nameDetail": "Intel Xeon w7-3465X",
@@ -2728,6 +2748,10 @@
     "mark": 1664
   },
   {
+    "nameDetail": "Intel Core i3-1115GRE",
+    "mark": 1661
+  },
+  {
     "nameDetail": "Intel Xeon E-2224G",
     "mark": 1660
   },
@@ -2896,6 +2920,10 @@
     "mark": 1595
   },
   {
+    "nameDetail": "Intel Core i3-1115G4E",
+    "mark": 1595
+  },
+  {
     "nameDetail": "AMD Ryzen 5 4600G",
     "mark": 1591
   },
@@ -2969,6 +2997,10 @@
   },
   {
     "nameDetail": "Intel Xeon E-2126G",
+    "mark": 1566
+  },
+  {
+    "nameDetail": "Intel Core i7-1185GRE",
     "mark": 1566
   },
   {
@@ -3488,6 +3520,10 @@
     "mark": 1385
   },
   {
+    "nameDetail": "Intel Core i5-1145G7E",
+    "mark": 1384
+  },
+  {
     "nameDetail": "Intel Xeon W-2150B",
     "mark": 1383
   },
@@ -3914,41 +3950,5 @@
   {
     "nameDetail": "AMD Ryzen Threadripper 2990WX",
     "mark": 1253
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1270 v3",
-    "mark": 1252
-  },
-  {
-    "nameDetail": "Intel Core i7 7820X",
-    "mark": 1252
-  },
-  {
-    "nameDetail": "Intel Core i3 10100T",
-    "mark": 1251
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1545M v5",
-    "mark": 1251
-  },
-  {
-    "nameDetail": "AMD Ryzen Threadripper 1950X",
-    "mark": 1249
-  },
-  {
-    "nameDetail": "Intel Core i7 8565U",
-    "mark": 1249
-  },
-  {
-    "nameDetail": "Intel Core i5 9500T",
-    "mark": 1244
-  },
-  {
-    "nameDetail": "Intel Core i7 5960X",
-    "mark": 1244
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1265L v4",
-    "mark": 1243
   }
 ]
