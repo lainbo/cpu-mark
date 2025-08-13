@@ -88,6 +88,14 @@
     "mark": 23051
   },
   {
+    "nameDetail": "AMD Ryzen AI Max+ 395",
+    "mark": 22953
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
+    "mark": 22929
+  },
+  {
     "nameDetail": "AMD EPYC 9654P",
     "mark": 22897
   },
@@ -214,14 +222,6 @@
   {
     "nameDetail": "AMD Threadripper PRO 7955WX",
     "mark": 21069
-  },
-  {
-    "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 20952
-  },
-  {
-    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
-    "mark": 20946
   },
   {
     "nameDetail": "AMD EPYC Embedded 9354",
@@ -1338,6 +1338,10 @@
   {
     "nameDetail": "Intel Xeon Gold 6421N",
     "mark": 12541
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 H 255",
+    "mark": 12536
   },
   {
     "nameDetail": "Intel Core Ultra 7 155H",
@@ -3958,9 +3962,5 @@
   {
     "nameDetail": "Intel Xeon E-2314",
     "mark": 4782
-  },
-  {
-    "nameDetail": "Intel Xeon Gold 6334",
-    "mark": 4768
   }
 ]

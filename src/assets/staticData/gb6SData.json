@@ -176,6 +176,14 @@
     "mark": 3102
   },
   {
+    "nameDetail": "AMD Ryzen AI Max+ 395",
+    "mark": 3096
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
+    "mark": 3093
+  },
+  {
     "nameDetail": "Intel Core i9 13900KF",
     "mark": 3074
   },
@@ -274,14 +282,6 @@
   {
     "nameDetail": "Qualcomm Snapdragon X Elite",
     "mark": 2980
-  },
-  {
-    "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 2978
-  },
-  {
-    "nameDetail": "AMD Ryzen AI Max+ Pro 395",
-    "mark": 2978
   },
   {
     "nameDetail": "AMD EPYC 4564P",
@@ -1134,6 +1134,10 @@
   {
     "nameDetail": "AMD Ryzen 5 8540U",
     "mark": 2445
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 H 255",
+    "mark": 2440
   },
   {
     "nameDetail": "AMD Ryzen 7 Pro 7840HS",
@@ -3953,10 +3957,6 @@
   },
   {
     "nameDetail": "Intel Xeon E3-1270 v3",
-    "mark": 1252
-  },
-  {
-    "nameDetail": "Intel Core i7 7820X",
     "mark": 1252
   }
 ]
