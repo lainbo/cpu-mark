@@ -1392,6 +1392,10 @@
     "mark": 12301
   },
   {
+    "nameDetail": "AMD EPYC 7C13",
+    "mark": 12279
+  },
+  {
     "nameDetail": "Intel Core 5 220H",
     "mark": 12238
   },
@@ -1570,6 +1574,10 @@
   {
     "nameDetail": "AMD Ryzen 9 Pro 7940HS",
     "mark": 11415
+  },
+  {
+    "nameDetail": "AMD EPYC 7Y43",
+    "mark": 11408
   },
   {
     "nameDetail": "Intel Core i7 1370P",
@@ -3946,13 +3954,5 @@
   {
     "nameDetail": "Intel Xeon E7-4850",
     "mark": 4797
-  },
-  {
-    "nameDetail": "Intel Core i5 10300H",
-    "mark": 4795
-  },
-  {
-    "nameDetail": "Intel Core i7 10875H",
-    "mark": 4795
   }
 ]
