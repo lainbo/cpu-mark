@@ -1,11 +1,19 @@
 [
   {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9985WX",
+    "mark": 33523
+  },
+  {
     "nameDetail": "Apple M4 Ultra",
     "mark": 32898
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 9995WX",
     "mark": 30170
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9975WX",
+    "mark": 29802
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 9980X",
@@ -26,6 +34,10 @@
   {
     "nameDetail": "AMD Ryzen Threadripper 9970X",
     "mark": 28082
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9965WX",
+    "mark": 27258
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7980X",
@@ -50,6 +62,10 @@
   {
     "nameDetail": "AMD Threadripper PRO 7985WX",
     "mark": 24780
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 9960X",
+    "mark": 24770
   },
   {
     "nameDetail": "Intel Core i9 14900KS",
@@ -82,6 +98,10 @@
   {
     "nameDetail": "Intel Core Ultra 9 285K",
     "mark": 23087
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9955WX",
+    "mark": 23062
   },
   {
     "nameDetail": "AMD EPYC 9274F",
@@ -2032,6 +2052,10 @@
     "mark": 10027
   },
   {
+    "nameDetail": "Intel Core Ultra 3 205",
+    "mark": 10013
+  },
+  {
     "nameDetail": "AMD EPYC 8534P",
     "mark": 10011
   },
@@ -2238,6 +2262,10 @@
   {
     "nameDetail": "Intel Core i5 11600KF",
     "mark": 9291
+  },
+  {
+    "nameDetail": "Intel Core i7-11700B",
+    "mark": 9288
   },
   {
     "nameDetail": "Intel Core 7 160UL",
@@ -3926,33 +3954,5 @@
   {
     "nameDetail": "Intel Xeon D-1735TR",
     "mark": 4915
-  },
-  {
-    "nameDetail": "Intel Xeon E-2186M",
-    "mark": 4912
-  },
-  {
-    "nameDetail": "Intel Core i5 10600T",
-    "mark": 4911
-  },
-  {
-    "nameDetail": "Intel Core i7 8559U",
-    "mark": 4869
-  },
-  {
-    "nameDetail": "Intel Xeon E-2278GE",
-    "mark": 4861
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 Pro 5450U",
-    "mark": 4858
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 5700U",
-    "mark": 4856
-  },
-  {
-    "nameDetail": "Intel Core i5 9300HF",
-    "mark": 4849
   }
 ]

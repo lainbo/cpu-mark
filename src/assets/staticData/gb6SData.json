@@ -60,6 +60,10 @@
     "mark": 3351
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9985WX",
+    "mark": 3351
+  },
+  {
     "nameDetail": "AMD EPYC 4245P",
     "mark": 3347
   },
@@ -124,6 +128,10 @@
     "mark": 3227
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9975WX",
+    "mark": 3225
+  },
+  {
     "nameDetail": "Intel Core Ultra 7 265KF",
     "mark": 3208
   },
@@ -138,6 +146,10 @@
   {
     "nameDetail": "Intel Core i9 14900KF",
     "mark": 3176
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9965WX",
+    "mark": 3175
   },
   {
     "nameDetail": "Intel Core i9 14900K",
@@ -192,12 +204,20 @@
     "mark": 3073
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper 9960X",
+    "mark": 3071
+  },
+  {
     "nameDetail": "Intel Core Ultra 5 235HX",
     "mark": 3069
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
     "mark": 3068
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9955WX",
+    "mark": 3054
   },
   {
     "nameDetail": "AMD Ryzen 5 9500F",
@@ -718,6 +738,10 @@
   {
     "nameDetail": "Intel Core Ultra 5 238V",
     "mark": 2684
+  },
+  {
+    "nameDetail": "Intel Core Ultra 3 205",
+    "mark": 2683
   },
   {
     "nameDetail": "Intel Core i9 13900H",
@@ -1621,6 +1645,10 @@
   },
   {
     "nameDetail": "Intel Xeon Gold 6458Q",
+    "mark": 2205
+  },
+  {
+    "nameDetail": "Intel Core i7-11700B",
     "mark": 2205
   },
   {
@@ -3922,33 +3950,5 @@
   {
     "nameDetail": "Intel Core i7 10710U",
     "mark": 1271
-  },
-  {
-    "nameDetail": "Intel Xeon Gold 6448H",
-    "mark": 1270
-  },
-  {
-    "nameDetail": "AMD EPYC 7F32",
-    "mark": 1267
-  },
-  {
-    "nameDetail": "Intel Core i7 1068NG7",
-    "mark": 1266
-  },
-  {
-    "nameDetail": "Intel Xeon Silver 4410T",
-    "mark": 1265
-  },
-  {
-    "nameDetail": "AMD EPYC 7352",
-    "mark": 1264
-  },
-  {
-    "nameDetail": "Intel Xeon W-2140B",
-    "mark": 1264
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1285L v4",
-    "mark": 1264
   }
 ]
