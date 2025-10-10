@@ -68,14 +68,6 @@
     "mark": 24770
   },
   {
-    "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme (X2E-96-100)",
-    "mark": 24444
-  },
-  {
-    "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme",
-    "mark": 24440
-  },
-  {
     "nameDetail": "Intel Core i9 14900KS",
     "mark": 24020
   },
@@ -98,6 +90,10 @@
   {
     "nameDetail": "AMD EPYC 9745",
     "mark": 23581
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme",
+    "mark": 23363
   },
   {
     "nameDetail": "Apple M4 Max 14 Core",
@@ -3954,5 +3950,9 @@
   {
     "nameDetail": "AMD EPYC Embedded 3251",
     "mark": 4939
+  },
+  {
+    "nameDetail": "Intel Xeon E-2224G",
+    "mark": 4916
   }
 ]
