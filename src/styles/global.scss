@@ -3,6 +3,9 @@ body {
   font-family: 'Inter', 'HarmonyOS Sans SC', 'HarmonyOS_Regular', system-ui, —apple-system,
     Segoe UI, Rototo, Helvetica, Arial, sans-serif !important;
 }
+body {
+  text-autospace: normal;
+}
 
 ::selection {
   @apply bg-#165dff text-#fff;

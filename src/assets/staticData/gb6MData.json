@@ -93,7 +93,7 @@
   },
   {
     "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme",
-    "mark": 23369
+    "mark": 23327
   },
   {
     "nameDetail": "Apple M4 Max 14 Core",
@@ -1796,10 +1796,6 @@
     "mark": 10690
   },
   {
-    "nameDetail": "Intel Core i9 11980HK",
-    "mark": 10659
-  },
-  {
     "nameDetail": "AMD EPYC 7302",
     "mark": 10652
   },
@@ -1834,6 +1830,10 @@
   {
     "nameDetail": "Intel Xeon W-3335",
     "mark": 10557
+  },
+  {
+    "nameDetail": "Intel Core i9 11980HK",
+    "mark": 10546
   },
   {
     "nameDetail": "Intel Xeon Platinum 8470",
@@ -2044,6 +2044,10 @@
     "mark": 10069
   },
   {
+    "nameDetail": "Intel Core i9-11950H",
+    "mark": 10064
+  },
+  {
     "nameDetail": "Intel Core Ultra 5 228V",
     "mark": 10053
   },
@@ -2234,6 +2238,10 @@
   {
     "nameDetail": "AMD Ryzen 7 PRO 5845",
     "mark": 9464
+  },
+  {
+    "nameDetail": "Intel Core i9-11900KB",
+    "mark": 9442
   },
   {
     "nameDetail": "Intel Core Ultra 5 225U",
@@ -2472,6 +2480,10 @@
     "mark": 8751
   },
   {
+    "nameDetail": "Intel Core i9-11980HK",
+    "mark": 8738
+  },
+  {
     "nameDetail": "Intel Core i5 13420H",
     "mark": 8737
   },
@@ -2505,7 +2517,7 @@
   },
   {
     "nameDetail": "Intel Core 5 220U",
-    "mark": 8672
+    "mark": 8675
   },
   {
     "nameDetail": "Intel Core i5-14400T",
@@ -3942,17 +3954,5 @@
   {
     "nameDetail": "Intel Core i9 8950HK",
     "mark": 4960
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 Pro 6650U",
-    "mark": 4960
-  },
-  {
-    "nameDetail": "Intel Core i7 9850H",
-    "mark": 4955
-  },
-  {
-    "nameDetail": "AMD EPYC Embedded 3251",
-    "mark": 4939
   }
 ]
