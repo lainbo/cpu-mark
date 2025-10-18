@@ -2,16 +2,32 @@
   <div class="main_app">
     <a-tabs v-model:active-key="activeName" lazy-load>
       <a-tab-pane :key="1" :title="pageConfig.gb6cpuM.title">
-        <MainView :page-data="gb6MData" :page-config="pageConfig.gb6cpuM" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="gb6MData"
+          :page-config="pageConfig.gb6cpuM"
+        />
       </a-tab-pane>
       <a-tab-pane :key="2" :title="pageConfig.gb6cpuS.title">
-        <MainView :page-data="gb6SData" :page-config="pageConfig.gb6cpuS" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="gb6SData"
+          :page-config="pageConfig.gb6cpuS"
+        />
       </a-tab-pane>
       <a-tab-pane :key="3" :title="pageConfig.r23cpuM.title">
-        <MainView :page-data="r23MData" :page-config="pageConfig.r23cpuM" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="r23MData"
+          :page-config="pageConfig.r23cpuM"
+        />
       </a-tab-pane>
       <a-tab-pane :key="4" :title="pageConfig.r23cpuS.title">
-        <MainView :page-data="r23SData" :page-config="pageConfig.r23cpuS" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="r23SData"
+          :page-config="pageConfig.r23cpuS"
+        />
       </a-tab-pane>
       <!-- <a-tab-pane :key="5" title="CPU综合对比">
         <MainView
@@ -21,14 +37,26 @@
         />
       </a-tab-pane> -->
       <a-tab-pane :key="6" :title="pageConfig.soc.title">
-        <MainView :page-data="socData" :page-config="pageConfig.soc" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="socData"
+          :page-config="pageConfig.soc"
+        />
       </a-tab-pane>
       <a-tab-pane :key="7" :title="pageConfig.gpu.title">
-        <MainView :page-data="gpuData" :page-config="pageConfig.gpu" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="gpuData"
+          :page-config="pageConfig.gpu"
+        />
       </a-tab-pane>
 
       <a-tab-pane :key="8" :title="pageConfig.drive.title">
-        <MainView :page-data="hardDriveData" :page-config="pageConfig.drive" />
+        <MainView
+          v-model:selection="globalSelection"
+          :page-data="hardDriveData"
+          :page-config="pageConfig.drive"
+        />
       </a-tab-pane>
     </a-tabs>
   </div>
@@ -43,7 +71,9 @@ import socData from '@/assets/staticData/socData.json'
 import gpuData from '@/assets/staticData/gpuData.json'
 import hardDriveData from '@/assets/staticData/hardDriveData.json'
 
+const globalSelection = ref([]) // 全局记录当前选中的对比项名称
 const activeName = ref(1) // 默认选中的tab
+
 onMounted(() => {
   if (window?.utools) {
     utoolsInit()

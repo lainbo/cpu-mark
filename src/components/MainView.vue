@@ -108,7 +108,7 @@
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
 import { isNumber } from '@/utils/isNumber.js'
-import { cloneDeep, throttle } from 'lodash-es'
+import { cloneDeep, throttle, isEqual } from 'lodash-es'
 
 const props = defineProps({
   pageData: {
@@ -123,6 +123,10 @@ const props = defineProps({
     type: Object,
     default: () => {},
   },
+})
+const selectionModel = defineModel('selection', {
+  type: Array,
+  default: () => [],
 })
 const isDark = useDark() // 响应式：是否为暗色
 const mainRef = ref() // 主体部分的 ref
@@ -154,19 +158,55 @@ const originalData = Object.freeze(tempArr) // 原始数据
 const tableData = ref(originalData) // 表格数据
 const selectArr = ref([]) // 选中的数据
 const tableRef = ref() // 表格ref
+let isRestoring = false // 处于恢复全局对比状态
+const NAME_FIELD = 'nameDetail' // 用于跨表格匹配名称
+const nameToRowMap = new Map(originalData.map(item => [item[NAME_FIELD], item])) // 名称到行的映射
+
+function getSelectionNames(rows = []) {
+  return rows.map(item => item?.[NAME_FIELD]).filter(Boolean)
+}
+
+function updateCheckbox(rows = []) {
+  if (!tableRef.value) {
+    return
+  }
+  isRestoring = true
+  tableRef.value.clearCheckboxRow()
+  if (rows.length) {
+    tableRef.value.setCheckboxRow(rows, true)
+  }
+  nextTick(() => {
+    isRestoring = false
+  })
+}
+
+function applySelection(rows = [], options = {}) {
+  const { emitChange = false, syncCheckbox = true } = options
+  const normalized = Array.isArray(rows) ? [...rows] : []
+  selectArr.value = normalized
+  if (syncCheckbox) {
+    updateCheckbox(normalized)
+  }
+  if (emitChange) {
+    const names = getSelectionNames(normalized)
+    if (!isEqual(selectionModel.value, names)) {
+      selectionModel.value = names
+    }
+  }
+}
 
 // 表格checkbox选中事件
-function selectChangeEvent({ row }) {
-  const index = selectArr.value.findIndex(i => i.key === row.key)
-  index >= 0 ? selectArr.value.splice(index, 1) : selectArr.value.push(row)
+function selectChangeEvent({ records = [] }) {
+  if (isRestoring) {
+    return
+  }
+  applySelection(records, { emitChange: true, syncCheckbox: false })
 }
 
 // 删除右侧比较项
 function removeCompareItem(key) {
-  const index = selectArr.value.findIndex(i => i.key === key)
-  selectArr.value.splice(index, 1)
-  tableRef.value.clearCheckboxRow()
-  tableRef.value.setCheckboxRow(selectArr.value, true)
+  const next = selectArr.value.filter(item => item.key !== key)
+  applySelection(next, { emitChange: true })
 }
 
 // 返回排序后的对比数据
@@ -179,9 +219,54 @@ const calcComparedArr = computed(() => {
 
 // 清空比较
 function resetCompare() {
-  tableRef.value.clearCheckboxRow()
-  selectArr.value = []
+  applySelection([], { emitChange: true })
 }
+
+function restoreSelectionFromGlobal(names = []) {
+  if (!Array.isArray(names) || names.length === 0) {
+    if (selectArr.value.length) {
+      applySelection([], { syncCheckbox: true })
+    } else {
+      updateCheckbox([])
+    }
+    return
+  }
+
+  const matchedRows = []
+  for (const name of names) {
+    const row = nameToRowMap.get(name)
+    if (!row) {
+      if (selectArr.value.length) {
+        applySelection([], { syncCheckbox: true })
+      } else {
+        updateCheckbox([])
+      }
+      return
+    }
+    matchedRows.push(row)
+  }
+
+  const currentNames = getSelectionNames(selectArr.value)
+  if (!isEqual(currentNames, names)) {
+    applySelection(matchedRows, { syncCheckbox: true })
+  } else {
+    updateCheckbox(selectArr.value)
+  }
+}
+
+watch(
+  selectionModel,
+  newVal => {
+    restoreSelectionFromGlobal(newVal)
+  },
+  { deep: true, immediate: true }
+)
+
+onMounted(() => {
+  nextTick(() => {
+    restoreSelectionFromGlobal(selectionModel.value)
+  })
+})
 
 const searchText = ref('') // 搜索文本
 
@@ -195,8 +280,8 @@ watch(
     tableData.value = originalData.filter(item => {
       return handleText(item.nameDetail).includes(handleText(searchText.value))
     })
-    // 设置表格选中
-    tableRef.value.setCheckboxRow(cloneDeep(selectArr.value), true)
+    // 保持表格选中状态
+    updateCheckbox(selectArr.value)
   }, 200)
 )
 </script>
