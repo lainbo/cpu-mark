@@ -196,11 +196,21 @@ function applySelection(rows = [], options = {}) {
 }
 
 // 表格checkbox选中事件
-function selectChangeEvent({ records = [] }) {
+function selectChangeEvent({ row, checked }) {
   if (isRestoring) {
     return
   }
-  applySelection(records, { emitChange: true, syncCheckbox: false })
+  const name = row?.[NAME_FIELD]
+  if (!name) return
+  const baseRow = nameToRowMap.get(name) || row
+  const next = [...selectArr.value]
+  const idx = next.findIndex(i => i?.[NAME_FIELD] === name)
+  if (checked) {
+    if (idx < 0) next.push(baseRow)
+  } else {
+    if (idx >= 0) next.splice(idx, 1)
+  }
+  applySelection(next, { emitChange: true, syncCheckbox: false })
 }
 
 // 删除右侧比较项
@@ -319,3 +329,4 @@ watch(
   }
 }
 </style>
+
