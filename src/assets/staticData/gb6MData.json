@@ -1072,6 +1072,10 @@
     "mark": 13846
   },
   {
+    "nameDetail": "AMD EPYC 7J13",
+    "mark": 13812
+  },
+  {
     "nameDetail": "Intel Core i5-14490F",
     "mark": 13801
   },
@@ -1596,6 +1600,10 @@
     "mark": 11498
   },
   {
+    "nameDetail": "AMD Ryzen 5 130",
+    "mark": 11454
+  },
+  {
     "nameDetail": "Intel Xeon Silver 4416+",
     "mark": 11440
   },
@@ -1806,6 +1814,10 @@
   {
     "nameDetail": "AMD EPYC 7402",
     "mark": 10637
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 160",
+    "mark": 10635
   },
   {
     "nameDetail": "Intel Xeon E-2456",
@@ -3428,6 +3440,10 @@
     "mark": 6192
   },
   {
+    "nameDetail": "Intel Xeon W-11865MLE",
+    "mark": 6184
+  },
+  {
     "nameDetail": "Intel Xeon E5-2666 v3",
     "mark": 6173
   },
@@ -3934,25 +3950,5 @@
   {
     "nameDetail": "AMD Ryzen 7 4800HS",
     "mark": 5020
-  },
-  {
-    "nameDetail": "Intel Core i9 10980HK",
-    "mark": 5011
-  },
-  {
-    "nameDetail": "Intel Core i7 8750H",
-    "mark": 5001
-  },
-  {
-    "nameDetail": "Intel Core i7 8850H",
-    "mark": 4992
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 4900HS",
-    "mark": 4967
-  },
-  {
-    "nameDetail": "Intel Core i9 8950HK",
-    "mark": 4960
   }
 ]
