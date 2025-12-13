@@ -320,6 +320,10 @@
     "mark": 19830
   },
   {
+    "nameDetail": "Intel Xeon 6774P",
+    "mark": 19827
+  },
+  {
     "nameDetail": "Intel Core i9 14900",
     "mark": 19826
   },
@@ -806,6 +810,10 @@
   {
     "nameDetail": "Intel Core i5 14600T",
     "mark": 15337
+  },
+  {
+    "nameDetail": "Intel Core Ultra 9 386H",
+    "mark": 15336
   },
   {
     "nameDetail": "AMD EPYC 4545P",
@@ -1588,6 +1596,10 @@
     "mark": 11597
   },
   {
+    "nameDetail": "AMD Ryzen 5 7500X3D",
+    "mark": 11553
+  },
+  {
     "nameDetail": "AMD Ryzen 7 PRO 8840HS",
     "mark": 11550
   },
@@ -1682,6 +1694,10 @@
   {
     "nameDetail": "AMD Ryzen Threadripper 3990X",
     "mark": 11211
+  },
+  {
+    "nameDetail": "AMD Ryzen AI Z2 Extreme",
+    "mark": 11204
   },
   {
     "nameDetail": "Intel Core i9 11900K",
@@ -2268,6 +2284,10 @@
     "mark": 9464
   },
   {
+    "nameDetail": "AMD Ryzen Z2",
+    "mark": 9457
+  },
+  {
     "nameDetail": "Intel Core i9-11900KB",
     "mark": 9442
   },
@@ -2354,10 +2374,6 @@
   {
     "nameDetail": "Intel Core Ultra 5 125U",
     "mark": 9131
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 5600X3D",
-    "mark": 9119
   },
   {
     "nameDetail": "Intel Xeon Gold 6438Y+",
@@ -2504,6 +2520,10 @@
     "mark": 8784
   },
   {
+    "nameDetail": "AMD Ryzen 5 5600X3D",
+    "mark": 8782
+  },
+  {
     "nameDetail": "AMD Ryzen 7 5600X3D",
     "mark": 8773
   },
@@ -2636,6 +2656,10 @@
     "mark": 8494
   },
   {
+    "nameDetail": "AMD Ryzen 5 5600T",
+    "mark": 8492
+  },
+  {
     "nameDetail": "AMD Ryzen 7 7730U",
     "mark": 8489
   },
@@ -2690,6 +2714,10 @@
   {
     "nameDetail": "AMD Ryzen 5 PRO 8540U",
     "mark": 8271
+  },
+  {
+    "nameDetail": "Intel Core Ultra 7 356H",
+    "mark": 8265
   },
   {
     "nameDetail": "Intel Core i5 12450H",
@@ -2914,6 +2942,10 @@
   {
     "nameDetail": "Intel Core i5 1240U",
     "mark": 7583
+  },
+  {
+    "nameDetail": "AMD EPYC 7D12",
+    "mark": 7563
   },
   {
     "nameDetail": "AMD Ryzen 5 3600XT",
@@ -3926,37 +3958,5 @@
   {
     "nameDetail": "Intel Core i7 1165G7",
     "mark": 5076
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 4300G",
-    "mark": 5071
-  },
-  {
-    "nameDetail": "Intel Xeon E-2324G",
-    "mark": 5070
-  },
-  {
-    "nameDetail": "Intel Core i7 6700K",
-    "mark": 5068
-  },
-  {
-    "nameDetail": "Intel Core i5 1130G7",
-    "mark": 5067
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 4300GE",
-    "mark": 5063
-  },
-  {
-    "nameDetail": "Intel Xeon D-1581",
-    "mark": 5058
-  },
-  {
-    "nameDetail": "AMD Ryzen 3 4100",
-    "mark": 5052
-  },
-  {
-    "nameDetail": "Intel Atom x7809C",
-    "mark": 5041
   }
 ]
