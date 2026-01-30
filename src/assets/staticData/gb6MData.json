@@ -496,6 +496,10 @@
     "mark": 18095
   },
   {
+    "nameDetail": "AMD Ryzen AI Max+ 392",
+    "mark": 18071
+  },
+  {
     "nameDetail": "AMD EPYC 9224",
     "mark": 18066
   },
@@ -816,6 +820,14 @@
     "mark": 15546
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 HX 475",
+    "mark": 15484
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 9 HX 470",
+    "mark": 15473
+  },
+  {
     "nameDetail": "Intel Core i7 12700KF",
     "mark": 15374
   },
@@ -1048,6 +1060,10 @@
     "mark": 14217
   },
   {
+    "nameDetail": "AMD Ryzen AI 9 465",
+    "mark": 14215
+  },
+  {
     "nameDetail": "Intel Core i9 14901E",
     "mark": 14185
   },
@@ -1142,6 +1158,10 @@
   {
     "nameDetail": "Intel Core i9 12900F",
     "mark": 13687
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 7 450",
+    "mark": 13682
   },
   {
     "nameDetail": "Intel Core i7 13790F",
@@ -1816,6 +1836,10 @@
     "mark": 10832
   },
   {
+    "nameDetail": "AMD Ryzen AI 5 440",
+    "mark": 10819
+  },
+  {
     "nameDetail": "Intel Xeon Gold 6416H",
     "mark": 10815
   },
@@ -2152,6 +2176,10 @@
     "mark": 9994
   },
   {
+    "nameDetail": "AMD Ryzen AI 5 435",
+    "mark": 9988
+  },
+  {
     "nameDetail": "Intel Xeon 6740E",
     "mark": 9986
   },
@@ -2421,6 +2449,10 @@
   },
   {
     "nameDetail": "Intel Xeon 6731E",
+    "mark": 9112
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 7 445",
     "mark": 9112
   },
   {
@@ -3244,6 +3276,10 @@
     "mark": 6962
   },
   {
+    "nameDetail": "AMD Ryzen AI 5 430",
+    "mark": 6942
+  },
+  {
     "nameDetail": "Intel Core i3 13100E",
     "mark": 6916
   },
@@ -3922,41 +3958,5 @@
   {
     "nameDetail": "Intel Xeon D-1715TER",
     "mark": 5208
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2697 v2",
-    "mark": 5194
-  },
-  {
-    "nameDetail": "AMD EPYC 7313",
-    "mark": 5187
-  },
-  {
-    "nameDetail": "AMD Ryzen Embedded V2718",
-    "mark": 5178
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 4800H",
-    "mark": 5175
-  },
-  {
-    "nameDetail": "Intel Core i3 10320",
-    "mark": 5173
-  },
-  {
-    "nameDetail": "Intel Core i3 13100TE",
-    "mark": 5168
-  },
-  {
-    "nameDetail": "AMD EPYC 7451",
-    "mark": 5142
-  },
-  {
-    "nameDetail": "Intel Core i5 9400F",
-    "mark": 5142
-  },
-  {
-    "nameDetail": "Intel Core 3 N355",
-    "mark": 5142
   }
 ]
