@@ -188,6 +188,10 @@
     "mark": 3147
   },
   {
+    "nameDetail": "Intel Xeon 696X",
+    "mark": 3141
+  },
+  {
     "nameDetail": "Intel Core Ultra 7 265HX",
     "mark": 3126
   },
@@ -206,6 +210,10 @@
   {
     "nameDetail": "Intel Core Ultra 7 255HX",
     "mark": 3102
+  },
+  {
+    "nameDetail": "Intel Xeon 658X",
+    "mark": 3096
   },
   {
     "nameDetail": "AMD Ryzen AI Max+ Pro 395",
@@ -324,6 +332,10 @@
     "mark": 2987
   },
   {
+    "nameDetail": "Intel Xeon 678X",
+    "mark": 2986
+  },
+  {
     "nameDetail": "Intel Core Ultra 5 245K",
     "mark": 2982
   },
@@ -362,6 +374,10 @@
   {
     "nameDetail": "AMD Ryzen 9 7900",
     "mark": 2946
+  },
+  {
+    "nameDetail": "Intel Xeon 698X",
+    "mark": 2944
   },
   {
     "nameDetail": "Intel Core i7 13700K",
@@ -436,12 +452,16 @@
     "mark": 2890
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 HX 475",
+    "nameDetail": "AMD Ryzen AI 7 450",
     "mark": 2889
   },
   {
-    "nameDetail": "AMD Ryzen AI 7 450",
-    "mark": 2889
+    "nameDetail": "AMD Ryzen AI 9 HX 475",
+    "mark": 2888
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 9 HX 470",
+    "mark": 2880
   },
   {
     "nameDetail": "Qualcomm Snapdragon X Elite (X1E-84-100)",
@@ -449,10 +469,6 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 375",
-    "mark": 2879
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 9 HX 470",
     "mark": 2879
   },
   {
@@ -473,7 +489,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 465",
-    "mark": 2853
+    "mark": 2852
   },
   {
     "nameDetail": "AMD EPYC 4124P",
@@ -1020,15 +1036,15 @@
     "mark": 2576
   },
   {
+    "nameDetail": "AMD Ryzen AI 5 435",
+    "mark": 2576
+  },
+  {
     "nameDetail": "AMD Ryzen 7 7840HS",
     "mark": 2575
   },
   {
     "nameDetail": "Intel Xeon E-2434",
-    "mark": 2575
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 5 435",
     "mark": 2575
   },
   {
@@ -3942,21 +3958,5 @@
   {
     "nameDetail": "Intel Core i3 10110U",
     "mark": 1329
-  },
-  {
-    "nameDetail": "Intel Xeon W-2175",
-    "mark": 1328
-  },
-  {
-    "nameDetail": "Intel Core i9 9940X",
-    "mark": 1328
-  },
-  {
-    "nameDetail": "Intel Core i5 13400E",
-    "mark": 1325
-  },
-  {
-    "nameDetail": "Intel Xeon Gold 6338T",
-    "mark": 1324
   }
 ]

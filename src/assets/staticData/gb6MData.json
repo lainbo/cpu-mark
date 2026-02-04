@@ -1,5 +1,17 @@
 [
   {
+    "nameDetail": "Intel Xeon 678X",
+    "mark": 34711
+  },
+  {
+    "nameDetail": "Intel Xeon 698X",
+    "mark": 34632
+  },
+  {
+    "nameDetail": "Intel Xeon 696X",
+    "mark": 34549
+  },
+  {
     "nameDetail": "AMD Ryzen Threadripper PRO 9985WX",
     "mark": 33523
   },
@@ -14,6 +26,10 @@
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 9975WX",
     "mark": 29802
+  },
+  {
+    "nameDetail": "Intel Xeon 658X",
+    "mark": 29732
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 9980X",
@@ -829,11 +845,11 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 475",
-    "mark": 15484
+    "mark": 15489
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 470",
-    "mark": 15473
+    "mark": 15457
   },
   {
     "nameDetail": "Intel Core i7 12700KF",
@@ -1064,12 +1080,12 @@
     "mark": 14235
   },
   {
-    "nameDetail": "Intel Xeon w5-3535X",
-    "mark": 14217
+    "nameDetail": "AMD Ryzen AI 9 465",
+    "mark": 14233
   },
   {
-    "nameDetail": "AMD Ryzen AI 9 465",
-    "mark": 14215
+    "nameDetail": "Intel Xeon w5-3535X",
+    "mark": 14217
   },
   {
     "nameDetail": "Intel Core i9 14901E",
@@ -1164,16 +1180,16 @@
     "mark": 13687
   },
   {
-    "nameDetail": "AMD Ryzen AI 7 450",
-    "mark": 13682
-  },
-  {
     "nameDetail": "Intel Core i7 13790F",
     "mark": 13673
   },
   {
     "nameDetail": "Intel Core i7 13650HX",
     "mark": 13670
+  },
+  {
+    "nameDetail": "AMD Ryzen AI 7 450",
+    "mark": 13669
   },
   {
     "nameDetail": "Apple M4 8 Core",
@@ -2181,7 +2197,7 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 5 435",
-    "mark": 9988
+    "mark": 9989
   },
   {
     "nameDetail": "Intel Xeon 6740E",
@@ -3942,21 +3958,5 @@
   {
     "nameDetail": "Intel Core i5 11400H",
     "mark": 5279
-  },
-  {
-    "nameDetail": "Intel Core i3 N305",
-    "mark": 5279
-  },
-  {
-    "nameDetail": "Intel Core i7 7700K",
-    "mark": 5260
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 2600X",
-    "mark": 5236
-  },
-  {
-    "nameDetail": "Intel Xeon E-2176M",
-    "mark": 5217
   }
 ]
