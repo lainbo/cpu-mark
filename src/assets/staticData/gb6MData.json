@@ -108,7 +108,7 @@
     "mark": 23581
   },
   {
-    "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme",
+    "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme X2E-96-100",
     "mark": 23338
   },
   {
@@ -146,6 +146,10 @@
   {
     "nameDetail": "Intel Xeon w9-3475X",
     "mark": 22757
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X2 Elite Extreme (X2E-94-100)",
+    "mark": 22713
   },
   {
     "nameDetail": "AMD EPYC 9535",
@@ -298,6 +302,10 @@
   {
     "nameDetail": "AMD EPYC 9754",
     "mark": 20337
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X2 Elite X2E-88-100",
+    "mark": 20306
   },
   {
     "nameDetail": "Intel Xeon Platinum 8368Q",
@@ -1748,6 +1756,10 @@
     "mark": 11287
   },
   {
+    "nameDetail": "AMD Ryzen AI 7 445",
+    "mark": 11286
+  },
+  {
     "nameDetail": "Intel Core i7 12700H",
     "mark": 11276
   },
@@ -2481,10 +2493,6 @@
   },
   {
     "nameDetail": "Intel Xeon 6731E",
-    "mark": 9112
-  },
-  {
-    "nameDetail": "AMD Ryzen AI 7 445",
     "mark": 9112
   },
   {
@@ -3950,13 +3958,5 @@
   {
     "nameDetail": "Intel Core i9 11900",
     "mark": 5320
-  },
-  {
-    "nameDetail": "Intel Xeon E5-2680",
-    "mark": 5316
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 3780U",
-    "mark": 5309
   }
 ]
