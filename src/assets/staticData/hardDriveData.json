@@ -16,12 +16,12 @@
     "mark": 65622
   },
   {
-    "nameDetail": "AORUS Gen5 10000 SSD 2TB",
-    "mark": 62410
-  },
-  {
     "nameDetail": "Apacer AS2280F4 1TB",
     "mark": 62097
+  },
+  {
+    "nameDetail": "AORUS Gen5 10000 SSD 2TB",
+    "mark": 61399
   },
   {
     "nameDetail": "AORUS Gen5 10000 SSD 1TB",
@@ -156,20 +156,20 @@
     "mark": 40616
   },
   {
+    "nameDetail": "Acer FA200 1TB SSD",
+    "mark": 39866
+  },
+  {
     "nameDetail": "ANACOMDA I4S 1TB PCIe",
     "mark": 39860
   },
   {
-    "nameDetail": "Acer FA200 1TB SSD",
-    "mark": 39854
+    "nameDetail": "BIWIN AP823 CE980TB8900-1TB",
+    "mark": 39813
   },
   {
     "nameDetail": "ADATA LEGEND 900 1TB SSD",
-    "mark": 39834
-  },
-  {
-    "nameDetail": "BIWIN AP823 CE980TB8900-1TB",
-    "mark": 39813
+    "mark": 39764
   },
   {
     "nameDetail": "ASint AS828 512GB",
@@ -189,7 +189,7 @@
   },
   {
     "nameDetail": "Acer N7000 4TB SSD",
-    "mark": 38376
+    "mark": 38413
   },
   {
     "nameDetail": "Asgard AN4+ 1TNVMe-M.2/80",
@@ -209,7 +209,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 860 1TB SSD",
-    "mark": 36807
+    "mark": 36832
   },
   {
     "nameDetail": "5300M cior n0142BG",
@@ -225,7 +225,7 @@
   },
   {
     "nameDetail": "BG6 KIOXIA 1024GB",
-    "mark": 34963
+    "mark": 34986
   },
   {
     "nameDetail": "ABSNE27512KP",
@@ -253,7 +253,7 @@
   },
   {
     "nameDetail": "BIWIN M350 1000GB",
-    "mark": 34113
+    "mark": 34053
   },
   {
     "nameDetail": "Ant Esports 690 NEO Pro 1TB SSD",
@@ -261,7 +261,7 @@
   },
   {
     "nameDetail": "Apacer AS2280Q4 1TB",
-    "mark": 33506
+    "mark": 33555
   },
   {
     "nameDetail": "AGI AI828 1TB SSD",
@@ -273,7 +273,7 @@
   },
   {
     "nameDetail": "AGI AI818 2TB SSD",
-    "mark": 32762
+    "mark": 32789
   },
   {
     "nameDetail": "Apacer AS2280Q4U 512GB",
@@ -329,7 +329,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 840 512GB SSD",
-    "mark": 29119
+    "mark": 29158
   },
   {
     "nameDetail": "BIWIN AP823 CE980T58900-512G",
@@ -345,11 +345,11 @@
   },
   {
     "nameDetail": "BG6 KIOXIA 512GB",
-    "mark": 28412
+    "mark": 28418
   },
   {
     "nameDetail": "BIWIN AP823 CE980TB8900-512G",
-    "mark": 28386
+    "mark": 28364
   },
   {
     "nameDetail": "ADATA LEGEND 820 1TB SSD",
@@ -361,7 +361,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 860 500GB SSD",
-    "mark": 27984
+    "mark": 27808
   },
   {
     "nameDetail": "AGI AI818 512GB SSD",
@@ -397,11 +397,11 @@
   },
   {
     "nameDetail": "BC901 NVMe SK hynix 1024GB",
-    "mark": 25609
+    "mark": 25590
   },
   {
     "nameDetail": "ADATA LEGEND 850 Lite 1TB SSD",
-    "mark": 25513
+    "mark": 25503
   },
   {
     "nameDetail": "ANACOMDA I3 512GB PCIe",
@@ -420,10 +420,6 @@
     "mark": 24678
   },
   {
-    "nameDetail": "AP1TPD4480-0G PD4480 1TB",
-    "mark": 24121
-  },
-  {
     "nameDetail": "BC901 NVMe SK hynix 512GB",
     "mark": 23941
   },
@@ -433,11 +429,15 @@
   },
   {
     "nameDetail": "BG6 KIOXIA 256GB",
-    "mark": 23923
+    "mark": 23912
   },
   {
     "nameDetail": "ADATA LEGEND 800 2TB SSD",
     "mark": 23909
+  },
+  {
+    "nameDetail": "AP1TPD4480-0G PD4480 1TB",
+    "mark": 23796
   },
   {
     "nameDetail": "Apacer AS2280Q4L 1TB",
@@ -541,7 +541,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 800 1TB SSD",
-    "mark": 21005
+    "mark": 21000
   },
   {
     "nameDetail": "ADATA SX8100NP",
@@ -573,7 +573,7 @@
   },
   {
     "nameDetail": "Acer FA100 1TB SSD",
-    "mark": 20442
+    "mark": 20461
   },
   {
     "nameDetail": "BASETECH A400 1TB PCIE3.0 SSD",
@@ -613,7 +613,7 @@
   },
   {
     "nameDetail": "BC901 NVMe SK hynix 256GB",
-    "mark": 19766
+    "mark": 19739
   },
   {
     "nameDetail": "addlink S70 M.2 G3x4 1TB",
@@ -752,16 +752,12 @@
     "mark": 17310
   },
   {
-    "nameDetail": "ADATA LEGEND 710 1TB SSD",
-    "mark": 17208
-  },
-  {
     "nameDetail": "ADATA SX8800PNP",
     "mark": 17190
   },
   {
-    "nameDetail": "BIWIN NA80V4M20-512G",
-    "mark": 17173
+    "nameDetail": "ADATA LEGEND 710 1TB SSD",
+    "mark": 17188
   },
   {
     "nameDetail": "BASETECH A400 512GB PCIE3.0 SSD",
@@ -781,7 +777,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 710 2TB SSD",
-    "mark": 16927
+    "mark": 16958
   },
   {
     "nameDetail": "ADATA FALCON 1TB SSD",
@@ -789,7 +785,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 710 512GB SSD",
-    "mark": 16852
+    "mark": 16853
   },
   {
     "nameDetail": "AP512GPD4480-02 PD4480 512GB",
@@ -825,7 +821,7 @@
   },
   {
     "nameDetail": "BIWIN CE480T5D101-256G",
-    "mark": 16158
+    "mark": 16163
   },
   {
     "nameDetail": "Asgard AN3 500NVMe-M.2/80",
@@ -852,16 +848,16 @@
     "mark": 16070
   },
   {
+    "nameDetail": "addlink S70 M.2 G3x4 512GB",
+    "mark": 16020
+  },
+  {
     "nameDetail": "AGI AI218 512GB SSD",
     "mark": 16012
   },
   {
     "nameDetail": "Apacer AS2280P4 512GB",
     "mark": 16006
-  },
-  {
-    "nameDetail": "addlink S70 M.2 G3x4 512GB",
-    "mark": 15991
   },
   {
     "nameDetail": "BIWIN CE480T5D101-512",
@@ -969,7 +965,7 @@
   },
   {
     "nameDetail": "ADATA LEGEND 710 256GB SSD",
-    "mark": 13930
+    "mark": 13931
   },
   {
     "nameDetail": "ADATA LEGEND 700 GOLD 1TB SSD",
@@ -997,7 +993,7 @@
   },
   {
     "nameDetail": "BIWIN AP423 CE480TC8800-256G",
-    "mark": 13287
+    "mark": 13248
   },
   {
     "nameDetail": "ADATA SWORDFISH",
@@ -1089,7 +1085,7 @@
   },
   {
     "nameDetail": "AGI AI198 512GB SSD",
-    "mark": 11380
+    "mark": 11368
   },
   {
     "nameDetail": "ADATA XPG SX8000 512GB",
@@ -1104,16 +1100,16 @@
     "mark": 11200
   },
   {
+    "nameDetail": "BC511 NVMe SK hynix 512GB",
+    "mark": 11165
+  },
+  {
     "nameDetail": "ADATA ICFP301 512GB Memory Card",
     "mark": 11164
   },
   {
-    "nameDetail": "BC511 NVMe SK hynix 512GB",
-    "mark": 11163
-  },
-  {
     "nameDetail": "ADATA IM2P33F8 256GB SSD",
-    "mark": 11130
+    "mark": 11126
   },
   {
     "nameDetail": "Acer FA100 256GB SSD",
@@ -1253,7 +1249,7 @@
   },
   {
     "nameDetail": "BA HFS256GD9TNG-62A0A",
-    "mark": 8734
+    "mark": 8765
   },
   {
     "nameDetail": "Aspeed NVME SSD1TB",
@@ -1352,12 +1348,12 @@
     "mark": 5844
   },
   {
-    "nameDetail": "Acer FA100 128GB SSD",
-    "mark": 5615
-  },
-  {
     "nameDetail": "APPLE-MOBILEME IODRIVE 640GB MLC",
     "mark": 5609
+  },
+  {
+    "nameDetail": "Acer FA100 128GB SSD",
+    "mark": 5604
   },
   {
     "nameDetail": "Apacer AS2280P2 120GB",
@@ -1561,7 +1557,7 @@
   },
   {
     "nameDetail": "Acer RE100 128GB SSD",
-    "mark": 4045
+    "mark": 4047
   },
   {
     "nameDetail": "ADATA SU680",
@@ -1588,12 +1584,12 @@
     "mark": 3990
   },
   {
-    "nameDetail": "AVSSDS3E 100Z-120GB",
-    "mark": 3969
+    "nameDetail": "ATKSSDS512",
+    "mark": 3980
   },
   {
-    "nameDetail": "ATKSSDS512",
-    "mark": 3956
+    "nameDetail": "AVSSDS3E 100Z-120GB",
+    "mark": 3969
   },
   {
     "nameDetail": "ADATA SP550 960GB SSD",
@@ -1728,12 +1724,12 @@
     "mark": 3704
   },
   {
-    "nameDetail": "ADATA DP900 256GB SSD",
-    "mark": 3698
-  },
-  {
     "nameDetail": "Bestoss S201 1TB",
     "mark": 3694
+  },
+  {
+    "nameDetail": "ADATA DP900 256GB SSD",
+    "mark": 3685
   },
   {
     "nameDetail": "Aireye S2 128GB SSD",
@@ -1913,7 +1909,7 @@
   },
   {
     "nameDetail": "Apacer AS350 1TB",
-    "mark": 3464
+    "mark": 3458
   },
   {
     "nameDetail": "ADATA SU600 120GB SSD",
@@ -2033,7 +2029,7 @@
   },
   {
     "nameDetail": "2-Power 2042A 240GB SSD",
-    "mark": 3279
+    "mark": 3286
   },
   {
     "nameDetail": "AXM14S3-128GM-B",
@@ -2108,12 +2104,12 @@
     "mark": 3203
   },
   {
-    "nameDetail": "Acer SA100 240GB SSD",
-    "mark": 3201
-  },
-  {
     "nameDetail": "addlink SSD S10 512GB",
     "mark": 3190
+  },
+  {
+    "nameDetail": "Acer SA100 240GB SSD",
+    "mark": 3183
   },
   {
     "nameDetail": "ADATA SP580 240GB SSD",
@@ -2236,12 +2232,12 @@
     "mark": 2955
   },
   {
-    "nameDetail": "APS-SL3N-256",
+    "nameDetail": "ADATA SU630 240GB SSD",
     "mark": 2953
   },
   {
-    "nameDetail": "ADATA SU630 240GB SSD",
-    "mark": 2952
+    "nameDetail": "APS-SL3N-256",
+    "mark": 2953
   },
   {
     "nameDetail": "APS-SL3N-128",
@@ -2449,7 +2445,7 @@
   },
   {
     "nameDetail": "Apacer AS350 128GB",
-    "mark": 2551
+    "mark": 2556
   },
   {
     "nameDetail": "AMD R5SL512G",
@@ -2540,12 +2536,12 @@
     "mark": 2363
   },
   {
-    "nameDetail": "Apacer AS2280 128GB",
+    "nameDetail": "ADATA SP600 128GB SSD",
     "mark": 2347
   },
   {
-    "nameDetail": "ADATA SP600 128GB SSD",
-    "mark": 2346
+    "nameDetail": "Apacer AS2280 128GB",
+    "mark": 2347
   },
   {
     "nameDetail": "ADATA S510 120GB SSD",
@@ -2562,6 +2558,10 @@
   {
     "nameDetail": "Ace Power A1 256GB SSD",
     "mark": 2316
+  },
+  {
+    "nameDetail": "BestBattery SSD",
+    "mark": 2291
   },
   {
     "nameDetail": "Acer Speedy SSD",
@@ -2617,7 +2617,7 @@
   },
   {
     "nameDetail": "ADATA SP580 120GB SSD",
-    "mark": 2126
+    "mark": 2127
   },
   {
     "nameDetail": "ALLIED SSD 256GB",
