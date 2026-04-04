@@ -20,12 +20,12 @@
     "mark": 32898
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper PRO 9995WX",
-    "mark": 30170
+    "nameDetail": "Apple M5 Max (40-core GPU)",
+    "mark": 30196
   },
   {
-    "nameDetail": "Apple M5 Max (40-сore GPU)",
-    "mark": 29909
+    "nameDetail": "AMD Ryzen Threadripper PRO 9995WX",
+    "mark": 30170
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 9975WX",
@@ -40,8 +40,8 @@
     "mark": 29482
   },
   {
-    "nameDetail": "Apple M5 Max (32-сore GPU)",
-    "mark": 28866
+    "nameDetail": "Apple M5 Max (32-core GPU)",
+    "mark": 29052
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7960X",
@@ -632,8 +632,8 @@
     "mark": 17562
   },
   {
-    "nameDetail": "Apple M5 (8-сore GPU)",
-    "mark": 17515
+    "nameDetail": "Apple M5 (8-core GPU)",
+    "mark": 17501
   },
   {
     "nameDetail": "AMD Ryzen 7 9700X",
@@ -2234,6 +2234,10 @@
   {
     "nameDetail": "Intel Core i9 11900F",
     "mark": 10129
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 170",
+    "mark": 10120
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X3D",
@@ -3950,9 +3954,5 @@
   {
     "nameDetail": "Intel Core i5 8600",
     "mark": 5535
-  },
-  {
-    "nameDetail": "AMD EPYC 74F3",
-    "mark": 5527
   }
 ]
