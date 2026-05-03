@@ -192,12 +192,12 @@
     "mark": 22630
   },
   {
-    "nameDetail": "AMD EPYC 9655",
-    "mark": 22544
+    "nameDetail": "AMD Ryzen 9 9950X3D",
+    "mark": 22567
   },
   {
-    "nameDetail": "AMD Ryzen 9 9950X3D",
-    "mark": 22539
+    "nameDetail": "AMD EPYC 9655",
+    "mark": 22544
   },
   {
     "nameDetail": "Intel Core i9 14900KF",
@@ -261,7 +261,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 9900X3D",
-    "mark": 21364
+    "mark": 21360
   },
   {
     "nameDetail": "Intel Xeon Gold 6542Y",
@@ -298,10 +298,6 @@
   {
     "nameDetail": "Intel Xeon Platinum 8580",
     "mark": 21070
-  },
-  {
-    "nameDetail": "AMD Threadripper PRO 7955WX",
-    "mark": 21069
   },
   {
     "nameDetail": "Intel Core Ultra 5 250K Plus",
@@ -344,6 +340,10 @@
     "mark": 20306
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper PRO 9945WX",
+    "mark": 20283
+  },
+  {
     "nameDetail": "Intel Xeon Platinum 8368Q",
     "mark": 20262
   },
@@ -358,6 +358,10 @@
   {
     "nameDetail": "Intel Core i7 13700K",
     "mark": 20188
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 9955HX3D",
+    "mark": 20133
   },
   {
     "nameDetail": "AMD EPYC 4585PX",
@@ -380,10 +384,6 @@
     "mark": 19868
   },
   {
-    "nameDetail": "AMD Ryzen 9 9955HX3D",
-    "mark": 19845
-  },
-  {
     "nameDetail": "Intel Core Ultra 7 265",
     "mark": 19830
   },
@@ -404,10 +404,6 @@
     "mark": 19573
   },
   {
-    "nameDetail": "AMD Ryzen 9 9955HX",
-    "mark": 19559
-  },
-  {
     "nameDetail": "AMD Ryzen 9 9900X",
     "mark": 19527
   },
@@ -418,6 +414,10 @@
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5965WX",
     "mark": 19489
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 9955HX",
+    "mark": 19459
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX",
@@ -453,7 +453,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X3D",
-    "mark": 19032
+    "mark": 19025
   },
   {
     "nameDetail": "AMD EPYC 4565P",
@@ -532,6 +532,10 @@
     "mark": 18343
   },
   {
+    "nameDetail": "AMD Ryzen 9 9850HX",
+    "mark": 18274
+  },
+  {
     "nameDetail": "Intel Core i7 13700KF",
     "mark": 18273
   },
@@ -594,10 +598,6 @@
   {
     "nameDetail": "Intel Core i7 14700T",
     "mark": 17830
-  },
-  {
-    "nameDetail": "AMD Threadripper PRO 7945WX",
-    "mark": 17768
   },
   {
     "nameDetail": "Intel Xeon Gold 5420+",
@@ -705,7 +705,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX3D",
-    "mark": 16929
+    "mark": 16913
   },
   {
     "nameDetail": "AMD EPYC 9184X",
@@ -786,6 +786,10 @@
   {
     "nameDetail": "Intel Core i7 13700",
     "mark": 16463
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 3990X",
+    "mark": 16457
   },
   {
     "nameDetail": "Intel Xeon w5-2465X",
@@ -920,10 +924,6 @@
     "mark": 15374
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper Pro 3995WX",
-    "mark": 15338
-  },
-  {
     "nameDetail": "Intel Core i5 14600T",
     "mark": 15337
   },
@@ -954,10 +954,6 @@
   {
     "nameDetail": "Qualcomm Snapdragon X Elite (X1E-84-100)",
     "mark": 15200
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 9850HX",
-    "mark": 15177
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 375",
@@ -1272,8 +1268,12 @@
     "mark": 13664
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
+    "nameDetail": "AMD Ryzen Threadripper Pro 3995WX",
     "mark": 13638
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper Pro 3955WX",
+    "mark": 13630
   },
   {
     "nameDetail": "Intel Core Ultra 9 185H",
@@ -1412,10 +1412,6 @@
     "mark": 13013
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper 3960X",
-    "mark": 13003
-  },
-  {
     "nameDetail": "AMD EPYC 7552",
     "mark": 12986
   },
@@ -1446,6 +1442,10 @@
   {
     "nameDetail": "Intel Core i5 12600KF",
     "mark": 12937
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 3970X",
+    "mark": 12929
   },
   {
     "nameDetail": "Intel Xeon 6746E",
@@ -1608,10 +1608,6 @@
     "mark": 12238
   },
   {
-    "nameDetail": "AMD Ryzen Threadripper 3970X",
-    "mark": 12202
-  },
-  {
     "nameDetail": "Intel Core i5 12600K",
     "mark": 12188
   },
@@ -1720,16 +1716,8 @@
     "mark": 11739
   },
   {
-    "nameDetail": "AMD Ryzen 9 3900X",
-    "mark": 11715
-  },
-  {
     "nameDetail": "AMD EPYC 7502",
     "mark": 11663
-  },
-  {
-    "nameDetail": "AMD Ryzen 9 3950X",
-    "mark": 11656
   },
   {
     "nameDetail": "Intel Xeon Gold 5415+",
@@ -1804,12 +1792,20 @@
     "mark": 11394
   },
   {
+    "nameDetail": "AMD Ryzen 9 3950X",
+    "mark": 11374
+  },
+  {
     "nameDetail": "AMD EPYC 7642",
     "mark": 11362
   },
   {
     "nameDetail": "Qualcomm Snapdragon X Plus X1P 46 100",
     "mark": 11351
+  },
+  {
+    "nameDetail": "AMD Ryzen Threadripper 3960X",
+    "mark": 11304
   },
   {
     "nameDetail": "Intel Core i9 10940X",
@@ -1842,10 +1838,6 @@
   {
     "nameDetail": "AMD Ryzen Z1 Extreme",
     "mark": 11212
-  },
-  {
-    "nameDetail": "AMD Ryzen Threadripper 3990X",
-    "mark": 11211
   },
   {
     "nameDetail": "AMD Ryzen AI Z2 Extreme",
@@ -2000,6 +1992,10 @@
     "mark": 10707
   },
   {
+    "nameDetail": "AMD Ryzen 9 3900",
+    "mark": 10707
+  },
+  {
     "nameDetail": "Intel Xeon Platinum 8480+",
     "mark": 10690
   },
@@ -2074,6 +2070,10 @@
   {
     "nameDetail": "Intel Core Ultra 7 256V",
     "mark": 10506
+  },
+  {
+    "nameDetail": "AMD Ryzen 9 3900X",
+    "mark": 10473
   },
   {
     "nameDetail": "AMD Ryzen 5 Pro 7640U",
@@ -2788,10 +2788,6 @@
     "mark": 8635
   },
   {
-    "nameDetail": "AMD Ryzen 7 3800X",
-    "mark": 8625
-  },
-  {
     "nameDetail": "AMD Ryzen 5 PRO 8500GE",
     "mark": 8614
   },
@@ -2817,6 +2813,10 @@
   },
   {
     "nameDetail": "Intel Xeon Platinum 8362",
+    "mark": 8587
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 3800X",
     "mark": 8587
   },
   {
@@ -2892,6 +2892,10 @@
     "mark": 8414
   },
   {
+    "nameDetail": "AMD Ryzen 7 3700X",
+    "mark": 8392
+  },
+  {
     "nameDetail": "Intel Xeon E5-2643 v3",
     "mark": 8391
   },
@@ -2914,6 +2918,10 @@
   {
     "nameDetail": "AMD Ryzen 5 5600XT",
     "mark": 8316
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 PRO 3700",
+    "mark": 8303
   },
   {
     "nameDetail": "AMD Ryzen 5 5600G",
@@ -2998,10 +3006,6 @@
   {
     "nameDetail": "Intel Core 5 120U",
     "mark": 8109
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 3700X",
-    "mark": 8104
   },
   {
     "nameDetail": "AMD Ryzen 5 5600GT",
@@ -3140,6 +3144,10 @@
     "mark": 7680
   },
   {
+    "nameDetail": "AMD Ryzen 5 3600X",
+    "mark": 7676
+  },
+  {
     "nameDetail": "Intel Core i9 9900KF",
     "mark": 7648
   },
@@ -3152,6 +3160,10 @@
     "mark": 7612
   },
   {
+    "nameDetail": "AMD Ryzen 5 3600XT",
+    "mark": 7607
+  },
+  {
     "nameDetail": "Intel Core i5 1335U",
     "mark": 7584
   },
@@ -3162,10 +3174,6 @@
   {
     "nameDetail": "AMD EPYC 7D12",
     "mark": 7563
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 3600XT",
-    "mark": 7554
   },
   {
     "nameDetail": "Intel Core i5 11400",
@@ -3644,10 +3652,6 @@
     "mark": 6394
   },
   {
-    "nameDetail": "AMD Ryzen 5 3600X",
-    "mark": 6388
-  },
-  {
     "nameDetail": "AMD Ryzen 7 4700GE",
     "mark": 6361
   },
@@ -3950,9 +3954,5 @@
   {
     "nameDetail": "AMD Ryzen 5 4600H",
     "mark": 5628
-  },
-  {
-    "nameDetail": "AMD EPYC 9634",
-    "mark": 5595
   }
 ]
