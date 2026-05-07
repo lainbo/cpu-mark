@@ -676,10 +676,6 @@
     "mark": 17118
   },
   {
-    "nameDetail": "Intel Core Ultra X7 358H",
-    "mark": 17091
-  },
-  {
     "nameDetail": "Intel Core Ultra 7 265HX",
     "mark": 17063
   },
@@ -714,6 +710,10 @@
   {
     "nameDetail": "Intel Core Ultra 7 270HX Plus",
     "mark": 16892
+  },
+  {
+    "nameDetail": "Intel Core Ultra X7 358H",
+    "mark": 16889
   },
   {
     "nameDetail": "AMD EPYC 4464P",
@@ -1662,6 +1662,10 @@
   {
     "nameDetail": "Intel Core i9 12900H",
     "mark": 11973
+  },
+  {
+    "nameDetail": "Qualcomm Snapdragon X2 Plus (X2P 42 100)",
+    "mark": 11952
   },
   {
     "nameDetail": "AMD Ryzen AI 7 Pro 360",
@@ -2692,16 +2696,16 @@
     "mark": 8830
   },
   {
-    "nameDetail": "AMD Ryzen 5 7540U",
-    "mark": 8827
-  },
-  {
     "nameDetail": "Intel Core i5 13400E",
     "mark": 8823
   },
   {
     "nameDetail": "Intel Xeon W-1290",
     "mark": 8817
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7540U",
+    "mark": 8816
   },
   {
     "nameDetail": "AMD Ryzen 5 5600F",
@@ -3950,9 +3954,5 @@
   {
     "nameDetail": "AMD Ryzen 7 4700U",
     "mark": 5648
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 4600H",
-    "mark": 5628
   }
 ]
