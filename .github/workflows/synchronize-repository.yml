@@ -11,17 +11,15 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        repository: lainbo/cpu-mark
-        token: ${{ secrets.GITHUB_TOKEN }}
+      uses: actions/checkout@v7
+
     - name: Setup Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v7
       with:
-        node-version: '20'
+        node-version: '24'
 
     - name: Install pnpm
-      run: npm install -g pnpm
+      run: npm install -g pnpm@12
 
     - name: Install Dependencies
       run: pnpm install
