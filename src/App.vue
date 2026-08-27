@@ -81,19 +81,16 @@ onMounted(() => {
 })
 
 const utoolsInit = () => {
-  const payloadMap = {
+  const codeMap = {
+    cpu: 1,
     r23: 3,
-    显卡: 7,
+    soc: 6,
     gpu: 7,
-    硬盘: 8,
-    hdd: 8,
-    ssd: 8,
     disk: 8,
-    安兔兔: 6,
   }
 
-  window.utools.onPluginEnter(({ payload }) => {
-    activeName.value = payloadMap[payload] || 1
+  window.utools.onPluginEnter(({ code }) => {
+    activeName.value = codeMap[code] || 1
   })
 
   window.utools.subInputBlur()

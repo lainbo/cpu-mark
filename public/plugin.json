@@ -8,20 +8,28 @@
   "features": [
     {
       "code": "cpu",
-      "explain": "可以高效查询cpu多核性能、单核性能、显卡渲染性能、硬盘性能，并进行对比的工具。建议最大化使用",
-      "cmds": [
-        "cpu",
-        "r23",
-        "gb6",
-        "gpu",
-        "安兔兔",
-        "hdd",
-        "ssd",
-        "disk",
-        "处理器",
-        "显卡",
-        "硬盘"
-      ]
+      "explain": "查询 CPU 跑分并对比，建议最大化使用",
+      "cmds": ["cpu", "gb6", "处理器"]
+    },
+    {
+      "code": "r23",
+      "explain": "查询 Cinebench R23 跑分并对比",
+      "cmds": ["r23"]
+    },
+    {
+      "code": "soc",
+      "explain": "查询移动端处理器安兔兔跑分",
+      "cmds": ["安兔兔"]
+    },
+    {
+      "code": "gpu",
+      "explain": "查询显卡天梯并对比",
+      "cmds": ["gpu", "显卡"]
+    },
+    {
+      "code": "disk",
+      "explain": "查询硬盘天梯并对比",
+      "cmds": ["hdd", "ssd", "disk", "硬盘"]
     }
   ],
   "name": "ze483dwj"
