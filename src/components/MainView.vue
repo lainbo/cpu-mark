@@ -110,7 +110,8 @@
 import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
 import { isNumber } from '@/utils/isNumber.js'
-import { cloneDeep, throttle, isEqual } from 'lodash-es'
+import { onBeforeUnmount } from 'vue'
+import { throttle, isEqual } from 'lodash-es'
 
 const props = defineProps({
   pageData: {
@@ -145,21 +146,17 @@ const calcMarkTitle = computed(() => {
   }
 })
 
-// 数据处理
-
-const tempArr = cloneDeep(props.pageData)
-  .filter(i => isNumber(i.mark)) // 过滤非数字的mark
-  .sort((a, b) => b.mark - a.mark) // 根据性能降序排序
-
-// 如果tempArr为空，Math.max会返回-Infinity，所以需要处理这种情况
-const MaxRank = tempArr.length > 0 ? tempArr[0].mark : 0
-
-tempArr.forEach((i, idx) => {
-  i.key = idx + 1
-  i.percentage = parseFloat((i.mark / MaxRank).toFixed(3))
-})
-
-const originalData = Object.freeze(tempArr) // 原始数据
+// 采集脚本已按得分降序输出，直接保留原有顺序。
+const rankedData = props.pageData.filter(item => isNumber(item.mark))
+const maxMark = rankedData[0]?.mark ?? 0
+const originalData = Object.freeze(
+  rankedData.map((item, index) => ({
+    ...item,
+    key: index + 1,
+    percentage: parseFloat((item.mark / maxMark).toFixed(3)),
+    searchKey: handleText(item.nameDetail),
+  }))
+)
 const tableData = ref(originalData) // 表格数据
 const selectArr = ref([]) // 选中的数据
 const tableRef = ref() // 表格ref
@@ -224,13 +221,9 @@ function removeCompareItem(key) {
   applySelection(next, { emitChange: true })
 }
 
-// 返回排序后的对比数据
-const calcComparedArr = computed(() => {
-  const field = 'mark'
-  const arr = cloneDeep(selectArr.value)
-  arr.sort((a, b) => b[field] - a[field])
-  return arr
-})
+const calcComparedArr = computed(() =>
+  [...selectArr.value].sort((a, b) => b.mark - a.mark)
+)
 
 // 清空比较
 function resetCompare() {
@@ -285,20 +278,19 @@ onMounted(() => {
 
 const searchText = ref('') // 搜索文本
 
-// 文字转小写并去除所有空格
 function handleText(str = '') {
   return str.toLowerCase().replaceAll(' ', '')
 }
-watch(
-  searchText,
-  throttle(function () {
-    tableData.value = originalData.filter(item => {
-      return handleText(item.nameDetail).includes(handleText(searchText.value))
-    })
-    // 保持表格选中状态
-    updateCheckbox(selectArr.value)
-  }, 200)
-)
+
+const applySearch = throttle(searchKey => {
+  tableData.value = searchKey
+    ? originalData.filter(item => item.searchKey.includes(searchKey))
+    : originalData
+  updateCheckbox(selectArr.value)
+}, 200)
+
+watch(() => handleText(searchText.value), applySearch)
+onBeforeUnmount(() => applySearch.cancel())
 </script>
 
 <style lang="scss" scoped>
