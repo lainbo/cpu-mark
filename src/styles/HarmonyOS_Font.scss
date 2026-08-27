@@ -17,7 +17,10 @@ $fontInfoMap: (
 );
 
 // 判断$weightStr的值是否在$fontInfoMap中存在，不存在则降级为'Regular'
-$correctWeightStr: if(map.has-key($fontInfoMap, $weightStr), $weightStr, 'Regular');
+$correctWeightStr: 'Regular';
+@if map.has-key($fontInfoMap, $weightStr) {
+  $correctWeightStr: $weightStr;
+}
 
 @mixin generateFontFace($file, $unicodeRange) {
   $_fontInfo: map.get($fontInfoMap, $correctWeightStr);

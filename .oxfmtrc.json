@@ -1,0 +1,22 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "printWidth": 90,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "quoteProps": "consistent",
+  "trailingComma": "es5",
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "strict",
+  "ignorePatterns": [
+    "dist/**",
+    "node_modules/**",
+    "pnpm-lock.yaml",
+    "src/assets/staticData/**",
+    "auto-imports.d.ts",
+    "components.d.ts",
+    "docs/**"
+  ]
+}

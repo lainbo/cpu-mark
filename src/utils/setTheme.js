@@ -7,7 +7,8 @@ const isDark = useDark() // 响应式：是否为暗色
  */
 export function setTheme(val) {
   document.documentElement.classList.toggle('dark', val)
-  val ? bodyDom.setAttribute('arco-theme', 'dark') : bodyDom.removeAttribute('arco-theme')
+  if (val) bodyDom.setAttribute('arco-theme', 'dark')
+  else bodyDom.removeAttribute('arco-theme')
 }
 
 // 监听是否暗色

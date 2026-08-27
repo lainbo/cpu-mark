@@ -1,0 +1,39 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["eslint", "unicorn", "typescript", "oxc", "vue"],
+  "env": {
+    "browser": true,
+    "es2024": true
+  },
+  "globals": {
+    "ref": "readonly",
+    "computed": "readonly",
+    "watch": "readonly",
+    "watchEffect": "readonly",
+    "onMounted": "readonly",
+    "nextTick": "readonly",
+    "useDark": "readonly",
+    "useElementSize": "readonly"
+  },
+  "categories": {
+    "correctness": "error"
+  },
+  "rules": {
+    "eqeqeq": ["error", "always"]
+  },
+  "ignorePatterns": [
+    "dist/**",
+    "node_modules/**",
+    "auto-imports.d.ts",
+    "components.d.ts",
+    "src/assets/staticData/**"
+  ],
+  "overrides": [
+    {
+      "files": ["src/tasks/**/*.js", "vite.config.js", "uno.config.js"],
+      "env": {
+        "node": true
+      }
+    }
+  ]
+}
