@@ -1,5 +1,13 @@
 [
   {
+    "nameDetail": "Apple M5 Ultra (36 Core)",
+    "mark": 4711
+  },
+  {
+    "nameDetail": "Apple M6 (12 Core)",
+    "mark": 4500
+  },
+  {
     "nameDetail": "Apple M5 Max (40-core GPU)",
     "mark": 4355
   },
@@ -1134,6 +1142,10 @@
   {
     "nameDetail": "Intel Core Ultra 7 255U",
     "mark": 2582
+  },
+  {
+    "nameDetail": "AMD EPYC Embedded 9655P",
+    "mark": 2580
   },
   {
     "nameDetail": "Intel Core Ultra 5 235T",
@@ -3954,17 +3966,5 @@
   {
     "nameDetail": "Intel Xeon W-2150B",
     "mark": 1383
-  },
-  {
-    "nameDetail": "Intel Core i9 9980HK",
-    "mark": 1379
-  },
-  {
-    "nameDetail": "AMD EPYC 7542",
-    "mark": 1376
-  },
-  {
-    "nameDetail": "Intel Core i5 10500T",
-    "mark": 1374
   }
 ]
