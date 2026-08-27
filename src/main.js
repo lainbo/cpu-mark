@@ -4,11 +4,14 @@ import 'uno.css'
 import '@unocss/reset/tailwind.css'
 import '@/styles/index.scss'
 import '@arco-design/web-vue/es/message/style/css.js'
-import 'xe-utils'
-import { Header, Icon, Column, Tooltip, Table } from 'vxe-table'
+import { VxeTooltip, VxeIcon } from 'vxe-pc-ui'
+import { VxeTable, VxeColumn } from 'vxe-table'
+import 'vxe-pc-ui/es/icon/style.css'
+import 'vxe-pc-ui/es/tooltip/style.css'
+import 'vxe-table/es/style.css'
 
 function useTable(app) {
-  app.use(Header).use(Icon).use(Column).use(Tooltip).use(Table)
+  app.use(VxeIcon).use(VxeTooltip).use(VxeTable).use(VxeColumn)
 }
 
 createApp(App).use(useTable).mount('#app')

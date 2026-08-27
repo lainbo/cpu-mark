@@ -79,6 +79,8 @@
             enterDelay: 0,
             enterable: true,
           }"
+          :virtual-y-config="virtualYConfig"
+          :header-cell-config="headerCellConfig"
           @checkbox-change="selectChangeEvent"
         >
           <vxe-column type="checkbox" title="比较" width="65" />
@@ -130,6 +132,9 @@ const selectionModel = defineModel('selection', {
 })
 const isDark = useDark() // 响应式：是否为暗色
 const mainRef = ref() // 主体部分的 ref
+// 4.7+ 默认关闭虚拟滚动，不设 enabled 会把全部行渲染进 DOM
+const virtualYConfig = { enabled: true, gt: 100 }
+const headerCellConfig = { height: 38, padding: { top: false, bottom: false } }
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
 const calcMarkTitle = computed(() => {
@@ -329,4 +334,3 @@ watch(
   }
 }
 </style>
-
