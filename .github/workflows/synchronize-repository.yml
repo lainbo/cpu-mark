@@ -24,13 +24,12 @@ jobs:
       - name: Install Dependencies
         run: pnpm install
 
-      - name: Install Chrome for Puppeteer
-        run: npx puppeteer browsers install chrome
-
       - name: Run pnpm fetch
         run: pnpm run fetch
 
+      # 部分数据源失败时，其余已更新的数据照常提交
       - name: Check for changes
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
