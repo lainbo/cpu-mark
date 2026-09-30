@@ -23,25 +23,27 @@
               <i class="i-material-symbols-close"></i>
             </div>
           </div>
-          <div class="flex items-center space-x-6px">
-            <span v-if="showGpu" class="flex-shrink-0">CPU</span>
-            <a-progress
-              :percent="item.percentage"
-              :show-text="false"
-              size="large"
-              color="#165dff"
-            />
-            <span>{{ formatNum(item.mark) }}</span>
-          </div>
-          <div v-if="showGpu" class="flex items-center space-x-6px">
-            <span class="flex-shrink-0">GPU</span>
-            <a-progress
-              :percent="item.gpuPercentage"
-              :show-text="false"
-              size="large"
-              color="#165dff"
-            />
-            <span>{{ formatNum(item.gpu) }}</span>
+          <div class="flex space-x-24px">
+            <div class="flex-1 min-w-0 flex items-center space-x-6px">
+              <span v-if="showGpu" class="flex-shrink-0">CPU</span>
+              <a-progress
+                :percent="item.percentage"
+                :show-text="false"
+                size="large"
+                color="#165dff"
+              />
+              <span>{{ formatNum(item.mark) }}</span>
+            </div>
+            <div v-if="showGpu" class="flex-1 min-w-0 flex items-center space-x-6px">
+              <span class="flex-shrink-0">GPU</span>
+              <a-progress
+                :percent="item.gpuPercentage"
+                :show-text="false"
+                size="large"
+                color="#165dff"
+              />
+              <span>{{ formatNum(item.gpu) }}</span>
+            </div>
           </div>
           <a-divider style="border-bottom-style: dashed" />
         </div>
