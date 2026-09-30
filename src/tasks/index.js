@@ -45,7 +45,8 @@ const sites = [
   },
   {
     url: 'https://browser.geekbench.com/opencl-benchmarks',
-    waitFor: '#opencl tbody tr',
+    // Geekbench 会对 GitHub Actions 的请求弹出 Cloudflare 人机验证，页面改由 Firecrawl 抓取
+    viaFirecrawl: true,
     // 名称单元格里还有一个 description 子元素，只取它前面的文本
     code: () =>
       Array.from(document.querySelectorAll('#opencl tbody tr'), tr => ({
@@ -66,18 +67,35 @@ const sites = [
   },
 ]
 
+async function firecrawl(url) {
+  const res = await fetch('https://api.firecrawl.dev/v2/scrape', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${process.env.FIRECRAWL_API_KEY}`,
+    },
+    body: JSON.stringify({ url, formats: ['rawHtml'] }),
+    signal: AbortSignal.timeout(TIMEOUT),
+  })
+  const { success, error, data } = await res.json()
+  if (!success) {
+    throw new Error(`Firecrawl 抓取失败，${error}`)
+  }
+  return data.rawHtml
+}
+
 async function fetchData(browser, site) {
   const page = await browser.newPage()
   try {
-    // 数据都在 HTML 里，DOM 解析完即可读取，不等广告和统计脚本加载
-    const res = await page.goto(site.url, {
-      waitUntil: 'domcontentloaded',
-      timeout: TIMEOUT,
-    })
-    const challenged = res?.headers()['cf-mitigated'] === 'challenge'
-    await page.waitForSelector(site.waitFor, { timeout: TIMEOUT }).catch(error => {
-      throw challenged ? new Error('请求被 Cloudflare 人机验证拦截') : error
-    })
+    if (site.viaFirecrawl) {
+      // 只需要解析 HTML，不执行页面里的广告和统计脚本
+      await page.setJavaScriptEnabled(false)
+      await page.setContent(await firecrawl(site.url), { waitUntil: 'domcontentloaded' })
+    } else {
+      // 数据都在 HTML 里，DOM 解析完即可读取，不等广告和统计脚本加载
+      await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: TIMEOUT })
+      await page.waitForSelector(site.waitFor, { timeout: TIMEOUT })
+    }
     return await page.evaluate(site.code)
   } finally {
     await page.close()

@@ -29,6 +29,8 @@ jobs:
 
       - name: Run pnpm fetch
         run: pnpm run fetch
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
 
       # 部分数据源失败时，其余已更新的数据照常提交
       - name: Check for changes
