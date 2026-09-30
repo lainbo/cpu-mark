@@ -61,8 +61,27 @@ const sites = [
     fileName: 'r23SData',
   },
   {
-    urls: ['https://www.topcpu.net/soc-r'],
-    ...topCpu,
+    // 安卓芯片取自 SoC 天梯的手机芯片（level=1），苹果芯片不在天梯里，取自按机型列出的 iOS 性能榜
+    urls: [
+      'https://www.antutu.com/ranking/soc?level=1',
+      'https://www.antutu.com/ranking/ios',
+    ],
+    waitFor: '.nrank-b .model-name',
+    // 两个榜单每行的第 2、3 个 li 分别是 CPU、GPU 得分
+    code: () =>
+      Array.from(document.querySelectorAll('.nrank-b'), row => {
+        const [, cpu, gpu] = row.querySelectorAll('li')
+        const name = row.querySelector('.model-name')?.textContent
+        // iOS 性能榜括号里是芯片和内存容量，如 "(A19 Pro 12+256)"，只把芯片接在机型后面
+        const chip =
+          location.pathname === '/ranking/ios' &&
+          row.querySelector('.memory')?.textContent.replace(/^\(|(\s*\d+\+\d+)?\)$/g, '')
+        return {
+          name: chip ? `${name} ${chip}` : name,
+          mark: cpu?.textContent,
+          gpu: gpu?.textContent,
+        }
+      }),
     fileName: 'socData',
   },
   {
@@ -151,13 +170,20 @@ async function fetchData(browser, site) {
   return rows
 }
 
+function toNumber(text) {
+  return Number(text.replace(/,/g, '').trim())
+}
+
 function save(site, data) {
   const result = data
-    .map(({ name = '', mark = '' }) => ({
+    .map(({ name = '', mark = '', gpu }) => ({
       nameDetail: name.replace(/\s+/g, ' ').trim(),
-      mark: Number(mark.replace(/,/g, '').trim()),
+      mark: toNumber(mark),
+      ...(gpu !== undefined && { gpu: toNumber(gpu) }),
     }))
-    .filter(item => item.nameDetail && Number.isFinite(item.mark))
+    .filter(
+      item => item.nameDetail && Number.isFinite(item.mark) && !Number.isNaN(item.gpu)
+    )
 
   // 页面结构变化或被拦截时解析不到数据，此时保留旧文件
   if (!result.length) {

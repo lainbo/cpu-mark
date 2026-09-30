@@ -113,6 +113,14 @@ const r23Answer = `
   <li>它的测试结果是衡量CPU在专业级图形处理任务中性能的重要指标。</li>
 </ul>
 `
+const socAnswer = `
+<ul class="list-disc pl-16px">
+  <li>数据来自安兔兔官网，CPU、GPU 分别是安兔兔 V11 的 CPU 得分和 GPU 得分。</li>
+  <li>安卓芯片取自 SoC 天梯的手机芯片榜，得分是搭载该芯片的所有机型的平均成绩。</li>
+  <li>苹果芯片取自 iOS 性能榜，按 iPhone、iPad 机型列出，是中国大陆地区当月跑分次数不少于 1000 次的机型的平均成绩。</li>
+  <li>安兔兔跑分并不能完全代表实际使用体验，还要结合功耗和优化来看，仅供参考，不构成购买建议。</li>
+</ul>
+`
 const pageConfig = {
   gbcpuM: {
     title: 'Geekbench 7多核',
@@ -145,8 +153,7 @@ const pageConfig = {
   soc: {
     title: '安兔兔',
     question: '这里是移动端处理器',
-    answer:
-      '安兔兔跑分并不能完全代表实际使用体验，还要结合功耗和优化来看，仅供参考，不构成购买建议',
+    answer: socAnswer,
     placeholder: '请输入CPU型号，如A16',
     flag: 'soc',
   },

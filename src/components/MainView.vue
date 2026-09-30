@@ -24,6 +24,7 @@
             </div>
           </div>
           <div class="flex items-center space-x-6px">
+            <span v-if="showGpu" class="flex-shrink-0">CPU</span>
             <a-progress
               :percent="item.percentage"
               :show-text="false"
@@ -31,6 +32,16 @@
               color="#165dff"
             />
             <span>{{ formatNum(item.mark) }}</span>
+          </div>
+          <div v-if="showGpu" class="flex items-center space-x-6px">
+            <span class="flex-shrink-0">GPU</span>
+            <a-progress
+              :percent="item.gpuPercentage"
+              :show-text="false"
+              size="large"
+              color="#165dff"
+            />
+            <span>{{ formatNum(item.gpu) }}</span>
           </div>
           <a-divider style="border-bottom-style: dashed" />
         </div>
@@ -87,16 +98,29 @@
           <vxe-column field="key" title="排名" width="80" sortable />
           <vxe-column field="nameDetail" title="型号" />
 
-          <vxe-column field="mark" :title="calcMarkTitle" width="300" sortable>
+          <vxe-column field="mark" :title="calcMarkTitle" :width="markWidth" sortable>
             <template #default="{ row }">
               <div class="space-x-6px">
                 <a-progress
                   :percent="row.percentage"
-                  :style="{ width: '70%' }"
+                  :style="progressStyle"
                   :show-text="false"
                   color="#165dff"
                 />
                 <span>{{ formatNum(row.mark) }}</span>
+              </div>
+            </template>
+          </vxe-column>
+          <vxe-column v-if="showGpu" field="gpu" title="GPU" :width="markWidth" sortable>
+            <template #default="{ row }">
+              <div class="space-x-6px">
+                <a-progress
+                  :percent="row.gpuPercentage"
+                  :style="progressStyle"
+                  :show-text="false"
+                  color="#165dff"
+                />
+                <span>{{ formatNum(row.gpu) }}</span>
               </div>
             </template>
           </vxe-column>
@@ -138,9 +162,17 @@ const virtualYConfig = { enabled: true, gt: 100 }
 const headerCellConfig = { height: 38, padding: { top: false, bottom: false } }
 const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分高度
 
+// 安兔兔页分别列出 CPU、GPU 得分，mark 为 CPU 得分
+const showGpu = props.pageConfig.flag === 'soc'
+// 两列得分时缩窄列宽，给型号列留出空间，进度条也相应缩短，避免分数被截断
+const markWidth = showGpu ? 200 : 300
+const progressStyle = { width: showGpu ? '50%' : '70%' }
+
 const calcMarkTitle = computed(() => {
   if (props.pageConfig.flag === 'gpu') {
     return 'OpenCL 得分'
+  } else if (showGpu) {
+    return 'CPU'
   } else {
     return '性能'
   }
@@ -149,11 +181,13 @@ const calcMarkTitle = computed(() => {
 // 采集脚本已按得分降序输出，直接保留原有顺序。
 const rankedData = props.pageData.filter(item => isNumber(item.mark))
 const maxMark = rankedData[0]?.mark ?? 0
+const maxGpu = Math.max(0, ...rankedData.map(item => item.gpu ?? 0))
 const originalData = Object.freeze(
   rankedData.map((item, index) => ({
     ...item,
     key: index + 1,
     percentage: parseFloat((item.mark / maxMark).toFixed(3)),
+    gpuPercentage: parseFloat((item.gpu / maxGpu).toFixed(3)),
     searchKey: handleText(item.nameDetail),
   }))
 )
