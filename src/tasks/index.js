@@ -53,6 +53,16 @@ const sites = [
         name: tr.querySelector('td.name')?.firstChild?.textContent,
         mark: tr.querySelector('td.score')?.textContent,
       })),
+    // 名称符合以下任一规则的条目不收录
+    exclude: [
+      // Linux 开源驱动 Mesa 的条目，分数随驱动版本大幅波动。名称带驱动和内核版本，
+      // 如 "(radeonsi, gfx1201, ACO, DRM 3.64, 6.18.20)"，或以 Mesa、zink 开头，或标注 Panfrost、RADV
+      /, DRM \d|^Mesa |^zink |\(Panfrost\)|\(RADV /,
+      // 芯片代号后列出多款型号，分数对应不到具体型号，如 "Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]"
+      /\[[^\]]*\/[^\]]*\]/,
+      // 只有 PCI 设备编号、没有型号，如 "Intel(R) Graphics [0x56a0]"
+      /^Intel\(R\) (Graphics( Gen\w+)?|Arc\(TM\)) \[/,
+    ],
     fileName: 'gpuData',
   },
   {
@@ -115,14 +125,17 @@ function save(site, data) {
     throw new Error('页面中没有解析到数据')
   }
 
-  const uniqueResult = uniqBy(result, 'nameDetail')
+  const keptResult = result.filter(
+    item => !site.exclude?.some(rule => rule.test(item.nameDetail))
+  )
+  const uniqueResult = uniqBy(keptResult, 'nameDetail')
   const sortedResult = orderBy(uniqueResult, ['mark'], ['desc'])
 
   fs.writeFileSync(
     `${OUTPUT_PATH}/${site.fileName}.json`,
     JSON.stringify(sortedResult, null, 2)
   )
-  return sortedResult.length
+  return { count: sortedResult.length, excluded: result.length - keptResult.length }
 }
 
 const startTime = Date.now()
@@ -136,8 +149,12 @@ const browser = await puppeteer.launch({
 let hasError = false
 for (const site of sites) {
   try {
-    const count = save(site, await fetchData(browser, site))
-    console.log(chalk.greenBright('成功:'), `${site.fileName}.json（${count} 条）`)
+    const { count, excluded } = save(site, await fetchData(browser, site))
+    const excludedText = excluded ? `，按名称规则排除 ${excluded} 条` : ''
+    console.log(
+      chalk.greenBright('成功:'),
+      `${site.fileName}.json（${count} 条${excludedText}）`
+    )
   } catch (error) {
     hasError = true
     console.error(
