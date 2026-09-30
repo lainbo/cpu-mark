@@ -4,8 +4,7 @@ import { uniqBy, orderBy } from 'lodash-es'
 import chalk from 'chalk'
 
 const OUTPUT_PATH = './src/assets/staticData'
-// topcpu 在 GitHub Actions 上偶尔要 30 秒以上才响应
-const TIMEOUT = 60000
+const TIMEOUT = 30000
 
 // topcpu 的各个排行页结构相同：每行一个 CPU 链接，同一行里的加粗 span 是分数
 const topCpu = {
@@ -18,34 +17,56 @@ const topCpu = {
     })),
 }
 
+// Geekbench 官方处理器榜单里没有苹果芯片，苹果芯片的成绩在 Mac 榜单里按机型列出。
+// 两个页面的单核、多核成绩分别在 id 为 single-core、multi-core 的标签页里
+const geekbenchCpu = {
+  urls: [
+    'https://browser.geekbench.com/processor-benchmarks',
+    'https://browser.geekbench.com/mac-benchmarks',
+  ],
+  viaFirecrawl: true,
+  code: tab =>
+    Array.from(document.querySelectorAll(`#${tab} tbody tr`), tr => {
+      const name = tr.querySelector('td.name a')?.textContent
+      // Mac 榜单的名称是机型，把 description 里的芯片和核心数接在机型后面，去掉频率
+      const chip =
+        tr.closest('#mac') &&
+        tr.querySelector('td.name .description')?.textContent.replace(/@ [\d.]+ GHz/, '')
+      return {
+        name: chip ? `${name} ${chip}` : name,
+        mark: tr.querySelector('td.score')?.textContent,
+      }
+    }),
+}
+
 const sites = [
   {
-    url: 'https://www.topcpu.net/cpu-r/geekbench-6-multi-core',
-    ...topCpu,
-    fileName: 'gb6MData',
+    ...geekbenchCpu,
+    tab: 'multi-core',
+    fileName: 'gbMData',
   },
   {
-    url: 'https://www.topcpu.net/cpu-r/geekbench-6-single-core',
-    ...topCpu,
-    fileName: 'gb6SData',
+    ...geekbenchCpu,
+    tab: 'single-core',
+    fileName: 'gbSData',
   },
   {
-    url: 'https://www.topcpu.net/cpu-r/cinebench-r23-multi-core',
+    urls: ['https://www.topcpu.net/cpu-r/cinebench-r23-multi-core'],
     ...topCpu,
     fileName: 'r23MData',
   },
   {
-    url: 'https://www.topcpu.net/cpu-r/cinebench-r23-single-core',
+    urls: ['https://www.topcpu.net/cpu-r/cinebench-r23-single-core'],
     ...topCpu,
     fileName: 'r23SData',
   },
   {
-    url: 'https://www.topcpu.net/soc-r',
+    urls: ['https://www.topcpu.net/soc-r'],
     ...topCpu,
     fileName: 'socData',
   },
   {
-    url: 'https://browser.geekbench.com/opencl-benchmarks',
+    urls: ['https://browser.geekbench.com/opencl-benchmarks'],
     // Geekbench 会对 GitHub Actions 的请求弹出 Cloudflare 人机验证，页面改由 Firecrawl 抓取
     viaFirecrawl: true,
     // 名称单元格里还有一个 description 子元素，只取它前面的文本
@@ -67,7 +88,7 @@ const sites = [
     fileName: 'gpuData',
   },
   {
-    url: 'https://www.harddrivebenchmark.net/hdd_list.php',
+    urls: ['https://www.harddrivebenchmark.net/hdd_list.php'],
     waitFor: '#cputable tbody tr',
     code: () =>
       Array.from(document.querySelectorAll('#cputable tbody tr'), tr => ({
@@ -78,39 +99,56 @@ const sites = [
   },
 ]
 
+// 单核和多核来自同一个页面，同一次运行里每个页面只请求一次
+const firecrawlPages = new Map()
+
 async function firecrawl(url) {
+  if (firecrawlPages.has(url)) {
+    return firecrawlPages.get(url)
+  }
   const res = await fetch('https://api.firecrawl.dev/v2/scrape', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${process.env.FIRECRAWL_API_KEY}`,
     },
-    body: JSON.stringify({ url, formats: ['rawHtml'] }),
+    // Firecrawl 默认会返回 2 天内缓存的页面，这里只接受 1 小时内的
+    body: JSON.stringify({ url, formats: ['rawHtml'], maxAge: 3600000 }),
     signal: AbortSignal.timeout(TIMEOUT),
   })
   const { success, error, data } = await res.json()
   if (!success) {
     throw new Error(`Firecrawl 抓取失败，${error}`)
   }
+  firecrawlPages.set(url, data.rawHtml)
   return data.rawHtml
 }
 
 async function fetchData(browser, site) {
-  const page = await browser.newPage()
-  try {
-    if (site.viaFirecrawl) {
-      // 只需要解析 HTML，不执行页面里的广告和统计脚本
-      await page.setJavaScriptEnabled(false)
-      await page.setContent(await firecrawl(site.url), { waitUntil: 'domcontentloaded' })
-    } else {
-      // 数据都在 HTML 里，DOM 解析完即可读取，不等广告和统计脚本加载
-      await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: TIMEOUT })
-      await page.waitForSelector(site.waitFor, { timeout: TIMEOUT })
+  const rows = []
+  for (const url of site.urls) {
+    const page = await browser.newPage()
+    try {
+      if (site.viaFirecrawl) {
+        // 只需要解析 HTML，不执行页面里的广告和统计脚本
+        await page.setJavaScriptEnabled(false)
+        await page.setContent(await firecrawl(url), { waitUntil: 'domcontentloaded' })
+      } else {
+        // 数据都在 HTML 里，DOM 解析完即可读取，不等广告和统计脚本加载
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: TIMEOUT })
+        await page.waitForSelector(site.waitFor, { timeout: TIMEOUT })
+      }
+      const pageRows = await page.evaluate(site.code, site.tab)
+      // 由多个页面合并的数据，任一页面解析不到数据都不更新，避免缺掉一部分
+      if (!pageRows.length) {
+        throw new Error(`${url} 中没有解析到数据`)
+      }
+      rows.push(...pageRows)
+    } finally {
+      await page.close()
     }
-    return await page.evaluate(site.code)
-  } finally {
-    await page.close()
   }
+  return rows
 }
 
 function save(site, data) {
@@ -147,21 +185,36 @@ const browser = await puppeteer.launch({
   args: ['--no-sandbox', '--disable-setuid-sandbox'],
 })
 
-let hasError = false
+async function update(browser, site) {
+  const { count, excluded } = save(site, await fetchData(browser, site))
+  const excludedText = excluded ? `，按名称规则排除 ${excluded} 条` : ''
+  console.log(
+    chalk.greenBright('成功:'),
+    `${site.fileName}.json（${count} 条${excludedText}）`
+  )
+}
+
+const failedSites = []
 for (const site of sites) {
-  try {
-    const { count, excluded } = save(site, await fetchData(browser, site))
-    const excludedText = excluded ? `，按名称规则排除 ${excluded} 条` : ''
-    console.log(
-      chalk.greenBright('成功:'),
-      `${site.fileName}.json（${count} 条${excludedText}）`
+  await update(browser, site).catch(error => {
+    failedSites.push(site)
+    console.warn(
+      chalk.yellow(`${site.fileName}.json 获取失败，稍后重试，${error.message}`)
     )
-  } catch (error) {
+  })
+}
+
+// topcpu 在 GitHub Actions 上偶尔有请求一直等不到响应，失败的数据源最后再试一次
+let hasError = false
+for (const site of failedSites) {
+  await update(browser, site).catch(error => {
     hasError = true
     console.error(
-      chalk.red(`错误：${site.fileName}.json 未更新，${site.url}，${error.message}`)
+      chalk.red(
+        `错误：${site.fileName}.json 未更新，${site.urls.join(' ')}，${error.message}`
+      )
     )
-  }
+  })
 }
 
 await browser.close()

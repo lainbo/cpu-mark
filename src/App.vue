@@ -1,18 +1,18 @@
 <template>
   <div class="main_app">
     <a-tabs v-model:active-key="activeName" lazy-load>
-      <a-tab-pane :key="1" :title="pageConfig.gb6cpuM.title">
+      <a-tab-pane :key="1" :title="pageConfig.gbcpuM.title">
         <MainView
           v-model:selection="globalSelection"
-          :page-data="gb6MData"
-          :page-config="pageConfig.gb6cpuM"
+          :page-data="gbMData"
+          :page-config="pageConfig.gbcpuM"
         />
       </a-tab-pane>
-      <a-tab-pane :key="2" :title="pageConfig.gb6cpuS.title">
+      <a-tab-pane :key="2" :title="pageConfig.gbcpuS.title">
         <MainView
           v-model:selection="globalSelection"
-          :page-data="gb6SData"
-          :page-config="pageConfig.gb6cpuS"
+          :page-data="gbSData"
+          :page-config="pageConfig.gbcpuS"
         />
       </a-tab-pane>
       <a-tab-pane :key="3" :title="pageConfig.r23cpuM.title">
@@ -31,7 +31,7 @@
       </a-tab-pane>
       <!-- <a-tab-pane :key="5" title="CPU综合对比">
         <MainView
-          :all-data="[gb6MData, gb6SData]"
+          :all-data="[gbMData, gbSData]"
           :page-config="pageConfig.synthesis"
           :cpu-compared="true"
         />
@@ -63,8 +63,8 @@
 </template>
 <script setup>
 import MainView from './components/MainView.vue'
-import gb6MData from '@/assets/staticData/gb6MData.json'
-import gb6SData from '@/assets/staticData/gb6SData.json'
+import gbMData from '@/assets/staticData/gbMData.json'
+import gbSData from '@/assets/staticData/gbSData.json'
 import r23MData from '@/assets/staticData/r23MData.json'
 import r23SData from '@/assets/staticData/r23SData.json'
 import socData from '@/assets/staticData/socData.json'
@@ -96,11 +96,13 @@ const utoolsInit = () => {
   window.utools.subInputBlur()
 }
 
-const gb6Answer = `
+const gbAnswer = `
 <ul class="list-disc pl-16px">
   <li>这是一款多功能CPU性能测试工具，它模拟日常计算任务来测试性能。</li>
   <li>单核性能测试中，它测量CPU处理单个任务时的效率，这反映了处理器在执行单线程任务时的能力，对于大多数日常应用、游戏来说，单核性能更为关键。</li>
   <li>多核性能测试评估了CPU在同时处理多个任务时的效率，这对于需要大量并行处理的应用，如视频编辑、3D渲染和复杂的科学计算，更为重要。</li>
+  <li>数据来自 Geekbench Browser 官方的处理器排行榜和 Mac 排行榜，是用户上传测试结果的平均值，只收录至少有 5 个独立结果的处理器。分数以 AMD Ryzen 7 7700 的单核 2,500 分为基准，分数翻倍代表性能翻倍。</li>
+  <li>苹果芯片按 Mac 机型列出，同一款芯片在不同机型中的散热和功耗设置不同，得分也会有差别。</li>
 </ul>
 `
 const r23Answer = `
@@ -112,19 +114,19 @@ const r23Answer = `
 </ul>
 `
 const pageConfig = {
-  gb6cpuM: {
-    title: 'Geekbench 6多核',
-    question: 'Geekbench6能体现什么?',
-    answer: gb6Answer,
+  gbcpuM: {
+    title: 'Geekbench 7多核',
+    question: 'Geekbench 7能体现什么?',
+    answer: gbAnswer,
     placeholder: '请输入CPU型号，如12700K',
-    flag: 'gb6cpu',
+    flag: 'gbcpuM',
   },
-  gb6cpuS: {
-    title: 'Geekbench 6单核',
-    question: 'Geekbench6能体现什么?',
-    answer: gb6Answer,
+  gbcpuS: {
+    title: 'Geekbench 7单核',
+    question: 'Geekbench 7能体现什么?',
+    answer: gbAnswer,
     placeholder: '请输入CPU型号，如12700K',
-    flag: 'gb6cpuS',
+    flag: 'gbcpuS',
   },
   r23cpuM: {
     title: 'Cinebench R23多核',
