@@ -4,7 +4,8 @@ import { uniqBy, orderBy } from 'lodash-es'
 import chalk from 'chalk'
 
 const OUTPUT_PATH = './src/assets/staticData'
-const TIMEOUT = 30000
+// topcpu 在 GitHub Actions 上偶尔要 30 秒以上才响应
+const TIMEOUT = 60000
 
 // topcpu 的各个排行页结构相同：每行一个 CPU 链接，同一行里的加粗 span 是分数
 const topCpu = {
