@@ -13,31 +13,31 @@
     "up": "ncu -i --format group"
   },
   "dependencies": {
-    "@vueuse/core": "^14.4.0",
+    "@vueuse/core": "^15.0.0",
     "dayjs": "^1.11.23",
     "lodash-es": "^4.18.1",
-    "vue": "^3.5.42",
-    "vxe-pc-ui": "4.17.19",
-    "vxe-table": "4.21.2",
-    "xe-utils": "4.0.12"
+    "vue": "^3.5.43",
+    "vxe-pc-ui": "4.18.21",
+    "vxe-table": "4.22.3",
+    "xe-utils": "4.1.2"
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.58.0",
-    "@iconify/json": "^2.2.521",
-    "@unocss/preset-rem-to-px": "^66.8.1",
-    "@unocss/preset-web-fonts": "^66.8.1",
-    "@unocss/reset": "^66.8.1",
-    "@vitejs/plugin-vue": "^6.0.8",
+    "@iconify/json": "^2.2.537",
+    "@unocss/preset-rem-to-px": "^66.10.5",
+    "@unocss/preset-web-fonts": "^66.10.5",
+    "@unocss/reset": "^66.10.5",
+    "@vitejs/plugin-vue": "^6.0.9",
     "axios": "^1.20.0",
-    "chalk": "^6.0.0",
+    "chalk": "^6.0.1",
     "https-proxy-agent": "^9.1.0",
-    "oxfmt": "^0.65.0",
-    "oxlint": "^1.80.0",
-    "puppeteer": "^25.9.0",
-    "sass": "^1.103.1",
-    "unocss": "^66.8.1",
+    "oxfmt": "^0.71.0",
+    "oxlint": "^1.86.0",
+    "puppeteer": "^25.12.0",
+    "sass": "^1.105.1",
+    "unocss": "^66.10.5",
     "unplugin-auto-import": "^21.1.0",
     "unplugin-vue-components": "^32.1.0",
-    "vite": "^8.2.2"
+    "vite": "^8.3.2"
   }
 }
