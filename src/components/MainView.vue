@@ -8,9 +8,7 @@
       </div>
       <div class="lg:(overflow-y-auto flex-1)">
         <div v-for="item in calcComparedArr" :key="item.key">
-          <div
-            class="font-bold flex justify-between text-16px space-x-12px text-[#333] dark:text-light-900"
-          >
+          <div class="font-bold flex justify-between text-16px space-x-12px">
             <div class="truncate flex-1">
               {{ item.nameDetail }}
               <!-- 不是cpu对比的才有排名显示 -->
@@ -30,7 +28,7 @@
                 :percent="item.percentage"
                 :show-text="false"
                 size="large"
-                color="#165dff"
+                color="rgb(var(--primary-6))"
               />
               <span>{{ formatNum(item.mark) }}</span>
             </div>
@@ -40,7 +38,7 @@
                 :percent="item.gpuPercentage"
                 :show-text="false"
                 size="large"
-                color="#165dff"
+                color="rgb(var(--primary-6))"
               />
               <span>{{ formatNum(item.gpu) }}</span>
             </div>
@@ -88,7 +86,6 @@
           :row-config="{ isHover: true }"
           :checkbox-config="{ showHeader: false, trigger: 'row' }"
           :tooltip-config="{
-            theme: isDark ? 'light' : 'dark',
             enterDelay: 0,
             enterable: true,
           }"
@@ -107,7 +104,7 @@
                   :percent="row.percentage"
                   :style="progressStyle"
                   :show-text="false"
-                  color="#165dff"
+                  color="rgb(var(--primary-6))"
                 />
                 <span>{{ formatNum(row.mark) }}</span>
               </div>
@@ -120,7 +117,7 @@
                   :percent="row.gpuPercentage"
                   :style="progressStyle"
                   :show-text="false"
-                  color="#165dff"
+                  color="rgb(var(--primary-6))"
                 />
                 <span>{{ formatNum(row.gpu) }}</span>
               </div>
@@ -133,7 +130,6 @@
 </template>
 
 <script setup>
-import '@/utils/setTheme.js'
 import { formatNum } from '@/utils/formatNum.js'
 import { isNumber } from '@/utils/isNumber.js'
 import { onBeforeUnmount } from 'vue'
@@ -157,7 +153,6 @@ const selectionModel = defineModel('selection', {
   type: Array,
   default: () => [],
 })
-const isDark = useDark() // 响应式：是否为暗色
 const mainRef = ref() // 主体部分的 ref
 // 4.7+ 默认关闭虚拟滚动，不设 enabled 会把全部行渲染进 DOM
 const virtualYConfig = { enabled: true, gt: 100 }
@@ -331,17 +326,13 @@ onBeforeUnmount(() => applySearch.cancel())
 
 <style lang="scss" scoped>
 .content_wrapper {
-  @apply pt-0 px-0 pb-16px  w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all lg:(pt-16px px-32px flex-row items-stretch space-y-0 gap-16px flex-row-reverse) dark:bg-dark-300;
+  @apply pt-0 px-0 pb-16px  w-full h-[calc(100vh-40px)] flex flex-col items-center bg-[#f2f2f2] space-y-28px overflow-x-hidden overflow-y-auto transition-all lg:(pt-16px px-32px flex-row items-stretch space-y-0 gap-16px flex-row-reverse) dark:bg-[var(--color-bg-1)];
 }
 .card_wrapper {
-  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px bg-white  dark:(shadow-black shadow-lg bg-dark-200 text-white) lg:(rounded-8px);
+  @apply pb-16px pt-16px px-16px rounded-b-8px shadow-xl w-full min-w-500px space-y-10px dark:(shadow-black shadow-lg) lg:(rounded-8px);
+  background-color: var(--color-bg-2);
+  color: var(--color-text-1);
   transition: all 0.3s ease;
-}
-
-@media (prefers-color-scheme: dark) {
-  .table_main {
-    filter: invert(1) hue-rotate(0.5turn) !important;
-  }
 }
 
 .text_decorate {
@@ -358,7 +349,7 @@ onBeforeUnmount(() => applySearch.cancel())
     top: 50%;
     transform: translateY(-50%);
     border-radius: 3px;
-    @apply bg-primary;
+    @apply bg-[rgb(var(--primary-6))];
   }
 }
 </style>

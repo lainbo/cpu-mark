@@ -13,6 +13,8 @@ body {
     sans-serif !important;
 }
 body {
+  color: var(--color-text-1);
+  background-color: var(--color-bg-1);
   text-autospace: normal;
 }
 
@@ -47,7 +49,7 @@ body {
   .vxe-cell--checkbox:not(.is--disabled):hover
   .vxe-checkbox--icon,
 .vxe-table--render-default .is--checked.vxe-cell--checkbox {
-  color: #165dff !important;
+  color: rgb(var(--primary-6)) !important;
 }
 ::-webkit-scrollbar {
   width: 8px;
