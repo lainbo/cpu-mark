@@ -21,10 +21,24 @@
               <i class="i-material-symbols-close"></i>
             </div>
           </div>
-          <div v-if="isSsd" class="flex flex-wrap gap-x-24px gap-y-4px">
-            <span>读取：{{ formatNum(item.readSpeed) }} MB/s</span>
-            <span>写入：{{ formatNum(item.writeSpeed) }} MB/s</span>
-            <span>得分：{{ formatNum(item.mark) }}</span>
+          <div v-if="isSsd" class="space-y-4px">
+            <div
+              v-for="metric in ssdCompareMetrics"
+              :key="metric.field"
+              class="flex items-center gap-6px"
+            >
+              <span class="flex-shrink-0">{{ metric.label }}</span>
+              <a-progress
+                class="flex-1 min-w-0"
+                :percent="item[metric.field] / metric.max"
+                :show-text="false"
+                size="large"
+                color="rgb(var(--primary-6))"
+              />
+              <span class="w-112px flex-shrink-0 text-right whitespace-nowrap">
+                {{ formatNum(item[metric.field]) }} {{ metric.unit }}
+              </span>
+            </div>
           </div>
           <div v-else class="flex space-x-24px">
             <div class="flex-1 min-w-0 flex items-center space-x-6px">
@@ -206,6 +220,23 @@ const calcMarkTitle = computed(() => {
 const rankedData = props.pageData.filter(item => isNumber(item.mark))
 const maxMark = rankedData[0]?.mark ?? 0
 const maxGpu = Math.max(0, ...rankedData.map(item => item.gpu ?? 0))
+const ssdCompareMetrics = isSsd
+  ? [
+      {
+        field: 'readSpeed',
+        label: '读取',
+        unit: 'MB/s',
+        max: Math.max(0, ...rankedData.map(item => item.readSpeed)),
+      },
+      {
+        field: 'writeSpeed',
+        label: '写入',
+        unit: 'MB/s',
+        max: Math.max(0, ...rankedData.map(item => item.writeSpeed)),
+      },
+      { field: 'mark', label: '得分', unit: '', max: maxMark },
+    ]
+  : []
 const originalData = Object.freeze(
   rankedData.map((item, index) => ({
     ...item,
