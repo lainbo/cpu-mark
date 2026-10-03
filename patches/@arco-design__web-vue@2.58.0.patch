@@ -1,0 +1,26 @@
+diff --git a/es/tabs/tabs-nav.js b/es/tabs/tabs-nav.js
+index 4709f92a5382d0fb6533656e3d6b24b7215dd7f7..4a4133ea13f81b60cdceb9a90b060ed6775e7627 100644
+--- a/es/tabs/tabs-nav.js
++++ b/es/tabs/tabs-nav.js
+@@ -154,7 +154,7 @@ var TabsNav = defineComponent({
+       const marginSide = isHorizontal ? isRtlHorizontal.value ? scrollPosition.value === "end" ? "marginLeft" : "marginRight" : scrollPosition.value === "end" ? "marginRight" : "marginLeft" : scrollPosition.value === "end" ? "marginBottom" : "marginTop";
+       const tabStyle = window.getComputedStyle(activeTabRef.value);
+       const tabMargin = parseFloat(tabStyle[marginSide]) || 0;
+-      let targetOffset = 0;
++      let targetOffset = offset.value;
+       switch (scrollPosition.value) {
+         case "auto":
+           if (tabPosition < offset.value) {
+diff --git a/lib/tabs/tabs-nav.js b/lib/tabs/tabs-nav.js
+index 5b255af32225422cddfc1b53720578b18f88c9d2..d64e52cebfa8dd919a5fe8322492a091d5fafb38 100644
+--- a/lib/tabs/tabs-nav.js
++++ b/lib/tabs/tabs-nav.js
+@@ -155,7 +155,7 @@ var TabsNav = vue.defineComponent({
+       const marginSide = isHorizontal ? isRtlHorizontal.value ? scrollPosition.value === "end" ? "marginLeft" : "marginRight" : scrollPosition.value === "end" ? "marginRight" : "marginLeft" : scrollPosition.value === "end" ? "marginBottom" : "marginTop";
+       const tabStyle = window.getComputedStyle(activeTabRef.value);
+       const tabMargin = parseFloat(tabStyle[marginSide]) || 0;
+-      let targetOffset = 0;
++      let targetOffset = offset.value;
+       switch (scrollPosition.value) {
+         case "auto":
+           if (tabPosition < offset.value) {

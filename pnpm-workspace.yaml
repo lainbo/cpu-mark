@@ -16,3 +16,5 @@ minimumReleaseAgeExclude:
   - terser@5.51.2
   - vue@3.5.42
   - vite@8.3.2
+patchedDependencies:
+  '@arco-design/web-vue@2.58.0': patches/@arco-design__web-vue@2.58.0.patch
