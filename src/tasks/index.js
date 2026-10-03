@@ -107,14 +107,21 @@ const sites = [
     fileName: 'gpuData',
   },
   {
-    urls: ['https://www.harddrivebenchmark.net/hdd_list.php'],
-    waitFor: '#cputable tbody tr',
+    urls: [
+      'https://www.ssd-tester.com/m2_ssd_test.php',
+      'https://www.ssd-tester.com/sata_ssd_test.php',
+    ],
+    // 全部数据已在 HTML 中，禁用脚本以免前端分页只留下当前页的行。
+    disableJavaScript: true,
+    waitFor: '#table tbody tr',
     code: () =>
-      Array.from(document.querySelectorAll('#cputable tbody tr'), tr => ({
-        name: tr.children[0]?.textContent,
-        mark: tr.children[2]?.textContent,
+      Array.from(document.querySelectorAll('#table tbody tr'), tr => ({
+        name: tr.children[0]?.querySelector('a')?.textContent,
+        readSpeed: tr.children[3]?.textContent.replace('MB/s', ''),
+        writeSpeed: tr.children[4]?.textContent.replace('MB/s', ''),
+        mark: tr.children[5]?.textContent,
       })),
-    fileName: 'hardDriveData',
+    fileName: 'ssdData',
   },
 ]
 
@@ -148,9 +155,11 @@ async function fetchData(browser, site) {
   for (const url of site.urls) {
     const page = await browser.newPage()
     try {
+      if (site.disableJavaScript || site.viaFirecrawl) {
+        await page.setJavaScriptEnabled(false)
+      }
       if (site.viaFirecrawl) {
         // 只需要解析 HTML，不执行页面里的广告和统计脚本
-        await page.setJavaScriptEnabled(false)
         await page.setContent(await firecrawl(url), { waitUntil: 'domcontentloaded' })
       } else {
         // 数据都在 HTML 里，DOM 解析完即可读取，不等广告和统计脚本加载
@@ -176,13 +185,20 @@ function toNumber(text) {
 
 function save(site, data) {
   const result = data
-    .map(({ name = '', mark = '', gpu }) => ({
+    .map(({ name = '', mark = '', gpu, readSpeed, writeSpeed }) => ({
       nameDetail: name.replace(/\s+/g, ' ').trim(),
       mark: toNumber(mark),
       ...(gpu !== undefined && { gpu: toNumber(gpu) }),
+      ...(readSpeed !== undefined && { readSpeed: toNumber(readSpeed) }),
+      ...(writeSpeed !== undefined && { writeSpeed: toNumber(writeSpeed) }),
     }))
     .filter(
-      item => item.nameDetail && Number.isFinite(item.mark) && !Number.isNaN(item.gpu)
+      item =>
+        item.nameDetail &&
+        Number.isFinite(item.mark) &&
+        !Number.isNaN(item.gpu) &&
+        !Number.isNaN(item.readSpeed) &&
+        !Number.isNaN(item.writeSpeed)
     )
 
   // 页面结构变化或被拦截时解析不到数据，此时保留旧文件

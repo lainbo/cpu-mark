@@ -54,7 +54,7 @@
       <a-tab-pane :key="8" :title="pageConfig.drive.title">
         <MainView
           v-model:selection="globalSelection"
-          :page-data="hardDriveData"
+          :page-data="ssdData"
           :page-config="pageConfig.drive"
         />
       </a-tab-pane>
@@ -69,7 +69,7 @@ import r23MData from '@/assets/staticData/r23MData.json'
 import r23SData from '@/assets/staticData/r23SData.json'
 import socData from '@/assets/staticData/socData.json'
 import gpuData from '@/assets/staticData/gpuData.json'
-import hardDriveData from '@/assets/staticData/hardDriveData.json'
+import ssdData from '@/assets/staticData/ssdData.json'
 
 const globalSelection = ref([]) // 全局记录当前选中的对比项名称
 const activeName = ref(1) // 默认选中的tab
@@ -166,12 +166,12 @@ const pageConfig = {
     flag: 'gpu',
   },
   drive: {
-    title: '硬盘天梯',
-    question: '如何知道硬盘具体型号？',
+    title: 'SSD天梯',
+    question: 'SSD得分与读写速度',
     answer:
-      '硬盘的性能和容量也是相关的，固态硬盘中，一般1T、2T的性能大于500G，大于250G，所以需要知道具体容量对应的型号才能得到准确的信息。机械硬盘容量与性能关系更加明显，某些情况下可能是完全两个不同硬盘的感觉，如：查询“希捷酷鱼 1TB”的性能数据，建议到京东的对应商品的页面，商品图文详情的上方，“规格与包装”里面会有这款硬盘的具体型号，得到具体型号“ST1000DM010”，同型号的2TB版本“ST2000DM005”，是一个“叠瓦式”硬盘，两者性能差距较大',
-    placeholder: '请输入硬盘型号，如980Pro',
-    flag: 'disk',
+      '数据来自 SSD-Tester 的 NVMe 和 SATA SSD 实测榜单，合并后按综合得分排名。读取、写入为顺序传输速度，单位 MB/s，得分沿用源站的综合评分。同型号的不同容量版本性能可能不同，查询时请核对容量。源站于 2026 年夏季调整了评分方法，成绩仅供参考，不能完全代表日常使用或长时间写入表现。',
+    placeholder: '请输入SSD型号，如990Pro',
+    flag: 'ssd',
   },
   synthesis: {
     title: 'CPU综合对比',

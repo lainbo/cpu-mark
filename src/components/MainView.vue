@@ -21,7 +21,12 @@
               <i class="i-material-symbols-close"></i>
             </div>
           </div>
-          <div class="flex space-x-24px">
+          <div v-if="isSsd" class="flex flex-wrap gap-x-24px gap-y-4px">
+            <span>读取：{{ formatNum(item.readSpeed) }} MB/s</span>
+            <span>写入：{{ formatNum(item.writeSpeed) }} MB/s</span>
+            <span>得分：{{ formatNum(item.mark) }}</span>
+          </div>
+          <div v-else class="flex space-x-24px">
             <div class="flex-1 min-w-0 flex items-center space-x-6px">
               <span v-if="showGpu" class="flex-shrink-0">CPU</span>
               <a-progress
@@ -94,13 +99,32 @@
           @checkbox-change="selectChangeEvent"
         >
           <vxe-column type="checkbox" title="比较" width="65" />
-          <vxe-column field="key" title="排名" width="80" sortable />
+          <vxe-column field="key" title="排名" :width="isSsd ? 70 : 80" sortable />
           <vxe-column field="nameDetail" title="型号" />
 
+          <vxe-column
+            v-if="isSsd"
+            field="readSpeed"
+            title="读取 MB/s"
+            width="110"
+            sortable
+          >
+            <template #default="{ row }">{{ formatNum(row.readSpeed) }}</template>
+          </vxe-column>
+          <vxe-column
+            v-if="isSsd"
+            field="writeSpeed"
+            title="写入 MB/s"
+            width="110"
+            sortable
+          >
+            <template #default="{ row }">{{ formatNum(row.writeSpeed) }}</template>
+          </vxe-column>
           <vxe-column field="mark" :title="calcMarkTitle" :width="markWidth" sortable>
             <template #default="{ row }">
               <div class="space-x-6px">
                 <a-progress
+                  v-if="!isSsd"
                   :percent="row.percentage"
                   :style="progressStyle"
                   :show-text="false"
@@ -161,8 +185,9 @@ const { height: innerHeight } = useElementSize(mainRef) // 响应式主体部分
 
 // 安兔兔页分别列出 CPU、GPU 得分，mark 为 CPU 得分
 const showGpu = props.pageConfig.flag === 'soc'
-// 两列得分时缩窄列宽，给型号列留出空间，进度条也相应缩短，避免分数被截断
-const markWidth = showGpu ? 200 : 300
+const isSsd = props.pageConfig.flag === 'ssd'
+// SSD 和安兔兔有多列指标，缩窄数值列以便显示型号。
+const markWidth = isSsd ? 90 : showGpu ? 200 : 300
 const progressStyle = { width: showGpu ? '50%' : '70%' }
 
 const calcMarkTitle = computed(() => {
@@ -170,6 +195,8 @@ const calcMarkTitle = computed(() => {
     return 'OpenCL 得分'
   } else if (showGpu) {
     return 'CPU'
+  } else if (isSsd) {
+    return '得分'
   } else {
     return '性能'
   }

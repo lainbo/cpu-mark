@@ -1,6 +1,6 @@
 {
-  "pluginName": "CPU显卡硬盘天梯查询",
-  "description": "可以高效查询cpu多核性能、单核性能、显卡渲染性能、硬盘性能，并进行对比的工具",
+  "pluginName": "CPU显卡SSD天梯查询",
+  "description": "可以高效查询cpu多核性能、单核性能、显卡渲染性能、SSD读写速度和得分，并进行对比的工具",
   "main": "index.html",
   "version": "0.0.1",
   "author": "Lainbo",
@@ -28,7 +28,7 @@
     },
     {
       "code": "disk",
-      "explain": "查询硬盘天梯并对比",
+      "explain": "查询SSD天梯、读写速度和得分并对比",
       "cmds": ["hdd", "ssd", "disk", "硬盘"]
     }
   ],
