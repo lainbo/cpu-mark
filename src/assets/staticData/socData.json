@@ -145,6 +145,16 @@
     "gpu": 764701
   },
   {
+    "nameDetail": "三星 Exynos 2500",
+    "mark": 687559,
+    "gpu": 600850
+  },
+  {
+    "nameDetail": "联发科技 天玑8550 Super",
+    "mark": 686946,
+    "gpu": 665786
+  },
+  {
     "nameDetail": "联发科技 天玑8400-Max",
     "mark": 686832,
     "gpu": 640335
@@ -188,26 +198,6 @@
     "nameDetail": "iPad Pro 6 (12.9-inch) M2",
     "mark": 655079,
     "gpu": 945289
-  },
-  {
-    "nameDetail": "三星 Exynos 2400",
-    "mark": 640245,
-    "gpu": 624993
-  },
-  {
-    "nameDetail": "联发科技 天玑8550 Elite",
-    "mark": 639275,
-    "gpu": 745066
-  },
-  {
-    "nameDetail": "三星 Exynos 2500",
-    "mark": 636465,
-    "gpu": 801261
-  },
-  {
-    "nameDetail": "联发科技 天玑8550 Super",
-    "mark": 634729,
-    "gpu": 671432
   },
   {
     "nameDetail": "iPad Air 2024 (13-inch) M2",
@@ -295,6 +285,11 @@
     "gpu": 200724
   },
   {
+    "nameDetail": "三星 Exynos 2400",
+    "mark": 559029,
+    "gpu": 376809
+  },
+  {
     "nameDetail": "iPhone 17 A19",
     "mark": 557057,
     "gpu": 765221
@@ -328,6 +323,11 @@
     "nameDetail": "谷歌 Tensor G4",
     "mark": 521122,
     "gpu": 404393
+  },
+  {
+    "nameDetail": "联发科技 天玑8550 Elite",
+    "mark": 502459,
+    "gpu": 744698
   },
   {
     "nameDetail": "iPad 11 A16",
@@ -425,6 +425,11 @@
     "gpu": 358996
   },
   {
+    "nameDetail": "联发科技 天玑7500 满血版",
+    "mark": 439875,
+    "gpu": 106210
+  },
+  {
     "nameDetail": "高通 骁龙7s Gen 3",
     "mark": 431422,
     "gpu": 101769
@@ -458,11 +463,6 @@
     "nameDetail": "海思 麒麟9010",
     "mark": 419285,
     "gpu": 154292
-  },
-  {
-    "nameDetail": "联发科技 天玑7500 满血版",
-    "mark": 418978,
-    "gpu": 186940
   },
   {
     "nameDetail": "iPad Air 4 A14",
@@ -500,6 +500,11 @@
     "gpu": 377652
   },
   {
+    "nameDetail": "联发科技 天玑1200",
+    "mark": 394300,
+    "gpu": 134794
+  },
+  {
     "nameDetail": "海思 麒麟9010L",
     "mark": 393669,
     "gpu": 121989
@@ -508,6 +513,11 @@
     "nameDetail": "海思 麒麟9010E",
     "mark": 392964,
     "gpu": 123902
+  },
+  {
+    "nameDetail": "联发科技 天玑7200",
+    "mark": 389401,
+    "gpu": 109868
   },
   {
     "nameDetail": "海思 麒麟9000s",
@@ -523,6 +533,11 @@
     "nameDetail": "谷歌 Tensor G2",
     "mark": 380887,
     "gpu": 263843
+  },
+  {
+    "nameDetail": "联发科技 天玑1100",
+    "mark": 378961,
+    "gpu": 137870
   },
   {
     "nameDetail": "高通 骁龙6 Gen 4",
@@ -560,6 +575,11 @@
     "gpu": 127283
   },
   {
+    "nameDetail": "联发科技 天玑7400",
+    "mark": 362029,
+    "gpu": 103568
+  },
+  {
     "nameDetail": "三星 Exynos 1480",
     "mark": 361997,
     "gpu": 221241
@@ -573,6 +593,11 @@
     "nameDetail": "高通 骁龙780G",
     "mark": 359944,
     "gpu": 103874
+  },
+  {
+    "nameDetail": "三星 Exynos 1080",
+    "mark": 358342,
+    "gpu": 138573
   },
   {
     "nameDetail": "联发科技 天玑8050",
@@ -600,9 +625,14 @@
     "gpu": 179452
   },
   {
-    "nameDetail": "联发科技 天玑1200",
-    "mark": 347016,
-    "gpu": 137348
+    "nameDetail": "联发科技 天玑7400-Super",
+    "mark": 350724,
+    "gpu": 101702
+  },
+  {
+    "nameDetail": "联发科技 天玑7300e",
+    "mark": 347299,
+    "gpu": 79022
   },
   {
     "nameDetail": "海思 麒麟9000SL",
@@ -615,6 +645,11 @@
     "gpu": 105023
   },
   {
+    "nameDetail": "联发科技 天玑7400-Ultra",
+    "mark": 345311,
+    "gpu": 97052
+  },
+  {
     "nameDetail": "联发科技 天玑7200-Ultra",
     "mark": 345068,
     "gpu": 153093
@@ -623,11 +658,6 @@
     "nameDetail": "高通 骁龙7s Gen 2",
     "mark": 344673,
     "gpu": 89985
-  },
-  {
-    "nameDetail": "联发科技 天玑7200",
-    "mark": 342154,
-    "gpu": 150824
   },
   {
     "nameDetail": "高通 骁龙6s Gen 4",
@@ -645,24 +675,9 @@
     "gpu": 127280
   },
   {
-    "nameDetail": "联发科技 天玑7400",
-    "mark": 338268,
-    "gpu": 150197
-  },
-  {
     "nameDetail": "高通 骁龙782G",
     "mark": 337605,
     "gpu": 111471
-  },
-  {
-    "nameDetail": "联发科技 天玑1100",
-    "mark": 334891,
-    "gpu": 136402
-  },
-  {
-    "nameDetail": "联发科技 天玑7360-Super",
-    "mark": 333950,
-    "gpu": 126104
   },
   {
     "nameDetail": "高通 骁龙778G",
@@ -675,14 +690,19 @@
     "gpu": 312961
   },
   {
+    "nameDetail": "联发科技 天玑1000+",
+    "mark": 330072,
+    "gpu": 127264
+  },
+  {
     "nameDetail": "iPhone 13 mini A15",
     "mark": 328126,
     "gpu": 335953
   },
   {
-    "nameDetail": "联发科技 天玑7300e",
-    "mark": 326722,
-    "gpu": 102517
+    "nameDetail": "联发科技 天玑1080",
+    "mark": 324565,
+    "gpu": 77182
   },
   {
     "nameDetail": "海思 麒麟990",
@@ -690,19 +710,24 @@
     "gpu": 140518
   },
   {
-    "nameDetail": "联发科技 天玑7400-Ultra",
-    "mark": 320255,
-    "gpu": 147102
-  },
-  {
     "nameDetail": "iPhone 15 Pro Max A17 Pro",
     "mark": 320136,
     "gpu": 446750
   },
   {
-    "nameDetail": "三星 Exynos 1080",
-    "mark": 313238,
-    "gpu": 136179
+    "nameDetail": "联发科技 天玑7360-Super",
+    "mark": 319158,
+    "gpu": 93046
+  },
+  {
+    "nameDetail": "联发科技 天玑7300-Ultra",
+    "mark": 319158,
+    "gpu": 93046
+  },
+  {
+    "nameDetail": "联发科技 天玑1000L",
+    "mark": 315023,
+    "gpu": 124738
   },
   {
     "nameDetail": "iPhone 12 mini A14",
@@ -713,11 +738,6 @@
     "nameDetail": "iPhone 12 Pro Max A14",
     "mark": 311567,
     "gpu": 310085
-  },
-  {
-    "nameDetail": "联发科技 天玑7300-Ultra",
-    "mark": 311026,
-    "gpu": 92184
   },
   {
     "nameDetail": "联发科技 天玑7400-Ultimate",
@@ -743,6 +763,11 @@
     "nameDetail": "三星 Exynos 990",
     "mark": 300684,
     "gpu": 156948
+  },
+  {
+    "nameDetail": "海思 麒麟985",
+    "mark": 300347,
+    "gpu": 78705
   },
   {
     "nameDetail": "高通 骁龙6 Gen 3",
@@ -780,9 +805,9 @@
     "gpu": 88438
   },
   {
-    "nameDetail": "联发科技 天玑1080",
-    "mark": 291861,
-    "gpu": 74583
+    "nameDetail": "海思 麒麟820",
+    "mark": 290121,
+    "gpu": 73344
   },
   {
     "nameDetail": "联发科技 天玑7050",
@@ -798,6 +823,11 @@
     "nameDetail": "联发科技 天玑900",
     "mark": 288714,
     "gpu": 70386
+  },
+  {
+    "nameDetail": "联发科技 天玑7025-Ultra",
+    "mark": 287828,
+    "gpu": 56560
   },
   {
     "nameDetail": "iPhone 12 A14",
@@ -820,14 +850,14 @@
     "gpu": 142876
   },
   {
+    "nameDetail": "海思 麒麟980",
+    "mark": 283330,
+    "gpu": 76085
+  },
+  {
     "nameDetail": "联发科技 天玑1050",
     "mark": 282416,
     "gpu": 76344
-  },
-  {
-    "nameDetail": "联发科技 天玑1000+",
-    "mark": 281305,
-    "gpu": 120431
   },
   {
     "nameDetail": "联发科技 天玑7030",
@@ -835,9 +865,9 @@
     "gpu": 92198
   },
   {
-    "nameDetail": "联发科技 天玑1000L",
-    "mark": 274074,
-    "gpu": 108676
+    "nameDetail": "海思 麒麟820E",
+    "mark": 273234,
+    "gpu": 75956
   },
   {
     "nameDetail": "iPhone 14 Pro A16",
@@ -890,9 +920,9 @@
     "gpu": 136537
   },
   {
-    "nameDetail": "海思 麒麟985",
-    "mark": 266107,
-    "gpu": 83560
+    "nameDetail": "海思 麒麟810",
+    "mark": 265666,
+    "gpu": 57938
   },
   {
     "nameDetail": "联发科技 天玑800",
@@ -903,11 +933,6 @@
     "nameDetail": "紫光展锐 T820",
     "mark": 264401,
     "gpu": 52665
-  },
-  {
-    "nameDetail": "联发科技 天玑7025-Ultra",
-    "mark": 262820,
-    "gpu": 51752
   },
   {
     "nameDetail": "三星 Exynos 9820",
@@ -930,11 +955,6 @@
     "gpu": 126967
   },
   {
-    "nameDetail": "联发科技 天玑7025",
-    "mark": 255864,
-    "gpu": 54429
-  },
-  {
     "nameDetail": "紫光展锐 T760",
     "mark": 255846,
     "gpu": 52662
@@ -950,11 +970,6 @@
     "gpu": 102896
   },
   {
-    "nameDetail": "海思 麒麟980",
-    "mark": 251592,
-    "gpu": 104547
-  },
-  {
     "nameDetail": "联发科技 天玑800U",
     "mark": 248641,
     "gpu": 54800
@@ -965,14 +980,14 @@
     "gpu": 50271
   },
   {
+    "nameDetail": "联发科技 天玑7025",
+    "mark": 246969,
+    "gpu": 52844
+  },
+  {
     "nameDetail": "高通 骁龙730G",
     "mark": 246726,
     "gpu": 49413
-  },
-  {
-    "nameDetail": "海思 麒麟820",
-    "mark": 246220,
-    "gpu": 73839
   },
   {
     "nameDetail": "iPhone 11 Pro A13",
@@ -990,9 +1005,19 @@
     "gpu": 355555
   },
   {
+    "nameDetail": "联发科技 天玑6500 Elite",
+    "mark": 241278,
+    "gpu": 43137
+  },
+  {
     "nameDetail": "紫光展锐 T770",
     "mark": 241253,
     "gpu": 84653
+  },
+  {
+    "nameDetail": "联发科技 天玑6360-Max",
+    "mark": 241094,
+    "gpu": 46019
   },
   {
     "nameDetail": "iPhone 13 Pro Max A15",
@@ -1010,6 +1035,11 @@
     "gpu": 46836
   },
   {
+    "nameDetail": "联发科技 天玑700",
+    "mark": 236164,
+    "gpu": 40540
+  },
+  {
     "nameDetail": "联发科技 曦力G100",
     "mark": 234698,
     "gpu": 46060
@@ -1025,14 +1055,24 @@
     "gpu": 42103
   },
   {
-    "nameDetail": "海思 麒麟810",
-    "mark": 233882,
-    "gpu": 58829
+    "nameDetail": "联发科技 天玑6080",
+    "mark": 232932,
+    "gpu": 41983
+  },
+  {
+    "nameDetail": "联发科技 Helio G99",
+    "mark": 232363,
+    "gpu": 45586
   },
   {
     "nameDetail": "高通 骁龙720G",
     "mark": 231351,
     "gpu": 51407
+  },
+  {
+    "nameDetail": "联发科技 天玑6100+",
+    "mark": 230218,
+    "gpu": 42229
   },
   {
     "nameDetail": "高通 骁龙4s Gen 2",
@@ -1050,6 +1090,11 @@
     "gpu": 52969
   },
   {
+    "nameDetail": "联发科技 Helio G90T",
+    "mark": 221982,
+    "gpu": 46585
+  },
+  {
     "nameDetail": "iPhone 11 A13",
     "mark": 221262,
     "gpu": 282641
@@ -1058,11 +1103,6 @@
     "nameDetail": "紫光展锐 T8200",
     "mark": 220570,
     "gpu": 38865
-  },
-  {
-    "nameDetail": "联发科技 天玑6360-Max",
-    "mark": 220197,
-    "gpu": 46927
   },
   {
     "nameDetail": "紫光展锐 T765",
@@ -1085,11 +1125,6 @@
     "gpu": 47551
   },
   {
-    "nameDetail": "联发科技 Helio G99",
-    "mark": 212507,
-    "gpu": 43395
-  },
-  {
     "nameDetail": "三星 Exynos 1280",
     "mark": 211418,
     "gpu": 68469
@@ -1098,16 +1133,6 @@
     "nameDetail": "联发科技 Helio G200",
     "mark": 211137,
     "gpu": 48178
-  },
-  {
-    "nameDetail": "联发科技 天玑6100+",
-    "mark": 209406,
-    "gpu": 43362
-  },
-  {
-    "nameDetail": "联发科技 天玑700",
-    "mark": 208858,
-    "gpu": 40455
   },
   {
     "nameDetail": "高通 骁龙835",
@@ -1123,11 +1148,6 @@
     "nameDetail": "高通 骁龙680",
     "mark": 205686,
     "gpu": 27589
-  },
-  {
-    "nameDetail": "联发科技 天玑6080",
-    "mark": 203841,
-    "gpu": 41883
   },
   {
     "nameDetail": "高通 骁龙675",
@@ -1155,14 +1175,14 @@
     "gpu": 37743
   },
   {
-    "nameDetail": "联发科技 Helio G90T",
-    "mark": 196481,
-    "gpu": 46677
-  },
-  {
     "nameDetail": "联发科技 Helio G96",
     "mark": 191556,
     "gpu": 40218
+  },
+  {
+    "nameDetail": "联发科技 Helio P90",
+    "mark": 187970,
+    "gpu": 31166
   },
   {
     "nameDetail": "iPhone SE2 A13",
@@ -1185,6 +1205,11 @@
     "gpu": 44413
   },
   {
+    "nameDetail": "紫光展锐 T7250",
+    "mark": 169607,
+    "gpu": 21100
+  },
+  {
     "nameDetail": "紫光展锐 T710",
     "mark": 168257,
     "gpu": 28915
@@ -1201,8 +1226,13 @@
   },
   {
     "nameDetail": "海思 麒麟970",
-    "mark": 159255,
-    "gpu": 48540
+    "mark": 161490,
+    "gpu": 35165
+  },
+  {
+    "nameDetail": "紫光展锐 T510",
+    "mark": 157693,
+    "gpu": 21964
   },
   {
     "nameDetail": "高通 骁龙670",
@@ -1215,14 +1245,14 @@
     "gpu": 23625
   },
   {
+    "nameDetail": "海思 麒麟710",
+    "mark": 154645,
+    "gpu": 21531
+  },
+  {
     "nameDetail": "联发科技 Helio G80",
     "mark": 153844,
     "gpu": 26056
-  },
-  {
-    "nameDetail": "联发科技 Helio P90",
-    "mark": 152046,
-    "gpu": 32422
   },
   {
     "nameDetail": "紫光展锐 T618",
@@ -1233,6 +1263,11 @@
     "nameDetail": "联发科技 曦力G85",
     "mark": 151513,
     "gpu": 26793
+  },
+  {
+    "nameDetail": "联发科技 Helio G81-Ultra",
+    "mark": 151008,
+    "gpu": 23986
   },
   {
     "nameDetail": "联发科技 天玑7020",
@@ -1295,11 +1330,6 @@
     "gpu": 26696
   },
   {
-    "nameDetail": "海思 麒麟710",
-    "mark": 141798,
-    "gpu": 21832
-  },
-  {
     "nameDetail": "海思 麒麟710A",
     "mark": 141414,
     "gpu": 20201
@@ -1315,11 +1345,6 @@
     "gpu": 22986
   },
   {
-    "nameDetail": "紫光展锐 T510",
-    "mark": 140600,
-    "gpu": 21823
-  },
-  {
     "nameDetail": "三星 Exynos 7420",
     "mark": 139950,
     "gpu": 28249
@@ -1328,11 +1353,6 @@
     "nameDetail": "高通 骁龙821",
     "mark": 138492,
     "gpu": 52473
-  },
-  {
-    "nameDetail": "联发科技 Helio G81-Ultra",
-    "mark": 137849,
-    "gpu": 23719
   },
   {
     "nameDetail": "高通 骁龙820",
