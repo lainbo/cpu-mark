@@ -29,11 +29,11 @@
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2026) Apple M5 Max (18 CPU cores, 40 GPU cores)",
-    "mark": 35044
+    "mark": 35039
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2026) Apple M5 Max (18 CPU cores, 32 GPU cores)",
-    "mark": 35044
+    "mark": 35039
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 7970X",
@@ -49,11 +49,15 @@
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2026) Apple M5 Pro (18 CPU cores, 20 GPU cores)",
-    "mark": 33571
+    "mark": 33572
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2026) Apple M5 Pro (18 CPU cores, 20 GPU cores)",
-    "mark": 33494
+    "mark": 33495
+  },
+  {
+    "nameDetail": "Mac mini (2026) Apple M5 Pro (18 CPU cores, 20 GPU cores)",
+    "mark": 33423
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 9965WX",
@@ -69,15 +73,15 @@
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2026) Apple M5 Pro (15 CPU cores, 16 GPU cores)",
-    "mark": 29544
+    "mark": 29539
+  },
+  {
+    "nameDetail": "Mac mini (2026) Apple M5 Pro (15 CPU cores, 16 GPU cores)",
+    "mark": 29405
   },
   {
     "nameDetail": "Mac Studio (2025) Apple M4 Max (16 CPU cores, 40 GPU cores)",
-    "mark": 29100
-  },
-  {
-    "nameDetail": "MacBook Pro (14-inch, 2024) Apple M4 Max (16 CPU cores, 40 GPU cores)",
-    "mark": 28759
+    "mark": 29106
   },
   {
     "nameDetail": "Mac Pro (2023) Apple M2 Ultra (24 CPU cores, 60 GPU cores)",
@@ -88,8 +92,12 @@
     "mark": 28749
   },
   {
+    "nameDetail": "MacBook Pro (14-inch, 2024) Apple M4 Max (16 CPU cores, 40 GPU cores)",
+    "mark": 28732
+  },
+  {
     "nameDetail": "MacBook Pro (16-inch, 2024) Apple M4 Max (16 CPU cores, 40 GPU cores)",
-    "mark": 28317
+    "mark": 28322
   },
   {
     "nameDetail": "AMD Ryzen 9 9950X3D2",
@@ -109,7 +117,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 270K Plus",
-    "mark": 27406
+    "mark": 27401
   },
   {
     "nameDetail": "Snapdragon X2 Elite Extreme X2E-96-100",
@@ -117,19 +125,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 9950X3D",
-    "mark": 26439
+    "mark": 26430
   },
   {
     "nameDetail": "AMD Ryzen 9 9950X",
-    "mark": 26145
+    "mark": 26154
   },
   {
     "nameDetail": "Mac Studio (2025) Apple M4 Max (14 CPU cores, 32 GPU cores)",
-    "mark": 25916
+    "mark": 25903
   },
   {
     "nameDetail": "Intel Core i9-14900KS",
-    "mark": 25752
+    "mark": 25744
   },
   {
     "nameDetail": "Intel Core Ultra 9 285K",
@@ -145,11 +153,11 @@
   },
   {
     "nameDetail": "Snapdragon X2 Elite Extreme X2E-94-100",
-    "mark": 25035
+    "mark": 25030
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2024) Apple M4 Pro (14 CPU cores, 20 GPU cores)",
-    "mark": 24842
+    "mark": 24822
   },
   {
     "nameDetail": "Mac mini (2024) Apple M4 Pro (14 CPU cores, 20 GPU cores)",
@@ -157,11 +165,11 @@
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2024) Apple M4 Pro (14 CPU cores, 20 GPU cores)",
-    "mark": 24732
+    "mark": 24733
   },
   {
     "nameDetail": "MacBook Pro (16-inch, Nov 2023) Apple M3 Max (16 CPU cores, 40 GPU cores)",
-    "mark": 24721
+    "mark": 24723
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 9955WX",
@@ -173,7 +181,7 @@
   },
   {
     "nameDetail": "MacBook Pro (14-inch, Nov 2023) Apple M3 Max (16 CPU cores, 40 GPU cores)",
-    "mark": 24359
+    "mark": 24512
   },
   {
     "nameDetail": "AMD Ryzen Threadripper PRO 5975WX",
@@ -181,55 +189,59 @@
   },
   {
     "nameDetail": "Mac Studio Apple M1 Ultra (20 cores)",
-    "mark": 23598
+    "mark": 23607
   },
   {
     "nameDetail": "Intel Core Ultra 7 265K",
-    "mark": 23501
+    "mark": 23513
   },
   {
     "nameDetail": "Intel Core i9-14900KF",
-    "mark": 23066
+    "mark": 23096
   },
   {
     "nameDetail": "Intel Core Ultra 7 265KF",
-    "mark": 23055
+    "mark": 23056
   },
   {
     "nameDetail": "Intel Core i9-13900K",
-    "mark": 22785
+    "mark": 22795
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X",
-    "mark": 22474
+    "mark": 22468
   },
   {
     "nameDetail": "AMD Ryzen 9 9900X",
-    "mark": 22368
+    "mark": 22357
   },
   {
     "nameDetail": "AMD Ryzen 9 7950X3D",
-    "mark": 22163
+    "mark": 22256
   },
   {
     "nameDetail": "MacBook Pro (14-inch, Nov 2023) Apple M3 Max (14 CPU cores, 30 GPU cores)",
-    "mark": 22118
+    "mark": 22122
   },
   {
     "nameDetail": "MacBook Pro (16-inch, Nov 2023) Apple M3 Max (14 CPU cores, 30 GPU cores)",
-    "mark": 22047
+    "mark": 22046
   },
   {
     "nameDetail": "Intel Core i9-14900K",
-    "mark": 21980
+    "mark": 21984
   },
   {
     "nameDetail": "Mac mini (2024) Apple M4 Pro (12 CPU cores, 16 GPU cores)",
     "mark": 21957
   },
   {
+    "nameDetail": "Mac mini (2026) Apple M6 (12 CPU cores, 12 GPU cores)",
+    "mark": 21883
+  },
+  {
     "nameDetail": "Intel Core Ultra 5 250K Plus",
-    "mark": 21844
+    "mark": 21839
   },
   {
     "nameDetail": "Snapdragon X2 Elite X2E-90-100",
@@ -237,11 +249,11 @@
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2024) Apple M4 Pro (12 CPU cores, 16 GPU cores)",
-    "mark": 21582
+    "mark": 21590
   },
   {
     "nameDetail": "Intel Core i9-13900KF",
-    "mark": 21404
+    "mark": 21409
   },
   {
     "nameDetail": "Intel Core i7-14700KF",
@@ -249,15 +261,15 @@
   },
   {
     "nameDetail": "Intel Core i7-14700K",
-    "mark": 20870
+    "mark": 20879
   },
   {
     "nameDetail": "AMD Ryzen AI Max+ 395",
-    "mark": 20807
+    "mark": 20810
   },
   {
     "nameDetail": "Snapdragon X2 Elite X2E-88-100",
-    "mark": 20782
+    "mark": 20793
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3990X",
@@ -269,7 +281,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 9 275HX",
-    "mark": 20534
+    "mark": 20541
   },
   {
     "nameDetail": "AMD Ryzen 9 9900X3D",
@@ -293,7 +305,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 7945HX3D",
-    "mark": 19644
+    "mark": 19716
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X3D",
@@ -301,11 +313,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 9850X3D",
-    "mark": 19481
+    "mark": 19491
   },
   {
     "nameDetail": "Intel Core i7-13700K",
-    "mark": 19159
+    "mark": 19161
   },
   {
     "nameDetail": "AMD Ryzen 9 7900X",
@@ -316,16 +328,20 @@
     "mark": 18959
   },
   {
-    "nameDetail": "AMD Ryzen 9 7945HX",
-    "mark": 18727
+    "nameDetail": "AMD Ryzen 7 9800X3D",
+    "mark": 18711
   },
   {
-    "nameDetail": "AMD Ryzen 7 9800X3D",
-    "mark": 18717
+    "nameDetail": "AMD Ryzen 9 7945HX",
+    "mark": 18699
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3970X",
     "mark": 18633
+  },
+  {
+    "nameDetail": "Intel Core i9-13900",
+    "mark": 18568
   },
   {
     "nameDetail": "AMD Ryzen AI Max PRO 390",
@@ -340,12 +356,8 @@
     "mark": 18503
   },
   {
-    "nameDetail": "Intel Core i9-13900",
-    "mark": 18475
-  },
-  {
     "nameDetail": "Intel Core i7-14700F",
-    "mark": 18441
+    "mark": 18470
   },
   {
     "nameDetail": "Intel Core i9-14900",
@@ -361,15 +373,15 @@
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2025) Apple M5 (10 CPU cores, 10 GPU cores)",
-    "mark": 17956
+    "mark": 17957
   },
   {
     "nameDetail": "AMD Ryzen 7 9700X",
-    "mark": 17710
+    "mark": 17700
   },
   {
     "nameDetail": "Intel Core i9-12900KS",
-    "mark": 17445
+    "mark": 17454
   },
   {
     "nameDetail": "AMD Ryzen AI Max 390",
@@ -377,7 +389,7 @@
   },
   {
     "nameDetail": "Intel Core i5-14600KF",
-    "mark": 17382
+    "mark": 17378
   },
   {
     "nameDetail": "Mac Studio (2023) Apple M2 Max (12 CPU cores, 38 GPU cores)",
@@ -385,7 +397,7 @@
   },
   {
     "nameDetail": "Intel Core i5-14600K",
-    "mark": 17181
+    "mark": 17178
   },
   {
     "nameDetail": "MacBook Air (15-inch, 2026) Apple M5 (10 CPU cores, 10 GPU cores)",
@@ -405,35 +417,35 @@
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2023) Apple M2 Max (12 CPU cores, 30 GPU cores)",
-    "mark": 17013
+    "mark": 17015
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2023) Apple M2 Max (12 CPU cores, 38 GPU cores)",
-    "mark": 17013
+    "mark": 17015
   },
   {
     "nameDetail": "Intel Core i9-14900HX",
-    "mark": 17006
+    "mark": 16983
   },
   {
     "nameDetail": "MacBook Pro (16-inch, Nov 2023) Apple M3 Pro (12 CPU cores, 18 GPU cores)",
-    "mark": 16944
-  },
-  {
-    "nameDetail": "Intel Core i9-12900KF",
-    "mark": 16930
+    "mark": 16945
   },
   {
     "nameDetail": "Intel Core i7-14700",
-    "mark": 16922
+    "mark": 16924
   },
   {
-    "nameDetail": "Intel Core i5-13600KF",
-    "mark": 16818
+    "nameDetail": "Intel Core i9-12900KF",
+    "mark": 16899
   },
   {
     "nameDetail": "Intel Core i9-12900K",
-    "mark": 16804
+    "mark": 16813
+  },
+  {
+    "nameDetail": "Intel Core i5-13600KF",
+    "mark": 16734
   },
   {
     "nameDetail": "MacBook Pro (14-inch, Nov 2023) Apple M3 Pro (12 CPU cores, 18 GPU cores)",
@@ -445,11 +457,11 @@
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2023) Apple M2 Pro (12 CPU cores, 19 GPU cores)",
-    "mark": 16636
+    "mark": 16630
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2023) Apple M2 Pro (12 CPU cores, 19 GPU cores)",
-    "mark": 16589
+    "mark": 16580
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 3960X",
@@ -464,16 +476,20 @@
     "mark": 15990
   },
   {
+    "nameDetail": "AMD Ryzen Threadripper PRO 5945WX",
+    "mark": 15868
+  },
+  {
     "nameDetail": "Intel Core i7-13700",
-    "mark": 15715
+    "mark": 15741
   },
   {
     "nameDetail": "AMD Ryzen 7 7800X3D",
-    "mark": 15587
+    "mark": 15590
   },
   {
     "nameDetail": "Intel Core i5-13600K",
-    "mark": 15566
+    "mark": 15572
   },
   {
     "nameDetail": "Intel Core i9-12900F",
@@ -481,59 +497,59 @@
   },
   {
     "nameDetail": "iMac (24-inch, 2024) Apple M4 (10 CPU cores, 10 GPU cores)",
-    "mark": 15505
+    "mark": 15474
   },
   {
     "nameDetail": "Intel Core i7-12700K",
-    "mark": 15453
+    "mark": 15448
   },
   {
     "nameDetail": "Intel Core i7-13700F",
-    "mark": 15396
+    "mark": 15409
   },
   {
     "nameDetail": "AMD Ryzen 9 5950X",
-    "mark": 15317
+    "mark": 15314
   },
   {
     "nameDetail": "Mac mini (2024) Apple M4 (10 CPU cores, 10 GPU cores)",
-    "mark": 15307
+    "mark": 15306
   },
   {
     "nameDetail": "MacBook Pro (14-inch, Nov 2023) Apple M3 Pro (11 CPU cores, 14 GPU cores)",
-    "mark": 15276
+    "mark": 15278
   },
   {
     "nameDetail": "AMD Ryzen 7 7700",
-    "mark": 15218
+    "mark": 15215
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2024) Apple M4 (10 CPU cores, 10 GPU cores)",
-    "mark": 15181
+    "mark": 15183
   },
   {
     "nameDetail": "AMD Ryzen 9 7845HX",
-    "mark": 15137
-  },
-  {
-    "nameDetail": "MacBook Air (15-inch, 2025) Apple M4 (10 CPU cores, 10 GPU cores)",
-    "mark": 15065
+    "mark": 15154
   },
   {
     "nameDetail": "MacBook Air (13-inch, 2025) Apple M4 (10 CPU cores, 8 GPU cores)",
-    "mark": 15063
+    "mark": 15065
   },
   {
     "nameDetail": "MacBook Air (13-inch, 2025) Apple M4 (10 CPU cores, 10 GPU cores)",
-    "mark": 15063
+    "mark": 15065
+  },
+  {
+    "nameDetail": "MacBook Air (15-inch, 2025) Apple M4 (10 CPU cores, 10 GPU cores)",
+    "mark": 15064
   },
   {
     "nameDetail": "AMD Ryzen AI 9 HX 370",
-    "mark": 15020
+    "mark": 15016
   },
   {
     "nameDetail": "Intel Core Ultra 9 285H",
-    "mark": 14893
+    "mark": 14904
   },
   {
     "nameDetail": "Mac Pro (Late 2019) Intel Xeon W-3275M (28 cores)",
@@ -545,7 +561,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 7700X",
-    "mark": 14518
+    "mark": 14530
   },
   {
     "nameDetail": "AMD Ryzen AI Max+ 388",
@@ -553,19 +569,19 @@
   },
   {
     "nameDetail": "Intel Core i7-14700HX",
-    "mark": 14385
+    "mark": 14401
   },
   {
     "nameDetail": "Mac Studio Apple M1 Max (10 cores)",
-    "mark": 14337
+    "mark": 14338
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 9600X",
+    "mark": 14243
   },
   {
     "nameDetail": "Intel Core i5-14600",
     "mark": 14242
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 9600X",
-    "mark": 14240
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2021) Apple M1 Max (10 cores)",
@@ -577,11 +593,11 @@
   },
   {
     "nameDetail": "Intel Core i9-10980XE",
-    "mark": 14175
+    "mark": 14179
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2021) Apple M1 Max (10 cores)",
-    "mark": 14165
+    "mark": 14167
   },
   {
     "nameDetail": "Intel Core i9-12900",
@@ -593,23 +609,23 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 5900X",
-    "mark": 13962
+    "mark": 13958
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2021) Apple M1 Pro (10 cores)",
-    "mark": 13909
+    "mark": 13902
   },
   {
     "nameDetail": "MacBook Pro (16-inch, 2021) Apple M1 Pro (10 CPU cores, 10 GPU cores)",
-    "mark": 13877
-  },
-  {
-    "nameDetail": "Mac mini (2023) Apple M2 Pro (10 CPU cores, 16 GPU cores)",
-    "mark": 13823
+    "mark": 13875
   },
   {
     "nameDetail": "Intel Core i7-14650HX",
-    "mark": 13818
+    "mark": 13839
+  },
+  {
+    "nameDetail": "Mac mini (2023) Apple M2 Pro (10 CPU cores, 16 GPU cores)",
+    "mark": 13835
   },
   {
     "nameDetail": "Mac Pro (Late 2019) Intel Xeon W-3265M (24 cores)",
@@ -617,11 +633,11 @@
   },
   {
     "nameDetail": "Intel Core i5-13500",
-    "mark": 13703
+    "mark": 13715
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2023) Apple M2 Pro (10 CPU cores, 16 GPU cores)",
-    "mark": 13681
+    "mark": 13685
   },
   {
     "nameDetail": "Snapdragon X Plus X1P-64-100",
@@ -629,7 +645,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 255H",
-    "mark": 13651
+    "mark": 13654
   },
   {
     "nameDetail": "AMD Ryzen 7 7745HX",
@@ -637,7 +653,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 8700G",
-    "mark": 13619
+    "mark": 13625
   },
   {
     "nameDetail": "AMD Ryzen 5 9600",
@@ -653,11 +669,11 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 9 365",
-    "mark": 13524
+    "mark": 13525
   },
   {
     "nameDetail": "AMD Ryzen 5 7600X",
-    "mark": 13471
+    "mark": 13470
   },
   {
     "nameDetail": "iMac (24-inch, 2024) Apple M4 (8 CPU cores, 8 GPU cores)",
@@ -665,7 +681,7 @@
   },
   {
     "nameDetail": "Intel Core i9-11900K",
-    "mark": 13392
+    "mark": 13395
   },
   {
     "nameDetail": "Snapdragon X Elite X1E-78-100",
@@ -685,19 +701,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 7600",
-    "mark": 12968
+    "mark": 12979
   },
   {
     "nameDetail": "Intel Core i9-7980XE",
     "mark": 12951
   },
   {
-    "nameDetail": "Intel Core i7-12700F",
-    "mark": 12768
+    "nameDetail": "Intel Core i5-12600K",
+    "mark": 12754
   },
   {
-    "nameDetail": "Intel Core i5-12600K",
-    "mark": 12755
+    "nameDetail": "Intel Core i7-12700F",
+    "mark": 12727
   },
   {
     "nameDetail": "AMD Ryzen 9 3900",
@@ -717,31 +733,31 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 7500F",
-    "mark": 12422
+    "mark": 12421
   },
   {
     "nameDetail": "Mac Pro (Late 2019) Intel Xeon W-3245 (16 cores)",
-    "mark": 12343
+    "mark": 12356
   },
   {
     "nameDetail": "Intel Core i7-13700T",
     "mark": 12311
   },
   {
-    "nameDetail": "Intel Core i5-14500",
-    "mark": 12308
-  },
-  {
     "nameDetail": "AMD Ryzen 9 PRO 7940HS",
     "mark": 12280
   },
   {
+    "nameDetail": "Intel Core i5-14500",
+    "mark": 12201
+  },
+  {
     "nameDetail": "AMD Ryzen 9 7940HS",
-    "mark": 12184
+    "mark": 12192
   },
   {
     "nameDetail": "Intel Core i5-12600KF",
-    "mark": 12150
+    "mark": 12125
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 7840HS",
@@ -757,11 +773,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 7840HS",
-    "mark": 11882
+    "mark": 11911
   },
   {
     "nameDetail": "AMD Ryzen 7 5800X3D",
-    "mark": 11800
+    "mark": 11795
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 2990WX",
@@ -773,7 +789,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 8845HS",
-    "mark": 11739
+    "mark": 11745
   },
   {
     "nameDetail": "iMac (24-inch, 2023) Apple M3 (8 CPU cores, 8 GPU cores)",
@@ -785,11 +801,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 3900X",
-    "mark": 11661
+    "mark": 11673
   },
   {
     "nameDetail": "Intel Core Ultra 5 225H",
-    "mark": 11592
+    "mark": 11588
   },
   {
     "nameDetail": "Intel Core Ultra 9 185H",
@@ -797,7 +813,7 @@
   },
   {
     "nameDetail": "MacBook Pro (14-inch, Nov 2023) Apple M3 (8 CPU cores, 10 GPU cores)",
-    "mark": 11507
+    "mark": 11508
   },
   {
     "nameDetail": "AMD Ryzen 9 3900XT",
@@ -817,15 +833,15 @@
   },
   {
     "nameDetail": "AMD Ryzen AI 7 350",
-    "mark": 11349
+    "mark": 11351
   },
   {
     "nameDetail": "AMD Ryzen 7 5800X",
-    "mark": 11240
+    "mark": 11236
   },
   {
     "nameDetail": "MacBook Pro (14-inch, 2021) Apple M1 Pro (8 cores)",
-    "mark": 11207
+    "mark": 11204
   },
   {
     "nameDetail": "Intel Core i5-13500E",
@@ -845,19 +861,19 @@
   },
   {
     "nameDetail": "Intel Core i7-11700KF",
-    "mark": 11125
+    "mark": 11123
+  },
+  {
+    "nameDetail": "Intel Core i5-14400F",
+    "mark": 11043
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X3D",
     "mark": 11016
   },
   {
-    "nameDetail": "Intel Core i5-14400F",
-    "mark": 11011
-  },
-  {
     "nameDetail": "Snapdragon X Plus X1P-42-100",
-    "mark": 10878
+    "mark": 10869
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 1950X",
@@ -865,19 +881,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5700X",
-    "mark": 10839
-  },
-  {
-    "nameDetail": "AMD Ryzen Z1 Extreme",
     "mark": 10836
   },
   {
+    "nameDetail": "AMD Ryzen Z1 Extreme",
+    "mark": 10833
+  },
+  {
     "nameDetail": "Intel Core i5-14400",
-    "mark": 10815
+    "mark": 10811
   },
   {
     "nameDetail": "Intel Core i9-10900K",
-    "mark": 10738
+    "mark": 10733
   },
   {
     "nameDetail": "Intel Xeon E5-2699 v4",
@@ -889,27 +905,23 @@
   },
   {
     "nameDetail": "Intel Core i7-6950X",
-    "mark": 10695
-  },
-  {
-    "nameDetail": "Intel Core i5-14500T",
-    "mark": 10664
+    "mark": 10696
   },
   {
     "nameDetail": "Intel Core i9-10850K",
-    "mark": 10586
+    "mark": 10620
   },
   {
     "nameDetail": "Intel Core i9-11900KF",
     "mark": 10576
   },
   {
-    "nameDetail": "Intel Core i7-11700K",
-    "mark": 10539
+    "nameDetail": "Intel Core i5-13500T",
+    "mark": 10568
   },
   {
-    "nameDetail": "Intel Core i9-9900KS",
-    "mark": 10526
+    "nameDetail": "Intel Core i7-11700K",
+    "mark": 10539
   },
   {
     "nameDetail": "Mac Pro (Late 2019) Intel Xeon W-3235 (12 cores)",
@@ -924,8 +936,8 @@
     "mark": 10492
   },
   {
-    "nameDetail": "Intel Core i5-13500T",
-    "mark": 10446
+    "nameDetail": "Intel Core i5-14500T",
+    "mark": 10480
   },
   {
     "nameDetail": "Intel Xeon E5-2696 v3",
@@ -933,6 +945,10 @@
   },
   {
     "nameDetail": "Intel Core i9-10900KF",
+    "mark": 10386
+  },
+  {
+    "nameDetail": "Intel Core i9-9900KS",
     "mark": 10364
   },
   {
@@ -941,7 +957,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 7640HS",
-    "mark": 10259
+    "mark": 10276
   },
   {
     "nameDetail": "Intel Xeon E5-2697A v4",
@@ -949,15 +965,11 @@
   },
   {
     "nameDetail": "Snapdragon X X1-26-100",
-    "mark": 10192
+    "mark": 10194
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 6850H",
     "mark": 10161
-  },
-  {
-    "nameDetail": "Intel Core i9-11900",
-    "mark": 10097
   },
   {
     "nameDetail": "Intel Core i9-10900X",
@@ -969,7 +981,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 6900HX",
-    "mark": 9981
+    "mark": 9998
   },
   {
     "nameDetail": "Intel Xeon E5-2698 v4",
@@ -977,7 +989,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5700G",
-    "mark": 9897
+    "mark": 9899
   },
   {
     "nameDetail": "AMD Ryzen 7 8840U",
@@ -985,7 +997,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5700",
-    "mark": 9778
+    "mark": 9775
   },
   {
     "nameDetail": "Mac mini (2023) Apple M2 (8 CPU cores, 10 GPU cores)",
@@ -1001,35 +1013,39 @@
   },
   {
     "nameDetail": "MacBook Pro (13-inch, 2022) Apple M2 (8 cores)",
-    "mark": 9683
+    "mark": 9682
   },
   {
     "nameDetail": "MacBook Air (2022) Apple M2 (8 cores)",
-    "mark": 9633
+    "mark": 9634
   },
   {
     "nameDetail": "AMD Ryzen 7 5800",
     "mark": 9629
   },
   {
-    "nameDetail": "AMD Ryzen 5 5600X3D",
-    "mark": 9590
+    "nameDetail": "Intel Core i9-11900",
+    "mark": 9617
   },
   {
     "nameDetail": "MacBook Air (15-inch, 2023) Apple M2 (8 CPU cores, 10 GPU cores)",
-    "mark": 9586
+    "mark": 9592
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 5600X3D",
+    "mark": 9590
   },
   {
     "nameDetail": "Intel Xeon W-2255",
     "mark": 9533
   },
   {
-    "nameDetail": "Intel Core i5-13400T",
-    "mark": 9505
+    "nameDetail": "AMD Ryzen 7 8840HS",
+    "mark": 9532
   },
   {
-    "nameDetail": "AMD Ryzen 7 8840HS",
-    "mark": 9496
+    "nameDetail": "Intel Core i5-13400T",
+    "mark": 9505
   },
   {
     "nameDetail": "Intel Xeon W-2150B",
@@ -1041,7 +1057,7 @@
   },
   {
     "nameDetail": "Intel Core i9-9900KF",
-    "mark": 9450
+    "mark": 9473
   },
   {
     "nameDetail": "AMD Ryzen 7 6800HS",
@@ -1053,7 +1069,7 @@
   },
   {
     "nameDetail": "Intel Core i5-12400F",
-    "mark": 9397
+    "mark": 9398
   },
   {
     "nameDetail": "Intel Core i5-12600",
@@ -1065,23 +1081,23 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 6800H",
-    "mark": 9345
-  },
-  {
-    "nameDetail": "Intel Core Ultra 7 258V",
-    "mark": 9268
+    "mark": 9332
   },
   {
     "nameDetail": "Intel Core i7-10700K",
     "mark": 9266
   },
   {
+    "nameDetail": "Intel Core i5-11600K",
+    "mark": 9261
+  },
+  {
     "nameDetail": "Intel Core i7-11700F",
     "mark": 9250
   },
   {
-    "nameDetail": "Intel Core i5-11600K",
-    "mark": 9244
+    "nameDetail": "Intel Core Ultra 7 258V",
+    "mark": 9245
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 250",
@@ -1089,7 +1105,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 5600X",
-    "mark": 9226
+    "mark": 9218
   },
   {
     "nameDetail": "AMD Ryzen 7 3800X",
@@ -1105,27 +1121,27 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 5600",
-    "mark": 9141
+    "mark": 9144
   },
   {
     "nameDetail": "AMD Ryzen AI 5 340 w/ Radeon 840M",
-    "mark": 9109
+    "mark": 9107
+  },
+  {
+    "nameDetail": "Intel Core i9-9900K",
+    "mark": 9106
   },
   {
     "nameDetail": "AMD Ryzen 9 5980HX",
     "mark": 9100
   },
   {
-    "nameDetail": "Intel Core i9-9900K",
-    "mark": 9098
+    "nameDetail": "Intel Core i7-11700",
+    "mark": 9066
   },
   {
     "nameDetail": "Intel Xeon E5-2697 v4",
     "mark": 9056
-  },
-  {
-    "nameDetail": "Intel Core i7-11700",
-    "mark": 9037
   },
   {
     "nameDetail": "Intel Core i5-11600KF",
@@ -1137,7 +1153,7 @@
   },
   {
     "nameDetail": "Intel Core Ultra 7 256V",
-    "mark": 8961
+    "mark": 8960
   },
   {
     "nameDetail": "AMD Ryzen 7 3700X",
@@ -1165,15 +1181,19 @@
   },
   {
     "nameDetail": "Intel Core Ultra 5 226V",
-    "mark": 8726
+    "mark": 8738
   },
   {
     "nameDetail": "iMac (27-inch Retina Mid 2020) Intel Core i9-10910 (10 cores)",
     "mark": 8725
   },
   {
+    "nameDetail": "Intel Core i7-6900K",
+    "mark": 8706
+  },
+  {
     "nameDetail": "Intel Core i5-12400",
-    "mark": 8688
+    "mark": 8697
   },
   {
     "nameDetail": "Intel Core i5-14600T",
@@ -1185,11 +1205,11 @@
   },
   {
     "nameDetail": "AMD Ryzen 9 5900HX",
-    "mark": 8603
+    "mark": 8617
   },
   {
     "nameDetail": "iMac Pro (Late 2017) Intel Xeon W-2150B (10 cores)",
-    "mark": 8569
+    "mark": 8587
   },
   {
     "nameDetail": "Intel Xeon E5-2680 v4",
@@ -1208,16 +1228,12 @@
     "mark": 8544
   },
   {
-    "nameDetail": "Intel Core i7-6900K",
-    "mark": 8526
-  },
-  {
     "nameDetail": "Intel Core i5-12500",
-    "mark": 8492
+    "mark": 8422
   },
   {
     "nameDetail": "AMD Ryzen 5 5600G",
-    "mark": 8426
+    "mark": 8421
   },
   {
     "nameDetail": "AMD Ryzen 5 8640U",
@@ -1237,7 +1253,7 @@
   },
   {
     "nameDetail": "MacBook Pro (13-inch Late 2020) Apple M1 (8 cores)",
-    "mark": 8309
+    "mark": 8313
   },
   {
     "nameDetail": "AMD Ryzen 5 8640HS",
@@ -1245,7 +1261,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 7735HS",
-    "mark": 8281
+    "mark": 8286
   },
   {
     "nameDetail": "Intel Xeon W-11955M",
@@ -1253,19 +1269,19 @@
   },
   {
     "nameDetail": "MacBook Air (Late 2020) Apple M1 (8 CPU cores, 8 GPU cores)",
-    "mark": 8230
+    "mark": 8228
   },
   {
     "nameDetail": "MacBook Air (Late 2020) Apple M1 (8 CPU cores, 7 GPU cores)",
-    "mark": 8230
+    "mark": 8228
   },
   {
     "nameDetail": "AMD Ryzen 5 5600GT",
-    "mark": 8187
+    "mark": 8194
   },
   {
     "nameDetail": "AMD Ryzen 5 5500",
-    "mark": 8173
+    "mark": 8168
   },
   {
     "nameDetail": "Intel Xeon E5-2673 v4",
@@ -1273,7 +1289,7 @@
   },
   {
     "nameDetail": "Intel Core i7-11800H",
-    "mark": 8105
+    "mark": 8113
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 5650G",
@@ -1293,7 +1309,7 @@
   },
   {
     "nameDetail": "iMac (27-inch Retina Mid 2020) Intel Core i7-10700K (8 cores)",
-    "mark": 8024
+    "mark": 8023
   },
   {
     "nameDetail": "Intel Core i7-9700K",
@@ -1317,7 +1333,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 5800H",
-    "mark": 7933
+    "mark": 7924
   },
   {
     "nameDetail": "Intel Xeon E5-2678 v3",
@@ -1333,19 +1349,19 @@
   },
   {
     "nameDetail": "Intel Core i5-11400F",
-    "mark": 7840
+    "mark": 7844
   },
   {
     "nameDetail": "Intel Core Ultra 5 135U",
     "mark": 7817
   },
   {
-    "nameDetail": "Intel Core i7-11850H",
-    "mark": 7757
+    "nameDetail": "AMD Ryzen 5 6600H",
+    "mark": 7756
   },
   {
-    "nameDetail": "AMD Ryzen 5 6600H",
-    "mark": 7753
+    "nameDetail": "Intel Core i7-11850H",
+    "mark": 7754
   },
   {
     "nameDetail": "Intel Core i3-14100F",
@@ -1364,28 +1380,32 @@
     "mark": 7605
   },
   {
-    "nameDetail": "Intel Core i5-11600",
-    "mark": 7568
+    "nameDetail": "Mac Pro (Late 2019) Intel Xeon W-3223 (8 cores)",
+    "mark": 7589
   },
   {
     "nameDetail": "Intel Core i3-13100F",
     "mark": 7565
   },
   {
-    "nameDetail": "Mac Pro (Late 2019) Intel Xeon W-3223 (8 cores)",
-    "mark": 7563
-  },
-  {
-    "nameDetail": "Intel Core i7-10700",
-    "mark": 7559
-  },
-  {
     "nameDetail": "Intel Xeon W-10885M",
     "mark": 7551
   },
   {
+    "nameDetail": "AMD Ryzen 5 PRO 215",
+    "mark": 7539
+  },
+  {
+    "nameDetail": "Intel Core i7-10700",
+    "mark": 7537
+  },
+  {
     "nameDetail": "Intel Xeon W-2235",
     "mark": 7537
+  },
+  {
+    "nameDetail": "Intel Core i5-11400",
+    "mark": 7534
   },
   {
     "nameDetail": "Intel Core i3-14100",
@@ -1396,32 +1416,32 @@
     "mark": 7530
   },
   {
-    "nameDetail": "Intel Core i5-11400",
-    "mark": 7529
+    "nameDetail": "iMac (27-inch Retina Early 2019) Intel Core i9-9900K (8 cores)",
+    "mark": 7516
   },
   {
     "nameDetail": "Intel Core i5-10600KF",
     "mark": 7513
   },
   {
-    "nameDetail": "iMac (27-inch Retina Early 2019) Intel Core i9-9900K (8 cores)",
-    "mark": 7504
+    "nameDetail": "AMD Ryzen 7 PRO 4750G",
+    "mark": 7490
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 2700X",
+    "mark": 7426
   },
   {
     "nameDetail": "AMD Ryzen 7 5825U",
-    "mark": 7425
+    "mark": 7414
   },
   {
     "nameDetail": "Intel Core i7-11700T",
     "mark": 7412
   },
   {
-    "nameDetail": "AMD Ryzen 7 2700X",
-    "mark": 7411
-  },
-  {
     "nameDetail": "AMD Ryzen 5 3600",
-    "mark": 7404
+    "mark": 7406
   },
   {
     "nameDetail": "Intel Xeon E5-2667 v4",
@@ -1437,15 +1457,7 @@
   },
   {
     "nameDetail": "Intel Core i3-12100F",
-    "mark": 7325
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 215",
-    "mark": 7302
-  },
-  {
-    "nameDetail": "Intel Core i7-8700K",
-    "mark": 7299
+    "mark": 7326
   },
   {
     "nameDetail": "iMac Pro (Late 2017) Intel Xeon W-2140B (8 cores)",
@@ -1456,12 +1468,20 @@
     "mark": 7297
   },
   {
+    "nameDetail": "Intel Core i5-11600",
+    "mark": 7286
+  },
+  {
+    "nameDetail": "Intel Core i7-8700K",
+    "mark": 7279
+  },
+  {
     "nameDetail": "Intel Core i5-10600K",
     "mark": 7279
   },
   {
     "nameDetail": "MacBook Neo Apple A18 Pro (6 CPU cores, 5 GPU cores)",
-    "mark": 7269
+    "mark": 7268
   },
   {
     "nameDetail": "Intel Xeon W-11855M",
@@ -1484,12 +1504,8 @@
     "mark": 7167
   },
   {
-    "nameDetail": "AMD Ryzen 7 PRO 4750G",
-    "mark": 7023
-  },
-  {
     "nameDetail": "AMD Ryzen 5 7535HS",
-    "mark": 7013
+    "mark": 7005
   },
   {
     "nameDetail": "Intel Xeon E5-1680 v4",
@@ -1505,7 +1521,7 @@
   },
   {
     "nameDetail": "Intel Core i7-10870H",
-    "mark": 6891
+    "mark": 6910
   },
   {
     "nameDetail": "Intel Xeon E-2286M",
@@ -1513,23 +1529,19 @@
   },
   {
     "nameDetail": "Intel Core Ultra 5 125U",
-    "mark": 6875
+    "mark": 6870
   },
   {
     "nameDetail": "AMD Ryzen 7 4800HS",
     "mark": 6842
   },
   {
-    "nameDetail": "Intel Core i7-9700",
-    "mark": 6779
-  },
-  {
     "nameDetail": "Intel Core i3-12100",
-    "mark": 6774
+    "mark": 6813
   },
   {
-    "nameDetail": "Intel Core i9-10885H",
-    "mark": 6758
+    "nameDetail": "Intel Core i7-9700",
+    "mark": 6781
   },
   {
     "nameDetail": "AMD Ryzen 7 PRO 5875U",
@@ -1544,16 +1556,16 @@
     "mark": 6740
   },
   {
-    "nameDetail": "AMD Ryzen 7 7730U",
-    "mark": 6732
+    "nameDetail": "Intel Core i9-10885H",
+    "mark": 6729
   },
   {
-    "nameDetail": "AMD Ryzen 5 7535U",
-    "mark": 6710
+    "nameDetail": "AMD Ryzen 7 7730U",
+    "mark": 6728
   },
   {
     "nameDetail": "MacBook Pro (16-inch Late 2019) Intel Core i9-9980HK (8 cores)",
-    "mark": 6705
+    "mark": 6703
   },
   {
     "nameDetail": "Intel Core i3-13100",
@@ -1562,6 +1574,10 @@
   {
     "nameDetail": "AMD Ryzen 5 6600U",
     "mark": 6694
+  },
+  {
+    "nameDetail": "AMD Ryzen 5 7535U",
+    "mark": 6689
   },
   {
     "nameDetail": "AMD Ryzen 7 1800X",
@@ -1577,7 +1593,7 @@
   },
   {
     "nameDetail": "Intel Core i5-11400H",
-    "mark": 6622
+    "mark": 6628
   },
   {
     "nameDetail": "Intel Core i7-6850K",
@@ -1605,31 +1621,35 @@
   },
   {
     "nameDetail": "AMD Ryzen 7 4800H",
-    "mark": 6505
+    "mark": 6507
   },
   {
     "nameDetail": "Intel Core 7 150U",
     "mark": 6499
   },
   {
-    "nameDetail": "MacBook Pro (16-inch Late 2019) Intel Core i9-9880H (8 cores)",
-    "mark": 6479
-  },
-  {
     "nameDetail": "Intel Core i7-10875H",
-    "mark": 6473
+    "mark": 6487
   },
   {
-    "nameDetail": "Intel Core i7-8700",
-    "mark": 6465
+    "nameDetail": "MacBook Pro (16-inch Late 2019) Intel Core i9-9880H (8 cores)",
+    "mark": 6474
+  },
+  {
+    "nameDetail": "Intel Core i5-10600",
+    "mark": 6468
   },
   {
     "nameDetail": "AMD Ryzen Threadripper 1900X",
     "mark": 6458
   },
   {
+    "nameDetail": "Intel Core i7-8700",
+    "mark": 6457
+  },
+  {
     "nameDetail": "AMD Ryzen 5 5600H",
-    "mark": 6423
+    "mark": 6431
   },
   {
     "nameDetail": "Intel Core i9-9980HK",
@@ -1645,7 +1665,11 @@
   },
   {
     "nameDetail": "Intel Core i5-10400F",
-    "mark": 6403
+    "mark": 6399
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5800U",
+    "mark": 6363
   },
   {
     "nameDetail": "AMD Ryzen 9 4900HS",
@@ -1664,16 +1688,8 @@
     "mark": 6352
   },
   {
-    "nameDetail": "AMD Ryzen 7 5800U",
-    "mark": 6337
-  },
-  {
     "nameDetail": "iMac (27-inch Retina Mid 2020) Intel Core i5-10600 (6 cores)",
     "mark": 6336
-  },
-  {
-    "nameDetail": "Intel Core i5-10600",
-    "mark": 6330
   },
   {
     "nameDetail": "Intel Core i7-5930K",
@@ -1689,7 +1705,7 @@
   },
   {
     "nameDetail": "Intel Core i5-10400",
-    "mark": 6268
+    "mark": 6266
   },
   {
     "nameDetail": "iMac (27-inch Retina Mid 2020) Intel Core i5-10500 (6 cores)",
@@ -1704,24 +1720,20 @@
     "mark": 6248
   },
   {
-    "nameDetail": "Intel Core i5-11260H",
-    "mark": 6241
-  },
-  {
     "nameDetail": "AMD Ryzen 7 2700",
     "mark": 6231
   },
   {
+    "nameDetail": "Intel Core 5 120U",
+    "mark": 6218
+  },
+  {
     "nameDetail": "AMD Ryzen 7 PRO 5850U",
-    "mark": 6220
+    "mark": 6217
   },
   {
     "nameDetail": "Intel Core i5-10505",
     "mark": 6217
-  },
-  {
-    "nameDetail": "Intel Core 5 120U",
-    "mark": 6204
   },
   {
     "nameDetail": "Intel Core i7-8700B",
@@ -1730,6 +1742,10 @@
   {
     "nameDetail": "AMD Ryzen 5 3500X",
     "mark": 6201
+  },
+  {
+    "nameDetail": "Intel Core i5-11260H",
+    "mark": 6179
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 4650GE",
@@ -1748,6 +1764,10 @@
     "mark": 6085
   },
   {
+    "nameDetail": "MacBook Pro (15-inch Mid 2019) Intel Core i9-9980HK (8 cores)",
+    "mark": 6063
+  },
+  {
     "nameDetail": "Intel Core i5-8600K",
     "mark": 6043
   },
@@ -1760,20 +1780,8 @@
     "mark": 6040
   },
   {
-    "nameDetail": "MacBook Pro (15-inch Mid 2019) Intel Core i9-9980HK (8 cores)",
-    "mark": 6039
-  },
-  {
     "nameDetail": "Intel Xeon E5-2640 v3",
     "mark": 6020
-  },
-  {
-    "nameDetail": "Intel Core i7-5820K",
-    "mark": 6019
-  },
-  {
-    "nameDetail": "Intel Core i7-10700T",
-    "mark": 6001
   },
   {
     "nameDetail": "Intel Core i7-11375H",
@@ -1784,10 +1792,6 @@
     "mark": 5991
   },
   {
-    "nameDetail": "Intel Xeon E5-2630 v4",
-    "mark": 5987
-  },
-  {
     "nameDetail": "Intel Core i5-9600KF",
     "mark": 5951
   },
@@ -1796,8 +1800,24 @@
     "mark": 5951
   },
   {
+    "nameDetail": "Intel Core i7-10700T",
+    "mark": 5927
+  },
+  {
+    "nameDetail": "Intel Xeon E5-2630 v4",
+    "mark": 5919
+  },
+  {
+    "nameDetail": "Intel Core i7-5820K",
+    "mark": 5917
+  },
+  {
     "nameDetail": "Intel Core i7-5960X",
     "mark": 5906
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 3300X",
+    "mark": 5891
   },
   {
     "nameDetail": "AMD Ryzen 5 5625U",
@@ -1808,19 +1828,15 @@
     "mark": 5868
   },
   {
-    "nameDetail": "AMD Ryzen 3 3300X",
-    "mark": 5864
-  },
-  {
     "nameDetail": "AMD Ryzen 7 1700",
     "mark": 5802
   },
   {
-    "nameDetail": "Intel Core i5-8600",
-    "mark": 5793
+    "nameDetail": "Intel Xeon E5-1650 v3",
+    "mark": 5790
   },
   {
-    "nameDetail": "Intel Xeon E5-1650 v3",
+    "nameDetail": "Intel Core i5-8600",
     "mark": 5790
   },
   {
@@ -1845,7 +1861,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 5600U",
-    "mark": 5712
+    "mark": 5711
   },
   {
     "nameDetail": "AMD Ryzen 5 7530U",
@@ -1853,11 +1869,11 @@
   },
   {
     "nameDetail": "Intel Core i7-10850H",
-    "mark": 5661
+    "mark": 5665
   },
   {
     "nameDetail": "AMD Ryzen 5 2600",
-    "mark": 5657
+    "mark": 5654
   },
   {
     "nameDetail": "Intel Core i7-9850H",
@@ -1868,20 +1884,20 @@
     "mark": 5633
   },
   {
+    "nameDetail": "MacBook Pro (15-inch Mid 2019) Intel Core i9-9880H (8 cores)",
+    "mark": 5607
+  },
+  {
     "nameDetail": "Intel Core i7-11370H",
     "mark": 5601
   },
   {
-    "nameDetail": "MacBook Pro (15-inch Mid 2019) Intel Core i9-9880H (8 cores)",
-    "mark": 5598
+    "nameDetail": "Intel Core i5-11400T",
+    "mark": 5524
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 5650U",
-    "mark": 5524
-  },
-  {
-    "nameDetail": "Intel Core i5-11400T",
-    "mark": 5524
+    "mark": 5520
   },
   {
     "nameDetail": "Intel Core i7-7700K",
@@ -1889,19 +1905,19 @@
   },
   {
     "nameDetail": "Intel Core i7-10750H",
-    "mark": 5492
-  },
-  {
-    "nameDetail": "AMD Ryzen 7 5700U",
-    "mark": 5458
-  },
-  {
-    "nameDetail": "Intel Core i7-1265U",
-    "mark": 5449
+    "mark": 5496
   },
   {
     "nameDetail": "AMD Ryzen 5 4600H",
-    "mark": 5448
+    "mark": 5462
+  },
+  {
+    "nameDetail": "Intel Core i7-1265U",
+    "mark": 5457
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 5700U",
+    "mark": 5449
   },
   {
     "nameDetail": "AMD Ryzen 3 5300G",
@@ -1909,7 +1925,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 1600",
-    "mark": 5398
+    "mark": 5387
   },
   {
     "nameDetail": "Intel Xeon E-2274G",
@@ -1921,7 +1937,7 @@
   },
   {
     "nameDetail": "Mac mini (Late 2018) Intel Core i7-8700B (6 cores)",
-    "mark": 5333
+    "mark": 5351
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 7530U",
@@ -1933,7 +1949,7 @@
   },
   {
     "nameDetail": "AMD Ryzen 3 3100",
-    "mark": 5294
+    "mark": 5293
   },
   {
     "nameDetail": "Intel Xeon W-2225",
@@ -1944,24 +1960,20 @@
     "mark": 5273
   },
   {
-    "nameDetail": "Intel Core i5-10500T",
-    "mark": 5271
-  },
-  {
     "nameDetail": "Intel Xeon W-10855M",
     "mark": 5267
   },
   {
+    "nameDetail": "Intel Core i5-10500T",
+    "mark": 5243
+  },
+  {
     "nameDetail": "Intel Core i7-9750H",
-    "mark": 5238
+    "mark": 5224
   },
   {
     "nameDetail": "Intel Core i5-9400F",
     "mark": 5203
-  },
-  {
-    "nameDetail": "Intel Core i7-1250U",
-    "mark": 5189
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 5675U",
@@ -1972,15 +1984,19 @@
     "mark": 5171
   },
   {
-    "nameDetail": "iMac (27-inch Retina Early 2019) Intel Core i5-9600K (6 cores)",
-    "mark": 5165
-  },
-  {
-    "nameDetail": "Intel Core i5-1235U",
-    "mark": 5146
+    "nameDetail": "Intel Core i7-1250U",
+    "mark": 5171
   },
   {
     "nameDetail": "Intel Core i5-9500",
+    "mark": 5165
+  },
+  {
+    "nameDetail": "iMac (27-inch Retina Early 2019) Intel Core i5-9600K (6 cores)",
+    "mark": 5163
+  },
+  {
+    "nameDetail": "Intel Core i5-1235U",
     "mark": 5139
   },
   {
@@ -1989,7 +2005,7 @@
   },
   {
     "nameDetail": "Intel Core i5-8400",
-    "mark": 5098
+    "mark": 5094
   },
   {
     "nameDetail": "Intel Xeon E-2276M",
@@ -2000,8 +2016,8 @@
     "mark": 5057
   },
   {
-    "nameDetail": "Intel Core i5-9400",
-    "mark": 5047
+    "nameDetail": "Intel Core i7-8850H",
+    "mark": 5054
   },
   {
     "nameDetail": "Intel Xeon E5-2667 v2",
@@ -2012,44 +2028,44 @@
     "mark": 5031
   },
   {
-    "nameDetail": "Intel Core i7-8850H",
-    "mark": 5021
+    "nameDetail": "Intel Core i5-9400",
+    "mark": 5025
   },
   {
     "nameDetail": "Intel Core i5-9600",
-    "mark": 5015
+    "mark": 5005
   },
   {
-    "nameDetail": "MacBook Pro (15-inch Mid 2018) Intel Core i9-8950HK (6 cores)",
-    "mark": 5000
+    "nameDetail": "Intel Core i7-8750H",
+    "mark": 4996
   },
   {
     "nameDetail": "Intel Core i5-11320H",
     "mark": 4995
   },
   {
-    "nameDetail": "Intel Core i7-8750H",
-    "mark": 4993
+    "nameDetail": "MacBook Pro (15-inch Mid 2019) Intel Core i7-9750H (6 cores)",
+    "mark": 4985
   },
   {
-    "nameDetail": "MacBook Pro (15-inch Mid 2019) Intel Core i7-9750H (6 cores)",
-    "mark": 4984
+    "nameDetail": "Intel Core i7-6700K",
+    "mark": 4981
+  },
+  {
+    "nameDetail": "Intel Core i5-8500",
+    "mark": 4981
   },
   {
     "nameDetail": "Intel Core i3-10105F",
     "mark": 4980
   },
   {
-    "nameDetail": "Intel Core i7-6700K",
+    "nameDetail": "MacBook Pro (15-inch Mid 2018) Intel Core i9-8950HK (6 cores)",
     "mark": 4977
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 4350G",
     "mark": 4972
-  },
-  {
-    "nameDetail": "Intel Core i5-8500",
-    "mark": 4970
   },
   {
     "nameDetail": "Intel Core i9-8950HK",
@@ -2058,6 +2074,10 @@
   {
     "nameDetail": "AMD Ryzen 5 4600U",
     "mark": 4926
+  },
+  {
+    "nameDetail": "Intel Core i7-1068NG7",
+    "mark": 4915
   },
   {
     "nameDetail": "iMac (21.5-inch Retina Early 2019) Intel Core i5-8500 (6 cores)",
@@ -2088,20 +2108,16 @@
     "mark": 4838
   },
   {
-    "nameDetail": "Intel Core i7-1068NG7",
-    "mark": 4836
+    "nameDetail": "iMac (27-inch Retina Early 2019) Intel Core i5-8500 (6 cores)",
+    "mark": 4797
   },
   {
     "nameDetail": "AMD Ryzen 5 PRO 4650U",
-    "mark": 4811
+    "mark": 4796
   },
   {
     "nameDetail": "MacBook Pro (15-inch Mid 2018) Intel Core i7-8750H (6 cores)",
-    "mark": 4803
-  },
-  {
-    "nameDetail": "iMac (27-inch Retina Early 2019) Intel Core i5-8500 (6 cores)",
-    "mark": 4797
+    "mark": 4790
   },
   {
     "nameDetail": "Intel Core i3-10105",
@@ -2112,12 +2128,16 @@
     "mark": 4767
   },
   {
+    "nameDetail": "Intel Core i5-1038NG7",
+    "mark": 4748
+  },
+  {
     "nameDetail": "Intel Core i7-11390H",
     "mark": 4738
   },
   {
     "nameDetail": "AMD Ryzen 5 5500U",
-    "mark": 4735
+    "mark": 4733
   },
   {
     "nameDetail": "Intel Core i5-11500H",
@@ -2128,12 +2148,8 @@
     "mark": 4705
   },
   {
-    "nameDetail": "Intel Core i5-1038NG7",
-    "mark": 4702
-  },
-  {
     "nameDetail": "Intel Core i7-1185G7",
-    "mark": 4658
+    "mark": 4668
   },
   {
     "nameDetail": "Intel Xeon E5-2470 v2",
@@ -2144,16 +2160,16 @@
     "mark": 4635
   },
   {
-    "nameDetail": "Intel Core i3-1215U",
-    "mark": 4622
-  },
-  {
     "nameDetail": "iMac (21.5-inch Retina Mid 2017) Intel Core i7-7700 (4 cores)",
     "mark": 4620
   },
   {
+    "nameDetail": "Intel Core i3-1215U",
+    "mark": 4619
+  },
+  {
     "nameDetail": "Intel Core i7-7700",
-    "mark": 4618
+    "mark": 4615
   },
   {
     "nameDetail": "Intel Xeon E3-1270 v5",
@@ -2165,7 +2181,7 @@
   },
   {
     "nameDetail": "Mac mini (Late 2018) Intel Core i5-8500B (6 cores)",
-    "mark": 4586
+    "mark": 4588
   },
   {
     "nameDetail": "AMD Ryzen 5 5500H",
@@ -2176,16 +2192,16 @@
     "mark": 4548
   },
   {
+    "nameDetail": "Intel Core i3-10100",
+    "mark": 4534
+  },
+  {
     "nameDetail": "Intel Core i5-10400H",
     "mark": 4530
   },
   {
     "nameDetail": "Intel Xeon E-2176M",
-    "mark": 4528
-  },
-  {
-    "nameDetail": "Intel Core i3-10100",
-    "mark": 4523
+    "mark": 4510
   },
   {
     "nameDetail": "AMD Ryzen 3 PRO 5450U",
@@ -2196,16 +2212,16 @@
     "mark": 4503
   },
   {
-    "nameDetail": "iMac (27-inch Retina Late 2015) Intel Core i7-6700K (4 cores)",
-    "mark": 4483
-  },
-  {
     "nameDetail": "Intel Core i7-4930K",
     "mark": 4467
   },
   {
+    "nameDetail": "iMac (27-inch Retina Late 2015) Intel Core i7-6700K (4 cores)",
+    "mark": 4464
+  },
+  {
     "nameDetail": "MacBook Pro (13-inch Mid 2020) Intel Core i7-1068NG7 (4 cores)",
-    "mark": 4454
+    "mark": 4457
   },
   {
     "nameDetail": "Intel Core i7-7820HK",
@@ -2213,7 +2229,7 @@
   },
   {
     "nameDetail": "Intel Core i5-9500T",
-    "mark": 4446
+    "mark": 4442
   },
   {
     "nameDetail": "Intel Xeon E3-1285L v4",
@@ -2225,11 +2241,11 @@
   },
   {
     "nameDetail": "Intel Xeon E5-2690",
-    "mark": 4411
+    "mark": 4410
   },
   {
     "nameDetail": "Intel Core i7-6700",
-    "mark": 4403
+    "mark": 4388
   },
   {
     "nameDetail": "Intel Core i7-8705G",
@@ -2244,12 +2260,12 @@
     "mark": 4341
   },
   {
-    "nameDetail": "Intel Core i5-8500T",
+    "nameDetail": "Intel Core i7-1165G7",
     "mark": 4325
   },
   {
-    "nameDetail": "Intel Core i7-1165G7",
-    "mark": 4324
+    "nameDetail": "Intel Core i5-8500T",
+    "mark": 4320
   },
   {
     "nameDetail": "Intel Xeon E3-1270 v3",
@@ -2309,7 +2325,7 @@
   },
   {
     "nameDetail": "MacBook Pro (13-inch Mid 2020) Intel Core i5-1038NG7 (4 cores)",
-    "mark": 4116
+    "mark": 4112
   },
   {
     "nameDetail": "MacBook Pro (13-inch Mid 2019) Intel Core i7-8557U (4 cores)",
@@ -2329,7 +2345,7 @@
   },
   {
     "nameDetail": "Intel Core i5-1145G7",
-    "mark": 4083
+    "mark": 4078
   },
   {
     "nameDetail": "Intel Core i5-1345URE",
@@ -2357,35 +2373,31 @@
   },
   {
     "nameDetail": "Intel Core i5-1135G7",
-    "mark": 3991
+    "mark": 4003
   },
   {
     "nameDetail": "Intel Core i5-1230U",
     "mark": 3989
   },
   {
-    "nameDetail": "AMD Ryzen 3 5300U",
-    "mark": 3975
-  },
-  {
     "nameDetail": "Intel Core i7-4770",
-    "mark": 3973
+    "mark": 3979
   },
   {
     "nameDetail": "Intel Core i5-6600K",
-    "mark": 3961
+    "mark": 3974
+  },
+  {
+    "nameDetail": "AMD Ryzen 3 5300U",
+    "mark": 3960
   },
   {
     "nameDetail": "Intel Core i7-4790",
-    "mark": 3927
-  },
-  {
-    "nameDetail": "MacBook Pro (13-inch Mid 2018) Intel Core i7-8559U (4 cores)",
-    "mark": 3925
+    "mark": 3931
   },
   {
     "nameDetail": "Intel Core i3-9100F",
-    "mark": 3915
+    "mark": 3913
   },
   {
     "nameDetail": "MacBook Pro (13-inch Mid 2019) Intel Core i7-8569U (4 cores)",
@@ -2398,6 +2410,10 @@
   {
     "nameDetail": "Intel Core i7-8559U",
     "mark": 3892
+  },
+  {
+    "nameDetail": "MacBook Pro (13-inch Mid 2018) Intel Core i7-8559U (4 cores)",
+    "mark": 3880
   },
   {
     "nameDetail": "Intel Xeon E5-2620 v3",
@@ -2437,7 +2453,7 @@
   },
   {
     "nameDetail": "Intel Core i3-N305",
-    "mark": 3816
+    "mark": 3819
   },
   {
     "nameDetail": "AMD Ryzen 5 7520U",
@@ -2449,7 +2465,11 @@
   },
   {
     "nameDetail": "Intel Core i7-7700HQ",
-    "mark": 3781
+    "mark": 3780
+  },
+  {
+    "nameDetail": "MacBook Pro (13-inch Mid 2019) Intel Core i5-8279U (4 cores)",
+    "mark": 3771
   },
   {
     "nameDetail": "Intel Core i7-6700T",
@@ -2458,10 +2478,6 @@
   {
     "nameDetail": "Intel Core i5-10200H",
     "mark": 3770
-  },
-  {
-    "nameDetail": "MacBook Pro (13-inch Mid 2019) Intel Core i5-8279U (4 cores)",
-    "mark": 3764
   },
   {
     "nameDetail": "MacBook Pro (15-inch Late 2016) Intel Core i7-6920HQ (4 cores)",
@@ -2485,7 +2501,7 @@
   },
   {
     "nameDetail": "Intel Core i5-8300H",
-    "mark": 3718
+    "mark": 3726
   },
   {
     "nameDetail": "AMD Ryzen 3 7330U",
@@ -2516,16 +2532,12 @@
     "mark": 3699
   },
   {
-    "nameDetail": "Intel Core i7-7820HQ",
-    "mark": 3696
+    "nameDetail": "Intel Core i7-4771",
+    "mark": 3684
   },
   {
     "nameDetail": "MacBook Pro (13-inch Mid 2018) Intel Core i5-8259U (4 cores)",
-    "mark": 3687
-  },
-  {
-    "nameDetail": "Intel Core i7-4771",
-    "mark": 3684
+    "mark": 3680
   },
   {
     "nameDetail": "Intel Core i7-4770S",
@@ -2540,10 +2552,6 @@
     "mark": 3665
   },
   {
-    "nameDetail": "Intel Core i5-4690K",
-    "mark": 3661
-  },
-  {
     "nameDetail": "iMac (27-inch Retina Mid 2017) Intel Core i5-7600 (4 cores)",
     "mark": 3661
   },
@@ -2556,10 +2564,6 @@
     "mark": 3644
   },
   {
-    "nameDetail": "AMD Ryzen 5 2400G",
-    "mark": 3636
-  },
-  {
     "nameDetail": "Intel Core i7-4900MQ",
     "mark": 3635
   },
@@ -2568,8 +2572,20 @@
     "mark": 3632
   },
   {
+    "nameDetail": "AMD Ryzen 5 2400G",
+    "mark": 3630
+  },
+  {
     "nameDetail": "MacBook Pro (15-inch Retina Mid 2015) Intel Core i7-4980HQ (4 cores)",
-    "mark": 3629
+    "mark": 3628
+  },
+  {
+    "nameDetail": "Intel Core i7-7820HQ",
+    "mark": 3616
+  },
+  {
+    "nameDetail": "Intel Core i5-4690K",
+    "mark": 3598
   },
   {
     "nameDetail": "MacBook Pro (13-inch Mid 2020) Intel Core i5-8257U (4 cores)",
@@ -2585,11 +2601,15 @@
   },
   {
     "nameDetail": "Intel Core i5-7500",
-    "mark": 3589
+    "mark": 3590
   },
   {
     "nameDetail": "Intel Core i5-7600T",
     "mark": 3589
+  },
+  {
+    "nameDetail": "Intel Xeon E3-1505M v6",
+    "mark": 3568
   },
   {
     "nameDetail": "Intel Core i3-8100",
@@ -2604,16 +2624,20 @@
     "mark": 3558
   },
   {
-    "nameDetail": "MacBook Pro (13-inch Mid 2019) Intel Core i5-8257U (4 cores)",
-    "mark": 3555
+    "nameDetail": "Intel Pentium Gold G7400",
+    "mark": 3554
   },
   {
-    "nameDetail": "Intel Pentium Gold G7400",
+    "nameDetail": "MacBook Pro (13-inch Mid 2019) Intel Core i5-8257U (4 cores)",
     "mark": 3554
   },
   {
     "nameDetail": "Intel Core i3-9100",
     "mark": 3544
+  },
+  {
+    "nameDetail": "Intel Core i5-9300HF",
+    "mark": 3543
   },
   {
     "nameDetail": "Intel Xeon E3-1505M v5",
@@ -2624,27 +2648,15 @@
     "mark": 3522
   },
   {
-    "nameDetail": "Intel Core i5-9300HF",
-    "mark": 3522
-  },
-  {
-    "nameDetail": "Intel Xeon E3-1505M v6",
-    "mark": 3508
-  },
-  {
     "nameDetail": "Intel Xeon W3690",
     "mark": 3486
   },
   {
     "nameDetail": "MacBook Pro (15-inch Retina Mid 2014) Intel Core i7-4770HQ (4 cores)",
-    "mark": 3485
+    "mark": 3468
   },
   {
     "nameDetail": "AMD Ryzen 3 7320U",
-    "mark": 3449
-  },
-  {
-    "nameDetail": "Intel Core i3-9100T",
     "mark": 3449
   },
   {
@@ -2652,16 +2664,20 @@
     "mark": 3443
   },
   {
+    "nameDetail": "Intel Core i3-9100T",
+    "mark": 3433
+  },
+  {
     "nameDetail": "Intel Core i5-4670K",
     "mark": 3421
   },
   {
-    "nameDetail": "MacBook Pro (15-inch Retina Mid 2014) Intel Core i7-4980HQ (4 cores)",
-    "mark": 3411
+    "nameDetail": "MacBook Pro (15-inch Retina Mid 2015) Intel Core i7-4870HQ (4 cores)",
+    "mark": 3420
   },
   {
-    "nameDetail": "MacBook Pro (15-inch Retina Mid 2015) Intel Core i7-4870HQ (4 cores)",
-    "mark": 3409
+    "nameDetail": "MacBook Pro (15-inch Retina Mid 2014) Intel Core i7-4980HQ (4 cores)",
+    "mark": 3411
   },
   {
     "nameDetail": "Intel Core i7-3930K",
@@ -2693,11 +2709,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4670",
-    "mark": 3309
-  },
-  {
-    "nameDetail": "iMac (21.5-inch Retina Early 2019) Intel Core i3-8100 (4 cores)",
-    "mark": 3309
+    "mark": 3310
   },
   {
     "nameDetail": "MacBook Pro (15-inch Retina Mid 2014) Intel Core i7-4870HQ (4 cores)",
@@ -2720,6 +2732,10 @@
     "mark": 3257
   },
   {
+    "nameDetail": "iMac (21.5-inch Retina Early 2019) Intel Core i3-8100 (4 cores)",
+    "mark": 3256
+  },
+  {
     "nameDetail": "Intel Core i7-6770HQ",
     "mark": 3247
   },
@@ -2737,7 +2753,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4590",
-    "mark": 3202
+    "mark": 3205
   },
   {
     "nameDetail": "Intel Core i5-4690",
@@ -2745,19 +2761,19 @@
   },
   {
     "nameDetail": "Intel Core i7-4700HQ",
-    "mark": 3166
+    "mark": 3174
   },
   {
     "nameDetail": "Intel Core i5-6400",
     "mark": 3162
   },
   {
-    "nameDetail": "Intel Core i5-4590S",
-    "mark": 3150
+    "nameDetail": "Intel Core i5-7500T",
+    "mark": 3158
   },
   {
-    "nameDetail": "Intel Core i5-7500T",
-    "mark": 3147
+    "nameDetail": "Intel Core i5-4590S",
+    "mark": 3150
   },
   {
     "nameDetail": "Intel Core i3-8100T",
@@ -2765,7 +2781,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4570",
-    "mark": 3124
+    "mark": 3126
   },
   {
     "nameDetail": "iMac (21.5-inch Retina Late 2015) Intel Core i5-5675R (4 cores)",
@@ -2778,6 +2794,10 @@
   {
     "nameDetail": "AMD Ryzen 5 3550H",
     "mark": 3100
+  },
+  {
+    "nameDetail": "Intel Xeon X5690",
+    "mark": 3071
   },
   {
     "nameDetail": "Intel Xeon X5675",
@@ -2800,12 +2820,12 @@
     "mark": 3011
   },
   {
-    "nameDetail": "Intel Core i7-4710MQ",
-    "mark": 2999
+    "nameDetail": "Intel Core i7-4710HQ",
+    "mark": 3011
   },
   {
-    "nameDetail": "Intel Xeon X5690",
-    "mark": 2996
+    "nameDetail": "Intel Core i7-4710MQ",
+    "mark": 2999
   },
   {
     "nameDetail": "Intel Xeon E3-1226 v3",
@@ -2818,10 +2838,6 @@
   {
     "nameDetail": "iMac (21.5-inch Late 2013) Intel Core i5-4570S (4 cores)",
     "mark": 2986
-  },
-  {
-    "nameDetail": "Intel Core i7-4710HQ",
-    "mark": 2974
   },
   {
     "nameDetail": "Intel Core i7-3820",
@@ -2844,20 +2860,20 @@
     "mark": 2929
   },
   {
+    "nameDetail": "iMac (27-inch Retina Late 2015) Intel Core i5-6500 (4 cores)",
+    "mark": 2927
+  },
+  {
     "nameDetail": "Intel Core i5-7300HQ",
     "mark": 2924
   },
   {
     "nameDetail": "Intel Core i5-4460",
-    "mark": 2918
+    "mark": 2919
   },
   {
     "nameDetail": "Intel Core i7-4700MQ",
     "mark": 2913
-  },
-  {
-    "nameDetail": "iMac (27-inch Retina Late 2015) Intel Core i5-6500 (4 cores)",
-    "mark": 2910
   },
   {
     "nameDetail": "iMac (21.5-inch Retina Mid 2017) Intel Core i5-7400 (4 cores)",
@@ -2897,11 +2913,7 @@
   },
   {
     "nameDetail": "Intel Core i7-3770",
-    "mark": 2801
-  },
-  {
-    "nameDetail": "Intel Core i5-6500T",
-    "mark": 2800
+    "mark": 2802
   },
   {
     "nameDetail": "Intel Xeon E5-1620 v2",
@@ -2910,6 +2922,10 @@
   {
     "nameDetail": "Intel Core i5-6400T",
     "mark": 2789
+  },
+  {
+    "nameDetail": "Intel Core i5-6500T",
+    "mark": 2786
   },
   {
     "nameDetail": "Intel Core i7-3770S",
@@ -2928,12 +2944,12 @@
     "mark": 2743
   },
   {
-    "nameDetail": "AMD Ryzen 7 3700U",
-    "mark": 2719
-  },
-  {
     "nameDetail": "Intel Xeon E3-1230V2",
     "mark": 2716
+  },
+  {
+    "nameDetail": "AMD Ryzen 7 3700U",
+    "mark": 2709
   },
   {
     "nameDetail": "Intel Core i5-7400T",
@@ -2948,6 +2964,10 @@
     "mark": 2685
   },
   {
+    "nameDetail": "Intel Core i7-3940XM",
+    "mark": 2678
+  },
+  {
     "nameDetail": "Intel Core i7-2600K",
     "mark": 2663
   },
@@ -2960,16 +2980,12 @@
     "mark": 2655
   },
   {
-    "nameDetail": "Intel Core i7-3940XM",
-    "mark": 2628
+    "nameDetail": "AMD Ryzen 5 PRO 2500U",
+    "mark": 2639
   },
   {
     "nameDetail": "Intel Xeon E5-1620",
     "mark": 2609
-  },
-  {
-    "nameDetail": "AMD Ryzen 5 PRO 2500U",
-    "mark": 2602
   },
   {
     "nameDetail": "Intel Core i7-3740QM",
@@ -2985,7 +3001,7 @@
   },
   {
     "nameDetail": "Intel Core i5-4590T",
-    "mark": 2552
+    "mark": 2569
   },
   {
     "nameDetail": "AMD Ryzen 5 2500U",
@@ -3005,19 +3021,19 @@
   },
   {
     "nameDetail": "AMD Ryzen 5 3500U",
-    "mark": 2497
+    "mark": 2493
   },
   {
     "nameDetail": "AMD FX-8350",
     "mark": 2479
   },
   {
-    "nameDetail": "Intel Core i7-3720QM",
-    "mark": 2466
+    "nameDetail": "Intel Core i3-1115G4",
+    "mark": 2475
   },
   {
-    "nameDetail": "Intel Core i3-1115G4",
-    "mark": 2460
+    "nameDetail": "Intel Core i7-3720QM",
+    "mark": 2466
   },
   {
     "nameDetail": "Intel Core i5-2500K",
@@ -3040,12 +3056,12 @@
     "mark": 2377
   },
   {
-    "nameDetail": "Intel Core i3-7100",
-    "mark": 2344
-  },
-  {
     "nameDetail": "Intel Core i5-3570K",
     "mark": 2343
+  },
+  {
+    "nameDetail": "Intel Core i3-7100",
+    "mark": 2340
   },
   {
     "nameDetail": "Intel Core i3-8109U",
@@ -3077,11 +3093,15 @@
   },
   {
     "nameDetail": "Intel Core i5-3570",
-    "mark": 2250
+    "mark": 2252
   },
   {
     "nameDetail": "AMD FX-8300",
     "mark": 2247
+  },
+  {
+    "nameDetail": "MacBook Air (Early 2020) Intel Core i5-1030NG7 (4 cores)",
+    "mark": 2240
   },
   {
     "nameDetail": "Intel Core i3-8121U",
@@ -3093,11 +3113,7 @@
   },
   {
     "nameDetail": "Intel Core i3-6100",
-    "mark": 2235
-  },
-  {
-    "nameDetail": "MacBook Air (Early 2020) Intel Core i5-1030NG7 (4 cores)",
-    "mark": 2231
+    "mark": 2223
   },
   {
     "nameDetail": "Intel Core i7-3630QM",
@@ -3109,7 +3125,7 @@
   },
   {
     "nameDetail": "Intel Core i3-1005G1",
-    "mark": 2126
+    "mark": 2135
   },
   {
     "nameDetail": "Intel Core i7-3612QM",
@@ -3168,16 +3184,20 @@
     "mark": 1999
   },
   {
+    "nameDetail": "AMD Athlon 3000G",
+    "mark": 1997
+  },
+  {
     "nameDetail": "Intel Core i3-4160",
     "mark": 1996
   },
   {
-    "nameDetail": "Intel Core i3-4150",
-    "mark": 1990
+    "nameDetail": "MacBook Pro (13-inch Mid 2017) Intel Core i5-7267U (2 cores)",
+    "mark": 1995
   },
   {
-    "nameDetail": "MacBook Pro (13-inch Mid 2017) Intel Core i5-7267U (2 cores)",
-    "mark": 1978
+    "nameDetail": "Intel Core i3-4150",
+    "mark": 1990
   },
   {
     "nameDetail": "Intel Core i7-4558U",
@@ -3198,10 +3218,6 @@
   {
     "nameDetail": "Intel Core i3-1000NG4",
     "mark": 1955
-  },
-  {
-    "nameDetail": "AMD Athlon 3000G",
-    "mark": 1929
   },
   {
     "nameDetail": "Intel Pentium Gold G6405",
@@ -3269,7 +3285,7 @@
   },
   {
     "nameDetail": "MacBook Pro (13-inch Retina Early 2015) Intel Core i5-5287U (2 cores)",
-    "mark": 1775
+    "mark": 1782
   },
   {
     "nameDetail": "Intel Core i5-4300M",
@@ -3304,10 +3320,6 @@
     "mark": 1687
   },
   {
-    "nameDetail": "Intel Core i7-2630QM",
-    "mark": 1678
-  },
-  {
     "nameDetail": "Mac mini (Late 2014) Intel Core i5-4278U (2 cores)",
     "mark": 1659
   },
@@ -3316,12 +3328,12 @@
     "mark": 1649
   },
   {
-    "nameDetail": "MacBook Pro (13-inch Retina Mid 2014) Intel Core i5-4278U (2 cores)",
+    "nameDetail": "MacBook Air (Early 2020) Intel Core i3-1000NG4 (2 cores)",
     "mark": 1648
   },
   {
-    "nameDetail": "MacBook Air (Early 2020) Intel Core i3-1000NG4 (2 cores)",
-    "mark": 1647
+    "nameDetail": "MacBook Pro (13-inch Retina Mid 2014) Intel Core i5-4278U (2 cores)",
+    "mark": 1648
   },
   {
     "nameDetail": "Intel Core i3-7130U",
@@ -3334,6 +3346,10 @@
   {
     "nameDetail": "AMD A8-9600",
     "mark": 1626
+  },
+  {
+    "nameDetail": "Intel Core i7-2630QM",
+    "mark": 1619
   },
   {
     "nameDetail": "Intel Core i7-5600U",
@@ -3380,6 +3396,10 @@
     "mark": 1509
   },
   {
+    "nameDetail": "Intel Core i7-5500U",
+    "mark": 1504
+  },
+  {
     "nameDetail": "Intel Core i5-5250U",
     "mark": 1499
   },
@@ -3392,16 +3412,12 @@
     "mark": 1497
   },
   {
-    "nameDetail": "Intel Core i7-5500U",
-    "mark": 1494
-  },
-  {
     "nameDetail": "Intel Core i7-860",
     "mark": 1493
   },
   {
     "nameDetail": "AMD Ryzen 3 3250U",
-    "mark": 1485
+    "mark": 1490
   },
   {
     "nameDetail": "AMD FX-6100",
@@ -3464,16 +3480,16 @@
     "mark": 1385
   },
   {
+    "nameDetail": "AMD Athlon Silver 3050U",
+    "mark": 1371
+  },
+  {
     "nameDetail": "Intel Core i5-3360M",
     "mark": 1367
   },
   {
     "nameDetail": "MacBook (Mid 2017) Intel Core i5-7Y54 (2 cores)",
     "mark": 1366
-  },
-  {
-    "nameDetail": "AMD Athlon Silver 3050U",
-    "mark": 1364
   },
   {
     "nameDetail": "MacBook Pro (13-inch Retina Late 2013) Intel Core i5-4258U (2 cores)",
@@ -3492,6 +3508,10 @@
     "mark": 1325
   },
   {
+    "nameDetail": "AMD Athlon Silver 7120U",
+    "mark": 1303
+  },
+  {
     "nameDetail": "Intel Core 2 Quad Q9650",
     "mark": 1303
   },
@@ -3506,10 +3526,6 @@
   {
     "nameDetail": "Intel Core i5-4300U",
     "mark": 1281
-  },
-  {
-    "nameDetail": "AMD Athlon Silver 7120U",
-    "mark": 1271
   },
   {
     "nameDetail": "Intel Core i7-3537U",
@@ -3528,6 +3544,10 @@
     "mark": 1238
   },
   {
+    "nameDetail": "Intel Core i3-6006U",
+    "mark": 1235
+  },
+  {
     "nameDetail": "Intel Core i3-5005U",
     "mark": 1230
   },
@@ -3538,10 +3558,6 @@
   {
     "nameDetail": "Intel Core i5-3340M",
     "mark": 1223
-  },
-  {
-    "nameDetail": "Intel Core i3-6006U",
-    "mark": 1216
   },
   {
     "nameDetail": "Intel Celeron G4900",
@@ -3577,7 +3593,7 @@
   },
   {
     "nameDetail": "Intel Celeron J4125",
-    "mark": 1138
+    "mark": 1143
   },
   {
     "nameDetail": "Intel Core i5-2520M",
@@ -3740,16 +3756,16 @@
     "mark": 710
   },
   {
-    "nameDetail": "Intel Celeron N4120",
-    "mark": 695
-  },
-  {
     "nameDetail": "AMD A8-7410",
     "mark": 695
   },
   {
+    "nameDetail": "Intel Celeron N4120",
+    "mark": 694
+  },
+  {
     "nameDetail": "Intel Celeron N4500",
-    "mark": 646
+    "mark": 649
   },
   {
     "nameDetail": "Intel Core i3-380M",
@@ -3760,16 +3776,16 @@
     "mark": 633
   },
   {
+    "nameDetail": "Intel Core i3-2310M",
+    "mark": 596
+  },
+  {
     "nameDetail": "AMD A6-3420M",
     "mark": 589
   },
   {
     "nameDetail": "AMD A6-7310",
     "mark": 577
-  },
-  {
-    "nameDetail": "Intel Core i3-2310M",
-    "mark": 574
   },
   {
     "nameDetail": "Intel Core i3-370M",
