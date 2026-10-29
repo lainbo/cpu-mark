@@ -36,6 +36,12 @@
     "writeSpeed": 14133
   },
   {
+    "nameDetail": "Seagate FireCuda 540 1TB",
+    "mark": 20961,
+    "readSpeed": 9621,
+    "writeSpeed": 8818
+  },
+  {
     "nameDetail": "Lexar Professional NM1090 2TB",
     "mark": 20542,
     "readSpeed": 12364,
@@ -46,6 +52,12 @@
     "mark": 20482,
     "readSpeed": 14201,
     "writeSpeed": 13407
+  },
+  {
+    "nameDetail": "PNY XLR8 CS3150 1TB",
+    "mark": 20469,
+    "readSpeed": 11703,
+    "writeSpeed": 10119
   },
   {
     "nameDetail": "Crucial T705 1TB",
@@ -84,16 +96,40 @@
     "writeSpeed": 13492
   },
   {
+    "nameDetail": "TeamGroup T-Force Z540 2TB",
+    "mark": 19549,
+    "readSpeed": 12362,
+    "writeSpeed": 12072
+  },
+  {
     "nameDetail": "Samsung 9100 PRO 2TB",
     "mark": 19427,
     "readSpeed": 14775,
     "writeSpeed": 13500
   },
   {
+    "nameDetail": "KIOXIA EXCERIA Plus G4 2TB",
+    "mark": 19422,
+    "readSpeed": 10433,
+    "writeSpeed": 8805
+  },
+  {
     "nameDetail": "KIOXIA EXCERIA PRO G2 2TB",
     "mark": 18965,
     "readSpeed": 14899,
     "writeSpeed": 13304
+  },
+  {
+    "nameDetail": "addlink G55 1TB",
+    "mark": 18901,
+    "readSpeed": 10248,
+    "writeSpeed": 8394
+  },
+  {
+    "nameDetail": "MSI SPATIUM M560 1TB",
+    "mark": 18807,
+    "readSpeed": 10259,
+    "writeSpeed": 8390
   },
   {
     "nameDetail": "Crucial P510 2TB",
@@ -108,6 +144,18 @@
     "writeSpeed": 9573
   },
   {
+    "nameDetail": "PNY CS2150 1TB",
+    "mark": 18706,
+    "readSpeed": 10293,
+    "writeSpeed": 8267
+  },
+  {
+    "nameDetail": "TeamGroup T-Force GE PRO 2TB",
+    "mark": 18495,
+    "readSpeed": 13977,
+    "writeSpeed": 11792
+  },
+  {
     "nameDetail": "PNY CS2150 2TB",
     "mark": 18249,
     "readSpeed": 10395,
@@ -118,6 +166,12 @@
     "mark": 17965,
     "readSpeed": 14859,
     "writeSpeed": 12885
+  },
+  {
+    "nameDetail": "Lexar ARES PRO 2TB",
+    "mark": 16985,
+    "readSpeed": 14900,
+    "writeSpeed": 10066
   },
   {
     "nameDetail": "TeamGroup NV10000 1TB",
@@ -132,6 +186,12 @@
     "writeSpeed": 6668
   },
   {
+    "nameDetail": "SanDisk Optimus GX 7100X 2TB",
+    "mark": 16095,
+    "readSpeed": 7368,
+    "writeSpeed": 6971
+  },
+  {
     "nameDetail": "Western Digital WD Blue SN5100 1TB",
     "mark": 15650,
     "readSpeed": 7216,
@@ -142,6 +202,12 @@
     "mark": 15322,
     "readSpeed": 7337,
     "writeSpeed": 5499
+  },
+  {
+    "nameDetail": "Biwin NV7200 1TB",
+    "mark": 15102,
+    "readSpeed": 7234,
+    "writeSpeed": 6031
   },
   {
     "nameDetail": "Seagate Game Drive PS5 2TB",
@@ -168,10 +234,10 @@
     "writeSpeed": 6196
   },
   {
-    "nameDetail": "Kingston KC3000 2TB",
-    "mark": 14930,
-    "readSpeed": 7369,
-    "writeSpeed": 7070
+    "nameDetail": "Biwin NV7200 2TB",
+    "mark": 14944,
+    "readSpeed": 7321,
+    "writeSpeed": 6406
   },
   {
     "nameDetail": "ORICO IG740-PRO 1TB",
@@ -204,22 +270,34 @@
     "writeSpeed": 6546
   },
   {
+    "nameDetail": "MSI SPATIUM M482 2TB",
+    "mark": 14639,
+    "readSpeed": 7377,
+    "writeSpeed": 6620
+  },
+  {
     "nameDetail": "Crucial P310 2TB",
     "mark": 14613,
     "readSpeed": 7230,
     "writeSpeed": 6358
   },
   {
-    "nameDetail": "Samsung 980 PRO 1TB",
-    "mark": 14593,
-    "readSpeed": 6625,
-    "writeSpeed": 4998
-  },
-  {
     "nameDetail": "Taimi Phoenix 1TB",
     "mark": 14591,
     "readSpeed": 7395,
     "writeSpeed": 6353
+  },
+  {
+    "nameDetail": "TeamGroup T-Force Cardea A440 Pro 2TB",
+    "mark": 14585,
+    "readSpeed": 7364,
+    "writeSpeed": 6872
+  },
+  {
+    "nameDetail": "Timetec MS47 2TB",
+    "mark": 14550,
+    "readSpeed": 7385,
+    "writeSpeed": 6633
   },
   {
     "nameDetail": "Corsair MP600 ELITE 1TB",
@@ -324,10 +402,16 @@
     "writeSpeed": 6372
   },
   {
-    "nameDetail": "KIOXIA EXCERIA PRO 2TB",
-    "mark": 13637,
-    "readSpeed": 7368,
-    "writeSpeed": 6437
+    "nameDetail": "KingBank KP260 Plus 1TB",
+    "mark": 13510,
+    "readSpeed": 7423,
+    "writeSpeed": 6715
+  },
+  {
+    "nameDetail": "Netac NV7000 2TB",
+    "mark": 13474,
+    "readSpeed": 7464,
+    "writeSpeed": 6689
   },
   {
     "nameDetail": "Samsung 990 PRO 1TB",
@@ -340,6 +424,12 @@
     "mark": 13272,
     "readSpeed": 7230,
     "writeSpeed": 5458
+  },
+  {
+    "nameDetail": "Apacer AS2280Q4X 1TB",
+    "mark": 13262,
+    "readSpeed": 5061,
+    "writeSpeed": 4504
   },
   {
     "nameDetail": "KIOXIA EXCERIA PLUS G3 1TB",
@@ -366,12 +456,6 @@
     "writeSpeed": 5309
   },
   {
-    "nameDetail": "Mushkin Vortex Redline 2TB",
-    "mark": 12785,
-    "readSpeed": 7439,
-    "writeSpeed": 6971
-  },
-  {
     "nameDetail": "Biwin Black Opal NV7400 1TB",
     "mark": 12761,
     "readSpeed": 7416,
@@ -382,6 +466,18 @@
     "mark": 12755,
     "readSpeed": 7229,
     "writeSpeed": 6208
+  },
+  {
+    "nameDetail": "TeamGroup T-Create Classic C47 2TB",
+    "mark": 12737,
+    "readSpeed": 7425,
+    "writeSpeed": 6497
+  },
+  {
+    "nameDetail": "SSK 7400 2TB",
+    "mark": 12638,
+    "readSpeed": 7418,
+    "writeSpeed": 6483
   },
   {
     "nameDetail": "Acer Predator GM7 2TB",
@@ -414,12 +510,6 @@
     "writeSpeed": 6579
   },
   {
-    "nameDetail": "Lexar NM790 2TB",
-    "mark": 12418,
-    "readSpeed": 7436,
-    "writeSpeed": 6695
-  },
-  {
     "nameDetail": "Seagate FireCuda 520 1TB",
     "mark": 12408,
     "readSpeed": 5007,
@@ -436,18 +526,6 @@
     "mark": 12321,
     "readSpeed": 7452,
     "writeSpeed": 6634
-  },
-  {
-    "nameDetail": "Patriot Viper VP4300 Lite 2TB",
-    "mark": 12304,
-    "readSpeed": 7438,
-    "writeSpeed": 6667
-  },
-  {
-    "nameDetail": "Sabrent Rocket 4 Plus 2TB",
-    "mark": 12256,
-    "readSpeed": 7078,
-    "writeSpeed": 6831
   },
   {
     "nameDetail": "Intenso MI500 1TB",
@@ -480,16 +558,22 @@
     "writeSpeed": 6711
   },
   {
+    "nameDetail": "Transcend MTE250H 2TB",
+    "mark": 12027,
+    "readSpeed": 7110,
+    "writeSpeed": 6468
+  },
+  {
     "nameDetail": "ADATA LEGEND 960 1TB",
     "mark": 11979,
     "readSpeed": 7434,
     "writeSpeed": 6668
   },
   {
-    "nameDetail": "TeamGroup T-Force Cardea Zero Z440 1TB",
-    "mark": 11936,
-    "readSpeed": 5008,
-    "writeSpeed": 4262
+    "nameDetail": "Verbatim Vi5000 2TB",
+    "mark": 11961,
+    "readSpeed": 6427,
+    "writeSpeed": 5835
   },
   {
     "nameDetail": "Silicon Power UD90 2TB",
@@ -498,10 +582,22 @@
     "writeSpeed": 4435
   },
   {
+    "nameDetail": "Corsair MP600 2TB",
+    "mark": 11928,
+    "readSpeed": 5011,
+    "writeSpeed": 4242
+  },
+  {
     "nameDetail": "ADATA XPG Gammix S70 2TB",
     "mark": 11908,
     "readSpeed": 7460,
     "writeSpeed": 6744
+  },
+  {
+    "nameDetail": "PNY XLR8 CS3040 1TB",
+    "mark": 11820,
+    "readSpeed": 5014,
+    "writeSpeed": 4425
   },
   {
     "nameDetail": "Samsung 990 EVO 2TB",
@@ -546,6 +642,12 @@
     "writeSpeed": 6125
   },
   {
+    "nameDetail": "Acer FA200 2TB",
+    "mark": 11179,
+    "readSpeed": 7322,
+    "writeSpeed": 6412
+  },
+  {
     "nameDetail": "Crucial P5 Plus 2TB",
     "mark": 11142,
     "readSpeed": 6848,
@@ -570,28 +672,10 @@
     "writeSpeed": 3578
   },
   {
-    "nameDetail": "Kingston DC2000B (Boot Drive) 960GB",
-    "mark": 10825,
-    "readSpeed": 7424,
-    "writeSpeed": 1300
-  },
-  {
-    "nameDetail": "Silicon Power XPOWER XD80 1TB",
-    "mark": 10820,
-    "readSpeed": 3453,
-    "writeSpeed": 2996
-  },
-  {
     "nameDetail": "Fikwot FN960 512GB",
     "mark": 10790,
     "readSpeed": 5110,
     "writeSpeed": 4443
-  },
-  {
-    "nameDetail": "Goodram IRDM 1TB",
-    "mark": 10766,
-    "readSpeed": 3452,
-    "writeSpeed": 3083
   },
   {
     "nameDetail": "Western Digital WD Green SN3000 1TB",
@@ -612,6 +696,12 @@
     "writeSpeed": 4859
   },
   {
+    "nameDetail": "Sabrent Rocket 4 Plus 500GB",
+    "mark": 10511,
+    "readSpeed": 7140,
+    "writeSpeed": 3932
+  },
+  {
     "nameDetail": "KingSpec XG7000 1TB",
     "mark": 10503,
     "readSpeed": 7465,
@@ -622,6 +712,12 @@
     "mark": 10430,
     "readSpeed": 5125,
     "writeSpeed": 4415
+  },
+  {
+    "nameDetail": "Western Digital WD Blue SN5000 1TB",
+    "mark": 10396,
+    "readSpeed": 5228,
+    "writeSpeed": 4861
   },
   {
     "nameDetail": "TeamGroup NV5000 2TB",
@@ -642,6 +738,12 @@
     "writeSpeed": 4374
   },
   {
+    "nameDetail": "Samsung 980 PRO 250GB",
+    "mark": 10262,
+    "readSpeed": 6465,
+    "writeSpeed": 2691
+  },
+  {
     "nameDetail": "Kingston NV3 500GB",
     "mark": 10194,
     "readSpeed": 5849,
@@ -652,6 +754,12 @@
     "mark": 10033,
     "readSpeed": 3922,
     "writeSpeed": 3470
+  },
+  {
+    "nameDetail": "Lexar EQ790 2TB",
+    "mark": 9876,
+    "readSpeed": 7455,
+    "writeSpeed": 5447
   },
   {
     "nameDetail": "Samsung 970 PRO 1TB",
@@ -694,6 +802,18 @@
     "mark": 9537,
     "readSpeed": 7434,
     "writeSpeed": 6672
+  },
+  {
+    "nameDetail": "Integral M3 Plus 1TB",
+    "mark": 9449,
+    "readSpeed": 4950,
+    "writeSpeed": 4573
+  },
+  {
+    "nameDetail": "PNY CS2241 1TB",
+    "mark": 9420,
+    "readSpeed": 4949,
+    "writeSpeed": 4551
   },
   {
     "nameDetail": "Fikwot FX991 1TB",
@@ -816,10 +936,28 @@
     "writeSpeed": 3979
   },
   {
+    "nameDetail": "ORICO O7000 512GB",
+    "mark": 8300,
+    "readSpeed": 7251,
+    "writeSpeed": 4207
+  },
+  {
     "nameDetail": "TeamGroup MP33 Pro 512GB",
     "mark": 8298,
     "readSpeed": 3529,
     "writeSpeed": 3132
+  },
+  {
+    "nameDetail": "ADATA XPG Gammix S50 Core 500GB",
+    "mark": 8285,
+    "readSpeed": 4276,
+    "writeSpeed": 4188
+  },
+  {
+    "nameDetail": "MSI SPATIUM M390 500GB",
+    "mark": 8195,
+    "readSpeed": 3481,
+    "writeSpeed": 3123
   },
   {
     "nameDetail": "Samsung 970 PRO 512GB",
@@ -876,6 +1014,12 @@
     "writeSpeed": 3103
   },
   {
+    "nameDetail": "ORICO D10 2TB",
+    "mark": 7818,
+    "readSpeed": 3646,
+    "writeSpeed": 3237
+  },
+  {
     "nameDetail": "Samsung 970 EVO Plus 500GB",
     "mark": 7803,
     "readSpeed": 3571,
@@ -894,6 +1038,12 @@
     "writeSpeed": 3055
   },
   {
+    "nameDetail": "Acer FA100 1TB",
+    "mark": 7655,
+    "readSpeed": 3634,
+    "writeSpeed": 3137
+  },
+  {
     "nameDetail": "Patriot P320 512GB",
     "mark": 7651,
     "readSpeed": 3322,
@@ -904,6 +1054,12 @@
     "mark": 7551,
     "readSpeed": 3245,
     "writeSpeed": 2316
+  },
+  {
+    "nameDetail": "Goodram PX600 500GB",
+    "mark": 7463,
+    "readSpeed": 4855,
+    "writeSpeed": 1988
   },
   {
     "nameDetail": "Verbatim Vi3000 2TB",
@@ -928,12 +1084,6 @@
     "mark": 7364,
     "readSpeed": 3642,
     "writeSpeed": 2967
-  },
-  {
-    "nameDetail": "Samsung 980 500GB",
-    "mark": 7196,
-    "readSpeed": 3185,
-    "writeSpeed": 2268
   },
   {
     "nameDetail": "Taimi Vulcan 512GB",
@@ -1032,10 +1182,10 @@
     "writeSpeed": 2917
   },
   {
-    "nameDetail": "ADATA XPG Gammix S11 Pro 2TB",
-    "mark": 6568,
-    "readSpeed": 3519,
-    "writeSpeed": 3357
+    "nameDetail": "Goodram PX500 256GB",
+    "mark": 6559,
+    "readSpeed": 3262,
+    "writeSpeed": 2725
   },
   {
     "nameDetail": "KIOXIA XG6 Client 1TB",
@@ -1068,10 +1218,10 @@
     "writeSpeed": 1962
   },
   {
-    "nameDetail": "ADATA LEGEND 800 2TB",
-    "mark": 6298,
-    "readSpeed": 3615,
-    "writeSpeed": 2915
+    "nameDetail": "Mushkin Pilot-E 500GB",
+    "mark": 6307,
+    "readSpeed": 3530,
+    "writeSpeed": 2205
   },
   {
     "nameDetail": "Samsung 970 EVO Plus 250GB",
@@ -1080,16 +1230,16 @@
     "writeSpeed": 2383
   },
   {
-    "nameDetail": "Patriot Viper VPN100 512GB",
-    "mark": 6179,
-    "readSpeed": 3453,
-    "writeSpeed": 2430
-  },
-  {
     "nameDetail": "KingSpec NX 1TB",
     "mark": 6176,
     "readSpeed": 3885,
     "writeSpeed": 2780
+  },
+  {
+    "nameDetail": "Emtec X400 Power Pro 1TB",
+    "mark": 6078,
+    "readSpeed": 4727,
+    "writeSpeed": 2053
   },
   {
     "nameDetail": "Patriot P320 2TB",
@@ -1104,10 +1254,10 @@
     "writeSpeed": 2176
   },
   {
-    "nameDetail": "Mushkin Element 512GB",
-    "mark": 5950,
-    "readSpeed": 3299,
-    "writeSpeed": 2294
+    "nameDetail": "SanDisk Extreme PRO 3D 500GB",
+    "mark": 5949,
+    "readSpeed": 3489,
+    "writeSpeed": 2586
   },
   {
     "nameDetail": "Mushkin Element 2TB",
@@ -1122,10 +1272,10 @@
     "writeSpeed": 2806
   },
   {
-    "nameDetail": "ADATA XPG SX8200 Pro 2TB",
-    "mark": 5787,
-    "readSpeed": 3481,
-    "writeSpeed": 2943
+    "nameDetail": "Lexar Professional NM700 512GB",
+    "mark": 5779,
+    "readSpeed": 3496,
+    "writeSpeed": 1958
   },
   {
     "nameDetail": "Western Digital WD Green SN350 2TB",
@@ -1170,12 +1320,6 @@
     "writeSpeed": 1635
   },
   {
-    "nameDetail": "Western Digital WD Blue SN550 2TB",
-    "mark": 5393,
-    "readSpeed": 2598,
-    "writeSpeed": 1891
-  },
-  {
     "nameDetail": "KingSpec NX 512GB",
     "mark": 5275,
     "readSpeed": 3650,
@@ -1186,6 +1330,12 @@
     "mark": 5224,
     "readSpeed": 3525,
     "writeSpeed": 2450
+  },
+  {
+    "nameDetail": "ORICO J-10 2TB",
+    "mark": 5073,
+    "readSpeed": 3641,
+    "writeSpeed": 2301
   },
   {
     "nameDetail": "ADATA LEGEND 710 2TB",
@@ -1240,6 +1390,18 @@
     "mark": 4786,
     "readSpeed": 2081,
     "writeSpeed": 1475
+  },
+  {
+    "nameDetail": "PHIXERO P3000 1TB",
+    "mark": 4755,
+    "readSpeed": 3421,
+    "writeSpeed": 2279
+  },
+  {
+    "nameDetail": "ORICO J-10 1TB",
+    "mark": 4743,
+    "readSpeed": 3434,
+    "writeSpeed": 2315
   },
   {
     "nameDetail": "MediaRange MR1031 512GB",
@@ -1308,6 +1470,12 @@
     "writeSpeed": 2686
   },
   {
+    "nameDetail": "Fikwot FX550 MARS 2TB",
+    "mark": 4265,
+    "readSpeed": 3120,
+    "writeSpeed": 1778
+  },
+  {
     "nameDetail": "Crucial P1 500GB",
     "mark": 4196,
     "readSpeed": 2246,
@@ -1356,6 +1524,12 @@
     "writeSpeed": 1856
   },
   {
+    "nameDetail": "Kingston NV2 250GB",
+    "mark": 3751,
+    "readSpeed": 3294,
+    "writeSpeed": 1758
+  },
+  {
     "nameDetail": "fanxiang S500 Pro 256GB",
     "mark": 3638,
     "readSpeed": 3635,
@@ -1378,6 +1552,12 @@
     "mark": 3479,
     "readSpeed": 2151,
     "writeSpeed": 1706
+  },
+  {
+    "nameDetail": "Kingston NV1 250GB",
+    "mark": 3392,
+    "readSpeed": 2389,
+    "writeSpeed": 1218
   },
   {
     "nameDetail": "Patriot P310 240GB",
@@ -1458,10 +1638,22 @@
     "writeSpeed": 558
   },
   {
+    "nameDetail": "Acer SA100 1.87TB",
+    "mark": 1368,
+    "readSpeed": 549,
+    "writeSpeed": 475
+  },
+  {
     "nameDetail": "Samsung 870 EVO 250GB",
     "mark": 1365,
     "readSpeed": 549,
     "writeSpeed": 483
+  },
+  {
+    "nameDetail": "Acer SA100 480GB",
+    "mark": 1361,
+    "readSpeed": 550,
+    "writeSpeed": 468
   },
   {
     "nameDetail": "Samsung 870 EVO 1TB",
@@ -1480,6 +1672,12 @@
     "mark": 1350,
     "readSpeed": 550,
     "writeSpeed": 486
+  },
+  {
+    "nameDetail": "Integral V Series 2TB",
+    "mark": 1348,
+    "readSpeed": 550,
+    "writeSpeed": 476
   },
   {
     "nameDetail": "PNY CS900 250GB",
@@ -1536,10 +1734,10 @@
     "writeSpeed": 465
   },
   {
-    "nameDetail": "TeamGroup CX2 Classic 1TB",
-    "mark": 1317,
-    "readSpeed": 550,
-    "writeSpeed": 463
+    "nameDetail": "SanDisk Ultra 3D 1TB",
+    "mark": 1318,
+    "readSpeed": 525,
+    "writeSpeed": 483
   },
   {
     "nameDetail": "Crucial MX500 1TB",
@@ -1558,6 +1756,12 @@
     "mark": 1314,
     "readSpeed": 455,
     "writeSpeed": 484
+  },
+  {
+    "nameDetail": "Integral V Series 250GB",
+    "mark": 1312,
+    "readSpeed": 529,
+    "writeSpeed": 446
   },
   {
     "nameDetail": "KingSpec P3 1TB",
@@ -1606,6 +1810,18 @@
     "mark": 1302,
     "readSpeed": 539,
     "writeSpeed": 456
+  },
+  {
+    "nameDetail": "Acer SA100 960GB",
+    "mark": 1301,
+    "readSpeed": 541,
+    "writeSpeed": 470
+  },
+  {
+    "nameDetail": "ORICO i560 2TB",
+    "mark": 1301,
+    "readSpeed": 550,
+    "writeSpeed": 472
   },
   {
     "nameDetail": "Intenso High Performance 480GB",
@@ -1674,12 +1890,6 @@
     "writeSpeed": 478
   },
   {
-    "nameDetail": "KingSpec P3 2TB",
-    "mark": 1281,
-    "readSpeed": 549,
-    "writeSpeed": 464
-  },
-  {
     "nameDetail": "Intenso Top Performance 1TB",
     "mark": 1280,
     "readSpeed": 548,
@@ -1696,6 +1906,12 @@
     "mark": 1279,
     "readSpeed": 531,
     "writeSpeed": 465
+  },
+  {
+    "nameDetail": "GiGimundo G500 2TB",
+    "mark": 1276,
+    "readSpeed": 534,
+    "writeSpeed": 451
   },
   {
     "nameDetail": "Transcend SSD220Q 1TB",
@@ -1728,12 +1944,6 @@
     "writeSpeed": 395
   },
   {
-    "nameDetail": "Lexar NQ100 960GB",
-    "mark": 1261,
-    "readSpeed": 527,
-    "writeSpeed": 424
-  },
-  {
     "nameDetail": "Lexar NS100 256GB",
     "mark": 1260,
     "readSpeed": 529,
@@ -1752,10 +1962,10 @@
     "writeSpeed": 465
   },
   {
-    "nameDetail": "Gigabyte SSD 480GB",
-    "mark": 1256,
-    "readSpeed": 475,
-    "writeSpeed": 474
+    "nameDetail": "Acer SA100 240GB",
+    "mark": 1255,
+    "readSpeed": 535,
+    "writeSpeed": 448
   },
   {
     "nameDetail": "Emtec X150 Power Plus 960GB",
@@ -1770,6 +1980,24 @@
     "writeSpeed": 453
   },
   {
+    "nameDetail": "ORICO Y-20 2TB",
+    "mark": 1245,
+    "readSpeed": 526,
+    "writeSpeed": 436
+  },
+  {
+    "nameDetail": "Lexar NQ100 240GB",
+    "mark": 1238,
+    "readSpeed": 537,
+    "writeSpeed": 462
+  },
+  {
+    "nameDetail": "Western Digital WD Red SA500 2TB",
+    "mark": 1237,
+    "readSpeed": 547,
+    "writeSpeed": 460
+  },
+  {
     "nameDetail": "Intenso Top Performance 512GB",
     "mark": 1236,
     "readSpeed": 546,
@@ -1780,12 +2008,6 @@
     "mark": 1236,
     "readSpeed": 520,
     "writeSpeed": 431
-  },
-  {
-    "nameDetail": "Verbatim Vi550 S3 1TB",
-    "mark": 1234,
-    "readSpeed": 522,
-    "writeSpeed": 421
   },
   {
     "nameDetail": "DIGIERA CAS100 512GB",
@@ -1956,6 +2178,18 @@
     "writeSpeed": 467
   },
   {
+    "nameDetail": "Verbatim Vi550 S3 256GB",
+    "mark": 1071,
+    "readSpeed": 550,
+    "writeSpeed": 466
+  },
+  {
+    "nameDetail": "ORICO Y-20 512GB",
+    "mark": 1065,
+    "readSpeed": 542,
+    "writeSpeed": 460
+  },
+  {
     "nameDetail": "Fikwot FX815 PLUTO 512GB",
     "mark": 1046,
     "readSpeed": 543,
@@ -1978,12 +2212,6 @@
     "mark": 999,
     "readSpeed": 540,
     "writeSpeed": 454
-  },
-  {
-    "nameDetail": "SanDisk SSD Plus 240GB",
-    "mark": 745,
-    "readSpeed": 530,
-    "writeSpeed": 421
   },
   {
     "nameDetail": "Western Digital WD Green 2TB",
