@@ -8,8 +8,6 @@ const TIMEOUT = 30000
 
 // topcpu 的各个排行页结构相同：每行一个 CPU 链接，同一行里的加粗 span 是分数
 const topCpu = {
-  // topcpu.net 的证书 2026-11-11 已过期，对方续期后删除此项
-  ignoreCertErrors: true,
   waitFor: 'a.hover\\:no-underline[href^="/cpu/"]',
   code: () =>
     Array.from(document.querySelectorAll('a.hover\\:no-underline[href^="/cpu/"]'), a => ({
@@ -159,11 +157,6 @@ async function fetchData(browser, site) {
     try {
       if (site.disableJavaScript || site.viaFirecrawl) {
         await page.setJavaScriptEnabled(false)
-      }
-      // 只对当前页面生效，其他数据源照常校验证书
-      if (site.ignoreCertErrors) {
-        const session = await page.createCDPSession()
-        await session.send('Security.setIgnoreCertificateErrors', { ignore: true })
       }
       if (site.viaFirecrawl) {
         // 只需要解析 HTML，不执行页面里的广告和统计脚本
