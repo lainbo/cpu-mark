@@ -138,10 +138,22 @@
     "writeSpeed": 8805
   },
   {
+    "nameDetail": "Gigabyte AORUS Gen5 14000 1TB",
+    "mark": 19305,
+    "readSpeed": 13626,
+    "writeSpeed": 10637
+  },
+  {
     "nameDetail": "KIOXIA EXCERIA PRO G2 2TB",
     "mark": 18965,
     "readSpeed": 14899,
     "writeSpeed": 13304
+  },
+  {
+    "nameDetail": "addlink G55 1TB",
+    "mark": 18901,
+    "readSpeed": 10248,
+    "writeSpeed": 8394
   },
   {
     "nameDetail": "MSI SPATIUM M560 1TB",
@@ -162,12 +174,6 @@
     "writeSpeed": 9573
   },
   {
-    "nameDetail": "PNY CS2150 1TB",
-    "mark": 18706,
-    "readSpeed": 10293,
-    "writeSpeed": 8267
-  },
-  {
     "nameDetail": "PNY CS2150 2TB",
     "mark": 18249,
     "readSpeed": 10395,
@@ -184,6 +190,12 @@
     "mark": 16880,
     "readSpeed": 10286,
     "writeSpeed": 8516
+  },
+  {
+    "nameDetail": "Western Digital WD_BLACK SN850P 2TB",
+    "mark": 16272,
+    "readSpeed": 7362,
+    "writeSpeed": 6668
   },
   {
     "nameDetail": "SanDisk Optimus GX PRO 850P 2TB",
@@ -216,12 +228,6 @@
     "writeSpeed": 6685
   },
   {
-    "nameDetail": "Biwin NV7200 1TB",
-    "mark": 15102,
-    "readSpeed": 7234,
-    "writeSpeed": 6031
-  },
-  {
     "nameDetail": "Seagate Game Drive PS5 2TB",
     "mark": 15084,
     "readSpeed": 7362,
@@ -240,12 +246,6 @@
     "writeSpeed": 6196
   },
   {
-    "nameDetail": "Biwin NV7200 2TB",
-    "mark": 14944,
-    "readSpeed": 7321,
-    "writeSpeed": 6406
-  },
-  {
     "nameDetail": "Kingston FURY Renegade 2TB",
     "mark": 14941,
     "readSpeed": 7366,
@@ -256,6 +256,12 @@
     "mark": 14930,
     "readSpeed": 7369,
     "writeSpeed": 7070
+  },
+  {
+    "nameDetail": "Seagate FireCuda 530R 2TB",
+    "mark": 14759,
+    "readSpeed": 7442,
+    "writeSpeed": 6991
   },
   {
     "nameDetail": "MSI SPATIUM M480 PRO 2TB",
@@ -480,12 +486,6 @@
     "writeSpeed": 6028
   },
   {
-    "nameDetail": "KingSpec XG7000 2TB",
-    "mark": 13767,
-    "readSpeed": 7438,
-    "writeSpeed": 6761
-  },
-  {
     "nameDetail": "Kingston NV3 2TB",
     "mark": 13721,
     "readSpeed": 6295,
@@ -604,6 +604,12 @@
     "mark": 12737,
     "readSpeed": 7425,
     "writeSpeed": 6497
+  },
+  {
+    "nameDetail": "SSK 7400 2TB",
+    "mark": 12638,
+    "readSpeed": 7418,
+    "writeSpeed": 6483
   },
   {
     "nameDetail": "Acer Predator GM7 2TB",
@@ -1086,6 +1092,12 @@
     "writeSpeed": 6672
   },
   {
+    "nameDetail": "PNY CS2241 1TB",
+    "mark": 9420,
+    "readSpeed": 4949,
+    "writeSpeed": 4551
+  },
+  {
     "nameDetail": "Fikwot FX991 1TB",
     "mark": 9379,
     "readSpeed": 7227,
@@ -1378,12 +1390,6 @@
     "mark": 7780,
     "readSpeed": 3591,
     "writeSpeed": 3055
-  },
-  {
-    "nameDetail": "Acer FA100 1TB",
-    "mark": 7655,
-    "readSpeed": 3634,
-    "writeSpeed": 3137
   },
   {
     "nameDetail": "Patriot P320 512GB",
@@ -1896,6 +1902,12 @@
     "writeSpeed": 2435
   },
   {
+    "nameDetail": "ORICO J-10 2TB",
+    "mark": 5073,
+    "readSpeed": 3641,
+    "writeSpeed": 2301
+  },
+  {
     "nameDetail": "ADATA LEGEND 710 2TB",
     "mark": 5053,
     "readSpeed": 2705,
@@ -1984,12 +1996,6 @@
     "mark": 4786,
     "readSpeed": 2081,
     "writeSpeed": 1475
-  },
-  {
-    "nameDetail": "PHIXERO P3000 1TB",
-    "mark": 4755,
-    "readSpeed": 3421,
-    "writeSpeed": 2279
   },
   {
     "nameDetail": "PNY XLR8 CS3030 250GB",
@@ -2086,12 +2092,6 @@
     "mark": 4382,
     "readSpeed": 3597,
     "writeSpeed": 2522
-  },
-  {
-    "nameDetail": "Fikwot FX550 MARS 2TB",
-    "mark": 4265,
-    "readSpeed": 3120,
-    "writeSpeed": 1778
   },
   {
     "nameDetail": "Crucial P1 500GB",
@@ -2334,6 +2334,12 @@
     "writeSpeed": 483
   },
   {
+    "nameDetail": "Acer SA100 480GB",
+    "mark": 1361,
+    "readSpeed": 550,
+    "writeSpeed": 468
+  },
+  {
     "nameDetail": "Samsung 870 EVO 1TB",
     "mark": 1361,
     "readSpeed": 550,
@@ -2478,22 +2484,16 @@
     "writeSpeed": 465
   },
   {
-    "nameDetail": "Patriot P220 256GB",
-    "mark": 1306,
-    "readSpeed": 545,
-    "writeSpeed": 464
-  },
-  {
     "nameDetail": "Fikwot FX815 PLUTO 1TB",
     "mark": 1305,
     "readSpeed": 550,
     "writeSpeed": 460
   },
   {
-    "nameDetail": "Acer SA100 960GB",
-    "mark": 1301,
-    "readSpeed": 541,
-    "writeSpeed": 470
+    "nameDetail": "Patriot P220 512GB",
+    "mark": 1302,
+    "readSpeed": 539,
+    "writeSpeed": 456
   },
   {
     "nameDetail": "Intenso High Performance 480GB",
@@ -2646,12 +2646,6 @@
     "writeSpeed": 465
   },
   {
-    "nameDetail": "Acer SA100 240GB",
-    "mark": 1255,
-    "readSpeed": 535,
-    "writeSpeed": 448
-  },
-  {
     "nameDetail": "Emtec X150 Power Plus 960GB",
     "mark": 1253,
     "readSpeed": 540,
@@ -2662,12 +2656,6 @@
     "mark": 1252,
     "readSpeed": 503,
     "writeSpeed": 453
-  },
-  {
-    "nameDetail": "ORICO Y-20 2TB",
-    "mark": 1245,
-    "readSpeed": 526,
-    "writeSpeed": 436
   },
   {
     "nameDetail": "Verbatim Vi550 S3 512GB",
@@ -2914,12 +2902,6 @@
     "mark": 1071,
     "readSpeed": 550,
     "writeSpeed": 466
-  },
-  {
-    "nameDetail": "ORICO Y-20 512GB",
-    "mark": 1065,
-    "readSpeed": 542,
-    "writeSpeed": 460
   },
   {
     "nameDetail": "Fikwot FX815 PLUTO 512GB",
